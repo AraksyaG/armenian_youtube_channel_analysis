@@ -1,14 +1,13 @@
+
 # Download YouTube channel Feeds
 # Last run: 2025-06-28
 
 import requests
-import psycopg2
 from datetime import datetime
 from bs4 import BeautifulSoup
 import json
-from xml.etree import ElementTree as ET
+from xml.etree import ElementTree
 import re
-
 
 
 # current date and time
@@ -19,8 +18,6 @@ date = datetime.today().isoformat() # 2025-06-30T12:45
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
 }
-
-
 Armenian_YouTube_Channels = {"CivilNet":"https://www.youtube.com/feeds/videos.xml?channel_id=UCxPJyX0oQWmqZ5akbuN5DTg",
                              "Armenian_News_Radio_FM_106.5":"https://www.youtube.com/feeds/videos.xml?channel_id=UCaJCNkhSa84QcuOSoM2WfcA",
                              "Sputnik_Armenia":"https://www.youtube.com/feeds/videos.xml?channel_id=UCUmFQ5MCeNAQacrcmswznMg",
@@ -55,11 +52,6 @@ for i,j in Armenian_YouTube_Channels.items():
     URL_Link = j
     response = requests.get(URL_Link, headers=headers)
     open("C:/Users/User/Desktop/youtube_channel_analysis/XML_Files/" + file_name, 'wb').write(response.content)
+
     print("Feed file download complete: ", file_name)
 
-
-"""
-XML --> SQL
-"""
-def process_daily_xml(xml_filepath, scraped_date):
-    pass
