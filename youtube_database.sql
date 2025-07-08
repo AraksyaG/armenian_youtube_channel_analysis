@@ -31,6 +31,26 @@ CREATE TABLE videos (
 Select * from videos;
 select * from youtube_channels;
 
+-- Channels with max/min views
+select y.channel_name, min(v.views), max(v.views)
+from (
+    select distinct on (original_video_id) *
+    from videos
+    order by original_video_id, scraped_at desc
+) v
+join youtube_channels y on v.channel_id = y.channel_id
+group by y.channel_name;
+
+-- Channels with max/min views
+select y.channel_name, min(v.rating), max(v.rating)
+from (
+    select distinct on (original_video_id) *
+    from videos
+    order by original_video_id, scraped_at desc
+) v
+join youtube_channels y on v.channel_id = y.channel_id
+group by y.channel_name;
+
 -- The Number of Distinct Channels in DB
 select distinct channel_name
 from youtube_channels;
