@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <id>yt:channel:UC8k_9xHrn82EV_oSFXBE6Cw</id>
+ <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+ <title>AD TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <author>
+  <name>AD TV</name>
+  <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+ </author>
+ <published>2018-07-06T12:27:35+00:00</published>
+ <entry>
+  <id>yt:video:g9j6AadAJRk</id>
+  <yt:videoId>g9j6AadAJRk</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Գյուղացու անվան տակ գումարներ դուրս գրեցին՝ սուբսիդավորելով բանկերին. Հ. Բերբերյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=g9j6AadAJRk"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-29T18:15:11+00:00</published>
+  <updated>2022-07-29T20:54:54+00:00</updated>
+  <media:group>
+   <media:title>Գյուղացու անվան տակ գումարներ դուրս գրեցին՝ սուբսիդավորելով բանկերին. Հ. Բերբերյան</media:title>
+   <media:content url="https://www.youtube.com/v/g9j6AadAJRk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/g9j6AadAJRk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="156"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wlz1kuufXW4</id>
+  <yt:videoId>wlz1kuufXW4</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Արմեն Ամիրյանը՝ «Նոյե» գրքի, երկրում տիրող իրավիճակի և առաջիկա անելիքների մասին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wlz1kuufXW4"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-29T16:00:14+00:00</published>
+  <updated>2022-07-30T06:18:34+00:00</updated>
+  <media:group>
+   <media:title>Արմեն Ամիրյանը՝ «Նոյե» գրքի, երկրում տիրող իրավիճակի և առաջիկա անելիքների մասին</media:title>
+   <media:content url="https://www.youtube.com/v/wlz1kuufXW4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wlz1kuufXW4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="63"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tAPNu2r16Sk</id>
+  <yt:videoId>tAPNu2r16Sk</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Վովայի Արշակը՝ ազատության մեջ, իսկ կովկասյան ընձառյուծը՝ ֆոտոթակարդում. լրահոս</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tAPNu2r16Sk"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-29T15:00:13+00:00</published>
+  <updated>2022-07-29T17:18:17+00:00</updated>
+  <media:group>
+   <media:title>Վովայի Արշակը՝ ազատության մեջ, իսկ կովկասյան ընձառյուծը՝ ֆոտոթակարդում. լրահոս</media:title>
+   <media:content url="https://www.youtube.com/v/tAPNu2r16Sk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tAPNu2r16Sk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="78"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vSIkY72i0lI</id>
+  <yt:videoId>vSIkY72i0lI</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Ո՞ւր են գնում պետբյուջեի գումարները և ի՞նչ է կատարվում նախաքննական մարմիններում. մամուլ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vSIkY72i0lI"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-29T08:00:13+00:00</published>
+  <updated>2022-07-29T08:37:59+00:00</updated>
+  <media:group>
+   <media:title>Ո՞ւր են գնում պետբյուջեի գումարները և ի՞նչ է կատարվում նախաքննական մարմիններում. մամուլ</media:title>
+   <media:content url="https://www.youtube.com/v/vSIkY72i0lI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vSIkY72i0lI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="43"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5KC1F1ufH8U</id>
+  <yt:videoId>5KC1F1ufH8U</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Որպեսզի էս ժողովրդին ապագայում Արցախ վերադարձնելու շանս լինի, պետք է համայնք կառուցվի. Լևոն Հայրյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5KC1F1ufH8U"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-29T07:24:21+00:00</published>
+  <updated>2022-07-29T07:24:21+00:00</updated>
+  <media:group>
+   <media:title>Որպեսզի էս ժողովրդին ապագայում Արցախ վերադարձնելու շանս լինի, պետք է համայնք կառուցվի. Լևոն Հայրյան</media:title>
+   <media:content url="https://www.youtube.com/v/5KC1F1ufH8U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5KC1F1ufH8U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="47"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cKKtHqEWbR4</id>
+  <yt:videoId>cKKtHqEWbR4</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Հակառակորդը ակտիվացել է, իսկ տեղահանված հադրութցիները կրկին կառավարության մոտ էին. լրահոս</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cKKtHqEWbR4"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-29T07:24:20+00:00</published>
+  <updated>2022-07-29T10:36:53+00:00</updated>
+  <media:group>
+   <media:title>Հակառակորդը ակտիվացել է, իսկ տեղահանված հադրութցիները կրկին կառավարության մոտ էին. լրահոս</media:title>
+   <media:content url="https://www.youtube.com/v/cKKtHqEWbR4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cKKtHqEWbR4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="56"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ULKjQN_BbVY</id>
+  <yt:videoId>ULKjQN_BbVY</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>ՌԴ-ն Ադրբեջանի և Թուրքիայի հետ ամեն ինչ անում է, որ ՄԽ-ին ուղարկի պատմության աղբարկղը. Վարդանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ULKjQN_BbVY"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-28T18:15:11+00:00</published>
+  <updated>2022-07-29T07:38:30+00:00</updated>
+  <media:group>
+   <media:title>ՌԴ-ն Ադրբեջանի և Թուրքիայի հետ ամեն ինչ անում է, որ ՄԽ-ին ուղարկի պատմության աղբարկղը. Վարդանյան</media:title>
+   <media:content url="https://www.youtube.com/v/ULKjQN_BbVY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ULKjQN_BbVY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="261"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EiMJA0ATw1A</id>
+  <yt:videoId>EiMJA0ATw1A</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Դատական համակարգը բաժանվել է երկու մասի, իսկ Քոչարյանի խոսքերն իրականություն դարձան. մամուլ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EiMJA0ATw1A"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-28T10:00:13+00:00</published>
+  <updated>2022-07-29T12:24:04+00:00</updated>
+  <media:group>
+   <media:title>Դատական համակարգը բաժանվել է երկու մասի, իսկ Քոչարյանի խոսքերն իրականություն դարձան. մամուլ</media:title>
+   <media:content url="https://www.youtube.com/v/EiMJA0ATw1A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EiMJA0ATw1A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="63"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0l6Exh97oyA</id>
+  <yt:videoId>0l6Exh97oyA</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Արցախից տեղահանվածների բողոքի ակցիան.Ուղիղ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0l6Exh97oyA"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-28T09:12:42+00:00</published>
+  <updated>2022-07-30T01:56:53+00:00</updated>
+  <media:group>
+   <media:title>Արցախից տեղահանվածների բողոքի ակցիան.Ուղիղ</media:title>
+   <media:content url="https://www.youtube.com/v/0l6Exh97oyA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0l6Exh97oyA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="144"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wJ2i6pwFzyg</id>
+  <yt:videoId>wJ2i6pwFzyg</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կառավարության անդամների ճեպազրույցները. Ուղիղ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wJ2i6pwFzyg"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-28T08:12:43+00:00</published>
+  <updated>2022-07-29T09:32:40+00:00</updated>
+  <media:group>
+   <media:title>Կառավարության անդամների ճեպազրույցները. Ուղիղ</media:title>
+   <media:content url="https://www.youtube.com/v/wJ2i6pwFzyg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wJ2i6pwFzyg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="37"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZLh1wz-8lIY</id>
+  <yt:videoId>ZLh1wz-8lIY</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կառավարության հերթական նիստը. ՈԻՂԻՂ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZLh1wz-8lIY"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-28T07:37:59+00:00</published>
+  <updated>2022-07-29T08:43:28+00:00</updated>
+  <media:group>
+   <media:title>Կառավարության հերթական նիստը. ՈԻՂԻՂ</media:title>
+   <media:content url="https://www.youtube.com/v/ZLh1wz-8lIY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZLh1wz-8lIY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="21"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CSBEi_mRcMY</id>
+  <yt:videoId>CSBEi_mRcMY</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Տարածաշրջանը նման է բլթբլթացող կաթսայի, մենք  նստած՝ զբաղված ենք կենցաղային հարցերով. Մհեր Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CSBEi_mRcMY"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-28T07:26:09+00:00</published>
+  <updated>2022-07-29T10:25:55+00:00</updated>
+  <media:group>
+   <media:title>Տարածաշրջանը նման է բլթբլթացող կաթսայի, մենք  նստած՝ զբաղված ենք կենցաղային հարցերով. Մհեր Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/CSBEi_mRcMY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CSBEi_mRcMY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="33"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:w2mFmkQrRoc</id>
+  <yt:videoId>w2mFmkQrRoc</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Ի՞նչ են ցանկանում բռնագանձել գեներալ Մանվելի ժառանգներից  և ի՞նչ վիճակում է Մամիկոն Ասլանյանը.լրահոս</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=w2mFmkQrRoc"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-27T15:00:11+00:00</published>
+  <updated>2022-07-28T08:34:08+00:00</updated>
+  <media:group>
+   <media:title>Ի՞նչ են ցանկանում բռնագանձել գեներալ Մանվելի ժառանգներից  և ի՞նչ վիճակում է Մամիկոն Ասլանյանը.լրահոս</media:title>
+   <media:content url="https://www.youtube.com/v/w2mFmkQrRoc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/w2mFmkQrRoc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="67"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4F92fAJDcyQ</id>
+  <yt:videoId>4F92fAJDcyQ</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս. «Հարցազրույց»-ի հյուրն է Մհեր Հակոբյանը. դիտե՛ք այսօր՝ 21.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4F92fAJDcyQ"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-27T13:19:24+00:00</published>
+  <updated>2022-07-28T08:01:13+00:00</updated>
+  <media:group>
+   <media:title>Անոնս. «Հարցազրույց»-ի հյուրն է Մհեր Հակոբյանը. դիտե՛ք այսօր՝ 21.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/4F92fAJDcyQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4F92fAJDcyQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="48"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jIqyFieuHOA</id>
+  <yt:videoId>jIqyFieuHOA</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Դատավորների ընդհանուր ժողով է հրավիրվել. Ուղիղ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jIqyFieuHOA"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-07-27T11:08:05+00:00</published>
+  <updated>2022-07-28T11:07:16+00:00</updated>
+  <media:group>
+   <media:title>Դատավորների ընդհանուր ժողով է հրավիրվել. Ուղիղ</media:title>
+   <media:content url="https://www.youtube.com/v/jIqyFieuHOA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jIqyFieuHOA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="280"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

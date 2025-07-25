@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Novosti-Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <author>
+  <name>Novosti-Armenia</name>
+  <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+ </author>
+ <published>2017-11-15T12:41:37+00:00</published>
+ <entry>
+  <id>yt:video:qtSh3OygC_0</id>
+  <yt:videoId>qtSh3OygC_0</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ինչպես է Փաշինյանը հանդիպում Ալիևին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qtSh3OygC_0"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-15T13:43:33+00:00</published>
+  <updated>2023-07-16T06:03:58+00:00</updated>
+  <media:group>
+   <media:title>Ինչպես է Փաշինյանը հանդիպում Ալիևին</media:title>
+   <media:content url="https://www.youtube.com/v/qtSh3OygC_0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qtSh3OygC_0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="783"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:07-ItMJ7fGg</id>
+  <yt:videoId>07-ItMJ7fGg</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Դեպքը տեղի է ունեցել Երևանում #newsarmenia #armenianews #news</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=07-ItMJ7fGg"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-15T08:43:14+00:00</published>
+  <updated>2023-07-16T06:22:18+00:00</updated>
+  <media:group>
+   <media:title>Դեպքը տեղի է ունեցել Երևանում #newsarmenia #armenianews #news</media:title>
+   <media:content url="https://www.youtube.com/v/07-ItMJ7fGg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/07-ItMJ7fGg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="3203"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_OVg-vQpPN0</id>
+  <yt:videoId>_OVg-vQpPN0</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Որպես անհետ կորած որոնվող 16-ամյա աղջիկը հայտնաբերվել է #newsarmenia #armenianews #news</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_OVg-vQpPN0"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-14T08:10:05+00:00</published>
+  <updated>2023-07-15T06:28:54+00:00</updated>
+  <media:group>
+   <media:title>Որպես անհետ կորած որոնվող 16-ամյա աղջիկը հայտնաբերվել է #newsarmenia #armenianews #news</media:title>
+   <media:content url="https://www.youtube.com/v/_OVg-vQpPN0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_OVg-vQpPN0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="54" average="5.00" min="1" max="5"/>
+    <media:statistics views="6347"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YRm87P54w_g</id>
+  <yt:videoId>YRm87P54w_g</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ինչի՞ն եք սպասում, ուզում եք' այս հրապարակում ամեն օր մարդկանց դիեր ունենա՞նք, որ խելքի գաք</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YRm87P54w_g"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-14T07:41:04+00:00</published>
+  <updated>2023-07-15T06:30:49+00:00</updated>
+  <media:group>
+   <media:title>Ինչի՞ն եք սպասում, ուզում եք' այս հրապարակում ամեն օր մարդկանց դիեր ունենա՞նք, որ խելքի գաք</media:title>
+   <media:content url="https://www.youtube.com/v/YRm87P54w_g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YRm87P54w_g/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="278"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nLN6vfWquIg</id>
+  <yt:videoId>nLN6vfWquIg</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Զիջելու, լքելու Արցախ չունենք, ոտքի ենք կանգնում, 09:00-ին բոլորս հավաքվում ենք. Արցախի պետնախարար</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nLN6vfWquIg"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-13T18:40:58+00:00</published>
+  <updated>2023-07-14T06:02:23+00:00</updated>
+  <media:group>
+   <media:title>Զիջելու, լքելու Արցախ չունենք, ոտքի ենք կանգնում, 09:00-ին բոլորս հավաքվում ենք. Արցախի պետնախարար</media:title>
+   <media:content url="https://www.youtube.com/v/nLN6vfWquIg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nLN6vfWquIg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="144"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_YOpMfmQe_s</id>
+  <yt:videoId>_YOpMfmQe_s</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Անդամահատված տասնյակ երեխաներ են դիմում հիվանդանոցներ. Թորոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_YOpMfmQe_s"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-13T18:03:35+00:00</published>
+  <updated>2023-07-14T06:23:06+00:00</updated>
+  <media:group>
+   <media:title>Անդամահատված տասնյակ երեխաներ են դիմում հիվանդանոցներ. Թորոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/_YOpMfmQe_s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_YOpMfmQe_s/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="122"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ShmOEJlepKo</id>
+  <yt:videoId>ShmOEJlepKo</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Թող լինի սիմվոլիկ վճարով, բայց արժանապատիվ. Փաշինյանը` Սևանի հանրային լողափերի սանհանգույցների մասին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ShmOEJlepKo"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-13T09:21:26+00:00</published>
+  <updated>2023-07-14T06:06:17+00:00</updated>
+  <media:group>
+   <media:title>Թող լինի սիմվոլիկ վճարով, բայց արժանապատիվ. Փաշինյանը` Սևանի հանրային լողափերի սանհանգույցների մասին</media:title>
+   <media:content url="https://www.youtube.com/v/ShmOEJlepKo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ShmOEJlepKo/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="729"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aoGz3cIAdH8</id>
+  <yt:videoId>aoGz3cIAdH8</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ինչպես է Պապիկյանը հետևում զինծառայողների ատեստավորման գործընթացին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aoGz3cIAdH8"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-12T20:35:20+00:00</published>
+  <updated>2023-07-13T05:57:34+00:00</updated>
+  <media:group>
+   <media:title>Ինչպես է Պապիկյանը հետևում զինծառայողների ատեստավորման գործընթացին</media:title>
+   <media:content url="https://www.youtube.com/v/aoGz3cIAdH8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aoGz3cIAdH8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="279"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:T388um7iT70</id>
+  <yt:videoId>T388um7iT70</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Հանցանք գործելու, բայց գործուն զղջալու դեպքում անձը կազատվի քրեական պատասխանատվությունից</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=T388um7iT70"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-12T08:18:07+00:00</published>
+  <updated>2023-07-13T05:45:21+00:00</updated>
+  <media:group>
+   <media:title>Հանցանք գործելու, բայց գործուն զղջալու դեպքում անձը կազատվի քրեական պատասխանատվությունից</media:title>
+   <media:content url="https://www.youtube.com/v/T388um7iT70?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/T388um7iT70/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="70"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:foJjIxv02wM</id>
+  <yt:videoId>foJjIxv02wM</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Հարամ ենք արել, նախագծի քննարկումից դուրս ոչ մի ելույթ. Ռուբինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=foJjIxv02wM"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-12T08:08:08+00:00</published>
+  <updated>2023-07-13T06:03:16+00:00</updated>
+  <media:group>
+   <media:title>Հարամ ենք արել, նախագծի քննարկումից դուրս ոչ մի ելույթ. Ռուբինյան</media:title>
+   <media:content url="https://www.youtube.com/v/foJjIxv02wM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/foJjIxv02wM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="132"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GwtHBs04UEA</id>
+  <yt:videoId>GwtHBs04UEA</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Երևանում բացվեց լեգենդար ֆուտբոլիստ Խորեն Հովհաննիսյանի անվան մարզադպրոցը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GwtHBs04UEA"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-11T16:01:45+00:00</published>
+  <updated>2023-07-12T06:20:00+00:00</updated>
+  <media:group>
+   <media:title>Երևանում բացվեց լեգենդար ֆուտբոլիստ Խորեն Հովհաննիսյանի անվան մարզադպրոցը</media:title>
+   <media:content url="https://www.youtube.com/v/GwtHBs04UEA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GwtHBs04UEA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="133"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mR-WvT1nxjA</id>
+  <yt:videoId>mR-WvT1nxjA</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Թոռը խոստացել է դոլարը վերադարձնել. տատիկը  գողացել է Noah ՖԱ-ի լեգիոնականի դրամապանակը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mR-WvT1nxjA"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-11T11:47:52+00:00</published>
+  <updated>2023-07-12T05:47:47+00:00</updated>
+  <media:group>
+   <media:title>Թոռը խոստացել է դոլարը վերադարձնել. տատիկը  գողացել է Noah ՖԱ-ի լեգիոնականի դրամապանակը</media:title>
+   <media:content url="https://www.youtube.com/v/mR-WvT1nxjA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mR-WvT1nxjA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="298"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VAkRefsvBzw</id>
+  <yt:videoId>VAkRefsvBzw</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Գագիկ Սուրենյանը հայտնել է, թե երբ կվերադառնա ամառը #newsarmenia #armenianews #news</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VAkRefsvBzw"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-11T10:56:05+00:00</published>
+  <updated>2023-07-12T06:34:16+00:00</updated>
+  <media:group>
+   <media:title>Գագիկ Սուրենյանը հայտնել է, թե երբ կվերադառնա ամառը #newsarmenia #armenianews #news</media:title>
+   <media:content url="https://www.youtube.com/v/VAkRefsvBzw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VAkRefsvBzw/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="2238"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QGBd8JBtgsk</id>
+  <yt:videoId>QGBd8JBtgsk</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Էն հին աթոռ–մաթոռ փոխել ա պետք. Փաշինյանը Բյուրեղավանում է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QGBd8JBtgsk"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-11T08:56:08+00:00</published>
+  <updated>2023-07-12T06:08:10+00:00</updated>
+  <media:group>
+   <media:title>Էն հին աթոռ–մաթոռ փոխել ա պետք. Փաշինյանը Բյուրեղավանում է</media:title>
+   <media:content url="https://www.youtube.com/v/QGBd8JBtgsk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QGBd8JBtgsk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="937"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ehGlrd09flU</id>
+  <yt:videoId>ehGlrd09flU</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Էս ինչ սիրուն շենք ա. Փաշինյանը Ջրվեժում է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ehGlrd09flU"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-11T08:24:59+00:00</published>
+  <updated>2023-07-12T05:55:01+00:00</updated>
+  <media:group>
+   <media:title>Էս ինչ սիրուն շենք ա. Փաշինյանը Ջրվեժում է</media:title>
+   <media:content url="https://www.youtube.com/v/ehGlrd09flU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ehGlrd09flU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="941"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

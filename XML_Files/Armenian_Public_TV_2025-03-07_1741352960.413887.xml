@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:Snr4wFDHDZZMeeHQvaHpjA</id>
+ <yt:channelId>Snr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:kqFoe498yOM</id>
+  <yt:videoId>kqFoe498yOM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Արփի Վանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kqFoe498yOM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-07T09:50:23+00:00</published>
+  <updated>2025-03-07T09:54:04+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Արփի Վանյան</media:title>
+   <media:content url="https://www.youtube.com/v/kqFoe498yOM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kqFoe498yOM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="73"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yrc-2Fz9Y9Y</id>
+  <yt:videoId>yrc-2Fz9Y9Y</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Կարինե Դավթյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yrc-2Fz9Y9Y"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-07T09:50:20+00:00</published>
+  <updated>2025-03-07T10:15:45+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Կարինե Դավթյան</media:title>
+   <media:content url="https://www.youtube.com/v/yrc-2Fz9Y9Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yrc-2Fz9Y9Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="118"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:j_5Qrzy_JaM</id>
+  <yt:videoId>j_5Qrzy_JaM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Հենրիկ Համբարձումյան, Ռուսլանա Պոկոտիլո</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=j_5Qrzy_JaM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-07T09:50:18+00:00</published>
+  <updated>2025-03-07T09:54:43+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Հենրիկ Համբարձումյան, Ռուսլանա Պոկոտիլո</media:title>
+   <media:content url="https://www.youtube.com/v/j_5Qrzy_JaM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/j_5Qrzy_JaM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="123"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2N0B_CNKkac</id>
+  <yt:videoId>2N0B_CNKkac</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 06.03.2025</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2N0B_CNKkac"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-07T05:23:20+00:00</published>
+  <updated>2025-03-07T05:30:20+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 06.03.2025</media:title>
+   <media:content url="https://www.youtube.com/v/2N0B_CNKkac?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2N0B_CNKkac/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="128"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:U9kTKZwu97A</id>
+  <yt:videoId>U9kTKZwu97A</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 05.03.2025</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=U9kTKZwu97A"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-06T11:52:16+00:00</published>
+  <updated>2025-03-07T08:48:49+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 05.03.2025</media:title>
+   <media:content url="https://www.youtube.com/v/U9kTKZwu97A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/U9kTKZwu97A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="253"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OYFa_WjOeuI</id>
+  <yt:videoId>OYFa_WjOeuI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Վահրամ Մուրադյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OYFa_WjOeuI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-06T09:17:24+00:00</published>
+  <updated>2025-03-07T07:52:12+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Վահրամ Մուրադյան</media:title>
+   <media:content url="https://www.youtube.com/v/OYFa_WjOeuI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OYFa_WjOeuI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="347"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FmfEl3dYBpg</id>
+  <yt:videoId>FmfEl3dYBpg</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Սաթէ Խաչատրյան, Կամո Նաղդալյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FmfEl3dYBpg"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-06T09:16:36+00:00</published>
+  <updated>2025-03-07T08:25:58+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Սաթէ Խաչատրյան, Կամո Նաղդալյան</media:title>
+   <media:content url="https://www.youtube.com/v/FmfEl3dYBpg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FmfEl3dYBpg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="497"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:i8fZmB-LxnA</id>
+  <yt:videoId>i8fZmB-LxnA</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Նարե Թովմասյան, Հասմիկ Սիմոնյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=i8fZmB-LxnA"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-06T09:16:15+00:00</published>
+  <updated>2025-03-07T09:06:10+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Նարե Թովմասյան, Հասմիկ Սիմոնյան</media:title>
+   <media:content url="https://www.youtube.com/v/i8fZmB-LxnA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/i8fZmB-LxnA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="484"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-88vXgPvPFw</id>
+  <yt:videoId>-88vXgPvPFw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Գայանե Սարգսյան, Միլենա Ավետիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-88vXgPvPFw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-05T08:56:47+00:00</published>
+  <updated>2025-03-07T00:16:31+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Գայանե Սարգսյան, Միլենա Ավետիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/-88vXgPvPFw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-88vXgPvPFw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="463"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_hyx5H8RmKM</id>
+  <yt:videoId>_hyx5H8RmKM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Մոնիկա Մաթևոսյան, Գրիգոր Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_hyx5H8RmKM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-05T08:56:44+00:00</published>
+  <updated>2025-03-06T05:57:53+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Մոնիկա Մաթևոսյան, Գրիգոր Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/_hyx5H8RmKM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_hyx5H8RmKM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="158"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qz_-YMn0l2U</id>
+  <yt:videoId>qz_-YMn0l2U</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Արմինե Վարդանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qz_-YMn0l2U"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-05T08:56:42+00:00</published>
+  <updated>2025-03-07T08:12:56+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Արմինե Վարդանյան</media:title>
+   <media:content url="https://www.youtube.com/v/qz_-YMn0l2U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qz_-YMn0l2U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="175"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:J-8_hr9WerM</id>
+  <yt:videoId>J-8_hr9WerM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 04.03.2025</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=J-8_hr9WerM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-05T06:32:14+00:00</published>
+  <updated>2025-03-06T06:58:44+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 04.03.2025</media:title>
+   <media:content url="https://www.youtube.com/v/J-8_hr9WerM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/J-8_hr9WerM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="320"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rdwSAwpeMfo</id>
+  <yt:videoId>rdwSAwpeMfo</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Լևոն Ալմասյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rdwSAwpeMfo"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-04T11:00:50+00:00</published>
+  <updated>2025-03-06T03:55:56+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Լևոն Ալմասյան</media:title>
+   <media:content url="https://www.youtube.com/v/rdwSAwpeMfo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rdwSAwpeMfo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="798"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QMJoE4JOvKg</id>
+  <yt:videoId>QMJoE4JOvKg</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Տաթև Պողոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QMJoE4JOvKg"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-04T11:00:46+00:00</published>
+  <updated>2025-03-06T00:45:30+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Տաթև Պողոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/QMJoE4JOvKg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QMJoE4JOvKg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="269"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hdPTyX2cBRk</id>
+  <yt:videoId>hdPTyX2cBRk</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Լուսինե Բեկիրսկա Թամազյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hdPTyX2cBRk"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2025-03-04T11:00:43+00:00</published>
+  <updated>2025-03-07T03:22:20+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Լուսինե Բեկիրսկա Թամազյան</media:title>
+   <media:content url="https://www.youtube.com/v/hdPTyX2cBRk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hdPTyX2cBRk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2025
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="20" average="5.00" min="1" max="5"/>
+    <media:statistics views="1113"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:UCSnr4wFDHDZZMeeHQvaHpjA</id>
+ <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:-HQb5LjTIRw</id>
+  <yt:videoId>-HQb5LjTIRw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առանց թեմայի. Հակոբ Պապիկյան (Ժակ)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-HQb5LjTIRw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T20:30:00+00:00</published>
+  <updated>2021-12-21T20:30:00+00:00</updated>
+  <media:group>
+   <media:title>Առանց թեմայի. Հակոբ Պապիկյան (Ժակ)</media:title>
+   <media:content url="https://www.youtube.com/v/-HQb5LjTIRw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-HQb5LjTIRw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="592"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WVuGjmyw3lM</id>
+  <yt:videoId>WVuGjmyw3lM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Այստեղ և հիմա. Ռուբեն Մաթևոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WVuGjmyw3lM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T19:15:01+00:00</published>
+  <updated>2021-12-21T19:15:01+00:00</updated>
+  <media:group>
+   <media:title>Այստեղ և հիմա. Ռուբեն Մաթևոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/WVuGjmyw3lM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WVuGjmyw3lM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="31" average="5.00" min="1" max="5"/>
+    <media:statistics views="1533"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1Yc4Qi4EqoQ</id>
+  <yt:videoId>1Yc4Qi4EqoQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Լրացուցիչ ժամանակ. Ռոբերտ Արզումանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1Yc4Qi4EqoQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T17:00:02+00:00</published>
+  <updated>2021-12-21T17:00:02+00:00</updated>
+  <media:group>
+   <media:title>Լրացուցիչ ժամանակ. Ռոբերտ Արզումանյան</media:title>
+   <media:content url="https://www.youtube.com/v/1Yc4Qi4EqoQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1Yc4Qi4EqoQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="382"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TjDUajRYjOg</id>
+  <yt:videoId>TjDUajRYjOg</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առողջ ապրելակերպ. Անաֆիլակտիկ շոկ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TjDUajRYjOg"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T14:15:01+00:00</published>
+  <updated>2021-12-21T14:15:02+00:00</updated>
+  <media:group>
+   <media:title>Առողջ ապրելակերպ. Անաֆիլակտիկ շոկ</media:title>
+   <media:content url="https://www.youtube.com/v/TjDUajRYjOg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TjDUajRYjOg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="426"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5uMrGthITTQ</id>
+  <yt:videoId>5uMrGthITTQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Պատրաստենք միասին. Լավաշով ջեռեփուկ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5uMrGthITTQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T13:45:00+00:00</published>
+  <updated>2021-12-21T13:45:00+00:00</updated>
+  <media:group>
+   <media:title>Պատրաստենք միասին. Լավաշով ջեռեփուկ</media:title>
+   <media:content url="https://www.youtube.com/v/5uMrGthITTQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5uMrGthITTQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="972"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n8uXQfftMBk</id>
+  <yt:videoId>n8uXQfftMBk</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>3-րդ ալիք. ռետրո (անոնս)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n8uXQfftMBk"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T11:40:45+00:00</published>
+  <updated>2021-12-21T15:35:07+00:00</updated>
+  <media:group>
+   <media:title>3-րդ ալիք. ռետրո (անոնս)</media:title>
+   <media:content url="https://www.youtube.com/v/n8uXQfftMBk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n8uXQfftMBk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="290"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6rFvwUQIKsE</id>
+  <yt:videoId>6rFvwUQIKsE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Համեղ առավոտ Շաղիկի հետ. Լոլիկի սոուսով պաստա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6rFvwUQIKsE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T11:09:22+00:00</published>
+  <updated>2021-12-21T11:09:26+00:00</updated>
+  <media:group>
+   <media:title>Համեղ առավոտ Շաղիկի հետ. Լոլիկի սոուսով պաստա</media:title>
+   <media:content url="https://www.youtube.com/v/6rFvwUQIKsE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6rFvwUQIKsE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="313"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NV2PMZdbs4o</id>
+  <yt:videoId>NV2PMZdbs4o</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո հարցազրույց. Ռոզա Գրիգորյան, Լյուք Բաղդասարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NV2PMZdbs4o"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T11:05:10+00:00</published>
+  <updated>2021-12-21T11:05:14+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո հարցազրույց. Ռոզա Գրիգորյան, Լյուք Բաղդասարյան</media:title>
+   <media:content url="https://www.youtube.com/v/NV2PMZdbs4o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NV2PMZdbs4o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="159"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:k6mGmDmQjUc</id>
+  <yt:videoId>k6mGmDmQjUc</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո հարցազրույց. Նաիրա Մելիքյան, Վահե Հարապետյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=k6mGmDmQjUc"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T11:04:37+00:00</published>
+  <updated>2021-12-21T11:04:41+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո հարցազրույց. Նաիրա Մելիքյան, Վահե Հարապետյան</media:title>
+   <media:content url="https://www.youtube.com/v/k6mGmDmQjUc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/k6mGmDmQjUc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="226"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AyNmXbinyrs</id>
+  <yt:videoId>AyNmXbinyrs</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո հարցազրույց. Մարատ Օրդյան, Արսեն Ասլանյան, Եվա Մեհրաբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AyNmXbinyrs"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T11:04:10+00:00</published>
+  <updated>2021-12-21T11:21:50+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո հարցազրույց. Մարատ Օրդյան, Արսեն Ասլանյան, Եվա Մեհրաբյան</media:title>
+   <media:content url="https://www.youtube.com/v/AyNmXbinyrs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AyNmXbinyrs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="414"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ntexnu71D6A</id>
+  <yt:videoId>Ntexnu71D6A</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Մեկ պատուհան. Անվճար բուժօգնություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ntexnu71D6A"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T10:57:36+00:00</published>
+  <updated>2021-12-21T11:10:31+00:00</updated>
+  <media:group>
+   <media:title>Մեկ պատուհան. Անվճար բուժօգնություն</media:title>
+   <media:content url="https://www.youtube.com/v/Ntexnu71D6A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Ntexnu71D6A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="386"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IjEsUkWUo2o</id>
+  <yt:videoId>IjEsUkWUo2o</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 20.12.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IjEsUkWUo2o"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-21T10:21:58+00:00</published>
+  <updated>2021-12-21T10:22:02+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 20.12.2021</media:title>
+   <media:content url="https://www.youtube.com/v/IjEsUkWUo2o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IjEsUkWUo2o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="445"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4_JBtqc6JUs</id>
+  <yt:videoId>4_JBtqc6JUs</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Սպասիր ինձ 21.12.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4_JBtqc6JUs"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-20T21:00:33+00:00</published>
+  <updated>2021-12-21T06:26:52+00:00</updated>
+  <media:group>
+   <media:title>Սպասիր ինձ 21.12.2021</media:title>
+   <media:content url="https://www.youtube.com/v/4_JBtqc6JUs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4_JBtqc6JUs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="304" average="5.00" min="1" max="5"/>
+    <media:statistics views="21060"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zNrRlldY3mI</id>
+  <yt:videoId>zNrRlldY3mI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առանց թեմայի. Էդուարդ Աղաջանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zNrRlldY3mI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-20T20:30:07+00:00</published>
+  <updated>2021-12-21T07:41:06+00:00</updated>
+  <media:group>
+   <media:title>Առանց թեմայի. Էդուարդ Աղաջանյան</media:title>
+   <media:content url="https://www.youtube.com/v/zNrRlldY3mI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zNrRlldY3mI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="1267"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZtEwxrnZBZE</id>
+  <yt:videoId>ZtEwxrnZBZE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առանց թեմայի (անոնս)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZtEwxrnZBZE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-12-20T20:00:07+00:00</published>
+  <updated>2021-12-21T06:29:55+00:00</updated>
+  <media:group>
+   <media:title>Առանց թեմայի (անոնս)</media:title>
+   <media:content url="https://www.youtube.com/v/ZtEwxrnZBZE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZtEwxrnZBZE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="854"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

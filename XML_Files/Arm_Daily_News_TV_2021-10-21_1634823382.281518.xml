@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <id>yt:channel:UC8k_9xHrn82EV_oSFXBE6Cw</id>
+ <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+ <title>AD TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <author>
+  <name>AD TV</name>
+  <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+ </author>
+ <published>2018-07-06T12:27:35+00:00</published>
+ <entry>
+  <id>yt:video:NsA2UtjCafA</id>
+  <yt:videoId>NsA2UtjCafA</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Մեկուսարանում գտնվող Սաակաշվիլին «սրտիկ» է հղում իր աջակիցներին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NsA2UtjCafA"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T12:43:01+00:00</published>
+  <updated>2021-10-21T12:58:12+00:00</updated>
+  <media:group>
+   <media:title>Մեկուսարանում գտնվող Սաակաշվիլին «սրտիկ» է հղում իր աջակիցներին</media:title>
+   <media:content url="https://www.youtube.com/v/NsA2UtjCafA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NsA2UtjCafA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="10"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Kq7ZcilW4w8</id>
+  <yt:videoId>Kq7ZcilW4w8</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>ՏԻՄ ընտրությունների ժամանակ Հանրապետականն իր ասելիքը կասի.Հայկ Մամիջանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Kq7ZcilW4w8"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T11:21:31+00:00</published>
+  <updated>2021-10-21T12:41:11+00:00</updated>
+  <media:group>
+   <media:title>ՏԻՄ ընտրությունների ժամանակ Հանրապետականն իր ասելիքը կասի.Հայկ Մամիջանյան</media:title>
+   <media:content url="https://www.youtube.com/v/Kq7ZcilW4w8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Kq7ZcilW4w8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="4" average="1.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:sIftQYZWdtM</id>
+  <yt:videoId>sIftQYZWdtM</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Եթե Առուշանյանն ընտրվել է, ուրեմն նշանակում է որպես թեկնածու ավելի ընդունելի է եղել.Հովիկ Աղազարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sIftQYZWdtM"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T10:44:10+00:00</published>
+  <updated>2021-10-21T12:03:15+00:00</updated>
+  <media:group>
+   <media:title>Եթե Առուշանյանն ընտրվել է, ուրեմն նշանակում է որպես թեկնածու ավելի ընդունելի է եղել.Հովիկ Աղազարյան</media:title>
+   <media:content url="https://www.youtube.com/v/sIftQYZWdtM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sIftQYZWdtM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="2" average="3.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XOkCB5orOuk</id>
+  <yt:videoId>XOkCB5orOuk</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս AD TV «Հարցազրույցի» հյուրն է Հովիկ Աղազարյանը Դիտեք այսօր՝ 22.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XOkCB5orOuk"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T11:59:58+00:00</published>
+  <updated>2021-10-21T12:23:59+00:00</updated>
+  <media:group>
+   <media:title>Անոնս AD TV «Հարցազրույցի» հյուրն է Հովիկ Աղազարյանը Դիտեք այսօր՝ 22.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/XOkCB5orOuk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XOkCB5orOuk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="5" average="1.80" min="1" max="5"/>
+    <media:statistics views="20"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xCqw5mxBaGg</id>
+  <yt:videoId>xCqw5mxBaGg</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս AD TV «Հարցազրույցի» հյուրն է Հայկ Մամիջանյանը Դիտեք այսօր՝ 21.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xCqw5mxBaGg"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T11:42:50+00:00</published>
+  <updated>2021-10-21T11:50:53+00:00</updated>
+  <media:group>
+   <media:title>Անոնս AD TV «Հարցազրույցի» հյուրն է Հայկ Մամիջանյանը Դիտեք այսօր՝ 21.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/xCqw5mxBaGg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xCqw5mxBaGg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="5" average="1.00" min="1" max="5"/>
+    <media:statistics views="18"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZCHRCOwH18Y</id>
+  <yt:videoId>ZCHRCOwH18Y</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>«Ճշմարտություն սերունդների համար» նախաձեռնության քննարկումը. մասնակցում են զոհվածների ծնողները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZCHRCOwH18Y"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T10:53:58+00:00</published>
+  <updated>2021-10-21T11:17:48+00:00</updated>
+  <media:group>
+   <media:title>«Ճշմարտություն սերունդների համար» նախաձեռնության քննարկումը. մասնակցում են զոհվածների ծնողները</media:title>
+   <media:content url="https://www.youtube.com/v/ZCHRCOwH18Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZCHRCOwH18Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="17" average="1.71" min="1" max="5"/>
+    <media:statistics views="187"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ipHOWkXJr6k</id>
+  <yt:videoId>ipHOWkXJr6k</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>ԱԺ-ում քննարկում են ԶԼՄ-ների մասին օրենքում փոփոխություններ կատարելու վերաբերյալ նախագիծը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ipHOWkXJr6k"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T10:20:16+00:00</published>
+  <updated>2021-10-21T10:27:40+00:00</updated>
+  <media:group>
+   <media:title>ԱԺ-ում քննարկում են ԶԼՄ-ների մասին օրենքում փոփոխություններ կատարելու վերաբերյալ նախագիծը</media:title>
+   <media:content url="https://www.youtube.com/v/ipHOWkXJr6k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ipHOWkXJr6k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="3" average="1.00" min="1" max="5"/>
+    <media:statistics views="93"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Asvo7O9QqJ0</id>
+  <yt:videoId>Asvo7O9QqJ0</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Հանձնաժողովի նիստ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Asvo7O9QqJ0"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T08:48:49+00:00</published>
+  <updated>2021-10-21T09:23:10+00:00</updated>
+  <media:group>
+   <media:title>Հանձնաժողովի նիստ</media:title>
+   <media:content url="https://www.youtube.com/v/Asvo7O9QqJ0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Asvo7O9QqJ0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ebx8is8RaXI</id>
+  <yt:videoId>Ebx8is8RaXI</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կառավարության անդամների ճեպազրույցները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ebx8is8RaXI"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T08:48:18+00:00</published>
+  <updated>2021-10-21T10:48:52+00:00</updated>
+  <media:group>
+   <media:title>Կառավարության անդամների ճեպազրույցները</media:title>
+   <media:content url="https://www.youtube.com/v/Ebx8is8RaXI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Ebx8is8RaXI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="78"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LUS0wu5407A</id>
+  <yt:videoId>LUS0wu5407A</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Արցախցի ընտանիքների կարիքների գնահատում չի կատարվել․ Մետաքսե Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LUS0wu5407A"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T08:00:43+00:00</published>
+  <updated>2021-10-21T09:07:06+00:00</updated>
+  <media:group>
+   <media:title>Արցախցի ընտանիքների կարիքների գնահատում չի կատարվել․ Մետաքսե Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/LUS0wu5407A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LUS0wu5407A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="1.00" min="1" max="5"/>
+    <media:statistics views="22"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CUZYqDNmeAU</id>
+  <yt:videoId>CUZYqDNmeAU</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կառավարության հերթական նիստը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CUZYqDNmeAU"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T07:59:15+00:00</published>
+  <updated>2021-10-21T10:56:31+00:00</updated>
+  <media:group>
+   <media:title>Կառավարության հերթական նիստը</media:title>
+   <media:content url="https://www.youtube.com/v/CUZYqDNmeAU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CUZYqDNmeAU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="5" average="1.00" min="1" max="5"/>
+    <media:statistics views="75"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:H4nHYpFXEUg</id>
+  <yt:videoId>H4nHYpFXEUg</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Արցախից տեղահանվածների հարցով քննարկում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=H4nHYpFXEUg"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-21T07:00:36+00:00</published>
+  <updated>2021-10-21T09:59:07+00:00</updated>
+  <media:group>
+   <media:title>Արցախից տեղահանվածների հարցով քննարկում</media:title>
+   <media:content url="https://www.youtube.com/v/H4nHYpFXEUg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/H4nHYpFXEUg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="4" average="1.00" min="1" max="5"/>
+    <media:statistics views="147"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kcLjqWGMcY8</id>
+  <yt:videoId>kcLjqWGMcY8</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Այն ժամանակվա ԱԱԾ տնօրեն Միքայել Համբարձումյանը պետք է հարցաքննվի.Բորիս Ավագյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kcLjqWGMcY8"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-20T18:30:10+00:00</published>
+  <updated>2021-10-21T08:21:56+00:00</updated>
+  <media:group>
+   <media:title>Այն ժամանակվա ԱԱԾ տնօրեն Միքայել Համբարձումյանը պետք է հարցաքննվի.Բորիս Ավագյան</media:title>
+   <media:content url="https://www.youtube.com/v/kcLjqWGMcY8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kcLjqWGMcY8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="26" average="2.85" min="1" max="5"/>
+    <media:statistics views="603"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9eIy9O8bkew</id>
+  <yt:videoId>9eIy9O8bkew</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Այս մարդիկ մեզ ուղղակի ենթարկվող հոտի տեղ դրած ասում են՝ ինչ ուզում՝ անում ենք. Կարին Տոնոյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9eIy9O8bkew"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-20T17:30:10+00:00</published>
+  <updated>2021-10-21T08:30:42+00:00</updated>
+  <media:group>
+   <media:title>Այս մարդիկ մեզ ուղղակի ենթարկվող հոտի տեղ դրած ասում են՝ ինչ ուզում՝ անում ենք. Կարին Տոնոյան</media:title>
+   <media:content url="https://www.youtube.com/v/9eIy9O8bkew?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9eIy9O8bkew/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="97" average="4.46" min="1" max="5"/>
+    <media:statistics views="1679"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MY7eG1swFsE</id>
+  <yt:videoId>MY7eG1swFsE</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>5 գերի է վերադարձել, ջրի սակագինը կբարձրանա  Հոկտեմբերի 20 ն՝ ամփոփ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MY7eG1swFsE"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-10-20T14:23:14+00:00</published>
+  <updated>2021-10-21T08:34:29+00:00</updated>
+  <media:group>
+   <media:title>5 գերի է վերադարձել, ջրի սակագինը կբարձրանա  Հոկտեմբերի 20 ն՝ ամփոփ</media:title>
+   <media:content url="https://www.youtube.com/v/MY7eG1swFsE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MY7eG1swFsE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="81"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

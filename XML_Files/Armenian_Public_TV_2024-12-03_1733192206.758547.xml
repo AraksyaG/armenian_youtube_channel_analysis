@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:Snr4wFDHDZZMeeHQvaHpjA</id>
+ <yt:channelId>Snr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:xMKdmTGxR5o</id>
+  <yt:videoId>xMKdmTGxR5o</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Սպասիր ինձ 02.12.2024</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xMKdmTGxR5o"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T19:20:00+00:00</published>
+  <updated>2024-12-02T21:54:56+00:00</updated>
+  <media:group>
+   <media:title>Սպասիր ինձ 02.12.2024</media:title>
+   <media:content url="https://www.youtube.com/v/xMKdmTGxR5o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xMKdmTGxR5o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="446" average="5.00" min="1" max="5"/>
+    <media:statistics views="16782"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:sqtAQ29I2Sw</id>
+  <yt:videoId>sqtAQ29I2Sw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հանդիպում Առաջինում․ Ռոբերտ Մավիսակալյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sqtAQ29I2Sw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T17:01:00+00:00</published>
+  <updated>2024-12-02T17:01:00+00:00</updated>
+  <media:group>
+   <media:title>Հանդիպում Առաջինում․ Ռոբերտ Մավիսակալյան</media:title>
+   <media:content url="https://www.youtube.com/v/sqtAQ29I2Sw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sqtAQ29I2Sw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="27" average="5.00" min="1" max="5"/>
+    <media:statistics views="1518"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UzQz6s_8_jY</id>
+  <yt:videoId>UzQz6s_8_jY</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հայկական նորաձևություն. Լիլիթ Մկրտչյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UzQz6s_8_jY"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T14:50:00+00:00</published>
+  <updated>2024-12-02T14:50:00+00:00</updated>
+  <media:group>
+   <media:title>Հայկական նորաձևություն. Լիլիթ Մկրտչյան</media:title>
+   <media:content url="https://www.youtube.com/v/UzQz6s_8_jY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UzQz6s_8_jY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="525"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iRE8wlY5Ga4</id>
+  <yt:videoId>iRE8wlY5Ga4</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Պատրաստենք միասին. Խոզի կողիկներ՝ ձիթապտղով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iRE8wlY5Ga4"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T13:40:00+00:00</published>
+  <updated>2024-12-02T13:40:01+00:00</updated>
+  <media:group>
+   <media:title>Պատրաստենք միասին. Խոզի կողիկներ՝ ձիթապտղով</media:title>
+   <media:content url="https://www.youtube.com/v/iRE8wlY5Ga4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iRE8wlY5Ga4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="331"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MMmhJ6g1iWI</id>
+  <yt:videoId>MMmhJ6g1iWI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հայրենակից. Լևոն Նազարեան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MMmhJ6g1iWI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T09:20:22+00:00</published>
+  <updated>2024-12-02T09:21:49+00:00</updated>
+  <media:group>
+   <media:title>Հայրենակից. Լևոն Նազարեան</media:title>
+   <media:content url="https://www.youtube.com/v/MMmhJ6g1iWI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MMmhJ6g1iWI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="535"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Z_DNf0poAsE</id>
+  <yt:videoId>Z_DNf0poAsE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Էթնոգույներ․ Ասորիներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Z_DNf0poAsE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T09:12:30+00:00</published>
+  <updated>2024-12-02T09:12:30+00:00</updated>
+  <media:group>
+   <media:title>Էթնոգույներ․ Ասորիներ</media:title>
+   <media:content url="https://www.youtube.com/v/Z_DNf0poAsE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Z_DNf0poAsE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="38" average="5.00" min="1" max="5"/>
+    <media:statistics views="1390"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zvl4HhCM3To</id>
+  <yt:videoId>zvl4HhCM3To</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 29.11.2024</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zvl4HhCM3To"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-12-02T07:25:31+00:00</published>
+  <updated>2024-12-02T20:23:32+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 29.11.2024</media:title>
+   <media:content url="https://www.youtube.com/v/zvl4HhCM3To?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zvl4HhCM3To/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="368"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:01MnhYgV1aM</id>
+  <yt:videoId>01MnhYgV1aM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հատուկ գործ. Սպորտ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=01MnhYgV1aM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-30T16:20:00+00:00</published>
+  <updated>2024-12-02T04:21:44+00:00</updated>
+  <media:group>
+   <media:title>Հատուկ գործ. Սպորտ</media:title>
+   <media:content url="https://www.youtube.com/v/01MnhYgV1aM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/01MnhYgV1aM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="1015"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FU_sqM-1C50</id>
+  <yt:videoId>FU_sqM-1C50</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ծնողական ժողով. Դեռահասություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FU_sqM-1C50"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-30T14:00:15+00:00</published>
+  <updated>2024-12-02T12:00:03+00:00</updated>
+  <media:group>
+   <media:title>Ծնողական ժողով. Դեռահասություն</media:title>
+   <media:content url="https://www.youtube.com/v/FU_sqM-1C50?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FU_sqM-1C50/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="451"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jErNlBbb6Oo</id>
+  <yt:videoId>jErNlBbb6Oo</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Շաբաթվա սպորտ. Արսեն Խաչատրյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jErNlBbb6Oo"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-30T09:50:00+00:00</published>
+  <updated>2024-12-02T20:44:11+00:00</updated>
+  <media:group>
+   <media:title>Շաբաթվա սպորտ. Արսեն Խաչատրյան</media:title>
+   <media:content url="https://www.youtube.com/v/jErNlBbb6Oo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jErNlBbb6Oo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="550"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CW7vCLmnXsI</id>
+  <yt:videoId>CW7vCLmnXsI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Թանգարանում. Դիլիջանի երկրագիտական թանգարան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CW7vCLmnXsI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-30T08:20:00+00:00</published>
+  <updated>2024-12-02T13:25:17+00:00</updated>
+  <media:group>
+   <media:title>Թանգարանում. Դիլիջանի երկրագիտական թանգարան</media:title>
+   <media:content url="https://www.youtube.com/v/CW7vCLmnXsI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CW7vCLmnXsI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="634"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VyG3OQDpMvA</id>
+  <yt:videoId>VyG3OQDpMvA</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Անուշիկ Առաքելյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VyG3OQDpMvA"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-29T14:55:51+00:00</published>
+  <updated>2024-12-01T01:06:29+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Անուշիկ Առաքելյան</media:title>
+   <media:content url="https://www.youtube.com/v/VyG3OQDpMvA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VyG3OQDpMvA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="29" average="5.00" min="1" max="5"/>
+    <media:statistics views="2464"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yAAOueMNghk</id>
+  <yt:videoId>yAAOueMNghk</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Բագրատ Եսայան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yAAOueMNghk"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-29T14:55:46+00:00</published>
+  <updated>2024-12-01T00:41:57+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Բագրատ Եսայան</media:title>
+   <media:content url="https://www.youtube.com/v/yAAOueMNghk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yAAOueMNghk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="236"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2HRShRaEE4g</id>
+  <yt:videoId>2HRShRaEE4g</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Մուշեղ Իսախանյան, Տաթև Խաչատրյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2HRShRaEE4g"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-29T14:55:39+00:00</published>
+  <updated>2024-12-01T01:37:10+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Մուշեղ Իսախանյան, Տաթև Խաչատրյան</media:title>
+   <media:content url="https://www.youtube.com/v/2HRShRaEE4g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2HRShRaEE4g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="410"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:quf8ix7GkjM</id>
+  <yt:videoId>quf8ix7GkjM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո. Սուրեն Բարսեղյան, Արայիկ Մարգարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=quf8ix7GkjM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2024-11-29T14:55:33+00:00</published>
+  <updated>2024-12-01T06:38:03+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո. Սուրեն Բարսեղյան, Արայիկ Մարգարյան</media:title>
+   <media:content url="https://www.youtube.com/v/quf8ix7GkjM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/quf8ix7GkjM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2024
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="247"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

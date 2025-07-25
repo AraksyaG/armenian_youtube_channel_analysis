@@ -1,3 +1,4 @@
+
 import os
 from xml.etree import ElementTree
 from datetime import datetime
@@ -72,8 +73,8 @@ def upsert_channel(cursor, channel_data):
     try:
         cursor.execute("""
             INSERT INTO youtube_channels 
-            (original_channel_id, channel_name, url, created_at, last_scraped)
-            VALUES (%s, %s, %s, %s, %s)
+            (original_channel_id, channel_name, url, last_scraped)
+            VALUES (%s, %s, %s, %s)
             ON CONFLICT (original_channel_id) DO UPDATE SET
                 channel_name = EXCLUDED.channel_name,
                 url = EXCLUDED.url,
@@ -83,7 +84,6 @@ def upsert_channel(cursor, channel_data):
             channel_data['original_channel_id'],
             channel_data['channel_name'],
             channel_data['channel_url'],
-            channel_data['file_date'],
             channel_data['scrape_date']
         ))
         return cursor.fetchone()[0]

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <id>yt:channel:UCaJCNkhSa84QcuOSoM2WfcA</id>
+ <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+ <title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <author>
+  <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+  <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+ </author>
+ <published>2011-10-12T12:52:09+00:00</published>
+ <entry>
+  <id>yt:video:z9QG33AYPtw</id>
+  <yt:videoId>z9QG33AYPtw</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Եթե զենքը թշնամու ուղղությամբ չէ, ապա այն պետք է իջեցվի. «Ի զեն»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=z9QG33AYPtw"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-26T13:55:44+00:00</published>
+  <updated>2022-08-26T14:18:44+00:00</updated>
+  <media:group>
+   <media:title>Եթե զենքը թշնամու ուղղությամբ չէ, ապա այն պետք է իջեցվի. «Ի զեն»</media:title>
+   <media:content url="https://www.youtube.com/v/z9QG33AYPtw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/z9QG33AYPtw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Արդեն 8 տարի ինստիգեյթ ընկերության ֆինանսական տնօրեն Կորյուն Դավթյանը գիտի՝ ինչ է նշանակում երկրի մասին հոգ տանել: Քառօրյա պատերազմից հետո որոշեց ու գնեց առաջին զենքը: Հարկավոր էր մարզվել, պատրաստվել.... Ընկերների երկար քննարկումից հետո ի վերջո պետք է նոր ձևով ապևել: Չի փոշմանում, հակառակը՝ փորձում է ավելացնել իր զենքերի քանակը: Կորյուն Դավթյանի նպատակը չի եղել որսորդությունը: Այն ավելի լայն էր՝ մարզվել, վարժվել և տիրապետել զենք կրելու մշակույթին:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="628"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wx_sMwN85rI</id>
+  <yt:videoId>wx_sMwN85rI</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Արդի Ընդհանրացուած Ծրագրաւորում c++ 98 քերականութեամբ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wx_sMwN85rI"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-26T12:53:04+00:00</published>
+  <updated>2022-08-27T07:08:32+00:00</updated>
+  <media:group>
+   <media:title>Արդի Ընդհանրացուած Ծրագրաւորում c++ 98 քերականութեամբ</media:title>
+   <media:content url="https://www.youtube.com/v/wx_sMwN85rI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wx_sMwN85rI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սկսում ենք մինչ այս սովորած նիւթի հիման վրայ իսկական մեծ ծրագրի տեղծում: Այս եւ յաջորդ մի քանի դասերի ընթացքում կը ստեղծենք ամբողջական ընդհանրացուած ծրագրաւորման գրադարան գծային հանրահաշուի խնդիրների լուծման համար: Կը տեսնենք գեղեցիկ զուգահեռներ վերացական հանրահաշուի (Abstract Algebra) եւ ընդհանրացուած ծրագրաւոման (Generic Programming) կերպաբանութեան միջեւ:
+
+Բոլոր դասերն այս հղումով՝  https://lratvakan.am/browse/programs-cc-course-for-cis-and-nh-programmers/am/</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="97"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-l9Xr5lneWU</id>
+  <yt:videoId>-l9Xr5lneWU</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>«Հաւք 2022». Լոռին սպասում է. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-l9Xr5lneWU"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-26T08:02:14+00:00</published>
+  <updated>2022-08-26T08:40:51+00:00</updated>
+  <media:group>
+   <media:title>«Հաւք 2022». Լոռին սպասում է. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/-l9Xr5lneWU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-l9Xr5lneWU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Լոռի՝ գյուղ Լեռնապատ: Հենց այստեղից մեկնարկեց առաջին «Հաւք» ԱԹՍ-ների մրցույթը: Արդյունքում այս տարի՝ սեպտեմբերի 10-11-ին, կանցկացվի արդեն երկրորդ անգամ: Ինչպես նախորդ, այս անգամ էլ կրկին մասնակցելու են թե՛ դպրոցական թիմերը, թե՛ սիրողական և թե՛ հենց ոլորտին ծանոթ մասնագետները: Առաջին անգամ մրցույթի հաղթողները երեխաներն էին, ինչը բավականին ոգևորիչ էր. այս տարվա մրցույթի սպասելիքները մեծ են: Պետք է վստահ առաջ գնալ:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="269"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kTZ_tlYEufo</id>
+  <yt:videoId>kTZ_tlYEufo</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Սուրմալուն վերահաստատեց՝ պետական  կառույցները «լաբորատոր» պայմաններին են սովոր. «Հետախույզի օրագիրը»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kTZ_tlYEufo"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-25T15:00:12+00:00</published>
+  <updated>2022-08-25T15:25:06+00:00</updated>
+  <media:group>
+   <media:title>Սուրմալուն վերահաստատեց՝ պետական  կառույցները «լաբորատոր» պայմաններին են սովոր. «Հետախույզի օրագիրը»</media:title>
+   <media:content url="https://www.youtube.com/v/kTZ_tlYEufo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kTZ_tlYEufo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Միշտ խաղաղ ժամանակներին հաջորդում են այնպիսի իրադարձություններ ինչպիսին 2020 թվականի պատերազմն է ու Սուրմալուի ողբերգությունը: Մեր պետական կառույցներն ավելի շատ «լաբորատոր» պայմաններում աշխատելուն են սովոր, բայց ճգնաժամերի դեպքում դառնում են անզոր: Այդ կառույցները նախ և առաջ չեն կարողանում աշխատել հասարակության հետ, ինչի ականատեսը եղանք նաև Սուրմալուի դեպքի ժամանակ: Պայթյունից հետո փրկարարական աշխատանքների ժամանակ ներկաներն ավելի շատ խանգարում էին այդ աշխատանքներին, քան օգնում: Աղետի երկրորդ օրը ԱԻՆ-ի աշխատակիցները ՈՄԱ-ին խնդրեցին զբաղվել կամավորների աշխատանքի համակարգմամբ:
+
+Իսկ ի՞նչ կպատահեր, եթե երկրաշարժ լիներ կամ Արարատի փեշերից թշնամին հրթիռակոծեր մեզ: Ցավալիորեն երկու տարբերակն էլ հավանական է… ասում է ՀՆԽ հրամանատար, ՈՄԱ-ի հիմադիր Վովա Վարդանովը, որի կազմակերպությունը մասնակցել է Սուրմալու առևտրի կենտրոնում փրկարարական աշխատանքներին:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3964"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SFDu9dzypTE</id>
+  <yt:videoId>SFDu9dzypTE</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>«Սուրմալու»-ի մաքրման աշխատանքներին մասնակցել է մինչև 140 ՈՄԱ-ական. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SFDu9dzypTE"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-25T08:49:59+00:00</published>
+  <updated>2022-08-25T09:13:26+00:00</updated>
+  <media:group>
+   <media:title>«Սուրմալու»-ի մաքրման աշխատանքներին մասնակցել է մինչև 140 ՈՄԱ-ական. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/SFDu9dzypTE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SFDu9dzypTE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ՈՄԱ-ն, «Սուրմալու»-ի դեպքի առաջին օրից, եղել է դեպքի վայրում: ԱԻՆ-ի համատեղ աշխատանքի արդյունքը միայն դրական էր: Ճիշտ է՝ նախկինում որևէ պայմանավորվածություն չի եղել, որ նման դեպքերում պետք է համատեղ աշխատել, բայց իրավիճակը թելադրող էր: ՈՄԱ-ի համար սա պատերազմից դուրս առաջին նմանօրինակ դեպքն էր: Մասնակիցները, ինչպես նաև կամավորները, ամբողջովին պատրաստակամ էին օգնել բոլոր աշխատանքներին: Այդուհանդերձ խնդիր կա՝ շատերը հոգեբանորեն նման իրավիճակների պատրաստ չեն:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="756"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0GfNRQYXIG4</id>
+  <yt:videoId>0GfNRQYXIG4</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>TI'ME. կառավարեք ձեր ժամանակը. «Բիզնեսի անատոմիա Գալաքսիի հետ»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0GfNRQYXIG4"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-24T15:00:00+00:00</published>
+  <updated>2022-08-25T09:44:44+00:00</updated>
+  <media:group>
+   <media:title>TI'ME. կառավարեք ձեր ժամանակը. «Բիզնեսի անատոմիա Գալաքսիի հետ»</media:title>
+   <media:content url="https://www.youtube.com/v/0GfNRQYXIG4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0GfNRQYXIG4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>TI'ME ընկերությունն արդեն ունի տասը տարվա պատմություն:  Գործունեության մեկնարկին առաջին խանութ սրահը բացվել է Դալմա մոլլում, հետագայում արդեն հասցեները ավելացել են: Ընկերության կոմերցիոն տնօրեն Նորայր Հովհաննիսյանը նշում է, որ համաշխարհային ապրանքանիշների գրեթե ամբողջ տեսականին առաջին անգամ ներկայացրել է հենց TI'ME-ը: Այս պահին էլ աշխատանք կա շուրջ 40 միջազգային ընկերությունների հետ: Խանութ սրահներում կարելի է գտնել տարբեր բրենդներ՝ Casio-ից մինչև Hamilton:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="330"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vAKwV4SWR9A</id>
+  <yt:videoId>vAKwV4SWR9A</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Մենք մեր անկախության համար պայքարել ենք ու պիտի շարունակենք պայքարել. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vAKwV4SWR9A"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-24T10:05:20+00:00</published>
+  <updated>2022-08-25T09:00:57+00:00</updated>
+  <media:group>
+   <media:title>Մենք մեր անկախության համար պայքարել ենք ու պիտի շարունակենք պայքարել. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/vAKwV4SWR9A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vAKwV4SWR9A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ամեն ժողովուրդ ինքն է իր իշխանության լիիավ պատասխանատուն, մնացած հանագամանքները պարզապես ածանցյալ են: Այդ կամքը պետք լինի, մենք դա արտահայտել ենք 91-ին... ապա Արցախյան պատերազմը, 2018 թվական և հետո 2020 թվականի երկրորդ Արցախյան պայքարը: 
+Չի կարելի մոռանալ նաև ընտրությունները: Դա քայլ էր՝ ցույց տալու համար, որ արտաքին ճնշումները չեն կարող խանգարել: «Ազատ քաղաքացի» հկ-ի ղեկավար Հովսեփ Խուրշուդյանի խոսքով՝ այս պահին մեր անկախության համար մեկ վտանգ ներկայացնողը մեր փաստաթղթային դաշնակիցն է՝ ՌԴ-ն: Ամեն գնով պետք է խուսափենք կլանվելուց ռուսական ազեցության մեջ և հեռու մնանք Միութենական պետություն դառնալու գաղափարից:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11220"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QJ2XkwW5hlM</id>
+  <yt:videoId>QJ2XkwW5hlM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Աղավնո, Սուս, Բերձոր. սրանով ո՛չ սկսվում, ո՛չ էլ ավարտվում են մեր խնդիրները. «Քաղաքական գործակից»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QJ2XkwW5hlM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-23T16:08:59+00:00</published>
+  <updated>2022-08-24T06:30:37+00:00</updated>
+  <media:group>
+   <media:title>Աղավնո, Սուս, Բերձոր. սրանով ո՛չ սկսվում, ո՛չ էլ ավարտվում են մեր խնդիրները. «Քաղաքական գործակից»</media:title>
+   <media:content url="https://www.youtube.com/v/QJ2XkwW5hlM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QJ2XkwW5hlM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Տարածաշրջանային վատթար իրավիճակում Հայ- վրացական սահմանին «բարեկամության» կամուրջի բացում դրական էր: Հաղորդակցության նոր ուղի ստեղծելը լավ է, հատկապես ֆորսմաժորային իրավիճակների համար: Տարածաշրջանային հարցերով փորձագետ Արմեն Պետրոսյանի կարծիքով անվանումն էլ  պատահական չէ ընտրված: Այն կարող է և պետք է նպաստի երկկողմ հարաբերությունների բարելավմանը: Ըստ քաղաքագետ Արա Պողոսյանի՝ ցանկացած կոմունիկացիա անվտանգային համակարգի մի մասնիկ է:  Կարևոր է, որ այն չմնա արարողակարգային բովանդակության մեջ, այլ ծառայի իր նպատակին: Խոսելով ընդհանրապես տարածաշրջանային անկայունությունից՝ զրուցակիցները կարծում են, որ այն մեզնից մեծապես կախված չէ. եթե մեր առաջարկները հասնեին տեղ, այսօր պատկերը այլ կլիներ:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="522"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aGVayTBdmHE</id>
+  <yt:videoId>aGVayTBdmHE</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ուզու՞մ ենք ապրել, պիտի երկնենք նոր սերունդ. շնորհավոր տոնդ Կրպեյանի ու Թումասյանի ազգ.«Հայու տեսակ»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aGVayTBdmHE"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-23T15:15:08+00:00</published>
+  <updated>2022-08-24T06:51:05+00:00</updated>
+  <media:group>
+   <media:title>Ուզու՞մ ենք ապրել, պիտի երկնենք նոր սերունդ. շնորհավոր տոնդ Կրպեյանի ու Թումասյանի ազգ.«Հայու տեսակ»</media:title>
+   <media:content url="https://www.youtube.com/v/aGVayTBdmHE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aGVayTBdmHE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երեսուն տարի կարծես թե անկախ էինք, բայց մեկ ակնթարթում ամեն ինչ հոդս ցնդեց: Չկար այն սերունդը, որն անկախությունը պահելու կամք և հասկացողություն կունենար: Անկախության արժեքն այդպես էլ  երբևէ լիարժեք չհասկացանք: Այսօր հայոց պետականությունն ավելի քան երերուն վիճակում է: Անկախությունը Հայաստանի տարբեր տարիների իշխանությունների կողմից շարունակաբար բռնազավթվեց: Նրանք անգամ 88-ի ազգային ընդվզումը ծառայեցրին օտարի շահերին: Կասեցվեց ազգի բնականոն զարգացումը: Իսկ այժմ հասել ենք մի հանգրվանի, երբ չգիտենք՝ իսկապե՞ս անկախ ենք, թե՞ ոչ:
+Գագիկ Գինոսյանը խոսել է անկախության գաղափարի մասին:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="884"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DQI61tg1XdY</id>
+  <yt:videoId>DQI61tg1XdY</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ռուսաստանն ինքն է շահագրգիռ պատերազմը դադարեցնելու հարցում.  «Մոդուս վիվենդի»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DQI61tg1XdY"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-23T14:00:11+00:00</published>
+  <updated>2022-08-24T07:09:39+00:00</updated>
+  <media:group>
+   <media:title>Ռուսաստանն ինքն է շահագրգիռ պատերազմը դադարեցնելու հարցում.  «Մոդուս վիվենդի»</media:title>
+   <media:content url="https://www.youtube.com/v/DQI61tg1XdY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DQI61tg1XdY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Էրդողան-Զելենսկի հանդիպումը Պուտինի վրա «թանկով վաճառելու», Զելենսկու նախապայմանների և Ուկրաինայի ամրապնդվող վճռականության, պատերազմը դադարեցնելու հարցում Ռուսաստանի շահագրգռվածության, Ուկրաինային օգնելու արևմտյան նոր  ծրագրերի և Դուգինի սպանության մասին է խոսել դիվանագետ Արա Պապյանը:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11769"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:21-f2u5x9SE</id>
+  <yt:videoId>21-f2u5x9SE</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>«Սուրմալու»-ի աղետը մարդկանց լիովին շեղել է Աղավնոյում կատարվողից. «Երկընտրանք»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=21-f2u5x9SE"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-23T06:52:24+00:00</published>
+  <updated>2022-08-23T08:12:03+00:00</updated>
+  <media:group>
+   <media:title>«Սուրմալու»-ի աղետը մարդկանց լիովին շեղել է Աղավնոյում կատարվողից. «Երկընտրանք»</media:title>
+   <media:content url="https://www.youtube.com/v/21-f2u5x9SE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/21-f2u5x9SE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Սուրմալու»-ի դեպքերի համար վարկածները տարբեր են, դեռևս պետք է վերլուծություն պատչառները հստակ հասկանալու համար: Վերլուծության համար, սակայն, հասանելի չեն այն տվյալները, որոնք թույլ կտան ավելի օբյեկտիվորեն մոտենալ խնդրին: Այնուամենայնիվ փաստ է, որ հայ հասարակությունը անվտանգության հարցերի հանդեպ ունի մեծ անտարբերություն: Խնդիր կա նաև մարդկանց ուշադրությունը շեղել Աղավնոյի և Բերձորի հանձնումից: Իսկ նկատվող համազգային դժգոհությունը այդ հարցի շուրջ պարզ էր:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1515"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bnzzAOuo2Wk</id>
+  <yt:videoId>bnzzAOuo2Wk</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>iPhone ասելիս ծնկներս ծալվում են. բրենդերի հանդեպ հուզականության գաղտնիքը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bnzzAOuo2Wk"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-22T10:00:12+00:00</published>
+  <updated>2022-08-22T10:20:17+00:00</updated>
+  <media:group>
+   <media:title>iPhone ասելիս ծնկներս ծալվում են. բրենդերի հանդեպ հուզականության գաղտնիքը</media:title>
+   <media:content url="https://www.youtube.com/v/bnzzAOuo2Wk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bnzzAOuo2Wk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կոկա-Կոլա, Սթարբաքս, Մաքդոնալդս… հաճախորդը, լսելով այս կազմակերպությունների անվանումները, միանգամից սկսում է որոշակի հույզեր ունենալը և նրա մտքում ստեղծվում են որոշակի ասոցիացիաներ: Բրենդինգը կազմակերպության  «կերպարն» է հաճախորդի աչքերում:
+Հաճախորդի մոտ ապրանքանիշի հանդեպ հուզական վերաբերմունքին կարելի է հասնել մարքեթինգային մի շարք գործիքների ճիշտ կիրառմամբ:
+Բրենդավորումը, սակայն, մեկանգամյա գործողություն չէ, քանի որ ժամանակի ընթացքում փոխվում են հասարակության վարքագիծն ու վերաբերմունքը: Ինչպես օրինակ գույների նկատմամբ  ընկալումները:
+Գայանե Դաջունցը խոսել է բրենդինգի կամ բրենդավորման մասին:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="900"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7W4K-L0ytak</id>
+  <yt:videoId>7W4K-L0ytak</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ինչու՞, էլ ուրիշ ով կա ձեզնից բացի.... ո՞վ է Համբարձում Լիմոնջյանը. «Կիսալուսնի մայրամուտը»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7W4K-L0ytak"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2022-08-17T14:00:11+00:00</published>
+  <updated>2022-08-19T15:37:39+00:00</updated>
+  <media:group>
+   <media:title>Ինչու՞, էլ ուրիշ ով կա ձեզնից բացի.... ո՞վ է Համբարձում Լիմոնջյանը. «Կիսալուսնի մայրամուտը»</media:title>
+   <media:content url="https://www.youtube.com/v/7W4K-L0ytak?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7W4K-L0ytak/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Թուրքիայում մեր հայ համայնքի մի քանի անդամ որոշել էին կազմակերպել դասական թուրքական երաժշտության երեկո՝ հիմնական շեշտը դնելով հայ ազգի կոմպոզիտորների ստեղծագործությունների վրա: Ընկերս պատմում է, որ գնացել են թուրք ճանաչված երաժիշտներից մեկի մոտ և պատմել իրենց մտադրության մասին: Երբ ասել են, թե հիմնականում նպատակ ունեն հայազգի կոմպոզիտորների գործերը ներկայացնել, թուրքը պատասխանել է ՝ ինչու՞ էլ ուրիշ ով կա ձեզնից բացի:
+Թուրքագետ Տիրան Լոքմագյոզյանը պատմում է թուրքական դասական երաժշտության հայկական ծագումնաբանության մասին:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2312"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

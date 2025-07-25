@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:UCf2o81mWr-bZsLbq2-kOYTQ</id>
+ <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:uL0q_kcWFP8</id>
+  <yt:videoId>uL0q_kcWFP8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv.Ամեն անհաջողություն մի կապեք թուղթ ու գրի հետ Լյուսյա Հակոբյան և Արման Այվազյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uL0q_kcWFP8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-19T05:00:15+00:00</published>
+  <updated>2022-06-19T09:12:38+00:00</updated>
+  <media:group>
+   <media:title>Bac tv.Ամեն անհաջողություն մի կապեք թուղթ ու գրի հետ Լյուսյա Հակոբյան և Արման Այվազյան</media:title>
+   <media:content url="https://www.youtube.com/v/uL0q_kcWFP8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uL0q_kcWFP8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծրագրի հյուրերն են Լյուսյա Հակոբյանը և Արման Այվազյանը</media:description>
+   <media:community>
+    <media:starRating count="577" average="5.00" min="1" max="5"/>
+    <media:statistics views="13622"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:U7EgiArYDC4</id>
+  <yt:videoId>U7EgiArYDC4</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>BAc tv.Երրորդ ուժի հեռանկարները․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=U7EgiArYDC4"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-18T13:14:22+00:00</published>
+  <updated>2022-06-19T05:51:23+00:00</updated>
+  <media:group>
+   <media:title>BAc tv.Երրորդ ուժի հեռանկարները․</media:title>
+   <media:content url="https://www.youtube.com/v/U7EgiArYDC4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/U7EgiArYDC4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Շանթ Հարությունյան եվ Հմայակ Հովհաննիսյան</media:description>
+   <media:community>
+    <media:starRating count="756" average="5.00" min="1" max="5"/>
+    <media:statistics views="29038"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:K-OwHwVAPBo</id>
+  <yt:videoId>K-OwHwVAPBo</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv.Հավատում  եմ  մեր  երկրի վաղվա  օրվան․․․ Ներսես Վիրաբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=K-OwHwVAPBo"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-18T05:00:15+00:00</published>
+  <updated>2022-06-19T06:13:23+00:00</updated>
+  <media:group>
+   <media:title>Bac tv.Հավատում  եմ  մեր  երկրի վաղվա  օրվան․․․ Ներսես Վիրաբյան</media:title>
+   <media:content url="https://www.youtube.com/v/K-OwHwVAPBo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/K-OwHwVAPBo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv.</media:description>
+   <media:community>
+    <media:starRating count="201" average="5.00" min="1" max="5"/>
+    <media:statistics views="6303"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:l28QlMEgqZs</id>
+  <yt:videoId>l28QlMEgqZs</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Լինենք  իրատես․․․Լևոն Շիրինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=l28QlMEgqZs"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-17T14:08:03+00:00</published>
+  <updated>2022-06-18T21:49:11+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Լինենք  իրատես․․․Լևոն Շիրինյան</media:title>
+   <media:content url="https://www.youtube.com/v/l28QlMEgqZs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/l28QlMEgqZs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv.Ծրագրի  հյուրն է քաղաքագետ Լևոն Շիրինյանը</media:description>
+   <media:community>
+    <media:starRating count="1318" average="5.00" min="1" max="5"/>
+    <media:statistics views="35629"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aSs5CcneLoI</id>
+  <yt:videoId>aSs5CcneLoI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Երբ ենք  ազատվելու  մութ  անցյալից  և  խավար  ներկայից․․․ Արկադի  Վարդանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aSs5CcneLoI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-17T10:21:04+00:00</published>
+  <updated>2022-06-18T22:21:30+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Երբ ենք  ազատվելու  մութ  անցյալից  և  խավար  ներկայից․․․ Արկադի  Վարդանյան</media:title>
+   <media:content url="https://www.youtube.com/v/aSs5CcneLoI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aSs5CcneLoI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv.</media:description>
+   <media:community>
+    <media:starRating count="316" average="5.00" min="1" max="5"/>
+    <media:statistics views="8054"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BHeRIpMnZzI</id>
+  <yt:videoId>BHeRIpMnZzI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Ձեռքի և հոգու հրաշքները․Նարգիզ Գալինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BHeRIpMnZzI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-16T05:00:07+00:00</published>
+  <updated>2022-06-16T05:00:07+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Ձեռքի և հոգու հրաշքները․Նարգիզ Գալինյան</media:title>
+   <media:content url="https://www.youtube.com/v/BHeRIpMnZzI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BHeRIpMnZzI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծրագրի հյուրն է  Նարգիզ Գալինյանը</media:description>
+   <media:community>
+    <media:starRating count="797" average="5.00" min="1" max="5"/>
+    <media:statistics views="24930"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:b9LwdyjGfFg</id>
+  <yt:videoId>b9LwdyjGfFg</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv.Բացի կոռուպցիայից նրանք նաև գաղափարների գող են․Արտակ Գալստյան, Տիգրան Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=b9LwdyjGfFg"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-15T10:00:17+00:00</published>
+  <updated>2022-06-18T05:02:41+00:00</updated>
+  <media:group>
+   <media:title>Bac tv.Բացի կոռուպցիայից նրանք նաև գաղափարների գող են․Արտակ Գալստյան, Տիգրան Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/b9LwdyjGfFg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/b9LwdyjGfFg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծրագրի հյուրերն են Արտակ Գալստյանը, Տիգրան Հովհաննիսյանը</media:description>
+   <media:community>
+    <media:starRating count="878" average="5.00" min="1" max="5"/>
+    <media:statistics views="33128"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UxAyuQmJZyA</id>
+  <yt:videoId>UxAyuQmJZyA</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv.ՀՀ-ում կայանում է ժողովրդավարական ուժերի դաշինք․Տիգրան Խզմալյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UxAyuQmJZyA"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-15T05:00:17+00:00</published>
+  <updated>2022-06-17T07:36:08+00:00</updated>
+  <media:group>
+   <media:title>Bac tv.ՀՀ-ում կայանում է ժողովրդավարական ուժերի դաշինք․Տիգրան Խզմալյան</media:title>
+   <media:content url="https://www.youtube.com/v/UxAyuQmJZyA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UxAyuQmJZyA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծրագրի հյուրն է Տիգրան Խզմալյանը</media:description>
+   <media:community>
+    <media:starRating count="631" average="5.00" min="1" max="5"/>
+    <media:statistics views="18603"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jQoFoCYWWIk</id>
+  <yt:videoId>jQoFoCYWWIk</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv.  Բարեկամության նոր համագործակցություն․ Մենդել Կոռսունսկի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jQoFoCYWWIk"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-14T12:00:23+00:00</published>
+  <updated>2022-06-15T22:46:14+00:00</updated>
+  <media:group>
+   <media:title>Bac tv.  Բարեկամության նոր համագործակցություն․ Մենդել Կոռսունսկի</media:title>
+   <media:content url="https://www.youtube.com/v/jQoFoCYWWIk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jQoFoCYWWIk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv</media:description>
+   <media:community>
+    <media:starRating count="214" average="5.00" min="1" max="5"/>
+    <media:statistics views="6655"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nUERT1Th7gE</id>
+  <yt:videoId>nUERT1Th7gE</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Օրինապաշտ քաղաքացի․Ինչպես  ստանալ  վնասի փոխհատուցում․ Տարոն  Բաղդասարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nUERT1Th7gE"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-14T05:00:11+00:00</published>
+  <updated>2022-06-14T07:14:39+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Օրինապաշտ քաղաքացի․Ինչպես  ստանալ  վնասի փոխհատուցում․ Տարոն  Բաղդասարյան</media:title>
+   <media:content url="https://www.youtube.com/v/nUERT1Th7gE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nUERT1Th7gE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv.</media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="1035"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7hKSuTZZeSc</id>
+  <yt:videoId>7hKSuTZZeSc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. ՀՀ որոշ պետական այրեր թաթախված են թմրանյութերի ներկրման մեջ․ Վարդան Ղուկասյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7hKSuTZZeSc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-13T05:00:03+00:00</published>
+  <updated>2022-06-18T12:44:20+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. ՀՀ որոշ պետական այրեր թաթախված են թմրանյութերի ներկրման մեջ․ Վարդան Ղուկասյան</media:title>
+   <media:content url="https://www.youtube.com/v/7hKSuTZZeSc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7hKSuTZZeSc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծրագի հյուրն է բլոգեր Վարդան Ղուկասյանը</media:description>
+   <media:community>
+    <media:starRating count="3167" average="5.00" min="1" max="5"/>
+    <media:statistics views="137117"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DP3wVxR6BV8</id>
+  <yt:videoId>DP3wVxR6BV8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Յուրաքանչյուր հարց տվող գիտի իր պատասխանը․ Լյուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DP3wVxR6BV8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-12T05:00:08+00:00</published>
+  <updated>2022-06-14T08:52:24+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Յուրաքանչյուր հարց տվող գիտի իր պատասխանը․ Լյուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/DP3wVxR6BV8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DP3wVxR6BV8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv</media:description>
+   <media:community>
+    <media:starRating count="1534" average="5.00" min="1" max="5"/>
+    <media:statistics views="63987"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jF5Ugk91lwU</id>
+  <yt:videoId>jF5Ugk91lwU</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Նիկոլի դեմքով Սերժն է իշխում․ Հմայակ Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jF5Ugk91lwU"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-11T10:31:31+00:00</published>
+  <updated>2022-06-14T05:00:18+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Նիկոլի դեմքով Սերժն է իշխում․ Հմայակ Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/jF5Ugk91lwU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jF5Ugk91lwU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծրագրի հյուրն է քաղաքագետ Հմայակ Հովհաննիսյանը</media:description>
+   <media:community>
+    <media:starRating count="567" average="5.00" min="1" max="5"/>
+    <media:statistics views="29407"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FmmJueBD43I</id>
+  <yt:videoId>FmmJueBD43I</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Թուրքիան ինքն է  վախենում բացել  սահմանները․ Ներսես Վիրաբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FmmJueBD43I"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-11T05:00:04+00:00</published>
+  <updated>2022-06-13T14:42:48+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Թուրքիան ինքն է  վախենում բացել  սահմանները․ Ներսես Վիրաբյան</media:title>
+   <media:content url="https://www.youtube.com/v/FmmJueBD43I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FmmJueBD43I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv.</media:description>
+   <media:community>
+    <media:starRating count="288" average="5.00" min="1" max="5"/>
+    <media:statistics views="13986"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dtuTTrKF4Cs</id>
+  <yt:videoId>dtuTTrKF4Cs</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Բոլշևիկ  Լևոն  Կարախանը  10 օր  իր տանը պահել է  Էնվեր փաշային․․․Լևոն Շիրինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dtuTTrKF4Cs"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2022-06-10T13:59:17+00:00</published>
+  <updated>2022-06-13T22:26:15+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Բոլշևիկ  Լևոն  Կարախանը  10 օր  իր տանը պահել է  Էնվեր փաշային․․․Լևոն Շիրինյան</media:title>
+   <media:content url="https://www.youtube.com/v/dtuTTrKF4Cs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dtuTTrKF4Cs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Bac tv.Ծրագրի  հյուրն է քաղաքագետ Լևոն Շիրինյանը</media:description>
+   <media:community>
+    <media:starRating count="1433" average="5.00" min="1" max="5"/>
+    <media:statistics views="48665"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

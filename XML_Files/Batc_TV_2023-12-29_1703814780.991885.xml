@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:f2o81mWr-bZsLbq2-kOYTQ</id>
+ <yt:channelId>f2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:gh2DVaM1EWM</id>
+  <yt:videoId>gh2DVaM1EWM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Հեղինակային երգահան դու պիտի ծնվես․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gh2DVaM1EWM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-28T16:00:21+00:00</published>
+  <updated>2023-12-28T16:00:49+00:00</updated>
+  <media:group>
+   <media:title>Հեղինակային երգահան դու պիտի ծնվես․</media:title>
+   <media:content url="https://www.youtube.com/v/gh2DVaM1EWM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gh2DVaM1EWM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="1057"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wAvU0jRhwIo</id>
+  <yt:videoId>wAvU0jRhwIo</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մեր  ժողովուրդը մի օր գտնելու է իր զարգացման ուղին․․․Նորայր Նորիկյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wAvU0jRhwIo"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-28T05:00:33+00:00</published>
+  <updated>2023-12-28T05:00:33+00:00</updated>
+  <media:group>
+   <media:title>Մեր  ժողովուրդը մի օր գտնելու է իր զարգացման ուղին․․․Նորայր Նորիկյան</media:title>
+   <media:content url="https://www.youtube.com/v/wAvU0jRhwIo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wAvU0jRhwIo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="2037"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5TGUIsE-0Fc</id>
+  <yt:videoId>5TGUIsE-0Fc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մեր ժողովուրդը արժանի է լավ ապրելու․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5TGUIsE-0Fc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-27T16:00:03+00:00</published>
+  <updated>2023-12-27T16:00:24+00:00</updated>
+  <media:group>
+   <media:title>Մեր ժողովուրդը արժանի է լավ ապրելու․</media:title>
+   <media:content url="https://www.youtube.com/v/5TGUIsE-0Fc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5TGUIsE-0Fc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="52" average="5.00" min="1" max="5"/>
+    <media:statistics views="1920"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:513xpWRyLtc</id>
+  <yt:videoId>513xpWRyLtc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Թող 2024 թվականը լինի պայքարի և հաղթանակների տարի․․․Ազատ Արշակյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=513xpWRyLtc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-27T05:00:02+00:00</published>
+  <updated>2023-12-27T05:00:03+00:00</updated>
+  <media:group>
+   <media:title>Թող 2024 թվականը լինի պայքարի և հաղթանակների տարի․․․Ազատ Արշակյան</media:title>
+   <media:content url="https://www.youtube.com/v/513xpWRyLtc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/513xpWRyLtc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="234" average="5.00" min="1" max="5"/>
+    <media:statistics views="7163"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mvUdrBavUkA</id>
+  <yt:videoId>mvUdrBavUkA</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Կորուստների տարի էր․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mvUdrBavUkA"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-26T17:00:28+00:00</published>
+  <updated>2023-12-26T17:00:52+00:00</updated>
+  <media:group>
+   <media:title>Կորուստների տարի էր․</media:title>
+   <media:content url="https://www.youtube.com/v/mvUdrBavUkA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mvUdrBavUkA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="61" average="5.00" min="1" max="5"/>
+    <media:statistics views="2296"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XlA0Hl_S_08</id>
+  <yt:videoId>XlA0Hl_S_08</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ինչպե՞ս դիմավորել 2024 թվականը Կանաչ Վիշապի տարում․․․Գայանե Սարգսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XlA0Hl_S_08"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-26T05:00:24+00:00</published>
+  <updated>2023-12-26T05:00:24+00:00</updated>
+  <media:group>
+   <media:title>Ինչպե՞ս դիմավորել 2024 թվականը Կանաչ Վիշապի տարում․․․Գայանե Սարգսյան</media:title>
+   <media:content url="https://www.youtube.com/v/XlA0Hl_S_08?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XlA0Hl_S_08/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="847" average="5.00" min="1" max="5"/>
+    <media:statistics views="31949"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hVlfOTAKBqw</id>
+  <yt:videoId>hVlfOTAKBqw</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>12 տարի հետո Յուպիտերը գալիս է նույն դիրքին․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hVlfOTAKBqw"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-25T17:00:27+00:00</published>
+  <updated>2023-12-25T17:00:54+00:00</updated>
+  <media:group>
+   <media:title>12 տարի հետո Յուպիտերը գալիս է նույն դիրքին․</media:title>
+   <media:content url="https://www.youtube.com/v/hVlfOTAKBqw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hVlfOTAKBqw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="213" average="5.00" min="1" max="5"/>
+    <media:statistics views="8312"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZNaWJJYS6HY</id>
+  <yt:videoId>ZNaWJJYS6HY</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ՈՒժ, ուժ և դարձյալ ուժ․․․Միքայել Հայրապետյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZNaWJJYS6HY"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-25T05:00:18+00:00</published>
+  <updated>2023-12-25T05:00:18+00:00</updated>
+  <media:group>
+   <media:title>ՈՒժ, ուժ և դարձյալ ուժ․․․Միքայել Հայրապետյան</media:title>
+   <media:content url="https://www.youtube.com/v/ZNaWJJYS6HY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZNaWJJYS6HY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="344" average="5.00" min="1" max="5"/>
+    <media:statistics views="7477"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:m9ChhHFI2rU</id>
+  <yt:videoId>m9ChhHFI2rU</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ես հավատում եմ մեր ժողովրդի ապագային․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=m9ChhHFI2rU"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-24T17:00:36+00:00</published>
+  <updated>2023-12-24T17:00:48+00:00</updated>
+  <media:group>
+   <media:title>Ես հավատում եմ մեր ժողովրդի ապագային․</media:title>
+   <media:content url="https://www.youtube.com/v/m9ChhHFI2rU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/m9ChhHFI2rU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="102" average="5.00" min="1" max="5"/>
+    <media:statistics views="3554"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HdHHoouGeT0</id>
+  <yt:videoId>HdHHoouGeT0</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Հայաստան. պատուհան դեպի Եվրոպա:</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HdHHoouGeT0"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-24T13:30:08+00:00</published>
+  <updated>2023-12-25T05:59:16+00:00</updated>
+  <media:group>
+   <media:title>Հայաստան. պատուհան դեպի Եվրոպա:</media:title>
+   <media:content url="https://www.youtube.com/v/HdHHoouGeT0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HdHHoouGeT0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Դեկտեմբերի 20-ին Երևանում կայացավ «Գործարար հնարավորությունները կայուն միջազգային երկրներում» համաժողովը։Դրան մասնակցում էին Կիպրոսի Հանրապետության, պետական ​​կառույցների, հայկական բիզնես հատվածի ներկայացուցիչներ։
+
+
+
+Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="29" average="5.00" min="1" max="5"/>
+    <media:statistics views="1116"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XYsHzMxo2IQ</id>
+  <yt:videoId>XYsHzMxo2IQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Հայաստանը դեռ գտնվում է մաքրման շրջանում․․․Լյուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XYsHzMxo2IQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-24T05:00:23+00:00</published>
+  <updated>2023-12-24T06:16:47+00:00</updated>
+  <media:group>
+   <media:title>Հայաստանը դեռ գտնվում է մաքրման շրջանում․․․Լյուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/XYsHzMxo2IQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XYsHzMxo2IQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="2078" average="5.00" min="1" max="5"/>
+    <media:statistics views="63538"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xiqugA_zqZ4</id>
+  <yt:videoId>xiqugA_zqZ4</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Խաղաղություն պետք է լինի մեր երկրում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xiqugA_zqZ4"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-23T17:00:44+00:00</published>
+  <updated>2023-12-24T06:09:24+00:00</updated>
+  <media:group>
+   <media:title>Խաղաղություն պետք է լինի մեր երկրում</media:title>
+   <media:content url="https://www.youtube.com/v/xiqugA_zqZ4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xiqugA_zqZ4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="774" average="5.00" min="1" max="5"/>
+    <media:statistics views="21347"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qxsVJMmtab8</id>
+  <yt:videoId>qxsVJMmtab8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Արագ շարժվելու խնդիր ունենք․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qxsVJMmtab8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-23T12:10:47+00:00</published>
+  <updated>2023-12-24T06:24:43+00:00</updated>
+  <media:group>
+   <media:title>Արագ շարժվելու խնդիր ունենք․</media:title>
+   <media:content url="https://www.youtube.com/v/qxsVJMmtab8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qxsVJMmtab8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="75" average="5.00" min="1" max="5"/>
+    <media:statistics views="2327"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6Vw2E7-0tt4</id>
+  <yt:videoId>6Vw2E7-0tt4</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Արդար հասարակություն, հզոր պետականություն․․․Լևոն Շիրինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6Vw2E7-0tt4"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-23T11:51:32+00:00</published>
+  <updated>2023-12-27T18:22:35+00:00</updated>
+  <media:group>
+   <media:title>Արդար հասարակություն, հզոր պետականություն․․․Լևոն Շիրինյան</media:title>
+   <media:content url="https://www.youtube.com/v/6Vw2E7-0tt4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6Vw2E7-0tt4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="556" average="5.00" min="1" max="5"/>
+    <media:statistics views="13662"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZLAONH6MeLQ</id>
+  <yt:videoId>ZLAONH6MeLQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Պարիս Հերունու առեղծվածը․․․ Նանա Հերունի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZLAONH6MeLQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-12-22T06:00:15+00:00</published>
+  <updated>2023-12-27T20:10:08+00:00</updated>
+  <media:group>
+   <media:title>Պարիս Հերունու առեղծվածը․․․ Նանա Հերունի</media:title>
+   <media:content url="https://www.youtube.com/v/ZLAONH6MeLQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZLAONH6MeLQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="369" average="5.00" min="1" max="5"/>
+    <media:statistics views="8092"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

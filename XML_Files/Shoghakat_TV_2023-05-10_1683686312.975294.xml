@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:Z-IV1GpgOdg</id>
+  <yt:videoId>Z-IV1GpgOdg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Խաղաղության աղոթք. ուղիղ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Z-IV1GpgOdg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-09T19:12:21+00:00</published>
+  <updated>2023-05-09T20:38:51+00:00</updated>
+  <media:group>
+   <media:title>Խաղաղության աղոթք. ուղիղ</media:title>
+   <media:content url="https://www.youtube.com/v/Z-IV1GpgOdg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Z-IV1GpgOdg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Խաղաղության աղոթք. ուղիղ</media:description>
+   <media:community>
+    <media:starRating count="75" average="5.00" min="1" max="5"/>
+    <media:statistics views="680"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pwZvzzXzZM0</id>
+  <yt:videoId>pwZvzzXzZM0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Իսահակի զոհաբերությունը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pwZvzzXzZM0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-09T17:30:09+00:00</published>
+  <updated>2023-05-09T17:47:27+00:00</updated>
+  <media:group>
+   <media:title>Իսահակի զոհաբերությունը</media:title>
+   <media:content url="https://www.youtube.com/v/pwZvzzXzZM0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pwZvzzXzZM0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ինչու՞ է Աբրահամը հնազանդվում Տիրոջ խոսքին և իր մինուճար որդուն՝ Իսահակին, տանում զոհաբերության։ Մեկնաբանում է Տ. Ռուբեն վարդապետ Զարգարյանը:</media:description>
+   <media:community>
+    <media:starRating count="70" average="5.00" min="1" max="5"/>
+    <media:statistics views="753"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:s8-wYlVmK20</id>
+  <yt:videoId>s8-wYlVmK20</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Նոր Եդեսիա և Ուջան գյուղեր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=s8-wYlVmK20"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-09T17:15:10+00:00</published>
+  <updated>2023-05-09T17:28:29+00:00</updated>
+  <media:group>
+   <media:title>Նոր Եդեսիա և Ուջան գյուղեր</media:title>
+   <media:content url="https://www.youtube.com/v/s8-wYlVmK20?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/s8-wYlVmK20/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Նոր Եդեսիայում  մրգատու ծառերի էտ է:  Խնձորենին, դեղձենին, տանձենին, նշենին էտելու իրենց եղանակներն ունեն: Արամ Սիրունյանը բացատրում է դրանց տարբերությունը: Ապա, «Հողը չի սպասում» հաղորդաշարը մեկնում է Ուջան: Այստեղ էլ խաղողակապ է:</media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="303"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cYWWOi9HE8k</id>
+  <yt:videoId>cYWWOi9HE8k</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 08.05.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cYWWOi9HE8k"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-09T10:40:05+00:00</published>
+  <updated>2023-05-09T11:11:41+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 08.05.2023</media:title>
+   <media:content url="https://www.youtube.com/v/cYWWOi9HE8k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cYWWOi9HE8k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ամենայն հայոց հայրապետը հյուրընկալեց Հայկական համալսարանի շրջանավարտներին և ուսանողներին:  
+Ս. Խաչի երևման տոնը Արցախում: 
+Սուրբ Ղևոնդ Երեց եկեղեցու օծումը:  
+Ս. Խաչի երևման տոնի օրը նաև Արաբկիրի Ս. Խաչ եկեղեցու ուխտի օրն է:
+Ս. Խաչի երևման տոնը Ապարանի Ս. Խաչ եկեղեցում:</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="205"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QkiSMRGki30</id>
+  <yt:videoId>QkiSMRGki30</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մայիսի 9</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QkiSMRGki30"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-09T08:11:44+00:00</published>
+  <updated>2023-05-09T08:28:37+00:00</updated>
+  <media:group>
+   <media:title>Մայիսի 9</media:title>
+   <media:content url="https://www.youtube.com/v/QkiSMRGki30?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QkiSMRGki30/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. մայիսի 9-ի օրվա խորհուրդը ( Գշ. ԴՁ. ԼԱ օր Յինանց: Ղկ. 12.32-48: Գրծ. 18.1-11: Ա Յհ. 2.7-17: Յհ. 7.37-8.11: Մտ. 14.13-21: Մր. 7.1-16: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="464" average="5.00" min="1" max="5"/>
+    <media:statistics views="3317"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WUIFoU9DMlw</id>
+  <yt:videoId>WUIFoU9DMlw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Սուրբ Ղևոնդ Երեց եկեղեցու օծումը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WUIFoU9DMlw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T18:14:08+00:00</published>
+  <updated>2023-05-08T19:24:17+00:00</updated>
+  <media:group>
+   <media:title>Սուրբ Ղևոնդ Երեց եկեղեցու օծումը</media:title>
+   <media:content url="https://www.youtube.com/v/WUIFoU9DMlw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WUIFoU9DMlw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մայիսի 8-ը Երկրապահի օրն է: Խորհրդանշական այս օրը այսուհետ կլինի նաև Երկրապահ կամավորների միության վարչական շենքի հարևանությամբ կառուցված Սուրբ Ղևոնդ Երեց նորակառույց եկեղեցու օրը:</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="422"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:U5tl-ibLeEU</id>
+  <yt:videoId>U5tl-ibLeEU</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ս. Խաչի երևման տոնի օրը նաև Արաբկիրի Ս. Խաչ եկեղեցու ուխտի օրն է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=U5tl-ibLeEU"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T18:05:51+00:00</published>
+  <updated>2023-05-08T21:53:11+00:00</updated>
+  <media:group>
+   <media:title>Ս. Խաչի երևման տոնի օրը նաև Արաբկիրի Ս. Խաչ եկեղեցու ուխտի օրն է</media:title>
+   <media:content url="https://www.youtube.com/v/U5tl-ibLeEU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/U5tl-ibLeEU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Խաչի երևման տոնին Մայր Աթոռից Արաբկիրի Ս. Խաչ եկեղեցի բերվեց Տիրոջ Խաչափայտի մասունքը: Արարատյան հայրապետական թեմի առաջնորդական փոխանորդ Նավասարդ արքեպիսկոպոս Կճոյանի տնօրինությամբ Սուրբ Խաչի երևման տոնի օրը Արաբկիրի Ս. Խաչ եկեղեցու ուխտի օրն է լինելու:</media:description>
+   <media:community>
+    <media:starRating count="34" average="5.00" min="1" max="5"/>
+    <media:statistics views="1000"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CmmmYxVOp-c</id>
+  <yt:videoId>CmmmYxVOp-c</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հանրապետական մաղթանք Արցախում՝ ի նշանավորումն 1992 թվականին Շուշիի ազատագրման</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CmmmYxVOp-c"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T18:01:49+00:00</published>
+  <updated>2023-05-08T19:36:51+00:00</updated>
+  <media:group>
+   <media:title>Հանրապետական մաղթանք Արցախում՝ ի նշանավորումն 1992 թվականին Շուշիի ազատագրման</media:title>
+   <media:content url="https://www.youtube.com/v/CmmmYxVOp-c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CmmmYxVOp-c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մայիսի 7-ին Արցախի եկեղեցիներում մատուցվեց տոնական պատարագ մայիսյան եռատոնի կապակցությամբ: Նույն օրը հայ եկեղեցին նշում էր Խաչի երևման տոնը: Պատարագի ավարտին կատարվեց հանրապետական մաղթանք՝ ի նշանավորումն 1992 թ. Շուշիի ազատագրման։ Այդ տարի քաղաքի ազատագրումը համընկավ Խաչի երևման տոնին` մայիսի 8-ին:</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="152"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lsXCEzAxXaw</id>
+  <yt:videoId>lsXCEzAxXaw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ս. Խաչի երևման տոնը Ապարանի Ս. Խաչ եկեղեցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lsXCEzAxXaw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T17:56:04+00:00</published>
+  <updated>2023-05-09T02:31:35+00:00</updated>
+  <media:group>
+   <media:title>Ս. Խաչի երևման տոնը Ապարանի Ս. Խաչ եկեղեցում</media:title>
+   <media:content url="https://www.youtube.com/v/lsXCEzAxXaw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lsXCEzAxXaw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սուրբ Խաչի երևման տոնի օրը, ավանդույթի համաձայն, Քրիստոսի խաչափայտի մասունքը բերվեց Ապարանի սուրբ Խաչ եկեղեցի: Եկեղեցին այս տարի տոնում է վերաօծման 21-րդ տարեդարձը:</media:description>
+   <media:community>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="666"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:i0Kls5-3bz0</id>
+  <yt:videoId>i0Kls5-3bz0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամենայն հայոց հայրապետը հյուրընկալեց Հայկական համալսարանի շրջանավարտներին և ուսանողներին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=i0Kls5-3bz0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T17:55:10+00:00</published>
+  <updated>2023-05-08T20:27:06+00:00</updated>
+  <media:group>
+   <media:title>Ամենայն հայոց հայրապետը հյուրընկալեց Հայկական համալսարանի շրջանավարտներին և ուսանողներին</media:title>
+   <media:content url="https://www.youtube.com/v/i0Kls5-3bz0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/i0Kls5-3bz0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մայր Աթոռ Ս. Էջմիածնում Գարեգին Երկրորդ Ամենայն հայոց կաթողիկոսն ընդունեց Հայկական համալսարանի դասախոսների, շրջանավարտների և ուսանողների խմբին։ «Հայկական համալսարան» ծրագիրը սկիզբ է առել 2020 թվականի արցախյան պատերազմից հետո:</media:description>
+   <media:community>
+    <media:starRating count="40" average="5.00" min="1" max="5"/>
+    <media:statistics views="895"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7_P0BVa9LCY</id>
+  <yt:videoId>7_P0BVa9LCY</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Բորիս Ստեփանյանը պատերազմից հետո</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7_P0BVa9LCY"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T17:15:08+00:00</published>
+  <updated>2023-05-08T17:26:51+00:00</updated>
+  <media:group>
+   <media:title>Բորիս Ստեփանյանը պատերազմից հետո</media:title>
+   <media:content url="https://www.youtube.com/v/7_P0BVa9LCY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7_P0BVa9LCY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Բորիս Ստեփանյանը Հադրութի Տող գյուղից է: Պատերազմը Բորիսիսց խլել է ոչ միայն առողջությունը, այլև տունն ու տեղը: Ծանր վիրավորում ստանալուց հետո ստիպված են եղել դեգերել մարզից մարզ, հանրակացարանից՝ հյուրատուն, ի վերջո ընտանիքի մտերիմներից մեկի աջակցությամբ «Ֆեյսբուք» սոցիալական ցանցում դրամահավաք են կազմակերպել եւ բնակարան ձեռք բերել Կոտայքի մարզի Արգել գյուղում:</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="566"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fZY791gPZCg</id>
+  <yt:videoId>fZY791gPZCg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մայիսի 8</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fZY791gPZCg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-08T05:00:15+00:00</published>
+  <updated>2023-05-08T05:00:16+00:00</updated>
+  <media:group>
+   <media:title>Մայիսի 8</media:title>
+   <media:content url="https://www.youtube.com/v/fZY791gPZCg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fZY791gPZCg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. մայիսի 8-ի օրվա խորհուրդը (Բշ. ԳԿ. Լ օր Յինանց: Ղկ. 12.13-31: Գրծ. 17.16-34: Ա Յհ. 2.1-6: Յհ. 7.24-36: Մտ. 14.1- 12: Մր. 6.45-56: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="626" average="5.00" min="1" max="5"/>
+    <media:statistics views="4608"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CnD5ANUO--c</id>
+  <yt:videoId>CnD5ANUO--c</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մայիսի 7</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CnD5ANUO--c"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-07T05:00:04+00:00</published>
+  <updated>2023-05-07T05:00:04+00:00</updated>
+  <media:group>
+   <media:title>Մայիսի 7</media:title>
+   <media:content url="https://www.youtube.com/v/CnD5ANUO--c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CnD5ANUO--c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. մայիսի 7-ի օրվա խորհուրդը († Կիր. ԳՁ. Ե կիր. Տօն Երեւման Ս. Խաչի: Ղկ. 11.33-12.12: Գրծ. 17.1-15: Ա Յհ. 1.1-10: Յհ. 7.14-23: Մտ. 13.53-58: Մր. 6.30-44:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="545" average="5.00" min="1" max="5"/>
+    <media:statistics views="4592"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MOxbSglM1iU</id>
+  <yt:videoId>MOxbSglM1iU</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հայ գրականության սիրունները, մաս 1-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MOxbSglM1iU"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-05-06T18:00:10+00:00</published>
+  <updated>2023-05-06T18:23:38+00:00</updated>
+  <media:group>
+   <media:title>Հայ գրականության սիրունները, մաս 1-ին</media:title>
+   <media:content url="https://www.youtube.com/v/MOxbSglM1iU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MOxbSglM1iU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հայ գրականությունը դիմանկարնների բազմազան ու հետաքրքիր պատկերասրահ ունի: Հին գրականությունից սկսյալ, մինչ նոր ժամանակներ գեղեցկության տարբեր պատկերացումներով ու չափանիշներով ներկայացվել ու գովերգվել է կնոջ գեղեցկությունը, բայց կան նաև գեղեցիկ տղամարդկանց պատկերներ: Գեղեցկության ի՞նչ չափանիշներով են միջնադարյան ու նոր գրականության մեջ պատկերվում հերսներն ու հերոսուհիները, ինչ գեղարվեստական միջոցներ են օգտագործվում: Քննարկում են գրականագետներ Հայկ Համբարձումյանը և Արքմենիկ Նիկողոսյանը։</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="236"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:34cMSJX1zC4</id>
+  <yt:videoId>34cMSJX1zC4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Կարո սարկավագ Ղարիբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=34cMSJX1zC4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-02T13:54:38+00:00</published>
+  <updated>2023-05-06T14:53:25+00:00</updated>
+  <media:group>
+   <media:title>Կարո սարկավագ Ղարիբյան</media:title>
+   <media:content url="https://www.youtube.com/v/34cMSJX1zC4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/34cMSJX1zC4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>44 –օրյա պատերազմի ժամանակ Կարո սարկավագ Ղարիբյանը ծառայում Հադրութում: Պատերազմի ու խաղաղ օրերի մասին է պատմում Կարո սարկավագ Ղարիբյանը:</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

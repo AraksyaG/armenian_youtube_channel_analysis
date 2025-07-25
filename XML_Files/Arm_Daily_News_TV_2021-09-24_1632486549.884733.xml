@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <id>yt:channel:UC8k_9xHrn82EV_oSFXBE6Cw</id>
+ <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+ <title>AD TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <author>
+  <name>AD TV</name>
+  <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+ </author>
+ <published>2018-07-06T12:27:35+00:00</published>
+ <entry>
+  <id>yt:video:sp5tGeWRlb8</id>
+  <yt:videoId>sp5tGeWRlb8</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Գնել Սանոսյանի ճեպազրույցը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sp5tGeWRlb8"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-24T12:12:44+00:00</published>
+  <updated>2021-09-24T12:16:46+00:00</updated>
+  <media:group>
+   <media:title>Գնել Սանոսյանի ճեպազրույցը</media:title>
+   <media:content url="https://www.youtube.com/v/sp5tGeWRlb8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sp5tGeWRlb8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="93"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NyZY-fogVkc</id>
+  <yt:videoId>NyZY-fogVkc</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Արթուր Ղազինյանի ճեպազրույցը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NyZY-fogVkc"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-24T11:28:47+00:00</published>
+  <updated>2021-09-24T12:15:15+00:00</updated>
+  <media:group>
+   <media:title>Արթուր Ղազինյանի ճեպազրույցը</media:title>
+   <media:content url="https://www.youtube.com/v/NyZY-fogVkc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NyZY-fogVkc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="7" average="1.57" min="1" max="5"/>
+    <media:statistics views="62"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:W-F1c5eEhqA</id>
+  <yt:videoId>W-F1c5eEhqA</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կառավարության անդամների ճեպազրույցները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=W-F1c5eEhqA"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-24T09:29:10+00:00</published>
+  <updated>2021-09-24T10:54:24+00:00</updated>
+  <media:group>
+   <media:title>Կառավարության անդամների ճեպազրույցները</media:title>
+   <media:content url="https://www.youtube.com/v/W-F1c5eEhqA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/W-F1c5eEhqA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="2" average="3.00" min="1" max="5"/>
+    <media:statistics views="69"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Uewn7TRWUAU</id>
+  <yt:videoId>Uewn7TRWUAU</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>ԱԺ ութերորդ գումարման երկրորդ նստաշրջանի արտահերթ նիստը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Uewn7TRWUAU"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-24T09:04:14+00:00</published>
+  <updated>2021-09-24T09:11:03+00:00</updated>
+  <media:group>
+   <media:title>ԱԺ ութերորդ գումարման երկրորդ նստաշրջանի արտահերթ նիստը</media:title>
+   <media:content url="https://www.youtube.com/v/Uewn7TRWUAU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Uewn7TRWUAU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="1.00" min="1" max="5"/>
+    <media:statistics views="116"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7tzoovghgrs</id>
+  <yt:videoId>7tzoovghgrs</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Փաշինյանը շարժվում է կործանված թմրամոլի կարգախոսով.Գեղամ Նազարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7tzoovghgrs"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T18:30:09+00:00</published>
+  <updated>2021-09-23T22:36:58+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանը շարժվում է կործանված թմրամոլի կարգախոսով.Գեղամ Նազարյան</media:title>
+   <media:content url="https://www.youtube.com/v/7tzoovghgrs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7tzoovghgrs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="49" average="2.63" min="1" max="5"/>
+    <media:statistics views="455"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pBg9q-fg6f8</id>
+  <yt:videoId>pBg9q-fg6f8</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Հրանուշ Խառատյանն ու Մարությանը ներգրավված են եղել հայ-թուրքական հաշտեցման ծրագրերում.Հայկ Դեմոյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pBg9q-fg6f8"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T17:30:10+00:00</published>
+  <updated>2021-09-23T18:12:38+00:00</updated>
+  <media:group>
+   <media:title>Հրանուշ Խառատյանն ու Մարությանը ներգրավված են եղել հայ-թուրքական հաշտեցման ծրագրերում.Հայկ Դեմոյան</media:title>
+   <media:content url="https://www.youtube.com/v/pBg9q-fg6f8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pBg9q-fg6f8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="38" average="4.37" min="1" max="5"/>
+    <media:statistics views="729"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nf8huo1P2hk</id>
+  <yt:videoId>nf8huo1P2hk</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս. AD TV «Հարցազրույցի» հյուրն է Հայկ Դեմոյանը. Դիտեք այսօր՝ 21.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nf8huo1P2hk"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T15:08:15+00:00</published>
+  <updated>2021-09-23T15:50:22+00:00</updated>
+  <media:group>
+   <media:title>Անոնս. AD TV «Հարցազրույցի» հյուրն է Հայկ Դեմոյանը. Դիտեք այսօր՝ 21.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/nf8huo1P2hk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nf8huo1P2hk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="86"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vik_Tk3HksY</id>
+  <yt:videoId>vik_Tk3HksY</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս. AD TV «Հարցազրույցի» հյուրն է Գեղամ Նազարյանը. Դիտեք այսօր՝ 22.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vik_Tk3HksY"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T15:04:27+00:00</published>
+  <updated>2021-09-23T15:36:07+00:00</updated>
+  <media:group>
+   <media:title>Անոնս. AD TV «Հարցազրույցի» հյուրն է Գեղամ Նազարյանը. Դիտեք այսօր՝ 22.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/vik_Tk3HksY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vik_Tk3HksY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="3" average="2.33" min="1" max="5"/>
+    <media:statistics views="78"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:---XX0sEtig</id>
+  <yt:videoId>---XX0sEtig</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Թուրքն ա գալու մեր գլխին չագուչով խփի, մեզ հալածի  քաղաքացիները՝ Թուրքիայի հետ հարաբերությունները կա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=---XX0sEtig"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T14:10:40+00:00</published>
+  <updated>2021-09-23T14:45:24+00:00</updated>
+  <media:group>
+   <media:title>Թուրքն ա գալու մեր գլխին չագուչով խփի, մեզ հալածի  քաղաքացիները՝ Թուրքիայի հետ հարաբերությունները կա</media:title>
+   <media:content url="https://www.youtube.com/v/---XX0sEtig?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/---XX0sEtig/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="16" average="3.50" min="1" max="5"/>
+    <media:statistics views="420"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gv73OgSkoUE</id>
+  <yt:videoId>gv73OgSkoUE</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Պատերազմից հետո՝ ծաղիկների գները բարձրացրեցին, էդպես էլ մնաց. ինչու են թանկացել ծաղիկները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gv73OgSkoUE"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T14:06:24+00:00</published>
+  <updated>2021-09-23T14:47:20+00:00</updated>
+  <media:group>
+   <media:title>Պատերազմից հետո՝ ծաղիկների գները բարձրացրեցին, էդպես էլ մնաց. ինչու են թանկացել ծաղիկները</media:title>
+   <media:content url="https://www.youtube.com/v/gv73OgSkoUE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gv73OgSkoUE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zqZKN0-No_Q</id>
+  <yt:videoId>zqZKN0-No_Q</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Ով է նա․ պայքարեցինք, բայց չհասանք․ քաղաքացիները՝ Իշխան Սաղաթելյանի մասին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zqZKN0-No_Q"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T13:42:45+00:00</published>
+  <updated>2021-09-23T13:50:04+00:00</updated>
+  <media:group>
+   <media:title>Ով է նա․ պայքարեցինք, բայց չհասանք․ քաղաքացիները՝ Իշխան Սաղաթելյանի մասին</media:title>
+   <media:content url="https://www.youtube.com/v/zqZKN0-No_Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zqZKN0-No_Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="2" average="1.00" min="1" max="5"/>
+    <media:statistics views="358"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n0zIXZ845mE</id>
+  <yt:videoId>n0zIXZ845mE</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Գնացել, խնդրել ենք Ծառուկյանին, որ գործարանը բացի, բայց չի բացում, խաղող չի մթերում  Քերոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n0zIXZ845mE"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T13:05:37+00:00</published>
+  <updated>2021-09-23T13:46:49+00:00</updated>
+  <media:group>
+   <media:title>Գնացել, խնդրել ենք Ծառուկյանին, որ գործարանը բացի, բայց չի բացում, խաղող չի մթերում  Քերոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/n0zIXZ845mE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n0zIXZ845mE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="237"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:duWLWI8sUmk</id>
+  <yt:videoId>duWLWI8sUmk</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Խաղողագործների բողոքի ակցիան Կառավարության մոտ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=duWLWI8sUmk"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T10:15:12+00:00</published>
+  <updated>2021-09-23T11:56:05+00:00</updated>
+  <media:group>
+   <media:title>Խաղողագործների բողոքի ակցիան Կառավարության մոտ</media:title>
+   <media:content url="https://www.youtube.com/v/duWLWI8sUmk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/duWLWI8sUmk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="6" average="3.67" min="1" max="5"/>
+    <media:statistics views="180"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:x4QicVOf3k0</id>
+  <yt:videoId>x4QicVOf3k0</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Պատվաստվածներից քանիսն են հիվանդացած եղել կորոնավիրուսով, արդյոք ունեցել ենք մահվան դեպքեր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=x4QicVOf3k0"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T09:01:28+00:00</published>
+  <updated>2021-09-23T11:05:21+00:00</updated>
+  <media:group>
+   <media:title>Պատվաստվածներից քանիսն են հիվանդացած եղել կորոնավիրուսով, արդյոք ունեցել ենք մահվան դեպքեր</media:title>
+   <media:content url="https://www.youtube.com/v/x4QicVOf3k0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/x4QicVOf3k0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="61"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Bw3YzBHCz1U</id>
+  <yt:videoId>Bw3YzBHCz1U</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կորոնավիրուսային իրավիճակին վերաբերող լսումներ Ազգային ժողովում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Bw3YzBHCz1U"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2021-09-23T08:56:40+00:00</published>
+  <updated>2021-09-23T11:44:30+00:00</updated>
+  <media:group>
+   <media:title>Կորոնավիրուսային իրավիճակին վերաբերող լսումներ Ազգային ժողովում</media:title>
+   <media:content url="https://www.youtube.com/v/Bw3YzBHCz1U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Bw3YzBHCz1U/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="7" average="1.57" min="1" max="5"/>
+    <media:statistics views="231"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

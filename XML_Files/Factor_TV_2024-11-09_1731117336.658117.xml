@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCkI5KAJDh9S-BQFc6QzSUiA"/>
+ <id>yt:channel:kI5KAJDh9S-BQFc6QzSUiA</id>
+ <yt:channelId>kI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+ <title>Factor tv</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA"/>
+ <author>
+  <name>Factor tv</name>
+  <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+ </author>
+ <published>2017-03-24T07:02:36+00:00</published>
+ <entry>
+  <id>yt:video:NyX8fusZuVs</id>
+  <yt:videoId>NyX8fusZuVs</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Թրամփը կընդդիմանա, եթե Պուտինը Ուկրաինային հաղթի, սկսի գրավել հարևան երկրները․ Արա Պապյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NyX8fusZuVs"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T19:59:54+00:00</published>
+  <updated>2024-11-08T20:05:30+00:00</updated>
+  <media:group>
+   <media:title>Թրամփը կընդդիմանա, եթե Պուտինը Ուկրաինային հաղթի, սկսի գրավել հարևան երկրները․ Արա Պապյան</media:title>
+   <media:content url="https://www.youtube.com/v/NyX8fusZuVs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NyX8fusZuVs/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="24"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cGEWdSDKzA0</id>
+  <yt:videoId>cGEWdSDKzA0</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Ինչո՞ւ նորաձևության ցուցադրությունն իրականացվեց զոհվածների հուշահամալիրում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cGEWdSDKzA0"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T19:50:00+00:00</published>
+  <updated>2024-11-08T19:50:54+00:00</updated>
+  <media:group>
+   <media:title>Ինչո՞ւ նորաձևության ցուցադրությունն իրականացվեց զոհվածների հուշահամալիրում</media:title>
+   <media:content url="https://www.youtube.com/v/cGEWdSDKzA0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cGEWdSDKzA0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="36"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:L1KTsYVUeL8</id>
+  <yt:videoId>L1KTsYVUeL8</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Կիսամերկ աղջիկներով նորաձևության ցուցադրություն՝ զոհվածների հուշարձանի տարածքում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=L1KTsYVUeL8"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T19:28:13+00:00</published>
+  <updated>2024-11-08T19:30:41+00:00</updated>
+  <media:group>
+   <media:title>Կիսամերկ աղջիկներով նորաձևության ցուցադրություն՝ զոհվածների հուշարձանի տարածքում</media:title>
+   <media:content url="https://www.youtube.com/v/L1KTsYVUeL8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/L1KTsYVUeL8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="266"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IpOxXMyJ0Sw</id>
+  <yt:videoId>IpOxXMyJ0Sw</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Նորաձևություն՝ զոհերի հուշարձանում․ Yerevan Fashion Week-ի ցուցադրության ոչ գլամուր հետևանքները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IpOxXMyJ0Sw"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T18:06:01+00:00</published>
+  <updated>2024-11-08T18:18:40+00:00</updated>
+  <media:group>
+   <media:title>Նորաձևություն՝ զոհերի հուշարձանում․ Yerevan Fashion Week-ի ցուցադրության ոչ գլամուր հետևանքները</media:title>
+   <media:content url="https://www.youtube.com/v/IpOxXMyJ0Sw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IpOxXMyJ0Sw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="847"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:O3mgowVW_mU</id>
+  <yt:videoId>O3mgowVW_mU</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>«Էսքան կանխիկը որ ցույց ա տվել, բա ինչքա՞նը ցույց չի տվել»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=O3mgowVW_mU"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T17:50:52+00:00</published>
+  <updated>2024-11-08T17:53:23+00:00</updated>
+  <media:group>
+   <media:title>«Էսքան կանխիկը որ ցույց ա տվել, բա ինչքա՞նը ցույց չի տվել»</media:title>
+   <media:content url="https://www.youtube.com/v/O3mgowVW_mU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/O3mgowVW_mU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="746"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:90o3kvmA_BQ</id>
+  <yt:videoId>90o3kvmA_BQ</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Էս արդարությունը երբ են հանելու ջրի երես. զոհված զինծառայողների ծնողները դիմեցին Գալյանին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=90o3kvmA_BQ"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T17:08:16+00:00</published>
+  <updated>2024-11-08T17:09:09+00:00</updated>
+  <media:group>
+   <media:title>Էս արդարությունը երբ են հանելու ջրի երես. զոհված զինծառայողների ծնողները դիմեցին Գալյանին</media:title>
+   <media:content url="https://www.youtube.com/v/90o3kvmA_BQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/90o3kvmA_BQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="499"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tMwzzffUOCo</id>
+  <yt:videoId>tMwzzffUOCo</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Պատերազմի դադարից 4 տարի անց ՀՀ-ն և Ադրբեջանը խաղաղության պայմանագիր չեն ստորագրել․ ի՞նչ սպասել</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tMwzzffUOCo"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T17:00:06+00:00</published>
+  <updated>2024-11-08T18:37:16+00:00</updated>
+  <media:group>
+   <media:title>Պատերազմի դադարից 4 տարի անց ՀՀ-ն և Ադրբեջանը խաղաղության պայմանագիր չեն ստորագրել․ ի՞նչ սպասել</media:title>
+   <media:content url="https://www.youtube.com/v/tMwzzffUOCo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tMwzzffUOCo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="245" average="5.00" min="1" max="5"/>
+    <media:statistics views="14076"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Dtl-QWaVcNM</id>
+  <yt:videoId>Dtl-QWaVcNM</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Для Москвы договориться на условиях Вашингтона- политическое поражение: Виталий Портников</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Dtl-QWaVcNM"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T16:30:06+00:00</published>
+  <updated>2024-11-08T16:56:07+00:00</updated>
+  <media:group>
+   <media:title>Для Москвы договориться на условиях Вашингтона- политическое поражение: Виталий Портников</media:title>
+   <media:content url="https://www.youtube.com/v/Dtl-QWaVcNM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Dtl-QWaVcNM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="61" average="5.00" min="1" max="5"/>
+    <media:statistics views="1869"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9oOuZ68cKOw</id>
+  <yt:videoId>9oOuZ68cKOw</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Пашинян и Макрон провели встречу; Париж поддержит Ереван в организации COP17. НОВОСТИ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9oOuZ68cKOw"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T16:00:21+00:00</published>
+  <updated>2024-11-08T16:10:39+00:00</updated>
+  <media:group>
+   <media:title>Пашинян и Макрон провели встречу; Париж поддержит Ереван в организации COP17. НОВОСТИ</media:title>
+   <media:content url="https://www.youtube.com/v/9oOuZ68cKOw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9oOuZ68cKOw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="419"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JLfJIGS6fhc</id>
+  <yt:videoId>JLfJIGS6fhc</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Թրամփը կարագացնի ԵՄ-ի ռազմականացումը․ Մակրոնն ասաց՝ Եվրոպան «գիշատիչ» պիտի դառնա․ Արա Պապյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JLfJIGS6fhc"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T16:00:06+00:00</published>
+  <updated>2024-11-08T16:41:04+00:00</updated>
+  <media:group>
+   <media:title>Թրամփը կարագացնի ԵՄ-ի ռազմականացումը․ Մակրոնն ասաց՝ Եվրոպան «գիշատիչ» պիտի դառնա․ Արա Պապյան</media:title>
+   <media:content url="https://www.youtube.com/v/JLfJIGS6fhc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JLfJIGS6fhc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="189" average="5.00" min="1" max="5"/>
+    <media:statistics views="4948"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kHTYyxO9-5w</id>
+  <yt:videoId>kHTYyxO9-5w</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>5 անշարժ գույք,4 մեքենա,62.8 մլն դրամ.առաջին դատավորն է անցնում ապօրինի ծագում ունեցող գույքի գործով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kHTYyxO9-5w"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T15:45:06+00:00</published>
+  <updated>2024-11-08T15:55:34+00:00</updated>
+  <media:group>
+   <media:title>5 անշարժ գույք,4 մեքենա,62.8 մլն դրամ.առաջին դատավորն է անցնում ապօրինի ծագում ունեցող գույքի գործով</media:title>
+   <media:content url="https://www.youtube.com/v/kHTYyxO9-5w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kHTYyxO9-5w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="948"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nC39mcqCrDk</id>
+  <yt:videoId>nC39mcqCrDk</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Թրամփը գուցե զոհաբերի ԱՄՆ-ի դերը Կովկասում՝ ՌԴ-ի հետ հարաբերությունը բարելավելու համար</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nC39mcqCrDk"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T15:00:06+00:00</published>
+  <updated>2024-11-08T15:33:43+00:00</updated>
+  <media:group>
+   <media:title>Թրամփը գուցե զոհաբերի ԱՄՆ-ի դերը Կովկասում՝ ՌԴ-ի հետ հարաբերությունը բարելավելու համար</media:title>
+   <media:content url="https://www.youtube.com/v/nC39mcqCrDk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nC39mcqCrDk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="20" average="5.00" min="1" max="5"/>
+    <media:statistics views="883"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GBeA-AmfzzY</id>
+  <yt:videoId>GBeA-AmfzzY</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Փաշինյանը՝ կոռուպցիայի ընկալման մասին, Փաշազադեն խեղաթյուրել է Արցախի եկեղեցիների պատկանելությունը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GBeA-AmfzzY"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T14:15:11+00:00</published>
+  <updated>2024-11-08T14:32:17+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանը՝ կոռուպցիայի ընկալման մասին, Փաշազադեն խեղաթյուրել է Արցախի եկեղեցիների պատկանելությունը</media:title>
+   <media:content url="https://www.youtube.com/v/GBeA-AmfzzY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GBeA-AmfzzY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="1214"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4QEzApo8SvM</id>
+  <yt:videoId>4QEzApo8SvM</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Չկա՛ էդպիսի բան, որ դատաիրավական համակարգը կառավարությունից ակնկալել է և մենք ասել ենք՝ չէ․ Փաշինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4QEzApo8SvM"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T13:59:31+00:00</published>
+  <updated>2024-11-08T15:40:21+00:00</updated>
+  <media:group>
+   <media:title>Չկա՛ էդպիսի բան, որ դատաիրավական համակարգը կառավարությունից ակնկալել է և մենք ասել ենք՝ չէ․ Փաշինյան</media:title>
+   <media:content url="https://www.youtube.com/v/4QEzApo8SvM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4QEzApo8SvM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="2456"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ayGiPxRUkjM</id>
+  <yt:videoId>ayGiPxRUkjM</yt:videoId>
+  <yt:channelId>UCkI5KAJDh9S-BQFc6QzSUiA</yt:channelId>
+  <title>Ինչ գիտեն գյումրեցիները քաղաքապետի հրաժարականի մասին. ՀԱՐՑՈՒՄ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ayGiPxRUkjM"/>
+  <author>
+   <name>Factor tv</name>
+   <uri>https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA</uri>
+  </author>
+  <published>2024-11-08T13:04:11+00:00</published>
+  <updated>2024-11-08T13:19:19+00:00</updated>
+  <media:group>
+   <media:title>Ինչ գիտեն գյումրեցիները քաղաքապետի հրաժարականի մասին. ՀԱՐՑՈՒՄ</media:title>
+   <media:content url="https://www.youtube.com/v/ayGiPxRUkjM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ayGiPxRUkjM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հավաստի, բազմակողմանի, արագ․ Factor TV-ն իր հետևորդներին է ներկայացնում անկողմնակալ տեղեկատվություն հայաստանյան եւ միջազգային կարեւոր իրադարձությունների մասին։ Ամենօրյա պարբերականությամբ մեր էջում հրապարակվում են իրադարձային վիդեոռեպորտաժներ, վերլուծական, հետաքննական եւ փաստաքննական տեսանյութեր և հեղինակային հաղորդաշարեր։
+ Հետեւեք նաեւ մեր ուղիղ հեռարձակումներին՝ բոլոր թեժ կետերից։ Մեր գործունեությամբ մենք ցանկանում ենք նպաստել ՀՀ-ում ժողովրդավարական արժեքների ամրապնդմանը, քաղհասարակության ուժեղացմանը, մարդու իրավունքների, հիմնարար ազատությունների պաշտպանությանը, սոցիալական արդարության և իրավահավասարության սկզբունքների քարոզչությանը եւ, իհարկե, որակյալ լրագրության զարգացմանը։
+ 🔴Youtube-ում՝ դիտեք և բաժանորդագրվեք՝ https://cutt.ly/xUuYIYT 
+🔴Պաշտոնական կայքում՝ կարդացեք և տարածեք՝ https://factor.am/ 
+🔴 Սոցցանցերում՝ հետևեք և հավանեք՝ 
+📌Facebook - https://cutt.ly/AUuR0zz
+📌Telegram - https://t.me/factoram 
+📌Instagram - https://cutt.ly/2UumcaA 
+📌 Twitter - https://cutt.ly/MPYV3kB 
+
+#Factortv #news #tv #срочно #LevonTerPetrosyan #Pashinyan #Nikol #Քոչարյան #Ռոբերտ #Փաշինյան #Նիկոլ #Sarkisian #Serge #Sargsyan #Serzh #Yerevan #Armenia #ютюб #СМИ #прямой #первые #мир #дня #срочно #телеканал #новости #политика #новостной #агентство #factor #agency #films #Youtube #Exclusive #Holding #media #breaking #live #top #stories #news #channel #news #today #newslive #armenia #policy #politics #armnews #Հայաստան #Армения #tv #լուրեր #մամուլ #թերթեր #tert #blog #arm #հայ #սպորտ #քաղաքական #իրավունք #նորություն #ալիք #yerevan #Երևան #today #այսօր</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="2751"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

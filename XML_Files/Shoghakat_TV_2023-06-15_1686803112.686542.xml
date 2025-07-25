@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:UhgOkbEB7aM</id>
+  <yt:videoId>UhgOkbEB7aM</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունիսի 15</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UhgOkbEB7aM"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-15T03:43:41+00:00</published>
+  <updated>2023-06-15T03:43:41+00:00</updated>
+  <media:group>
+   <media:title>Հունիսի 15</media:title>
+   <media:content url="https://www.youtube.com/v/UhgOkbEB7aM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UhgOkbEB7aM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. հունիսի 15-ի օրվա խորհուրդը (15 Եշ. ԲԿ. Սրբոց իշխանացն Սահակայ եւ Յովսեփայ, սրբոց վկայիցն Սարգսի եւ Բագոսի: Առ. 6.1-5: Ես. 33.5-8: Հռ. 8.18-27: Ղկ. 21.12-19: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="51" average="5.00" min="1" max="5"/>
+    <media:statistics views="180"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AXHLZK7-L8s</id>
+  <yt:videoId>AXHLZK7-L8s</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Կրթության և գիտության նոր ռազմավարություն. մաս 117-րդ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AXHLZK7-L8s"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-14T18:45:09+00:00</published>
+  <updated>2023-06-14T19:57:43+00:00</updated>
+  <media:group>
+   <media:title>Կրթության և գիտության նոր ռազմավարություն. մաս 117-րդ</media:title>
+   <media:content url="https://www.youtube.com/v/AXHLZK7-L8s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AXHLZK7-L8s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Գիտության և կրթության ռազմավարության խնդիրը քննարկում ենք կրթության փորձագետ Սերոբ Խաչատրյանի հետ:</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="80"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xmLn8jrcpSw</id>
+  <yt:videoId>xmLn8jrcpSw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունիսի 14</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xmLn8jrcpSw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-14T05:00:20+00:00</published>
+  <updated>2023-06-14T05:00:21+00:00</updated>
+  <media:group>
+   <media:title>Հունիսի 14</media:title>
+   <media:content url="https://www.youtube.com/v/xmLn8jrcpSw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xmLn8jrcpSw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. հունիսի 14-ի օրվա խորհուրդը (14 Դշ. ԲՁ. Պահք: Հռ. 4.13-22: Մտ. 10.34-42:  ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="522" average="5.00" min="1" max="5"/>
+    <media:statistics views="3125"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DJzOrFcvkqI</id>
+  <yt:videoId>DJzOrFcvkqI</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Խաչյալը՝ հույսի աղբյուր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DJzOrFcvkqI"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-13T18:14:06+00:00</published>
+  <updated>2023-06-13T22:13:15+00:00</updated>
+  <media:group>
+   <media:title>Խաչյալը՝ հույսի աղբյուր</media:title>
+   <media:content url="https://www.youtube.com/v/DJzOrFcvkqI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DJzOrFcvkqI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Խոցված ու վիրավոր վիճակում ինչպե՞ս կարող ենք չարիքը բարիքի վերածել, ցավն ու տառապանքը փոխակերպել սիրո։ Ի՞նչ օրինակ է տալիս մեզ այս հարցում Քրիստոս։ Մեկնաբանում է Տ. Ռուբեն վարդապետ Զարգարյանը:</media:description>
+   <media:community>
+    <media:starRating count="173" average="5.00" min="1" max="5"/>
+    <media:statistics views="1830"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:H1jbMUcmbqQ</id>
+  <yt:videoId>H1jbMUcmbqQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունիսի 13</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=H1jbMUcmbqQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-13T05:00:12+00:00</published>
+  <updated>2023-06-13T05:00:12+00:00</updated>
+  <media:group>
+   <media:title>Հունիսի 13</media:title>
+   <media:content url="https://www.youtube.com/v/H1jbMUcmbqQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/H1jbMUcmbqQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. հունիսի 13-ի օրվա խորհուրդը (13 Գշ. ԱԿ. Սրբոց կուսանացն Նունեայ եւ Մանեայ: Երգ. 8.14: Ես. 27.11-13: Ա Պտ. 5.8-11: Յհ. 12.24-26: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="550" average="5.00" min="1" max="5"/>
+    <media:statistics views="3456"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RKY9N08IInk</id>
+  <yt:videoId>RKY9N08IInk</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 12.06.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RKY9N08IInk"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T22:12:23+00:00</published>
+  <updated>2023-06-12T22:12:24+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 12.06.2023</media:title>
+   <media:content url="https://www.youtube.com/v/RKY9N08IInk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RKY9N08IInk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ավարտվեց Գերագույն հոգևոր խորհրդի ժողովը: 
+Ամփոփվեց Միաբանական համագումարը։ 
+Հունիսի 11-ին տոնախմբվեց կաթողիկե Սուրբ Էջմիածնի տոնը։
+Կաթողիկե Ս․ Էջմիածնի տոնը Հավլաբարի Ս․ Էջմիածին եկեղեցում։
+Մրգաստանի Ս․ Հովհաննես եկեղեցու զանգի և խաչի օծումը։ 
+Նշվեց Արարատի Սուրբ Ամենափրկիչ եկեղեցու մեկամյակը:</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="378"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1oZ4Z9yDM6E</id>
+  <yt:videoId>1oZ4Z9yDM6E</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մրգաստանում ղողանջեցին եկեղեցու զանգերը, տեղադրվեց խաչը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1oZ4Z9yDM6E"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T22:06:59+00:00</published>
+  <updated>2023-06-12T22:06:59+00:00</updated>
+  <media:group>
+   <media:title>Մրգաստանում ղողանջեցին եկեղեցու զանգերը, տեղադրվեց խաչը</media:title>
+   <media:content url="https://www.youtube.com/v/1oZ4Z9yDM6E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1oZ4Z9yDM6E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մրգաստան գյուղում տասնամյակների դադարից հետո ղողանջեցին Սուրբ Հովհաննես եկեղեցու զանգերը: Արմավիրի թեմի առաջնորդ Տեր Սիոն եպիսկոպոս Ադամյանի ձեռամբ կատարվեց նորոգված եկեղեցու գմբեթի խաչի եւ զանգի օծման արարողությունը:</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="550"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WYdZ5m5jvxo</id>
+  <yt:videoId>WYdZ5m5jvxo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Միաբանական համագումարն ամփոփվեց</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WYdZ5m5jvxo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T22:03:03+00:00</published>
+  <updated>2023-06-13T07:36:16+00:00</updated>
+  <media:group>
+   <media:title>Միաբանական համագումարն ամփոփվեց</media:title>
+   <media:content url="https://www.youtube.com/v/WYdZ5m5jvxo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WYdZ5m5jvxo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Աշխարհի տարբեր ծագերից Մայր Աթոռում հավաքված մոտ 7 տասնյակ վարդապետներ ու աբեղաներ շուրջ մեկ շաբաթ քննարկեցին եկեղեցու առաջ ծառացած տարբեր մարտահարավերներն ու Հայ Առաքելական եկեղեցում միաբանության դերը:</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="668"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vZJi0pOysOg</id>
+  <yt:videoId>vZJi0pOysOg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Արարատի Սուրբ Ամենափրկիչ եկեղեցու մեկամյակը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vZJi0pOysOg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T21:59:51+00:00</published>
+  <updated>2023-06-13T22:51:30+00:00</updated>
+  <media:group>
+   <media:title>Արարատի Սուրբ Ամենափրկիչ եկեղեցու մեկամյակը</media:title>
+   <media:content url="https://www.youtube.com/v/vZJi0pOysOg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vZJi0pOysOg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Արարատ քաղաքում հունիսի 11-ը տոնական էր. լրացավ   քաղաքի առաջին եկեղեցու օծման մեկ տարին:</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="333"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LULVs8ps52E</id>
+  <yt:videoId>LULVs8ps52E</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ավարտվեց Գերագույն հոգևոր խորհրդի ժողովը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LULVs8ps52E"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T21:53:45+00:00</published>
+  <updated>2023-06-12T21:53:46+00:00</updated>
+  <media:group>
+   <media:title>Ավարտվեց Գերագույն հոգևոր խորհրդի ժողովը</media:title>
+   <media:content url="https://www.youtube.com/v/LULVs8ps52E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LULVs8ps52E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մայր Աթոռի Գերագույն հոգևոր խորհուրդը կարևորեց, որ Հայաստանի իշխանությունները հրաժարվեն ազգի արժանապատվությունը ոտնահարող գործողություններից և արտաքին թշնամիների նվաստացուցիչ հավակնություններին ու պահանջներին հակադրեն իրատեսական և բացառապես հայանպաստ դիրքորոշումներ՝ վճռականորեն պաշտպանելով Արցախի ժողովրդի ինքնորոշման անսակարկելի իրավունքը։</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="380"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:C_vDmaJTdaU</id>
+  <yt:videoId>C_vDmaJTdaU</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունիսի 11-ին տոնախմբվեց Հայ եկեղեցու մեծ տոներից մեկը` Սուրբ Էջմիածնի տոնը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=C_vDmaJTdaU"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T15:30:24+00:00</published>
+  <updated>2023-06-13T03:40:49+00:00</updated>
+  <media:group>
+   <media:title>Հունիսի 11-ին տոնախմբվեց Հայ եկեղեցու մեծ տոներից մեկը` Սուրբ Էջմիածնի տոնը</media:title>
+   <media:content url="https://www.youtube.com/v/C_vDmaJTdaU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/C_vDmaJTdaU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սուրբ Էջմիածինն ու մայր տաճարն այս տարի նշում են կառուցման 1720-ամյակը: Լուսավորչի տեսիլքով կառուցված հայոց սրբավայրը օրհնություն և պարգև դարձավ հայ ժողովրդի կյանքում, ուստի համարվում է հայ ազգային և հոգևոր տոների բարձրակետը: Կաթողիկե սուրբ Էջմիածնի տոնը բոլոր էջմիածնականների և նրանց հովվապետի նվիրական տոնն է:</media:description>
+   <media:community>
+    <media:starRating count="45" average="5.00" min="1" max="5"/>
+    <media:statistics views="712"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:L56Mz-RHwXc</id>
+  <yt:videoId>L56Mz-RHwXc</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Կաթողիկե Ս․ Էջմիածնի տոնը Հավլաբարի Ս․ Էջմիածին եկեղեցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=L56Mz-RHwXc"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T15:21:39+00:00</published>
+  <updated>2023-06-12T15:57:48+00:00</updated>
+  <media:group>
+   <media:title>Կաթողիկե Ս․ Էջմիածնի տոնը Հավլաբարի Ս․ Էջմիածին եկեղեցում</media:title>
+   <media:content url="https://www.youtube.com/v/L56Mz-RHwXc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/L56Mz-RHwXc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հայ եկեղեցու  աշխարհասփյուռ եկեղեցիներից Վիրահայոց թեմի Սուրբ Էջմիածին եկեղեցին այն եզակիներից մեկն է, որը պատիվ ունի կոչվելու հայոց հոգևոր կենտրոնի անունով: Եկեղեցին գտնվում է Թբիլիսիի կենտրոնական, հայաշատ Հավլաբար թաղամասում: Այստեղ ևս հունիսի 11-ին նշվեց Կաթողիկե Սուրբ Էջմիածնի հիմնադրման տոնը:</media:description>
+   <media:community>
+    <media:starRating count="26" average="5.00" min="1" max="5"/>
+    <media:statistics views="383"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:N0bY8RXWPeQ</id>
+  <yt:videoId>N0bY8RXWPeQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունիսի 12</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=N0bY8RXWPeQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-12T05:00:21+00:00</published>
+  <updated>2023-06-12T05:00:21+00:00</updated>
+  <media:group>
+   <media:title>Հունիսի 12</media:title>
+   <media:content url="https://www.youtube.com/v/N0bY8RXWPeQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/N0bY8RXWPeQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. հունիսի 12-ի օրվա խորհուրդը (12 Բշ. ԱՁ. Սրբոց մանկանցն Բեթղեհէմի եւ Ակակիոսի վկային, Մովկիմայ քահանային եւ Կոտրատիոսի զինաւորին: Առ. 29.2-7: Ես. 18.7: Եբր. 2.14-18: Մտ. 2.16-18: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="539" average="5.00" min="1" max="5"/>
+    <media:statistics views="3567"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Gy6W4Wk2fLQ</id>
+  <yt:videoId>Gy6W4Wk2fLQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Պատասխանում է Տ. Արամ քահանա Միրզոյանը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Gy6W4Wk2fLQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-11T17:00:11+00:00</published>
+  <updated>2023-06-11T17:25:34+00:00</updated>
+  <media:group>
+   <media:title>Պատասխանում է Տ. Արամ քահանա Միրզոյանը</media:title>
+   <media:content url="https://www.youtube.com/v/Gy6W4Wk2fLQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Gy6W4Wk2fLQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Բժշկված դիվահարին նոր դևեր սպառնու՞մ են: Օրհնություն միայն հոգևորականնե՞րը կարող են տալ։ Ի՞նչ ուժերի են ապավինում գուշակները: Կարելի՞ է արդյոք ամուսնանալ եղբոր այրու հետ: Անշնչացած կենդանիների համար աղոթք, եկեղեցական հատուկ ծես կա՞: Ինչու՞ Քրիստոս երեք օր անց հարություն առավ, երեք թիվը հատուկ նշանակություն ունի՞։ Հեռուստադիտողների և օգտատերերի հարցերին պատասխանել է Տ. Արամ քահանա Միրզոյանը: Շարունակեք գրել ձեր հարցերը «Հարց ու պատասխան» ֆեյսբուքյան էջին:</media:description>
+   <media:community>
+    <media:starRating count="97" average="5.00" min="1" max="5"/>
+    <media:statistics views="1267"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7HqItkdmGfw</id>
+  <yt:videoId>7HqItkdmGfw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունիսի 11</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7HqItkdmGfw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-06-11T05:00:03+00:00</published>
+  <updated>2023-06-11T05:00:03+00:00</updated>
+  <media:group>
+   <media:title>Հունիսի 11</media:title>
+   <media:content url="https://www.youtube.com/v/7HqItkdmGfw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7HqItkdmGfw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. հունիսի 11-ի օրվա խորհուրդը ( † Կիր. ԴԿ. Բ կիր. զկնի Հոգեգալստեան: Տօն Կաթուղիկէ Ս. ջմիածնի: Առ. 9.1-6: Զք. 3.7-4.9: Եբր. 9.1-10: Յհ. 10.22-30: ) մեկնում է Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="553" average="5.00" min="1" max="5"/>
+    <media:statistics views="3526"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:UCpDmKr8LFapW_-45tEW5tmg</id>
+ <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:5lvUtxwAaJY</id>
+  <yt:videoId>5lvUtxwAaJY</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունվարի 9</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5lvUtxwAaJY"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-09T05:00:03+00:00</published>
+  <updated>2022-01-09T05:00:03+00:00</updated>
+  <media:group>
+   <media:title>Հունվարի 9</media:title>
+   <media:content url="https://www.youtube.com/v/5lvUtxwAaJY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5lvUtxwAaJY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. հունվարի 9-ի օրվա խորհուրդը մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="32"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:N5XiCp1mEI8</id>
+  <yt:videoId>N5XiCp1mEI8</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եղիշե Թադևոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=N5XiCp1mEI8"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-12-14T16:11:12+00:00</published>
+  <updated>2022-01-08T13:24:38+00:00</updated>
+  <media:group>
+   <media:title>Եղիշե Թադևոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/N5XiCp1mEI8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/N5XiCp1mEI8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Եղիշե Թադևոսյանը 19-20 դարերի հայ ամենանշանավոր գեղանկարիչներից մեկն է: Մանկությունն անց է կացրել Մայր Աթոռում: Մոսկվայի գեղարվեստի ուսումնարանն ավարտելուց հետո նշանակվել է Գևորգյան հոգևոր ճեմարանի նկարչության ուսուցիչ: 
+#Նշանավոր_ճեմարանականներ  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nZ4hBpYXr9A</id>
+  <yt:videoId>nZ4hBpYXr9A</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ենոքավան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nZ4hBpYXr9A"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-05T11:47:39+00:00</published>
+  <updated>2022-01-08T13:24:06+00:00</updated>
+  <media:group>
+   <media:title>Ենոքավան</media:title>
+   <media:content url="https://www.youtube.com/v/nZ4hBpYXr9A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nZ4hBpYXr9A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուզու՞մ եք իմանալ Ենոքավանի պատանիների մասին, միացեք մեր նկարահանող խմբի այցելությանը գյուղ:</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eN1j-01y9A0</id>
+  <yt:videoId>eN1j-01y9A0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 07.01.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eN1j-01y9A0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-08T07:57:28+00:00</published>
+  <updated>2022-01-08T07:57:28+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 07.01.2022</media:title>
+   <media:content url="https://www.youtube.com/v/eN1j-01y9A0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eN1j-01y9A0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ննջեցյալների հիշատակության պատարագ Ս. Գայանե վանքում:
+Հոգեհանգստյան կարգ «Եռաբլուրում»: 
+Սուրբ Ծննդյան պատարագը Աշտարակի Ս. Մարիանե եկեղեցում:
+Ս. Ծննդյան արարողությունները Գուգարաց թեմում:
+Տարեմուտի և Ս. Ծննդյան արարողությունները Վիրահայոց թեմի եկեղեցիներում:
+Սուրբ Ծնունդը Բրազիլիայի հայ համայնքում:
+Կալկաթայի ճեմարանի հայ և հնդիկ ուսուցիչների երգեցիկ շնորհավորանքները Ս. Ծննդյան առթիվ:</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="570"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DU6eyqP2zPI</id>
+  <yt:videoId>DU6eyqP2zPI</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունվարի 8</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DU6eyqP2zPI"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-08T05:00:09+00:00</published>
+  <updated>2022-01-08T05:00:09+00:00</updated>
+  <media:group>
+   <media:title>Հունվարի 8</media:title>
+   <media:content url="https://www.youtube.com/v/DU6eyqP2zPI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DU6eyqP2zPI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. հունվարի 8-ի օրվա խորհուրդը մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="287" average="5.00" min="1" max="5"/>
+    <media:statistics views="1917"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:84pNqLHrftg</id>
+  <yt:videoId>84pNqLHrftg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ննջեցյալների հիշատակության օրը «Եռաբլուրում» էին հոգևորականները և ջրօրհնյաց խաչի կնքահայրը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=84pNqLHrftg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T18:32:34+00:00</published>
+  <updated>2022-01-07T18:32:34+00:00</updated>
+  <media:group>
+   <media:title>Ննջեցյալների հիշատակության օրը «Եռաբլուրում» էին հոգևորականները և ջրօրհնյաց խաչի կնքահայրը</media:title>
+   <media:content url="https://www.youtube.com/v/84pNqLHrftg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/84pNqLHrftg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հունվարի 7-ին, վաղ առավոտյան Մայր Աթոռի լուսարարապետ Մուշեղ եպիսկոպոս Բաբայանը, ՀՀ Զինված ուժերի հոգևոր առաջնորդ Մովսես վարդապետ Սարգսյանը և Մայր Աթոռի միաբանները «Եռաբլուրի» բարձունքում հոգեհանգստյան կարգ կատարեցին: Հոգևորականներին էր միացել նաեւ այս տարվա հայրապետական պատարագի ջրօրհնյաց խաչի կնքահայր, երգահան Դավիթ Ամալյանը:
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="740"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:J6GMs_HhalA</id>
+  <yt:videoId>J6GMs_HhalA</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Տարեմուտի և Ս. Ծննդյան արարողությունները Վիրահայոց թեմի եկեղեցիներում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=J6GMs_HhalA"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T18:29:10+00:00</published>
+  <updated>2022-01-07T18:29:10+00:00</updated>
+  <media:group>
+   <media:title>Տարեմուտի և Ս. Ծննդյան արարողությունները Վիրահայոց թեմի եկեղեցիներում</media:title>
+   <media:content url="https://www.youtube.com/v/J6GMs_HhalA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/J6GMs_HhalA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Վիրահայոց թեմի գործող եկեղեցիներում ևս գոհաբանական աղոթքով և Նռնօրհնեքով եզրափակվեց  2021 թվականի ծիսական արարողությունների կարգը, բարեմաղթանքով մեկնարկեց 2022 թվականը: 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="300"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:f3_x7szK8Zw</id>
+  <yt:videoId>f3_x7szK8Zw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ս. Ծննդյան արարողությունները Գուգարաց թեմում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=f3_x7szK8Zw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T18:17:31+00:00</published>
+  <updated>2022-01-07T18:17:31+00:00</updated>
+  <media:group>
+   <media:title>Ս. Ծննդյան արարողությունները Գուգարաց թեմում</media:title>
+   <media:content url="https://www.youtube.com/v/f3_x7szK8Zw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/f3_x7szK8Zw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հունվարի 6-ին՝ Քրիստոսի Սուրբ Ծննդյան և Աստվածահայտնության տոնին, Վանաձորի առաջնորդանիստ Սուրբ Գրիգոր Նարեկացի եկեղեցում պատարագ մատուցեց թեմակալ առաջնորդ Տ. Հովնան եպիսկոպոս Հակոբյանը։
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="346"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:y8Xbxy6EESQ</id>
+  <yt:videoId>y8Xbxy6EESQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Սուրբ Ծնունդը Բրազիլիայի հայ համայնքում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=y8Xbxy6EESQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T17:52:22+00:00</published>
+  <updated>2022-01-07T17:52:23+00:00</updated>
+  <media:group>
+   <media:title>Սուրբ Ծնունդը Բրազիլիայի հայ համայնքում</media:title>
+   <media:content url="https://www.youtube.com/v/y8Xbxy6EESQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/y8Xbxy6EESQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սուրբ Ծննդյան և Աստվածհայտնության լուսավոր տոնը նշվեց աշխարհասփյուռ բոլոր եկեղեցիներում: Բրազիլիայի հայոց թեմում տոնական օրը առաջնորդանիստ Սուրբ Գևորգ եկեղեցու հարկի ներքո էր համախմբել բրազիլահայ հավատացյալներին: 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="30" average="5.00" min="1" max="5"/>
+    <media:statistics views="455"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MqpBWzZHlAs</id>
+  <yt:videoId>MqpBWzZHlAs</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ննջեցյալների հիշատակության պատարագ Ս. Գայանե վանքում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MqpBWzZHlAs"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T17:48:09+00:00</published>
+  <updated>2022-01-07T17:48:10+00:00</updated>
+  <media:group>
+   <media:title>Ննջեցյալների հիշատակության պատարագ Ս. Գայանե վանքում</media:title>
+   <media:content url="https://www.youtube.com/v/MqpBWzZHlAs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MqpBWzZHlAs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սուրբ Ծննդյան տոնի հաջորդ օրը՝ հունվարի 7-ին եկեղեցիներում պատարագ է մատուցվում, հիշատակում ենք ննջեցյալներին: Սուրբ Գայանե վանքում պատարագիչը Տ. Խորեն ավագ քահանա Կիրակոսյանն էր:
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="377"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uaZUwbi6dFM</id>
+  <yt:videoId>uaZUwbi6dFM</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հայ և հնդիկ ուսուցիչների երգեցիկ շնորհավորանքները Ս. Ծննդյան առթիվ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uaZUwbi6dFM"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T17:44:01+00:00</published>
+  <updated>2022-01-07T17:44:02+00:00</updated>
+  <media:group>
+   <media:title>Հայ և հնդիկ ուսուցիչների երգեցիկ շնորհավորանքները Ս. Ծննդյան առթիվ</media:title>
+   <media:content url="https://www.youtube.com/v/uaZUwbi6dFM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uaZUwbi6dFM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կալկաթայի հայոց մարդասիրական ճեմարանի հայ և հնդիկ ուսուցիչները Ս. Ծննդյան ավետիսներ են կատարում: 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="231"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AZ1B9nucVR4</id>
+  <yt:videoId>AZ1B9nucVR4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Սուրբ Ծննդյան պատարագը Աշտարակի Ս. Մարիանե եկեղեցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AZ1B9nucVR4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T17:35:19+00:00</published>
+  <updated>2022-01-07T17:35:20+00:00</updated>
+  <media:group>
+   <media:title>Սուրբ Ծննդյան պատարագը Աշտարակի Ս. Մարիանե եկեղեցում</media:title>
+   <media:content url="https://www.youtube.com/v/AZ1B9nucVR4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AZ1B9nucVR4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Աշտարակի Ս. Մարիանե եկեղեցում այս տարի Ս. Ծննդյան ջրօրհնաց խաչի կնքահայրը Արցախի հերոս, երեք պատերազմների մասնակից  գեներալ-մայոր Արարատ Մելքումյանն էր:</media:description>
+   <media:community>
+    <media:starRating count="34" average="5.00" min="1" max="5"/>
+    <media:statistics views="516"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ojPyXbv3JB8</id>
+  <yt:videoId>ojPyXbv3JB8</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ներքին Բազմաբերդ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ojPyXbv3JB8"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T17:30:12+00:00</published>
+  <updated>2022-01-07T17:40:10+00:00</updated>
+  <media:group>
+   <media:title>Ներքին Բազմաբերդ</media:title>
+   <media:content url="https://www.youtube.com/v/ojPyXbv3JB8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ojPyXbv3JB8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներքին Բազմաբերդի երեխաներին լսելիս թվում է՝ «Սասնա ծռերն» եք լսում: Ուշադիր լսելիս, պարզվում է՝ նրանք խոսում են իրենց առօրյայից:
+
+Nerkin Bazmaberd 
+
+When listening to the children of Nerkin Bazmaberd, it seems that you are listening to &quot;Sasna Tsrer&quot;. Listening carefully, it turns out that they are talking about their daily lives.</media:description>
+   <media:community>
+    <media:starRating count="44" average="5.00" min="1" max="5"/>
+    <media:statistics views="573"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QPzNWMWyfGI</id>
+  <yt:videoId>QPzNWMWyfGI</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հունվարի 7</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QPzNWMWyfGI"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-07T05:00:10+00:00</published>
+  <updated>2022-01-07T05:00:11+00:00</updated>
+  <media:group>
+   <media:title>Հունվարի 7</media:title>
+   <media:content url="https://www.youtube.com/v/QPzNWMWyfGI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QPzNWMWyfGI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. հունվարի 7-ի օրվա խորհուրդը մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="351" average="5.00" min="1" max="5"/>
+    <media:statistics views="2345"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WjFUgZd0t2o</id>
+  <yt:videoId>WjFUgZd0t2o</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Սուրբ Ծննդյան ճամփորդություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WjFUgZd0t2o"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-01-06T18:08:01+00:00</published>
+  <updated>2022-01-06T18:41:34+00:00</updated>
+  <media:group>
+   <media:title>Սուրբ Ծննդյան ճամփորդություն</media:title>
+   <media:content url="https://www.youtube.com/v/WjFUgZd0t2o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WjFUgZd0t2o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2020թ. արցախյան պատերազմից հետո Ապարանի տարածաշրջանում հաստատված ընտանիքների երեխաներին Մուշե քահանա Վահանյանը ճամփորդության է տանում: Նրանք պիտի դիմավորեն Սուրբ Ծնունդը:
+
+Holy Nativity Journey
+
+Rev. Fr. Mushe Vahanyan takes the children of families settled in the Aparan region after the 2020 Artsakh war to a trip. They have to celebrate the Holy Nativity.</media:description>
+   <media:community>
+    <media:starRating count="51" average="5.00" min="1" max="5"/>
+    <media:statistics views="1461"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

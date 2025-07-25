@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <id>yt:channel:D6gGqwiP_zdW-sOL8-BBnw</id>
+ <yt:channelId>D6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+ <title>Novosti-Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <author>
+  <name>Novosti-Armenia</name>
+  <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+ </author>
+ <published>2017-11-15T12:41:37+00:00</published>
+ <entry>
+  <id>yt:video:XDUK1L2t8qs</id>
+  <yt:videoId>XDUK1L2t8qs</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Սերգեյ Մելքոնյան միջազգայնագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XDUK1L2t8qs"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-16T12:31:06+00:00</published>
+  <updated>2023-10-16T12:32:52+00:00</updated>
+  <media:group>
+   <media:title>Սերգեյ Մելքոնյան միջազգայնագետ</media:title>
+   <media:content url="https://www.youtube.com/v/XDUK1L2t8qs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XDUK1L2t8qs/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="652"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DJyW5h0Szz4</id>
+  <yt:videoId>DJyW5h0Szz4</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Սերգեյ Մելքոնյան միջազգայնագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DJyW5h0Szz4"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-16T12:17:17+00:00</published>
+  <updated>2023-10-16T12:20:25+00:00</updated>
+  <media:group>
+   <media:title>Սերգեյ Մելքոնյան միջազգայնագետ</media:title>
+   <media:content url="https://www.youtube.com/v/DJyW5h0Szz4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DJyW5h0Szz4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="2515"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n5POnWXpgsw</id>
+  <yt:videoId>n5POnWXpgsw</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Սերգեյ Մելքոնյան միջազգայնագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n5POnWXpgsw"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-14T13:27:51+00:00</published>
+  <updated>2023-10-15T06:41:11+00:00</updated>
+  <media:group>
+   <media:title>Սերգեյ Մելքոնյան միջազգայնագետ</media:title>
+   <media:content url="https://www.youtube.com/v/n5POnWXpgsw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n5POnWXpgsw/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="33" average="5.00" min="1" max="5"/>
+    <media:statistics views="6863"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mmKOflbJ8x4</id>
+  <yt:videoId>mmKOflbJ8x4</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Իսրայելապաղեստինյան պատերազմը կհասնի՞ Հարավային Կովկաս. Սերգեյ Մելքոնյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mmKOflbJ8x4"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-13T17:30:08+00:00</published>
+  <updated>2023-10-15T18:06:55+00:00</updated>
+  <media:group>
+   <media:title>Իսրայելապաղեստինյան պատերազմը կհասնի՞ Հարավային Կովկաս. Սերգեյ Մելքոնյան</media:title>
+   <media:content url="https://www.youtube.com/v/mmKOflbJ8x4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mmKOflbJ8x4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Բացառված չէ, որ Իսրայելը հարվածի Իրանին, բայց հարվածը առաջին հերթին մենք կստանանք»,- «Հատուկ կարծիք» հաղորդման ժամանակ ասաց միջազգայնագետ Սերգեյ Մելքոնյանը: Նրա խոսքով եթե Իսրայելը հաջողեց, կփորձի ավելի ակտիվ պատասխանել Իրանին՝ օգտագործելով մեր տարածաշրջանը: Բացելով «Զանգեզուրի միջանցքը»՝ Իսրայելը կհարվածի Իրանին, բայց առաջին հերթին հարվածը մենք կստանանք. սա սցենարներից մեկն է: Միևնույն ժամանակ Ադրբեջանը կարող է օգտվել ստեղծված հնարավորությունից՝  հարձակում գործելով ՀՀ-ի վրա և տարածաշրջանում մեկընդմիշտ փակելով հայկական հարցը:
+
+00:42 Իսրայելապաղեստինյան հակամարտության սրման պատճառները:
+02:09 Արաբական երկրները Պաղեստինին օգնելու մասին:
+02:59 Իսրայելի համար Դամասկոսի և Հալեպի օդանավակայանների նշանակության մասին:
+04:05 Նոր ճակատներ բացվելու հնարավորության մասին:
+06:19 Թուրքիայի դերակատարումը իսրայելապաղեստինյան պատերազմում:
+08:55 Իսրայել-Թուրքիա հարաբերություններում Ադրբեջանի դերակատարման մասին:
+10:34 ՌԴ-ի դիրքորոշման մասին:
+11:44 ԱՄՆ-ի կարմիր գծերի և պատերազմի մեջ ուղիղ ներքաշվելու հավանականության մասին:
+13:45 Իսրայել-Իրան ուղիղ առճակատման հնարավորության մասին:
+14:40 Որքա՞ն կտևի Իսրայելապաղեստինյան պատերազմը:
+17:31Պատերազմի ինչպիսի՞ զարգացումներն են ձեռնտու Հայաստանին:
+18:45 Ինչպե՞ս կանդրադառնա ԻՊ պատերազմը Հարավային Կովկասի վրա:
+20:03 Ադրբեջանի համար տարածաշրջանում հայկական հարցը փակելու հնարավորության մասին:
+20:51  Ադրբեջանը ե՞րբ հարձակում կգործի ՀՀ-ի վրա, ո՞ր ուղղություններով:
+23:35 Անկալվները Ադրբեջանին հանձնելու ապօրինի որոշման մասին:
+25:47 Թուրք-ադրբեջանական տանդեմի նպատակի մասին:
+26:28 Պատմության անիվը հօգուտ ազգայինի պտտելու հնարավորության մասին:
+
+
+«Նովոստի–Արմենիա» միջազգային լրատվության գործակալություն: Քաղաքական, սոցիալական, տնտեսական, մշակութային և սպորտային նորություններ Հայաստանից և ամբողջ աշխարհից: 
+https://newsarmenia.am/am/
+
+Агентство международной информации &quot;Новости-Армения&quot; - политические, экономические, культурные и спортивные новости из Армении и всего мира. https://newsarmenia.am
+
+#newsarmenia #novosti_armenia</media:description>
+   <media:community>
+    <media:starRating count="46" average="5.00" min="1" max="5"/>
+    <media:statistics views="3167"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LOTDKrGsZ2k</id>
+  <yt:videoId>LOTDKrGsZ2k</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ավինյանը երդվեց` ձեռքը դնելով մ.թ.ա. 782թ.–ով թվագրված Էրեբունի–Երևանի հիմնադրման արձանագրության վրա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LOTDKrGsZ2k"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-13T07:00:27+00:00</published>
+  <updated>2023-10-14T09:18:09+00:00</updated>
+  <media:group>
+   <media:title>Ավինյանը երդվեց` ձեռքը դնելով մ.թ.ա. 782թ.–ով թվագրված Էրեբունի–Երևանի հիմնադրման արձանագրության վրա</media:title>
+   <media:content url="https://www.youtube.com/v/LOTDKrGsZ2k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LOTDKrGsZ2k/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="1084"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tr0wWW01v6Y</id>
+  <yt:videoId>tr0wWW01v6Y</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ինչու՞ պիտի սիգը մեր շուկայում լինի ամենաէժան գնային սեգմենտի մեջ. Փաշինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tr0wWW01v6Y"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-13T06:54:51+00:00</published>
+  <updated>2023-10-14T07:31:18+00:00</updated>
+  <media:group>
+   <media:title>Ինչու՞ պիտի սիգը մեր շուկայում լինի ամենաէժան գնային սեգմենտի մեջ. Փաշինյան</media:title>
+   <media:content url="https://www.youtube.com/v/tr0wWW01v6Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tr0wWW01v6Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="2532"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4GhG23-Hfeo</id>
+  <yt:videoId>4GhG23-Hfeo</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Wildberries-ը միջնորդավճար է սահմանել #newsarmenia #news #armenianews #yerevan</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4GhG23-Hfeo"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-12T09:37:54+00:00</published>
+  <updated>2023-10-13T08:08:01+00:00</updated>
+  <media:group>
+   <media:title>Wildberries-ը միջնորդավճար է սահմանել #newsarmenia #news #armenianews #yerevan</media:title>
+   <media:content url="https://www.youtube.com/v/4GhG23-Hfeo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4GhG23-Hfeo/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="849"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pMqJum3qyVQ</id>
+  <yt:videoId>pMqJum3qyVQ</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Անձնագրի մեջ վրացական 20 լարի դրած՝ տվել է պարեկներին. 59–ամյա վարորդը ձերբակալվել է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pMqJum3qyVQ"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-11T09:49:47+00:00</published>
+  <updated>2023-10-12T06:18:59+00:00</updated>
+  <media:group>
+   <media:title>Անձնագրի մեջ վրացական 20 լարի դրած՝ տվել է պարեկներին. 59–ամյա վարորդը ձերբակալվել է</media:title>
+   <media:content url="https://www.youtube.com/v/pMqJum3qyVQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pMqJum3qyVQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="1388"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:npNk1zoIeeI</id>
+  <yt:videoId>npNk1zoIeeI</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Շատ լավ պայմաններ են հասունացել Հայաստանի և Ադրբեջանի միջև գերիների փոխանակման համար. Զախարովա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=npNk1zoIeeI"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-11T06:43:55+00:00</published>
+  <updated>2023-10-12T06:59:24+00:00</updated>
+  <media:group>
+   <media:title>Շատ լավ պայմաններ են հասունացել Հայաստանի և Ադրբեջանի միջև գերիների փոխանակման համար. Զախարովա</media:title>
+   <media:content url="https://www.youtube.com/v/npNk1zoIeeI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/npNk1zoIeeI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="2178"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_oUvZGF25yc</id>
+  <yt:videoId>_oUvZGF25yc</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>ՌԴ-ում ցանկանում են արգելել միգրանտներին աշխատել դպրոցներում, հիվանդանոցներում և տաքսի վարել #news</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_oUvZGF25yc"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-08T15:06:59+00:00</published>
+  <updated>2023-10-09T06:39:07+00:00</updated>
+  <media:group>
+   <media:title>ՌԴ-ում ցանկանում են արգելել միգրանտներին աշխատել դպրոցներում, հիվանդանոցներում և տաքսի վարել #news</media:title>
+   <media:content url="https://www.youtube.com/v/_oUvZGF25yc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_oUvZGF25yc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="3727"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3PrytZkuPos</id>
+  <yt:videoId>3PrytZkuPos</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Արթուր Մարտիրոսյան բանակցային գործի մասնագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3PrytZkuPos"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-07T06:24:59+00:00</published>
+  <updated>2023-10-08T06:53:10+00:00</updated>
+  <media:group>
+   <media:title>Արթուր Մարտիրոսյան բանակցային գործի մասնագետ</media:title>
+   <media:content url="https://www.youtube.com/v/3PrytZkuPos?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3PrytZkuPos/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="2745"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Cuqyy6TbHsE</id>
+  <yt:videoId>Cuqyy6TbHsE</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ինչի՞ց է կախված պատերազմի հավանականությունը. բանակցային գործի մասնագետ Արթուր Մարտիրոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Cuqyy6TbHsE"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-06T17:30:11+00:00</published>
+  <updated>2023-10-09T02:38:05+00:00</updated>
+  <media:group>
+   <media:title>Ինչի՞ց է կախված պատերազմի հավանականությունը. բանակցային գործի մասնագետ Արթուր Մարտիրոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/Cuqyy6TbHsE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Cuqyy6TbHsE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Պատերազմի հավանականությունը կախված է նրանից, թե ինչպե՞ս է իրեն պահելու Ռուսաստանը»,- «Հատուկ կարծիք» հաղորդման ժամանակ ասաց բանակցային գործի մասնագետ Արթուր Մարտիրոսյանը: Նրա խոսքով՝ ՌԴ-ն կարող է իր շահերին վնասող քայլ անել, իր երկարատև ռազմավարական անվատնագին շահերին հակասող քայլ՝ մեզ պատժելու համար: Հետո, երբ ուժեղանան՝ Ուկրաինայի խնդիրը լուծեն, նորից կվերադառնան: Արդյո՞ք ՀՀ-ը ազդում էՌուսսատանի վրա, փորձում փոխել պատկերացումները, ո՛ չ, մեր դիվանագետները չեն աշխատում: Կարո՞ղ էինք դա օգտագործել, հօգուտ ՀՀ-ի. այո՛ , եթե լիներ լուրջ դիվանագիտություն:
+
+00:33 Ինչու՞ Ադրբեջանը չգնաց Գրանադա:
+05:22 Ադրբեջանի նկատմամբ պատժամիջոցներ կկիրառվե՞ն:
+09:27 Սյունիքով միջա՞նցք, թե՞ Իրանով երթուղի՝ Պլան Բ:
+10:57 Ինչի՞ դիմաց է Թուրքիան ճանապարհ բացելու:
+15:21 Արևմուտքը Ադրբեջանի հետ համատե՞ղ է գործում:
+16:48 Իրանը զսպի՞չ գործոն է Սյունիքով միջանցքից հրաժարվելու:
+18:09 Արցախի կորստից հնարավո՞ր էր խուսափել: 
+21:06 Ի՞նչ կարող էր անել Ռուսաստանը և ինչու՞ չարեց:
+24:39 Ո՞րն է Փաշինյանի դիլեման:
+27:58 Ինչի՞ց է կախված պատերազմի հավանականությունը:
+
+
+«Նովոստի–Արմենիա» միջազգային լրատվության գործակալություն: Քաղաքական, սոցիալական, տնտեսական, մշակութային և սպորտային նորություններ Հայաստանից և ամբողջ աշխարհից: 
+https://newsarmenia.am/am/
+
+Агентство международной информации &quot;Новости-Армения&quot; - политические, экономические, культурные и спортивные новости из Армении и всего мира. https://newsarmenia.am
+
+#newsarmenia #novosti_armenia</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="543"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_Hv50LdsTaI</id>
+  <yt:videoId>_Hv50LdsTaI</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Արթուր Մարտիրոսյան բանակցային գործի մասնագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_Hv50LdsTaI"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-06T16:05:03+00:00</published>
+  <updated>2023-10-07T06:51:17+00:00</updated>
+  <media:group>
+   <media:title>Արթուր Մարտիրոսյան բանակցային գործի մասնագետ</media:title>
+   <media:content url="https://www.youtube.com/v/_Hv50LdsTaI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_Hv50LdsTaI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="29" average="5.00" min="1" max="5"/>
+    <media:statistics views="7580"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bZlWKIFUurg</id>
+  <yt:videoId>bZlWKIFUurg</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Արթուր Մարտիրոսյան բանակցային գործի մասնագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bZlWKIFUurg"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-06T15:07:22+00:00</published>
+  <updated>2023-10-07T07:25:14+00:00</updated>
+  <media:group>
+   <media:title>Արթուր Մարտիրոսյան բանակցային գործի մասնագետ</media:title>
+   <media:content url="https://www.youtube.com/v/bZlWKIFUurg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bZlWKIFUurg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="28" average="5.00" min="1" max="5"/>
+    <media:statistics views="4692"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:b5h3oqCL7VU</id>
+  <yt:videoId>b5h3oqCL7VU</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Գնել էր օնլայն խանութից. 18–ամյա երիտասարդը փորձել է հուշանվեր–թղթադրամ իրացնել</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=b5h3oqCL7VU"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-10-06T09:52:23+00:00</published>
+  <updated>2023-10-07T06:43:40+00:00</updated>
+  <media:group>
+   <media:title>Գնել էր օնլայն խանութից. 18–ամյա երիտասարդը փորձել է հուշանվեր–թղթադրամ իրացնել</media:title>
+   <media:content url="https://www.youtube.com/v/b5h3oqCL7VU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/b5h3oqCL7VU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="2293"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCsRKb5x9Rem0UW-pjl_7Bog"/>
+ <id>yt:channel:UCsRKb5x9Rem0UW-pjl_7Bog</id>
+ <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+ <title>24TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog"/>
+ <author>
+  <name>24TV</name>
+  <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+ </author>
+ <published>2018-08-06T09:54:04+00:00</published>
+ <entry>
+  <id>yt:video:rTH5EK1Mc6U</id>
+  <yt:videoId>rTH5EK1Mc6U</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Հերիք ա հաչաք, արա՛, գո՛րծ արեք. Փաշինյանից վեր Հայրենիքն է. Ծատուրյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rTH5EK1Mc6U"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T18:15:11+00:00</published>
+  <updated>2022-01-10T18:51:12+00:00</updated>
+  <media:group>
+   <media:title>Հերիք ա հաչաք, արա՛, գո՛րծ արեք. Փաշինյանից վեր Հայրենիքն է. Ծատուրյան</media:title>
+   <media:content url="https://www.youtube.com/v/rTH5EK1Mc6U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rTH5EK1Mc6U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Մեր ընդդիմությունը չպետք է կենտրոնանա միայն Փաշինյանին հանել-չհանելու վրա։ Ա՛յ մարդ, օգնի, այո՛, օգնի, որովհետև Փաշինյանից վեր հասկացողություն կա, որը կոչվում է Հայրենիք»,- այս մասին 24TV-ի եթերում ասել է թատերական գործիչ, ՀՀ ժողովրդական արտիստ Նիկոլայ Ծատուրյանը:</media:description>
+   <media:community>
+    <media:starRating count="127" average="5.00" min="1" max="5"/>
+    <media:statistics views="5168"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wVWHR2Zb1hw</id>
+  <yt:videoId>wVWHR2Zb1hw</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Ադրբեջանը դիմել է մեր ԱԳՆ-ին, քարտեզով իրենց դիակների տեղը ցույց եմ տալու. Գագիկ Մելքոնյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wVWHR2Zb1hw"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T17:45:11+00:00</published>
+  <updated>2022-01-10T18:22:29+00:00</updated>
+  <media:group>
+   <media:title>Ադրբեջանը դիմել է մեր ԱԳՆ-ին, քարտեզով իրենց դիակների տեղը ցույց եմ տալու. Գագիկ Մելքոնյան</media:title>
+   <media:content url="https://www.youtube.com/v/wVWHR2Zb1hw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wVWHR2Zb1hw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ադրբեջանը դիմել է մեր ԱԳՆ-ին, քարտեզով իրենց դիակների տեղը ցույց եմ տալու: Այս մասին 24TV-ի «Հարցազրույց» հաղորդման եթերում նշեց ԱԺ «Քաղաքացիական պայմանանագիր»  խմբակցության անդամ, Պն նախկին փոխնախարար Գագիկ Մելքոնյանը։</media:description>
+   <media:community>
+    <media:starRating count="77" average="5.00" min="1" max="5"/>
+    <media:statistics views="4888"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:U0AgM8tax3M</id>
+  <yt:videoId>U0AgM8tax3M</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Վերջը գիտե՞ք ոնց ա լավ լինելու. էն որ դագաղը փոսն են իջեցնում՝ ասում՝ լավ ա, այ էդպես</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=U0AgM8tax3M"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T16:30:11+00:00</published>
+  <updated>2022-01-10T21:23:15+00:00</updated>
+  <media:group>
+   <media:title>Վերջը գիտե՞ք ոնց ա լավ լինելու. էն որ դագաղը փոսն են իջեցնում՝ ասում՝ լավ ա, այ էդպես</media:title>
+   <media:content url="https://www.youtube.com/v/U0AgM8tax3M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/U0AgM8tax3M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Վերջը գիտե՞ք՝ ոնց ա լավ լինելու. էն որ դագաղը փոսն են իջեցնում՝ ասում ա՝ լավ ա, այ էդպես։ Այս մասին 24TV-ի «Հարցազրույց» հաղորդման եթերում նշեց քաղտեխնոլոգ Կարեն Քոչարյանը։</media:description>
+   <media:community>
+    <media:starRating count="82" average="5.00" min="1" max="5"/>
+    <media:statistics views="5828"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Li7xrqplVeA</id>
+  <yt:videoId>Li7xrqplVeA</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Թուրքական ապրանքների թույլտվությունից շահելու են իշխանության սրտի գործարարները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Li7xrqplVeA"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T16:00:11+00:00</published>
+  <updated>2022-01-10T16:17:23+00:00</updated>
+  <media:group>
+   <media:title>Թուրքական ապրանքների թույլտվությունից շահելու են իշխանության սրտի գործարարները</media:title>
+   <media:content url="https://www.youtube.com/v/Li7xrqplVeA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Li7xrqplVeA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Թուրքական ապրանքների ներմուծման արգելքի պատճառով մի քանի 100 փոքր և միջին ներկրողներից դաշտը մաքրվեց և հիմա, երբ արգելքը հանվել է, իշխանության սրտի օլիգարխ բիզնեսմենները, որոնք անթաքույց Թուրքիայի հետ տնտեսական հարաբերությունների կողմնակից են, իրենք կմոնոպոլացնեն դաշտը»,- այս մասին 24News-ի հետ զրույցում ասաց «Հայաստան» խմբակցության պատգամավոր Թադևոս Ավետիսյանը՝ անդրադառնալով թուրքական ապրանքների ներկրման արգելքը հանելու՝ Կառավարության որոշմանը:</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="201"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Cj4xgRV9SG0</id>
+  <yt:videoId>Cj4xgRV9SG0</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>ՃՈ ուժեղացված ծառայություն մարզերում․ հայտնաբերվել է 3552 խախտում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Cj4xgRV9SG0"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T13:16:12+00:00</published>
+  <updated>2022-01-10T13:28:14+00:00</updated>
+  <media:group>
+   <media:title>ՃՈ ուժեղացված ծառայություն մարզերում․ հայտնաբերվել է 3552 խախտում</media:title>
+   <media:content url="https://www.youtube.com/v/Cj4xgRV9SG0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Cj4xgRV9SG0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="866"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uZNfvCpjV3Q</id>
+  <yt:videoId>uZNfvCpjV3Q</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Փաշինյանը գիշերը գողեգող որոշում կայացնելով մեր հայրենակիցների կյանքը չպետք է վտանգի ենթարկեր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uZNfvCpjV3Q"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T12:09:16+00:00</published>
+  <updated>2022-01-10T13:35:03+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանը գիշերը գողեգող որոշում կայացնելով մեր հայրենակիցների կյանքը չպետք է վտանգի ենթարկեր</media:title>
+   <media:content url="https://www.youtube.com/v/uZNfvCpjV3Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uZNfvCpjV3Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="1050"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:I3m5lcGtDXo</id>
+  <yt:videoId>I3m5lcGtDXo</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Դատավոր  Նախշքարյանը կարգապահական պատասխանատվության չի ենթարկվի. ԲԴԽ-ն մերժեց  միջնորդությունը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=I3m5lcGtDXo"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T11:46:41+00:00</published>
+  <updated>2022-01-10T12:00:33+00:00</updated>
+  <media:group>
+   <media:title>Դատավոր  Նախշքարյանը կարգապահական պատասխանատվության չի ենթարկվի. ԲԴԽ-ն մերժեց  միջնորդությունը</media:title>
+   <media:content url="https://www.youtube.com/v/I3m5lcGtDXo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/I3m5lcGtDXo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="571"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iQ51mu5Hzy4</id>
+  <yt:videoId>iQ51mu5Hzy4</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Թշնամին Կարմիր Շուկայի ուղղությամբ կրակ է բացել, այրվում է Արցախի քաղաքացու մեքենա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iQ51mu5Hzy4"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T10:50:25+00:00</published>
+  <updated>2022-01-10T18:58:44+00:00</updated>
+  <media:group>
+   <media:title>Թշնամին Կարմիր Շուկայի ուղղությամբ կրակ է բացել, այրվում է Արցախի քաղաքացու մեքենա</media:title>
+   <media:content url="https://www.youtube.com/v/iQ51mu5Hzy4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iQ51mu5Hzy4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="1494"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9CZW-bPA9dU</id>
+  <yt:videoId>9CZW-bPA9dU</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Փաշինյանը կարծում է՝ ՀՀ-ում զինված խռովություն կազմակերպել կարելի է, Ղազախստանում՝ ոչ․ Ալումյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9CZW-bPA9dU"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:55:26+00:00</published>
+  <updated>2022-01-10T10:08:19+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանը կարծում է՝ ՀՀ-ում զինված խռովություն կազմակերպել կարելի է, Ղազախստանում՝ ոչ․ Ալումյան</media:title>
+   <media:content url="https://www.youtube.com/v/9CZW-bPA9dU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9CZW-bPA9dU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="965"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Z2ni3cAY1yU</id>
+  <yt:videoId>Z2ni3cAY1yU</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Փաշինյանից դրամական տեսքով փոխհատուցում ենք պահանջում․ վարչապետը Քոչարյանի մասով զրպարտել է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Z2ni3cAY1yU"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:54:56+00:00</published>
+  <updated>2022-01-10T11:32:11+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանից դրամական տեսքով փոխհատուցում ենք պահանջում․ վարչապետը Քոչարյանի մասով զրպարտել է</media:title>
+   <media:content url="https://www.youtube.com/v/Z2ni3cAY1yU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Z2ni3cAY1yU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="751"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:caON4vdZrjg</id>
+  <yt:videoId>caON4vdZrjg</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Չավուշօղլուի՝ Միրզոյանի մասին տեղեկությունը մարսելն ինձ համար մի քիչ դժվար է․ Տիգրան Աբրահամյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=caON4vdZrjg"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:49:06+00:00</published>
+  <updated>2022-01-10T09:53:30+00:00</updated>
+  <media:group>
+   <media:title>Չավուշօղլուի՝ Միրզոյանի մասին տեղեկությունը մարսելն ինձ համար մի քիչ դժվար է․ Տիգրան Աբրահամյան</media:title>
+   <media:content url="https://www.youtube.com/v/caON4vdZrjg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/caON4vdZrjg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="303"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:az7_R7fj8p4</id>
+  <yt:videoId>az7_R7fj8p4</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>#Հենց հիմա. Քոչարյանի փաստաբանի ճեպազրույցը՝ Փաշինյանի հետ դատական նիստից հետո</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=az7_R7fj8p4"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:45:32+00:00</published>
+  <updated>2022-01-10T15:55:23+00:00</updated>
+  <media:group>
+   <media:title>#Հենց հիմա. Քոչարյանի փաստաբանի ճեպազրույցը՝ Փաշինյանի հետ դատական նիստից հետո</media:title>
+   <media:content url="https://www.youtube.com/v/az7_R7fj8p4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/az7_R7fj8p4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="1999"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qjoyDbQ-5eE</id>
+  <yt:videoId>qjoyDbQ-5eE</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Փաշինյանի օրոք կտրվել է այն քոքը, որով կապված էինք մենք ու մեր երկիրը․ Տիգրան Աբրահամյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qjoyDbQ-5eE"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:22:01+00:00</published>
+  <updated>2022-01-10T09:52:40+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանի օրոք կտրվել է այն քոքը, որով կապված էինք մենք ու մեր երկիրը․ Տիգրան Աբրահամյան</media:title>
+   <media:content url="https://www.youtube.com/v/qjoyDbQ-5eE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qjoyDbQ-5eE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="184"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pnRprAzhCnI</id>
+  <yt:videoId>pnRprAzhCnI</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>#Հենց հիմա. ԱԺ պատգամավոր Տիգրան Աբրահամյանի ասուլիսը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pnRprAzhCnI"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:21:12+00:00</published>
+  <updated>2022-01-10T17:07:26+00:00</updated>
+  <media:group>
+   <media:title>#Հենց հիմա. ԱԺ պատգամավոր Տիգրան Աբրահամյանի ասուլիսը</media:title>
+   <media:content url="https://www.youtube.com/v/pnRprAzhCnI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pnRprAzhCnI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="652"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:E99h6WeYNmw</id>
+  <yt:videoId>E99h6WeYNmw</yt:videoId>
+  <yt:channelId>UCsRKb5x9Rem0UW-pjl_7Bog</yt:channelId>
+  <title>Թուրքիան իր ազդեցության գոտում էր ուզում ներառել Ղազախստանը՝ պանթուրքական գաղափարն իրականացնելու</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=E99h6WeYNmw"/>
+  <author>
+   <name>24TV</name>
+   <uri>https://www.youtube.com/channel/UCsRKb5x9Rem0UW-pjl_7Bog</uri>
+  </author>
+  <published>2022-01-10T09:06:13+00:00</published>
+  <updated>2022-01-10T09:22:50+00:00</updated>
+  <media:group>
+   <media:title>Թուրքիան իր ազդեցության գոտում էր ուզում ներառել Ղազախստանը՝ պանթուրքական գաղափարն իրականացնելու</media:title>
+   <media:content url="https://www.youtube.com/v/E99h6WeYNmw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/E99h6WeYNmw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարող եք հետևել մեզ նաև Telegram-ում` https://t.me/twentyfournews
+
+Follow 24 TV on social platforms:
+Facebook:    https://www.facebook.com/24news.am
+Instagram:   https://www.instagram.com/24news.am 
+
+Գովազդի համար զանգահարել +374 41 240060
+© 2018 24News. Բոլոր իրավունքները պաշտպանված են: 24TV-ում տեղադրված նյութերն օգտագործելիս ակտիվ հղում տալը պարտադիր է:  
+Կայքում տեղադրված այլ հեղինակների և բանախոսների արտահայտած կարծիքը կարող է չհամընկնել 24TV-ի խմբագրության տեսակետի հետ:
+
+Address:   Dzorap 40, Office Area 23.
+E-mail:       info@24news.am
+Tel.            +374 41 240060</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="228"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

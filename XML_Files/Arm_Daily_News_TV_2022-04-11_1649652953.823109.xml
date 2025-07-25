@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <id>yt:channel:UC8k_9xHrn82EV_oSFXBE6Cw</id>
+ <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+ <title>AD TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw"/>
+ <author>
+  <name>AD TV</name>
+  <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+ </author>
+ <published>2018-07-06T12:27:35+00:00</published>
+ <entry>
+  <id>yt:video:X1P0JZHl_MM</id>
+  <yt:videoId>X1P0JZHl_MM</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>ԱԺԲ հանրահավաքը Ազատության հրապարակում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=X1P0JZHl_MM"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-09T15:59:01+00:00</published>
+  <updated>2022-04-10T06:12:35+00:00</updated>
+  <media:group>
+   <media:title>ԱԺԲ հանրահավաքը Ազատության հրապարակում</media:title>
+   <media:content url="https://www.youtube.com/v/X1P0JZHl_MM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/X1P0JZHl_MM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="37" average="5.00" min="1" max="5"/>
+    <media:statistics views="2082"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ePTyxlyLKkI</id>
+  <yt:videoId>ePTyxlyLKkI</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Թող ինձ ներեն Բևեռի կողմնակիցները, բայց սա քաղաքական պոպուլիզմ է.Դավիթ Ստեփանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ePTyxlyLKkI"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T18:30:11+00:00</published>
+  <updated>2022-04-09T07:54:31+00:00</updated>
+  <media:group>
+   <media:title>Թող ինձ ներեն Բևեռի կողմնակիցները, բայց սա քաղաքական պոպուլիզմ է.Դավիթ Ստեփանյան</media:title>
+   <media:content url="https://www.youtube.com/v/ePTyxlyLKkI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ePTyxlyLKkI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="782"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Eh0d__Ykk8c</id>
+  <yt:videoId>Eh0d__Ykk8c</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Հիմա տեսակի պահպանության հարցն է կանգնած՝ կարող է մեր տեսակը վերանա.Արծրուն Պեպանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Eh0d__Ykk8c"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T17:30:11+00:00</published>
+  <updated>2022-04-09T06:57:22+00:00</updated>
+  <media:group>
+   <media:title>Հիմա տեսակի պահպանության հարցն է կանգնած՝ կարող է մեր տեսակը վերանա.Արծրուն Պեպանյան</media:title>
+   <media:content url="https://www.youtube.com/v/Eh0d__Ykk8c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Eh0d__Ykk8c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="458"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WU9PKC_D57E</id>
+  <yt:videoId>WU9PKC_D57E</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս.AD TV «Հարցազրույցի» հյուրն է Արծրուն Պեպանյանը.Դիտեք այսօր՝ 21.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WU9PKC_D57E"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T14:31:00+00:00</published>
+  <updated>2022-04-09T06:57:00+00:00</updated>
+  <media:group>
+   <media:title>Անոնս.AD TV «Հարցազրույցի» հյուրն է Արծրուն Պեպանյանը.Դիտեք այսօր՝ 21.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/WU9PKC_D57E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WU9PKC_D57E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="59"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YBoNuxFsiTI</id>
+  <yt:videoId>YBoNuxFsiTI</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Ռումբի ահազանգեր 3 առևտրի կենտրոններում, Նիկոլ Փաշինյանը արդարացվեց. Ապրիլի 8-ն՝ ամփոփ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YBoNuxFsiTI"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T14:28:01+00:00</published>
+  <updated>2022-04-09T06:36:49+00:00</updated>
+  <media:group>
+   <media:title>Ռումբի ահազանգեր 3 առևտրի կենտրոններում, Նիկոլ Փաշինյանը արդարացվեց. Ապրիլի 8-ն՝ ամփոփ</media:title>
+   <media:content url="https://www.youtube.com/v/YBoNuxFsiTI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YBoNuxFsiTI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="208"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gXpAhT2Nm7I</id>
+  <yt:videoId>gXpAhT2Nm7I</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Արցախի բնակչության անվտանգության և հայ-ռուսական բարեկամությունը խորհրդանշող ակցիա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gXpAhT2Nm7I"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T13:34:41+00:00</published>
+  <updated>2022-04-09T14:05:13+00:00</updated>
+  <media:group>
+   <media:title>Արցախի բնակչության անվտանգության և հայ-ռուսական բարեկամությունը խորհրդանշող ակցիա</media:title>
+   <media:content url="https://www.youtube.com/v/gXpAhT2Nm7I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gXpAhT2Nm7I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="300"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ANTpSlomUdg</id>
+  <yt:videoId>ANTpSlomUdg</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Անոնս.AD TV «Հարցազրույցի» հյուրն է Դավիթ Ստեփանյանը.Դիտեք այսօր՝ 22.30-ին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ANTpSlomUdg"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T13:11:54+00:00</published>
+  <updated>2022-04-09T05:59:14+00:00</updated>
+  <media:group>
+   <media:title>Անոնս.AD TV «Հարցազրույցի» հյուրն է Դավիթ Ստեփանյանը.Դիտեք այսօր՝ 22.30-ին</media:title>
+   <media:content url="https://www.youtube.com/v/ANTpSlomUdg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ANTpSlomUdg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="58"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uC6A_aUAkuI</id>
+  <yt:videoId>uC6A_aUAkuI</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Ռուս կնոջը վիրավորել են ազգության պատճառով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uC6A_aUAkuI"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T12:08:12+00:00</published>
+  <updated>2022-04-09T08:10:56+00:00</updated>
+  <media:group>
+   <media:title>Ռուս կնոջը վիրավորել են ազգության պատճառով</media:title>
+   <media:content url="https://www.youtube.com/v/uC6A_aUAkuI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uC6A_aUAkuI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="1159"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:t7AxM9vSW7Q</id>
+  <yt:videoId>t7AxM9vSW7Q</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Հայաստանի ու Ռուսաստանի ԱԳ նախարարների մամուլի ասուլիսը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=t7AxM9vSW7Q"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T12:02:14+00:00</published>
+  <updated>2022-04-09T06:56:29+00:00</updated>
+  <media:group>
+   <media:title>Հայաստանի ու Ռուսաստանի ԱԳ նախարարների մամուլի ասուլիսը</media:title>
+   <media:content url="https://www.youtube.com/v/t7AxM9vSW7Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/t7AxM9vSW7Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="61"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ohn9q8vpYJ4</id>
+  <yt:videoId>Ohn9q8vpYJ4</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Սարգիս Ծատուրյանի ուղերձը Հայաստանի և Արցախի իշխող դասակարգին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ohn9q8vpYJ4"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T10:50:06+00:00</published>
+  <updated>2022-04-09T06:05:12+00:00</updated>
+  <media:group>
+   <media:title>Սարգիս Ծատուրյանի ուղերձը Հայաստանի և Արցախի իշխող դասակարգին</media:title>
+   <media:content url="https://www.youtube.com/v/Ohn9q8vpYJ4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Ohn9q8vpYJ4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="85" average="5.00" min="1" max="5"/>
+    <media:statistics views="1082"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DEMvP1FmHCs</id>
+  <yt:videoId>DEMvP1FmHCs</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Սրտի անհետաձգելի վիրահատություններ (stand for life) ծրագրի արդյունքները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DEMvP1FmHCs"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T09:51:42+00:00</published>
+  <updated>2022-04-09T06:01:48+00:00</updated>
+  <media:group>
+   <media:title>Սրտի անհետաձգելի վիրահատություններ (stand for life) ծրագրի արդյունքները</media:title>
+   <media:content url="https://www.youtube.com/v/DEMvP1FmHCs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DEMvP1FmHCs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="74"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vtlI-mhY-o8</id>
+  <yt:videoId>vtlI-mhY-o8</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Աշխատանքային քննարկում ԱԺ տնտեսական հարցերի մշտական հանձնաժողովում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vtlI-mhY-o8"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T09:02:29+00:00</published>
+  <updated>2022-04-08T16:58:35+00:00</updated>
+  <media:group>
+   <media:title>Աշխատանքային քննարկում ԱԺ տնտեսական հարցերի մշտական հանձնաժողովում</media:title>
+   <media:content url="https://www.youtube.com/v/vtlI-mhY-o8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vtlI-mhY-o8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/
+instagram - https://www.instagram.com/armdaily.am/
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="70"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:P8muFNt8soE</id>
+  <yt:videoId>P8muFNt8soE</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Վճռաբեկը քննում է Մարտի 1-ի գործով Փաշինյանին, Միքայելյանին, Արզումանյանին արդարացնելու բողոքները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=P8muFNt8soE"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-08T08:13:19+00:00</published>
+  <updated>2022-04-09T06:28:31+00:00</updated>
+  <media:group>
+   <media:title>Վճռաբեկը քննում է Մարտի 1-ի գործով Փաշինյանին, Միքայելյանին, Արզումանյանին արդարացնելու բողոքները</media:title>
+   <media:content url="https://www.youtube.com/v/P8muFNt8soE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/P8muFNt8soE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Վճռաբեկը քննում է Մարտի 1-ի գործով Փաշինյանին, Միքայելյանին, Արզումանյանին արդարացնելու բողոքները</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="173"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cb-9YfjnLTk</id>
+  <yt:videoId>cb-9YfjnLTk</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Շառլ Միշելի հայտարարությունը նշանակում էր, որ Արցախ գոյություն չունի.Նաիրա Զոհրաբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cb-9YfjnLTk"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-07T18:30:12+00:00</published>
+  <updated>2022-04-08T13:46:33+00:00</updated>
+  <media:group>
+   <media:title>Շառլ Միշելի հայտարարությունը նշանակում էր, որ Արցախ գոյություն չունի.Նաիրա Զոհրաբյան</media:title>
+   <media:content url="https://www.youtube.com/v/cb-9YfjnLTk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cb-9YfjnLTk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="43" average="5.00" min="1" max="5"/>
+    <media:statistics views="2187"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:K8ImcaXkavA</id>
+  <yt:videoId>K8ImcaXkavA</yt:videoId>
+  <yt:channelId>UC8k_9xHrn82EV_oSFXBE6Cw</yt:channelId>
+  <title>Կասպից ծովում ռուսական նավերը Կալիբր հրթիռներով ողջույններ կուղարկեն Ալիևին.Հայկ Նահապետյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=K8ImcaXkavA"/>
+  <author>
+   <name>AD TV</name>
+   <uri>https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw</uri>
+  </author>
+  <published>2022-04-07T17:30:11+00:00</published>
+  <updated>2022-04-09T03:15:33+00:00</updated>
+  <media:group>
+   <media:title>Կասպից ծովում ռուսական նավերը Կալիբր հրթիռներով ողջույններ կուղարկեն Ալիևին.Հայկ Նահապետյան</media:title>
+   <media:content url="https://www.youtube.com/v/K8ImcaXkavA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/K8ImcaXkavA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://www.armdaily.am/ – ը սոցիալական մեդիայում 
+facebook - https://www.facebook.com/armeniandaily/ 
+instagram - https://www.instagram.com/armdaily.am/ 
+twitter - https://twitter.com/arm_daily</media:description>
+   <media:community>
+    <media:starRating count="105" average="5.00" min="1" max="5"/>
+    <media:statistics views="5124"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

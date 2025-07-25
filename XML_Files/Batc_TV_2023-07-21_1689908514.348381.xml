@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:hsyt2okQ4JQ</id>
+  <yt:videoId>hsyt2okQ4JQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Մենք հայերս բացառիկ ազգ ենք որի ապագային ես միշտ հավատով եմ նայում․ Սերինե Ղազարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hsyt2okQ4JQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-20T05:00:17+00:00</published>
+  <updated>2023-07-20T05:00:18+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Մենք հայերս բացառիկ ազգ ենք որի ապագային ես միշտ հավատով եմ նայում․ Սերինե Ղազարյան</media:title>
+   <media:content url="https://www.youtube.com/v/hsyt2okQ4JQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hsyt2okQ4JQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="155" average="5.00" min="1" max="5"/>
+    <media:statistics views="5155"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ySce_iiA9Hg</id>
+  <yt:videoId>ySce_iiA9Hg</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Որոնք են հայերի անկման իրական պատճառները․ Ֆրունզիկ Խաչատրյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ySce_iiA9Hg"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-19T14:00:45+00:00</published>
+  <updated>2023-07-19T14:00:46+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Որոնք են հայերի անկման իրական պատճառները․ Ֆրունզիկ Խաչատրյան</media:title>
+   <media:content url="https://www.youtube.com/v/ySce_iiA9Hg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ySce_iiA9Hg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="90" average="5.00" min="1" max="5"/>
+    <media:statistics views="3466"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3NTmUyIwp5A</id>
+  <yt:videoId>3NTmUyIwp5A</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Բժիշկ Հովհաննիսյանի հրաշքները շարունակվում են․</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3NTmUyIwp5A"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-19T05:00:02+00:00</published>
+  <updated>2023-07-19T05:00:02+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Բժիշկ Հովհաննիսյանի հրաշքները շարունակվում են․</media:title>
+   <media:content url="https://www.youtube.com/v/3NTmUyIwp5A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3NTmUyIwp5A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="244" average="5.00" min="1" max="5"/>
+    <media:statistics views="7995"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0yuAi69WWio</id>
+  <yt:videoId>0yuAi69WWio</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Կառավարման համակարգ մեզանում անհասկանալի, տխուր իրավիճակում է․ Հրայր Խառատյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0yuAi69WWio"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-18T05:00:01+00:00</published>
+  <updated>2023-07-18T05:00:01+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Կառավարման համակարգ մեզանում անհասկանալի, տխուր իրավիճակում է․ Հրայր Խառատյան</media:title>
+   <media:content url="https://www.youtube.com/v/0yuAi69WWio?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0yuAi69WWio/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="50" average="5.00" min="1" max="5"/>
+    <media:statistics views="1685"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Xd5LvsetSJk</id>
+  <yt:videoId>Xd5LvsetSJk</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Նոր եթերաշրջանում կլինեն նաև նոր բացահայտումներ․Արման Այվազյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Xd5LvsetSJk"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-17T13:00:32+00:00</published>
+  <updated>2023-07-17T13:00:33+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Նոր եթերաշրջանում կլինեն նաև նոր բացահայտումներ․Արման Այվազյան</media:title>
+   <media:content url="https://www.youtube.com/v/Xd5LvsetSJk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Xd5LvsetSJk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="330" average="5.00" min="1" max="5"/>
+    <media:statistics views="15383"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LkJlQu3HH-0</id>
+  <yt:videoId>LkJlQu3HH-0</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv․ Վախեցեք նրանցից ովքեր ձեր հոգին ուզում են սպանել․ Կոմիտաս վարդապետ Հովնանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LkJlQu3HH-0"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-17T05:00:08+00:00</published>
+  <updated>2023-07-17T05:00:08+00:00</updated>
+  <media:group>
+   <media:title>Bac tv․ Վախեցեք նրանցից ովքեր ձեր հոգին ուզում են սպանել․ Կոմիտաս վարդապետ Հովնանյան</media:title>
+   <media:content url="https://www.youtube.com/v/LkJlQu3HH-0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LkJlQu3HH-0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="281" average="5.00" min="1" max="5"/>
+    <media:statistics views="9479"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rgBAEASMuVI</id>
+  <yt:videoId>rgBAEASMuVI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Երևանը նոր բարեփոխումների շեմին․ Վահրամ Սարգսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rgBAEASMuVI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-16T11:00:40+00:00</published>
+  <updated>2023-07-16T11:00:41+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Երևանը նոր բարեփոխումների շեմին․ Վահրամ Սարգսյան</media:title>
+   <media:content url="https://www.youtube.com/v/rgBAEASMuVI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rgBAEASMuVI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="20" average="5.00" min="1" max="5"/>
+    <media:statistics views="1107"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Jpqbbg0dvzE</id>
+  <yt:videoId>Jpqbbg0dvzE</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Աստված ամբողջ աշխարհը ստեղծեց, ձայնը չլսեցինք․ Լյուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Jpqbbg0dvzE"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-16T05:00:12+00:00</published>
+  <updated>2023-07-17T12:01:21+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Աստված ամբողջ աշխարհը ստեղծեց, ձայնը չլսեցինք․ Լյուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/Jpqbbg0dvzE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Jpqbbg0dvzE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="1655" average="5.00" min="1" max="5"/>
+    <media:statistics views="74893"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UeZ7WZL5BkM</id>
+  <yt:videoId>UeZ7WZL5BkM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Աշխարհում ամենաթանկը առողջությունն է․ Նարգիզ Գալինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UeZ7WZL5BkM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-15T05:00:26+00:00</published>
+  <updated>2023-07-15T05:00:26+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Աշխարհում ամենաթանկը առողջությունն է․ Նարգիզ Գալինյան</media:title>
+   <media:content url="https://www.youtube.com/v/UeZ7WZL5BkM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UeZ7WZL5BkM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="384" average="5.00" min="1" max="5"/>
+    <media:statistics views="18469"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iyMTxcwZXNU</id>
+  <yt:videoId>iyMTxcwZXNU</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Անկախ ամեն ինչից բանակը միշտ պետք է պատրաստ լինի պատերազմական իրավիճակին․ Լևոն Շիրինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iyMTxcwZXNU"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-14T14:47:03+00:00</published>
+  <updated>2023-07-14T15:21:45+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Անկախ ամեն ինչից բանակը միշտ պետք է պատրաստ լինի պատերազմական իրավիճակին․ Լևոն Շիրինյան</media:title>
+   <media:content url="https://www.youtube.com/v/iyMTxcwZXNU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iyMTxcwZXNU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="796" average="5.00" min="1" max="5"/>
+    <media:statistics views="27849"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-Zy2W0v3K7g</id>
+  <yt:videoId>-Zy2W0v3K7g</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Իրավապահ համակարգը փորձում է ՔՊ-ականի միջադեպի գործը տանել փակուղի․ Մամուլն այսօր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-Zy2W0v3K7g"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-14T08:17:07+00:00</published>
+  <updated>2023-07-14T08:23:17+00:00</updated>
+  <media:group>
+   <media:title>Իրավապահ համակարգը փորձում է ՔՊ-ականի միջադեպի գործը տանել փակուղի․ Մամուլն այսօր</media:title>
+   <media:content url="https://www.youtube.com/v/-Zy2W0v3K7g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-Zy2W0v3K7g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="507"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:07RFB7z4VHM</id>
+  <yt:videoId>07RFB7z4VHM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Արցախին անհրաժեշտ է միջազգային խաղաղապահ զորքեր․ Յուրի Թադևոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=07RFB7z4VHM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-14T05:00:00+00:00</published>
+  <updated>2023-07-14T05:00:00+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Արցախին անհրաժեշտ է միջազգային խաղաղապահ զորքեր․ Յուրի Թադևոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/07RFB7z4VHM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/07RFB7z4VHM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="85" average="5.00" min="1" max="5"/>
+    <media:statistics views="2294"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AIuwqCPiCA4</id>
+  <yt:videoId>AIuwqCPiCA4</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Զինանշանն ու օրհներգը կփոխվե՞ն․ Մամուլն այսօր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AIuwqCPiCA4"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-13T09:08:28+00:00</published>
+  <updated>2023-07-13T11:38:54+00:00</updated>
+  <media:group>
+   <media:title>Զինանշանն ու օրհներգը կփոխվե՞ն․ Մամուլն այսօր</media:title>
+   <media:content url="https://www.youtube.com/v/AIuwqCPiCA4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AIuwqCPiCA4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="1018"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YjU3gExiu0k</id>
+  <yt:videoId>YjU3gExiu0k</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Կանայք կարող են նոր խոսք ասել ավագանու ընտրություններին․ Նատալիա Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YjU3gExiu0k"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-13T05:00:22+00:00</published>
+  <updated>2023-07-13T05:00:22+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Կանայք կարող են նոր խոսք ասել ավագանու ընտրություններին․ Նատալիա Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/YjU3gExiu0k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YjU3gExiu0k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="39" average="5.00" min="1" max="5"/>
+    <media:statistics views="1811"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DCYEiuOLL0M</id>
+  <yt:videoId>DCYEiuOLL0M</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Պետական դավաճանության համար մեղադրվողը բանտից ահազանգում է. Մամուլն այսօր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DCYEiuOLL0M"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-07-12T08:48:10+00:00</published>
+  <updated>2023-07-12T09:36:32+00:00</updated>
+  <media:group>
+   <media:title>Պետական դավաճանության համար մեղադրվողը բանտից ահազանգում է. Մամուլն այսօր</media:title>
+   <media:content url="https://www.youtube.com/v/DCYEiuOLL0M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DCYEiuOLL0M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="27" average="5.00" min="1" max="5"/>
+    <media:statistics views="1670"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

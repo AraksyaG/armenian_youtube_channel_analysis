@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCBoGmjONeZ6PL5IbK6qZv0Q"/>
+ <id>yt:channel:UCBoGmjONeZ6PL5IbK6qZv0Q</id>
+ <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+ <title>SHANT TV Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q"/>
+ <author>
+  <name>SHANT TV Armenia</name>
+  <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+ </author>
+ <published>2010-09-09T18:26:10+00:00</published>
+ <entry>
+  <id>yt:video:A0L4WFx8inA</id>
+  <yt:videoId>A0L4WFx8inA</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Աշխարհի հայերը /Ashkharhi Hayer / Սաթի Սպիվակովա / Sati Spivakova</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=A0L4WFx8inA"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T20:24:01+00:00</published>
+  <updated>2022-04-03T20:24:04+00:00</updated>
+  <media:group>
+   <media:title>Աշխարհի հայերը /Ashkharhi Hayer / Սաթի Սպիվակովա / Sati Spivakova</media:title>
+   <media:content url="https://www.youtube.com/v/A0L4WFx8inA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/A0L4WFx8inA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="36" average="5.00" min="1" max="5"/>
+    <media:statistics views="1234"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GDW_Ljh53Qw</id>
+  <yt:videoId>GDW_Ljh53Qw</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Եփող թափողները / Epogh tapoghnere / Episode 45</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GDW_Ljh53Qw"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T20:09:10+00:00</published>
+  <updated>2022-04-03T20:19:50+00:00</updated>
+  <media:group>
+   <media:title>Եփող թափողները / Epogh tapoghnere / Episode 45</media:title>
+   <media:content url="https://www.youtube.com/v/GDW_Ljh53Qw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GDW_Ljh53Qw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="402"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OU2DESZhFT0</id>
+  <yt:videoId>OU2DESZhFT0</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Երեկոն Շանթում / Erekon Shantum / Episode 14</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OU2DESZhFT0"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:59:18+00:00</published>
+  <updated>2022-04-03T21:04:21+00:00</updated>
+  <media:group>
+   <media:title>Երեկոն Շանթում / Erekon Shantum / Episode 14</media:title>
+   <media:content url="https://www.youtube.com/v/OU2DESZhFT0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OU2DESZhFT0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երեկոն Շանթում / Erekon Shantum 
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ErekonShantum #YerekonShantum #ՇանթՀԸ #ShantTV #ShantDigital #ԵրեկոնՇանթում #Rafo
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv
+#ԵրեկոնՇանթում, #ErekonShantum, #ShantTV</media:description>
+   <media:community>
+    <media:starRating count="90" average="5.00" min="1" max="5"/>
+    <media:statistics views="6667"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JqQeo5W4zNs</id>
+  <yt:videoId>JqQeo5W4zNs</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Երեկոն Շանթում / Erekon Shantum / Episode 14 / Ներկաներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JqQeo5W4zNs"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:57:41+00:00</published>
+  <updated>2022-04-03T20:38:55+00:00</updated>
+  <media:group>
+   <media:title>Երեկոն Շանթում / Erekon Shantum / Episode 14 / Ներկաներ</media:title>
+   <media:content url="https://www.youtube.com/v/JqQeo5W4zNs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JqQeo5W4zNs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երեկոն Շանթում / Erekon Shantum
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv
+#ԵրեկոնՇանթում, #ErekonShantum</media:description>
+   <media:community>
+    <media:starRating count="120" average="5.00" min="1" max="5"/>
+    <media:statistics views="8427"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-Kq6zexrnNo</id>
+  <yt:videoId>-Kq6zexrnNo</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Երեկոն Շանթում / Erekon Shantum / Episode 14 / Նախկիններ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-Kq6zexrnNo"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:54:06+00:00</published>
+  <updated>2022-04-03T19:56:49+00:00</updated>
+  <media:group>
+   <media:title>Երեկոն Շանթում / Erekon Shantum / Episode 14 / Նախկիններ</media:title>
+   <media:content url="https://www.youtube.com/v/-Kq6zexrnNo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-Kq6zexrnNo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երեկոն Շանթում / Erekon Shantum 
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ErekonShantum #YerekonShantum #ՇանթՀԸ #ShantTV #ShantDigital #ԵրեկոնՇանթում #Rafo
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv
+#ԵրեկոնՇանթում, #ErekonShantum, #ShantTV</media:description>
+   <media:community>
+    <media:starRating count="50" average="5.00" min="1" max="5"/>
+    <media:statistics views="5096"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iKFLkWQQf1w</id>
+  <yt:videoId>iKFLkWQQf1w</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր / Նարեկ Գրիգորյան / Հովվի կանչ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iKFLkWQQf1w"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:42:54+00:00</published>
+  <updated>2022-04-03T19:50:59+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր / Նարեկ Գրիգորյան / Հովվի կանչ</media:title>
+   <media:content url="https://www.youtube.com/v/iKFLkWQQf1w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iKFLkWQQf1w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Փոքրիկ աստղեր / Poqrik astgher
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital #PoqrikAstgher #Փոքրիկաստղեր
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="358"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IYOeZsHj9fQ</id>
+  <yt:videoId>IYOeZsHj9fQ</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր/ Դավիթ Բաբայան / Նվերներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IYOeZsHj9fQ"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:40:02+00:00</published>
+  <updated>2022-04-03T19:54:15+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր/ Դավիթ Բաբայան / Նվերներ</media:title>
+   <media:content url="https://www.youtube.com/v/IYOeZsHj9fQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IYOeZsHj9fQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="182"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BjTzc53L4QI</id>
+  <yt:videoId>BjTzc53L4QI</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր/ Նարեկ Գրիգորյան և Անի Օհանյան/ Զեփյուռ կդառնամ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BjTzc53L4QI"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:39:35+00:00</published>
+  <updated>2022-04-03T19:56:40+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր/ Նարեկ Գրիգորյան և Անի Օհանյան/ Զեփյուռ կդառնամ</media:title>
+   <media:content url="https://www.youtube.com/v/BjTzc53L4QI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BjTzc53L4QI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Փոքրիկ աստղեր / Poqrik astgher
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital #PoqrikAstgher #Փոքրիկաստղեր
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="426"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xZJsVPIcn3k</id>
+  <yt:videoId>xZJsVPIcn3k</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր / Հարություն Մկրտչյան, Անի Մելիքյան, Դավիթ  Բաբայան/Melodramma</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xZJsVPIcn3k"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:39:01+00:00</published>
+  <updated>2022-04-03T19:52:39+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր / Հարություն Մկրտչյան, Անի Մելիքյան, Դավիթ  Բաբայան/Melodramma</media:title>
+   <media:content url="https://www.youtube.com/v/xZJsVPIcn3k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xZJsVPIcn3k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Փոքրիկ աստղեր / Poqrik astgher
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital #PoqrikAstgher #Փոքրիկաստղեր
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="19" average="5.00" min="1" max="5"/>
+    <media:statistics views="439"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:396qIsD0UoM</id>
+  <yt:videoId>396qIsD0UoM</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր/ Նարեկ Գրիգորյան / Նվերներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=396qIsD0UoM"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:39:01+00:00</published>
+  <updated>2022-04-03T19:42:33+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր/ Նարեկ Գրիգորյան / Նվերներ</media:title>
+   <media:content url="https://www.youtube.com/v/396qIsD0UoM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/396qIsD0UoM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="197"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oJXY4majjSs</id>
+  <yt:videoId>oJXY4majjSs</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր / Դավիթ Բաբայան / P.Sarasate / Habanera</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oJXY4majjSs"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-03T19:38:57+00:00</published>
+  <updated>2022-04-03T19:55:28+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր / Դավիթ Բաբայան / P.Sarasate / Habanera</media:title>
+   <media:content url="https://www.youtube.com/v/oJXY4majjSs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oJXY4majjSs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Փոքրիկ աստղեր / Poqrik astgher
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital #PoqrikAstgher #Փոքրիկաստղեր
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="129"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jdaUsUPZaII</id>
+  <yt:videoId>jdaUsUPZaII</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Women's Club / Episode 121</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jdaUsUPZaII"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-02T18:49:31+00:00</published>
+  <updated>2022-04-03T10:04:16+00:00</updated>
+  <media:group>
+   <media:title>Women's Club / Episode 121</media:title>
+   <media:content url="https://www.youtube.com/v/jdaUsUPZaII?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jdaUsUPZaII/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="560" average="5.00" min="1" max="5"/>
+    <media:statistics views="80819"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:C_VTdUbsBbk</id>
+  <yt:videoId>C_VTdUbsBbk</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Եփող թափողները / Epogh tapoghnere / Episode 44</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=C_VTdUbsBbk"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-02T18:27:49+00:00</published>
+  <updated>2022-04-03T14:26:19+00:00</updated>
+  <media:group>
+   <media:title>Եփող թափողները / Epogh tapoghnere / Episode 44</media:title>
+   <media:content url="https://www.youtube.com/v/C_VTdUbsBbk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/C_VTdUbsBbk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Եփող թափողները / Epogh tapoghnere 
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital #Եփողթափողները #Epoghtapoghnere 
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="89" average="5.00" min="1" max="5"/>
+    <media:statistics views="5829"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wgsgeAl4FWk</id>
+  <yt:videoId>wgsgeAl4FWk</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Հատուկ դասարան / Hatuk Dasaran / Սերիա 5</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wgsgeAl4FWk"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-01T19:21:29+00:00</published>
+  <updated>2022-04-03T20:49:28+00:00</updated>
+  <media:group>
+   <media:title>Հատուկ դասարան / Hatuk Dasaran / Սերիա 5</media:title>
+   <media:content url="https://www.youtube.com/v/wgsgeAl4FWk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wgsgeAl4FWk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="2272" average="5.00" min="1" max="5"/>
+    <media:statistics views="137039"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XjxX36vSHOU</id>
+  <yt:videoId>XjxX36vSHOU</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր / Poqrik astgher / Օրագիր / Oragir 03</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XjxX36vSHOU"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2022-04-01T19:09:44+00:00</published>
+  <updated>2022-04-02T06:00:41+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր / Poqrik astgher / Օրագիր / Oragir 03</media:title>
+   <media:content url="https://www.youtube.com/v/XjxX36vSHOU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XjxX36vSHOU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Փոքրիկ աստղեր / Poqrik astgher
+Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+Բաժանորդագրվել http://bit.ly/3119srd
+#ՇանթՀԸ #ShantTV #ShantDigital #PoqrikAstgher #Փոքրիկաստղեր
+https://www.facebook.com/shanttv
+https://www.instagram.com/shanttv</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="1538"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

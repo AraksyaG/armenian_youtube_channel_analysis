@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:UCpDmKr8LFapW_-45tEW5tmg</id>
+ <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:A30eOcXGAvo</id>
+  <yt:videoId>A30eOcXGAvo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Էկրանավորվել է Նարինե Աբգարյանի «Զուլալի» նովելը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=A30eOcXGAvo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-24T16:00:11+00:00</published>
+  <updated>2021-10-24T16:36:35+00:00</updated>
+  <media:group>
+   <media:title>Էկրանավորվել է Նարինե Աբգարյանի «Զուլալի» նովելը</media:title>
+   <media:content url="https://www.youtube.com/v/A30eOcXGAvo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/A30eOcXGAvo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Արտֆոկուս»-ի տաղավարում է «Զուլալի» ֆիլմի ռեժիսոր և պրոդյուսեր Հայկ Օրդյանը: Ֆիլմի նկարահանումների և կինոարտադրության ներկա խնդիրների մասին Հայկ Օրդյանի հետ զրուցում է Անահիտ Մարգարյանը։ 
+Հաջորդիվ՝ մշակութային լրահոս։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="87"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Z6NyyAa5BkY</id>
+  <yt:videoId>Z6NyyAa5BkY</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հոկտեմբերի 24</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Z6NyyAa5BkY"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-24T05:00:10+00:00</published>
+  <updated>2021-10-24T05:00:11+00:00</updated>
+  <media:group>
+   <media:title>Հոկտեմբերի 24</media:title>
+   <media:content url="https://www.youtube.com/v/Z6NyyAa5BkY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Z6NyyAa5BkY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2021թ. հոկտեմբերի 24-ի օրվա խորհուրդը (24 † Կիր. ԲԿ. Է. կիր. զկնի Ս. Խաչի: Գիւտ Ս. Խաչի: Իմաստ. 14.1-8: Ես. 33.22-34.1: Ա. Կորնթ. 1.18-24: Մատթ. 24.27-36:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="353" average="5.00" min="1" max="5"/>
+    <media:statistics views="2045"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Lhv5haJ4VAI</id>
+  <yt:videoId>Lhv5haJ4VAI</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Արդյո՞ք մեծ տպաքանակներն ընթերցանության ցուցիչ են</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Lhv5haJ4VAI"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-23T18:00:13+00:00</published>
+  <updated>2021-10-23T18:22:03+00:00</updated>
+  <media:group>
+   <media:title>Արդյո՞ք մեծ տպաքանակներն ընթերցանության ցուցիչ են</media:title>
+   <media:content url="https://www.youtube.com/v/Lhv5haJ4VAI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Lhv5haJ4VAI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Այսօր, երբ Հայաստանում գրքերը հրատարակվում են առավելապես 100-500 տպաքանակով, դժվար է պատկերացնել, որ ինչ-որ ժամանակ, օրինակ, խորհրդային շրջանում, գրքերը հրատարակվում էին հազարավոր և տասնյակ հազարավոր տպաքանակներով: Որքանո՞վ են մեծ տպաքանակներն ու վաճառքները երաշխավորում դրանց ընթերցանությունը, ինչո՞վ են պայմանավորված գրքերի մեծ տպաքանակներն աշխարհում: Այս հարցերը զուգահեռ քննում են գրականագետներ Հայկ Համբարձումյանն ու Արքմենիկ Նիկողոսյանը։
+#Զուգահեռ_ընթերցումներ  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="197"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EJ9JXpTwUF0</id>
+  <yt:videoId>EJ9JXpTwUF0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Նովելը՝ կինոէկրանին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EJ9JXpTwUF0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-23T17:01:55+00:00</published>
+  <updated>2021-10-23T17:01:55+00:00</updated>
+  <media:group>
+   <media:title>Նովելը՝ կինոէկրանին</media:title>
+   <media:content url="https://www.youtube.com/v/EJ9JXpTwUF0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EJ9JXpTwUF0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հյուրը «Զուլալի» ֆիլմի ռեժիսոր, պրոդյուսեր Հայկ Օրդյանն է։ Ամբողջական թողարկումը՝ «Արտֆոկուս»-ի 24.10.2021-ի եթերում։</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="106"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3TQEd930m0U</id>
+  <yt:videoId>3TQEd930m0U</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Տարածաշրջանի հոգևոր առաջնորդների եռակողմ հանդիպման մանրամասներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3TQEd930m0U"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-23T12:21:10+00:00</published>
+  <updated>2021-10-23T19:49:09+00:00</updated>
+  <media:group>
+   <media:title>Տարածաշրջանի հոգևոր առաջնորդների եռակողմ հանդիպման մանրամասներ</media:title>
+   <media:content url="https://www.youtube.com/v/3TQEd930m0U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3TQEd930m0U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հոկտեմբերի 13-ին Մոսկվայում տեղի ունեցավ Ռուսաստանի, Հայաստանի և Ադրբեջանի հոգևոր առաջնորդների հանդիպումը։ 1988 թվականից սկսած սա Ղարաբաղյան հակամարտության խաղաղ կարգավորմանն ի նպաստ այս ձևաչափով 17-րդ հանդիպումն էր: Ի՞նչ շեշտադրումներ ուներ 2021թ.-ի եռակողմ հանդիպումը, ի՞նչ խնդիրներ են բարձրացվել: Մանրամասնում են եռակողմ հանդիպմանը Հայ եկեղեցու պատվիրակության անդամներ՝ Մայր Աթոռի արտաքին հարաբերությունների բաժնի տնօրեն Նաթան արքեպիսկոպոս Հովհաննիսյանը և իրավաբանական գիտ. դոկտոր, ԳՀԽ անդամ Գևորգ Դանիելյանը: Զրույցը վարում է Աննա Սարգսյանը: 
+#Երրորդ_հազարամյակ  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="589"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_geYQTv5rz8</id>
+  <yt:videoId>_geYQTv5rz8</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Աղոթքով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_geYQTv5rz8"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-07-30T13:43:21+00:00</published>
+  <updated>2021-10-23T08:16:16+00:00</updated>
+  <media:group>
+   <media:title>Աղոթքով</media:title>
+   <media:content url="https://www.youtube.com/v/_geYQTv5rz8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_geYQTv5rz8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Բուրաստան տատի տունն Ափնա գյուղում է: Ութ տասնյակից ավելի ապրած կյանքում  չի հիշում մի օր, որ եկեղեցու ճամփան անցած չլինի: Հիշում է մորից լսած աղոթքը: Ասում է՝  օրը պետք է աղաթքով սկսել:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2DV1TBXO7hI</id>
+  <yt:videoId>2DV1TBXO7hI</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հոկտեմբերի 23</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2DV1TBXO7hI"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-23T05:00:02+00:00</published>
+  <updated>2021-10-23T05:00:03+00:00</updated>
+  <media:group>
+   <media:title>Հոկտեմբերի 23</media:title>
+   <media:content url="https://www.youtube.com/v/2DV1TBXO7hI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2DV1TBXO7hI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2021թ. հոկտեմբերի 23-ի օրվա խորհուրդը (23 Շբ. ԲՁ. Սրբոց երկոտասանից վարդապետացն՝ Ռեթէոսի, Դիոնէսիոսի, Սեղբեստրոսի, Աթանասի, Կիւրղի Երուսաղէմացւոյն, Եփրեմի Խուրին Ասորւոյ, Բարսղի Կեսարացւոյն, Գրիգորի Նիւսացւոյն, Գրիգորի Աստուածաբանին, Եպիփանու Կիպրացւոյն, Յովհաննու Ոսկեբերանին եւ Կիւրղի Աղէքսանդրացւոյն: Առակ. 11.2-11: Ես. 61.3-7: Եբր. 13.7-9: Յովհ. 16.33-17.8:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="346" average="4.99" min="1" max="5"/>
+    <media:statistics views="2251"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bRr-FOIHgoM</id>
+  <yt:videoId>bRr-FOIHgoM</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 22.10.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bRr-FOIHgoM"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T17:14:01+00:00</published>
+  <updated>2021-10-22T21:50:49+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 22.10.2021</media:title>
+   <media:content url="https://www.youtube.com/v/bRr-FOIHgoM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bRr-FOIHgoM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Քահանաների և սոցաշխատողների համար եռօրյա դասընթաց ընտանեկան ինստիտուտին վերաբերող հարցերի շուրջ:
+Հոկտեմբերի 31-ին կնշվի Ալավերդու Սբ. Գրիգոր Նարեկացի եկեղեցու օծման 20-ամյակը:
+Հոկտեմբերի 30-ին կօծվի Թեղուտի Սուրբ Խաչ եկեղեցու խաչը:
+Հոկտեմբերի 24-ին Հայ եկեղեցին կնշի Խաչի գյուտի տոնը:
+Սեմինար-հանդիպում Արմավիրի՝ Հայոց եկեղեցու պատմություն առարկայի ուսուցիչների համար:  
+Վախճանվել է արվեստի վաստակավոր գործիչ, արվեստաբան Շահեն Խաչատրյանը: 
+Պղնձահանքի բացառիկ որմնանկարները՝ Հեթում քահանայի պատրաստած պատկերագրքում:  
+ «Աստծո շունչն Ավստրիայում» լուսանկարների ցուցահանդես Մայր Աթոռի «Ռուբեն Սեւակ» թանգարանում:</media:description>
+   <media:community>
+    <media:starRating count="9" average="4.56" min="1" max="5"/>
+    <media:statistics views="187"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QcmdsUXjGQE</id>
+  <yt:videoId>QcmdsUXjGQE</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ավստրիայի կաթոլիկ վանքերի լուսանկարների ցուցահանդես է բացվել Մայր Աթոռում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QcmdsUXjGQE"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T16:23:19+00:00</published>
+  <updated>2021-10-23T00:58:12+00:00</updated>
+  <media:group>
+   <media:title>Ավստրիայի կաթոլիկ վանքերի լուսանկարների ցուցահանդես է բացվել Մայր Աթոռում</media:title>
+   <media:content url="https://www.youtube.com/v/QcmdsUXjGQE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QcmdsUXjGQE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մայր Աթոռի «Ռուբեն Սեւակ» թանգարանում «Աստծո շունչն Ավստրիայում» խորագրով լուսանկարների ցուցահանդես է բացվել: Բենեդիկտյան, Ցիստերցիան, Օգոստինյան վանական միաբանությունների 26 եկեղեցի ու վանք է ներկայացված: Ցուցահանդեսի բացմանը ներկա էր նաև ՀՀ-ում Ավստրիայի Հանրապետության արտակարգ և լիազոր դեսպան Ալոիս Կրաուտը:</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="359"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aNIEDys2TN8</id>
+  <yt:videoId>aNIEDys2TN8</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Պղնձահանքի բացառիկ որմնանկարները՝ Հեթում քահանայի պատրաստած պատկերագրքում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aNIEDys2TN8"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T16:16:00+00:00</published>
+  <updated>2021-10-22T22:45:52+00:00</updated>
+  <media:group>
+   <media:title>Պղնձահանքի բացառիկ որմնանկարները՝ Հեթում քահանայի պատրաստած պատկերագրքում</media:title>
+   <media:content url="https://www.youtube.com/v/aNIEDys2TN8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aNIEDys2TN8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հեթում քահանա Թարվերդյանը մեկ տարվա ընթացքում մի քանի հրատարակություն է պատրաստել: Վերջինը նվիրված է Արևելյան Եվրոպայի ամենահին գաղութի` Ռումինիայի հայ համայնքի պատմությանը: Մյուս գիրքը Գուգարքի նշանավոր վանական համալիրի` Ախթալայի մասին է, իսկ պատկերազարդ ալբոմը ներկայացնում է Պղնձահանքի Սբ. Աստվածածին վանքի բացառիկ որմնանկարները: 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="195"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4RSqLmbt98w</id>
+  <yt:videoId>4RSqLmbt98w</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Վախճանվել է արվեստի վաստակավոր գործիչ, արվեստաբան Շահեն Խաչատրյանը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4RSqLmbt98w"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T16:13:00+00:00</published>
+  <updated>2021-10-22T22:43:53+00:00</updated>
+  <media:group>
+   <media:title>Վախճանվել է արվեստի վաստակավոր գործիչ, արվեստաբան Շահեն Խաչատրյանը</media:title>
+   <media:content url="https://www.youtube.com/v/4RSqLmbt98w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4RSqLmbt98w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երկարատև հիվանդությունից հետո կյանքի 88-րդ տարումվախճանվել է ՀՀ արվեստի վաստակավոր գործիչ, արվեստաբան Շահեն Խաչատրյանը։</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="312"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ApREDmvYviM</id>
+  <yt:videoId>ApREDmvYviM</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Սեմինար-հանդիպում Արմավիրի՝ Հայոց եկեղեցու պատմություն առարկայի ուսուցիչների համար</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ApREDmvYviM"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T15:54:50+00:00</published>
+  <updated>2021-10-22T23:26:24+00:00</updated>
+  <media:group>
+   <media:title>Սեմինար-հանդիպում Արմավիրի՝ Հայոց եկեղեցու պատմություն առարկայի ուսուցիչների համար</media:title>
+   <media:content url="https://www.youtube.com/v/ApREDmvYviM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ApREDmvYviM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Արմավիրի 5-րդ դպրոցի Հայոց եկեղեցու պատմություն առարկայի ուսուցիչների հրավերով՝ ՔԴԿ տնօրեն Զաքարիա ծայրագույն վարդապետ Բաղումյանը  դասախոսությամբ հանդես եկավ եկեղեցու նվիրապետության, թեմերի, թեմակալ առաջնորդների ընտրության, Հայոց եկեղեցու վարչական կառուցվածքի մասին: Սրանք այն թեմաներից են, որոնք առավել դժվար ընկալելի են մանկավարժների համար:</media:description>
+   <media:community>
+    <media:starRating count="4" average="4.00" min="1" max="5"/>
+    <media:statistics views="61"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hqV_Rwztrpk</id>
+  <yt:videoId>hqV_Rwztrpk</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Առաջիկա իրադարձությունների համառոտ լրահոս 22.20.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hqV_Rwztrpk"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T15:49:59+00:00</published>
+  <updated>2021-10-22T23:23:39+00:00</updated>
+  <media:group>
+   <media:title>Առաջիկա իրադարձությունների համառոտ լրահոս 22.20.2021</media:title>
+   <media:content url="https://www.youtube.com/v/hqV_Rwztrpk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hqV_Rwztrpk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հոկտեմբերի 31-ին կնշվի Ալավերդու Սբ. Գրիգոր Նարեկացի եկեղեցու օծման 20-ամյակը:
+
+Հոկտեմբերի 30-ին կօծվի Թեղուտի Սուրբ Խաչ եկեղեցու խաչը:
+Հոկտեմբերի 24-ին Հայ եկեղեցին կնշի Խաչի գյուտի տոնը:</media:description>
+   <media:community>
+    <media:starRating count="14" average="4.71" min="1" max="5"/>
+    <media:statistics views="223"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tkwiSkzuObc</id>
+  <yt:videoId>tkwiSkzuObc</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Քահանաների և սոցաշխատողների համար եռօրյա դասընթաց ընտանեկան ինստիտուտին վերաբերող հարցերի շուրջ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tkwiSkzuObc"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2021-10-22T15:44:34+00:00</published>
+  <updated>2021-10-22T23:37:21+00:00</updated>
+  <media:group>
+   <media:title>Քահանաների և սոցաշխատողների համար եռօրյա դասընթաց ընտանեկան ինստիտուտին վերաբերող հարցերի շուրջ</media:title>
+   <media:content url="https://www.youtube.com/v/tkwiSkzuObc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tkwiSkzuObc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Եկեղեցիների համաշխարհային խորհրդի հայաստանյան «Կլոր սեղան» հիմնադրամի և ՄԱԿ-ի բնակչության հիմնադրամի հայաստանյան գրասենյակի նախաձեռնությամբ քահանաների և սոցիալական աշխատողների համար եռօրյա դասընթաց տեղի ունեցավ. թեման՝ «Տղամարդկանց ներգրավվածության խթանումը նախածննդյան և հետծննդյան խնամքում և պատասխանատու հայրություն»: Հիմնադրամները ընտանեկան ինստիտուտին վերաբերող տարբեր հարցերի շուրջ համագործակցում են ավելի քան տասը տարի:
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #Լուրեր</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="288"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

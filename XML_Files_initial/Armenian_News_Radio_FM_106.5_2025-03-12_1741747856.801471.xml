@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <id>yt:channel:aJCNkhSa84QcuOSoM2WfcA</id>
+ <yt:channelId>aJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+ <title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <author>
+  <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+  <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+ </author>
+ <published>2011-10-12T12:52:09+00:00</published>
+ <entry>
+  <id>yt:video:Zc5oszdjkpY</id>
+  <yt:videoId>Zc5oszdjkpY</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ջարդեր Սիրիայում․ինչու՞ հիմա․Մոդուս Վիվենդի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Zc5oszdjkpY"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-11T16:00:42+00:00</published>
+  <updated>2025-03-11T16:01:04+00:00</updated>
+  <media:group>
+   <media:title>Ջարդեր Սիրիայում․ինչու՞ հիմա․Մոդուս Վիվենդի</media:title>
+   <media:content url="https://www.youtube.com/v/Zc5oszdjkpY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Zc5oszdjkpY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="438"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UTNjuJ0K7Jg</id>
+  <yt:videoId>UTNjuJ0K7Jg</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ջարդեր Սիրիայում․ինչու՞ հիմա․Մոդուս Վիվենդի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UTNjuJ0K7Jg"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-11T16:00:37+00:00</published>
+  <updated>2025-03-11T16:00:37+00:00</updated>
+  <media:group>
+   <media:title>Ջարդեր Սիրիայում․ինչու՞ հիմա․Մոդուս Վիվենդի</media:title>
+   <media:content url="https://www.youtube.com/v/UTNjuJ0K7Jg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UTNjuJ0K7Jg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ջարդեր Սիրիայում․ինչու՞ հիմա․Մոդուս Վիվենդի
+
+Ինչու՞ են հիմա ջարդեր Սիրիայում։ Ի՞նչ  դեր ունի Թուրքիան տեղի ունեցողի մեջ։
+
+Մարկո Ռոբիոյի կարծիքով ռուս-ուկրաինական պատերազմը միջնորդավորված պատերազմ էր ԱՄՆ-ի և Ռուսաստանի միջև։ Արդյո՞ք դա համապատասխանում է իրականությանը։ 
+
+Ուկրաինական բանակը կույր կմնա՞ առանց ԱՄՆ արբանյակների հետախուզական տվյալների։ 
+
+Տարածաշրջանային վտանգներ․ ի՞նչ է սպառնում սպառնում են ՀՀ-ին։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1802"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6KauYEywg2s</id>
+  <yt:videoId>6KauYEywg2s</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Կասկածելի գործարքներ Երևանի ականջից հեռու. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6KauYEywg2s"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-11T08:53:49+00:00</published>
+  <updated>2025-03-11T08:54:19+00:00</updated>
+  <media:group>
+   <media:title>Կասկածելի գործարքներ Երևանի ականջից հեռու. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/6KauYEywg2s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6KauYEywg2s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="570"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MRoDS1CVX0I</id>
+  <yt:videoId>MRoDS1CVX0I</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Կասկածելի գործարքներ Երևանի ականջից հեռու. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MRoDS1CVX0I"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-11T08:53:26+00:00</published>
+  <updated>2025-03-11T08:53:27+00:00</updated>
+  <media:group>
+   <media:title>Կասկածելի գործարքներ Երևանի ականջից հեռու. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/MRoDS1CVX0I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MRoDS1CVX0I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>. Կասկադի անավարտ հատվածի վերականգնումը. խնդիրներ
+. Թամանյանական նախագծի իմաստն ու նպատակը
+. Երևանի պատմամշակութային վայրերի հանդեպ վերաբերմունքը
+. Գործարք, որը անթույլատրելի է
+. Այս չարաշահումները և սպասվելիք հետևանքներ</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="782"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:er76XqlHcrk</id>
+  <yt:videoId>er76XqlHcrk</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Կանանց իրավունքները Թուրքիայում․առաջ և հիմա․ Կիսալուսնի մայրամուտը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=er76XqlHcrk"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-10T16:00:53+00:00</published>
+  <updated>2025-03-11T07:09:38+00:00</updated>
+  <media:group>
+   <media:title>Կանանց իրավունքները Թուրքիայում․առաջ և հիմա․ Կիսալուսնի մայրամուտը</media:title>
+   <media:content url="https://www.youtube.com/v/er76XqlHcrk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/er76XqlHcrk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="677"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DeAWvtBaIJU</id>
+  <yt:videoId>DeAWvtBaIJU</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Կանանց իրավունքները Թուրքիայում․առաջ և հիմա․ Կիսալուսնի մայրամուտը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DeAWvtBaIJU"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-10T16:00:13+00:00</published>
+  <updated>2025-03-11T06:27:10+00:00</updated>
+  <media:group>
+   <media:title>Կանանց իրավունքները Թուրքիայում․առաջ և հիմա․ Կիսալուսնի մայրամուտը</media:title>
+   <media:content url="https://www.youtube.com/v/DeAWvtBaIJU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DeAWvtBaIJU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կանանց իրավունքները Թուրքիայում․առաջ և հիմա․ Կիսալուսնի մայրամուտը 
+․Թուրքիայում հին ժամանակներում կինը ցածր էր համարվում նույնիսկ կենդանուց։
+․Ավելի հարգի էր մայրը։ Թուրքիայում հիմնականում կնոջը հարգում էին այն ժամանակ, երբ վերջինս պատկառելի տարիք ուներ։
+․Թուրքիայում ամեն օր առնվազն երկու կին է սպանվում։
+․Մեծ են նաև բռնաբարությունների դեպքերը։ Սակայն հիմնական բռնարարները չեն պատժվում։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="355"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SkHG4A0mFC4</id>
+  <yt:videoId>SkHG4A0mFC4</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Նոր աշխարհակարգի շեմին. ինչու՞ է աղմկում Ամերիկան. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SkHG4A0mFC4"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-10T09:00:36+00:00</published>
+  <updated>2025-03-11T06:17:40+00:00</updated>
+  <media:group>
+   <media:title>Նոր աշխարհակարգի շեմին. ինչու՞ է աղմկում Ամերիկան. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/SkHG4A0mFC4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SkHG4A0mFC4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>. ԱՄՆ-ի ներքին կառուցվածքը
+. Հանրապետականների վերադարձ. սպասելիքներ և  զարգացումներ
+. Թրամփի շրջապատը և Չինաստանի դեմ պայքարը
+. Թվեր, որոնք պատմում են ԱՄՆ-ի բնակչության մասին 
+. Ավանդական արժեքների կարևորումը Թրամփի վերադարձի պատճառ</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1014"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:66ZFZyANRL4</id>
+  <yt:videoId>66ZFZyANRL4</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Նոր աշխարհակարգի շեմին. ինչու՞ է աղմկում Ամերիկան. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=66ZFZyANRL4"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-10T09:00:08+00:00</published>
+  <updated>2025-03-11T06:52:34+00:00</updated>
+  <media:group>
+   <media:title>Նոր աշխարհակարգի շեմին. ինչու՞ է աղմկում Ամերիկան. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/66ZFZyANRL4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/66ZFZyANRL4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="528"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eKhLjWEx7mA</id>
+  <yt:videoId>eKhLjWEx7mA</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Կոչումը` վիրաբույժ.«Ռադիոառողջարան»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eKhLjWEx7mA"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-10T06:00:21+00:00</published>
+  <updated>2025-03-10T06:00:21+00:00</updated>
+  <media:group>
+   <media:title>Կոչումը` վիրաբույժ.«Ռադիոառողջարան»</media:title>
+   <media:content url="https://www.youtube.com/v/eKhLjWEx7mA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eKhLjWEx7mA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Աջափնյակ» Բժշկական Կենտրոնի հիմնադիր, տնօրեն, բժշկական գիտությունների թեկնածու, Ընդհանուր և լապարոսկոպիկ վիրաբույժ  Գրիգորի Մանուկյանի հետ զրուցել ենք բժշկության, ոլորտի բացթողումների, վերելքների անհրաժետ քայլերի  մասին և ոչ միայն:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="72"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_VdvOuGSxbg</id>
+  <yt:videoId>_VdvOuGSxbg</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Как мы дошли до этого?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_VdvOuGSxbg"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T14:30:17+00:00</published>
+  <updated>2025-03-09T06:09:04+00:00</updated>
+  <media:group>
+   <media:title>Как мы дошли до этого?</media:title>
+   <media:content url="https://www.youtube.com/v/_VdvOuGSxbg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_VdvOuGSxbg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="510"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SV181ngwpdM</id>
+  <yt:videoId>SV181ngwpdM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Америка больше не враг? Отдел пропаганды ''Кукушка''</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SV181ngwpdM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T14:00:38+00:00</published>
+  <updated>2025-03-09T13:40:55+00:00</updated>
+  <media:group>
+   <media:title>Америка больше не враг? Отдел пропаганды ''Кукушка''</media:title>
+   <media:content url="https://www.youtube.com/v/SV181ngwpdM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SV181ngwpdM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>-Предложение Трампа России. Что дальше?
+-Редкоземельные металлы и Китай.
+-Постидейный мир.
+-Что делать официальной пропаганде?</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="786"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kcKxNTEYZXo</id>
+  <yt:videoId>kcKxNTEYZXo</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kcKxNTEYZXo"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T09:00:59+00:00</published>
+  <updated>2025-03-09T18:05:26+00:00</updated>
+  <media:group>
+   <media:title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:title>
+   <media:content url="https://www.youtube.com/v/kcKxNTEYZXo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kcKxNTEYZXo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="579"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7vj3FznUX2Q</id>
+  <yt:videoId>7vj3FznUX2Q</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ուկրաինան դեռ խելամիտ որոշում կայացնելու ժամանակ ունի. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7vj3FznUX2Q"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T09:00:09+00:00</published>
+  <updated>2025-03-10T18:24:07+00:00</updated>
+  <media:group>
+   <media:title>Ուկրաինան դեռ խելամիտ որոշում կայացնելու ժամանակ ունի. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/7vj3FznUX2Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7vj3FznUX2Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1355"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:A809tx-smbM</id>
+  <yt:videoId>A809tx-smbM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=A809tx-smbM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-06T09:00:10+00:00</published>
+  <updated>2025-03-08T06:12:55+00:00</updated>
+  <media:group>
+   <media:title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/A809tx-smbM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/A809tx-smbM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>. Հայ գործարար 2025. ինչպե՞ս ստեղծվեց տոնի գաղափարը
+. Գործարար միջավայր, որտեղ ստեղծվում են կապեր
+. Հրատարակվող գրքեր. օգնության է հասնում արհեստական բանականությունը
+. Գործարարը կարդա՞, թե՞ ոչ. ի՞նչ է պահանջում դարը
+. Բինես և արհեստական բանականություն. ինչպե՞ս ճիշտ համագործակցել</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="166"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:50DMj3ZfRuM</id>
+  <yt:videoId>50DMj3ZfRuM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=50DMj3ZfRuM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-06T09:00:06+00:00</published>
+  <updated>2025-03-07T22:49:13+00:00</updated>
+  <media:group>
+   <media:title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/50DMj3ZfRuM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/50DMj3ZfRuM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="471"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:f2o81mWr-bZsLbq2-kOYTQ</id>
+ <yt:channelId>f2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:Ly6c8MZ_4Hc</id>
+  <yt:videoId>Ly6c8MZ_4Hc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Գործն ավելի բարձր է, քան պարզապես խոսքերը. Տիգրան Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ly6c8MZ_4Hc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-20T07:00:09+00:00</published>
+  <updated>2024-05-20T07:00:37+00:00</updated>
+  <media:group>
+   <media:title>Գործն ավելի բարձր է, քան պարզապես խոսքերը. Տիգրան Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/Ly6c8MZ_4Hc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Ly6c8MZ_4Hc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="8"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UctEmAX59NQ</id>
+  <yt:videoId>UctEmAX59NQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Պետք է մերժել թուրքամետ իշխանությանը․ Անդրիաս Ղուկասյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UctEmAX59NQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-20T05:00:19+00:00</published>
+  <updated>2024-05-20T05:00:20+00:00</updated>
+  <media:group>
+   <media:title>Պետք է մերժել թուրքամետ իշխանությանը․ Անդրիաս Ղուկասյան</media:title>
+   <media:content url="https://www.youtube.com/v/UctEmAX59NQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UctEmAX59NQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="79" average="5.00" min="1" max="5"/>
+    <media:statistics views="652"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ewa3Y5GBEPY</id>
+  <yt:videoId>ewa3Y5GBEPY</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Նախանձը ձեզ կտանի հիվանդության․ Լյուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ewa3Y5GBEPY"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-19T07:00:20+00:00</published>
+  <updated>2024-05-19T07:00:20+00:00</updated>
+  <media:group>
+   <media:title>Նախանձը ձեզ կտանի հիվանդության․ Լյուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/ewa3Y5GBEPY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ewa3Y5GBEPY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="1884" average="5.00" min="1" max="5"/>
+    <media:statistics views="43914"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:W_Wxei6PfCs</id>
+  <yt:videoId>W_Wxei6PfCs</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ալիևը փորձում է մեր մշակույթը և պատմությունը իրենց վերագրել. Տիգրան Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=W_Wxei6PfCs"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-18T09:00:21+00:00</published>
+  <updated>2024-05-19T06:48:28+00:00</updated>
+  <media:group>
+   <media:title>Ալիևը փորձում է մեր մշակույթը և պատմությունը իրենց վերագրել. Տիգրան Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/W_Wxei6PfCs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/W_Wxei6PfCs/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="190" average="5.00" min="1" max="5"/>
+    <media:statistics views="11955"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GwUBmyPnqSg</id>
+  <yt:videoId>GwUBmyPnqSg</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Բագրատ Սրբազանի շարժումը ուրի՞շ է, թե՞ հերթականն է անցած շարժումների շարքում․ Հմայակ Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GwUBmyPnqSg"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-18T05:00:06+00:00</published>
+  <updated>2024-05-19T16:45:17+00:00</updated>
+  <media:group>
+   <media:title>Բագրատ Սրբազանի շարժումը ուրի՞շ է, թե՞ հերթականն է անցած շարժումների շարքում․ Հմայակ Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/GwUBmyPnqSg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GwUBmyPnqSg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="184" average="5.00" min="1" max="5"/>
+    <media:statistics views="7677"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tWvgP9YtBqM</id>
+  <yt:videoId>tWvgP9YtBqM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>«Ուժը Հայրենյաց» կուսակցության հենքը արժանապատիվ հայն ու Հայաստանն են. Տիգրան Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tWvgP9YtBqM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-17T16:01:00+00:00</published>
+  <updated>2024-05-19T18:51:18+00:00</updated>
+  <media:group>
+   <media:title>«Ուժը Հայրենյաց» կուսակցության հենքը արժանապատիվ հայն ու Հայաստանն են. Տիգրան Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/tWvgP9YtBqM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tWvgP9YtBqM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="28" average="5.00" min="1" max="5"/>
+    <media:statistics views="1352"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Db8oZ2Wfmmc</id>
+  <yt:videoId>Db8oZ2Wfmmc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Հիմար կկու չի կարելի լինել. Վովա Վարդանով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Db8oZ2Wfmmc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-17T15:00:11+00:00</published>
+  <updated>2024-05-19T10:36:46+00:00</updated>
+  <media:group>
+   <media:title>Հիմար կկու չի կարելի լինել. Վովա Վարդանով</media:title>
+   <media:content url="https://www.youtube.com/v/Db8oZ2Wfmmc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Db8oZ2Wfmmc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="156" average="5.00" min="1" max="5"/>
+    <media:statistics views="5335"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:R8p93NIO8uM</id>
+  <yt:videoId>R8p93NIO8uM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ինչո՞վ է զբաղվում մեր երկրի նախագահը. Փոքրիկների աչքերով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=R8p93NIO8uM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-17T08:00:15+00:00</published>
+  <updated>2024-05-19T08:48:06+00:00</updated>
+  <media:group>
+   <media:title>Ինչո՞վ է զբաղվում մեր երկրի նախագահը. Փոքրիկների աչքերով</media:title>
+   <media:content url="https://www.youtube.com/v/R8p93NIO8uM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/R8p93NIO8uM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="1793"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yXrUcW0ViIg</id>
+  <yt:videoId>yXrUcW0ViIg</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մեր հարևաններին դեռ մանկապարտեզից սովորացնում են, որ հայերին անհրաժեշտ է բռնաբարել. Վովա Վարդանով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yXrUcW0ViIg"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-16T15:00:53+00:00</published>
+  <updated>2024-05-19T01:10:42+00:00</updated>
+  <media:group>
+   <media:title>Մեր հարևաններին դեռ մանկապարտեզից սովորացնում են, որ հայերին անհրաժեշտ է բռնաբարել. Վովա Վարդանով</media:title>
+   <media:content url="https://www.youtube.com/v/yXrUcW0ViIg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yXrUcW0ViIg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="265" average="5.00" min="1" max="5"/>
+    <media:statistics views="10523"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ej9MeY0Ee2M</id>
+  <yt:videoId>ej9MeY0Ee2M</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Աշխարհայացք․ Աշոտ Գևորգյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ej9MeY0Ee2M"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-16T05:00:22+00:00</published>
+  <updated>2024-05-16T05:00:23+00:00</updated>
+  <media:group>
+   <media:title>Աշխարհայացք․ Աշոտ Գևորգյան</media:title>
+   <media:content url="https://www.youtube.com/v/ej9MeY0Ee2M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ej9MeY0Ee2M/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="879"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2v6zg4MWhtc</id>
+  <yt:videoId>2v6zg4MWhtc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ադրբեջանը դեռ շատ բան ունի ստանալու այս իշխանությունից. Արտակ Զաքարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2v6zg4MWhtc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-15T20:00:00+00:00</published>
+  <updated>2024-05-16T06:59:44+00:00</updated>
+  <media:group>
+   <media:title>Ադրբեջանը դեռ շատ բան ունի ստանալու այս իշխանությունից. Արտակ Զաքարյան</media:title>
+   <media:content url="https://www.youtube.com/v/2v6zg4MWhtc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2v6zg4MWhtc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="95" average="5.00" min="1" max="5"/>
+    <media:statistics views="7087"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oQ4RPFsUI1Y</id>
+  <yt:videoId>oQ4RPFsUI1Y</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Պատերազմ սկսելն այդքան հեշտ բան չէ. Վովա Վարդանով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oQ4RPFsUI1Y"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-15T09:00:30+00:00</published>
+  <updated>2024-05-15T10:36:07+00:00</updated>
+  <media:group>
+   <media:title>Պատերազմ սկսելն այդքան հեշտ բան չէ. Վովա Վարդանով</media:title>
+   <media:content url="https://www.youtube.com/v/oQ4RPFsUI1Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oQ4RPFsUI1Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="104" average="5.00" min="1" max="5"/>
+    <media:statistics views="3760"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zQsiZBcNCGk</id>
+  <yt:videoId>zQsiZBcNCGk</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Խոսում է տիեզերքը․ թեման` Լոռի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zQsiZBcNCGk"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-15T05:00:38+00:00</published>
+  <updated>2024-05-16T12:24:57+00:00</updated>
+  <media:group>
+   <media:title>Խոսում է տիեզերքը․ թեման` Լոռի</media:title>
+   <media:content url="https://www.youtube.com/v/zQsiZBcNCGk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zQsiZBcNCGk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="724" average="5.00" min="1" max="5"/>
+    <media:statistics views="24478"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nMyer7SPKeY</id>
+  <yt:videoId>nMyer7SPKeY</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Լրիվ նույն սցենարով են շարժվում. Տավուշից ոտքով եկավ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nMyer7SPKeY"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-14T17:00:37+00:00</published>
+  <updated>2024-05-16T12:25:16+00:00</updated>
+  <media:group>
+   <media:title>Լրիվ նույն սցենարով են շարժվում. Տավուշից ոտքով եկավ</media:title>
+   <media:content url="https://www.youtube.com/v/nMyer7SPKeY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nMyer7SPKeY/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="752" average="5.00" min="1" max="5"/>
+    <media:statistics views="21539"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TAHxyapyPsU</id>
+  <yt:videoId>TAHxyapyPsU</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ՓՈՔՐԻԿՆԵՐԻ ԱՉՔԵՐՈՎ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TAHxyapyPsU"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2024-05-14T14:00:20+00:00</published>
+  <updated>2024-05-14T14:00:20+00:00</updated>
+  <media:group>
+   <media:title>ՓՈՔՐԻԿՆԵՐԻ ԱՉՔԵՐՈՎ</media:title>
+   <media:content url="https://www.youtube.com/v/TAHxyapyPsU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TAHxyapyPsU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="397"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

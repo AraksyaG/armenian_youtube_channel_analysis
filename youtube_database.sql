@@ -9,7 +9,6 @@ CREATE TABLE youtube_channels (
     original_channel_id TEXT unique,
     channel_name TEXT,
     url TEXT,
-    created_at DATE,
     last_scraped DATE
 );
 
@@ -31,6 +30,12 @@ CREATE TABLE videos (
 Select * from videos;
 select * from youtube_channels;
 
+create materialized view channels as
+select * from youtube_channels
+where last_scraped > '2025-04-04';
+
+select * from channels;
+
 -- Channels with max/min views
 select y.channel_name, min(v.views), max(v.views)
 from (
@@ -41,7 +46,7 @@ from (
 join youtube_channels y on v.channel_id = y.channel_id
 group by y.channel_name;
 
--- Channels with max/min views
+-- Channels with max/min rating
 select y.channel_name, min(v.rating), max(v.rating)
 from (
     select distinct on (original_video_id) *
@@ -54,16 +59,6 @@ group by y.channel_name;
 -- The Number of Distinct Channels in DB
 select distinct channel_name
 from youtube_channels;
-
--- Channel Activity Over Time
-select y.channel_name, count(distinct(v.video_id)) as video_count
-from videos as v
-join youtube_channels as y on v.channel_id = y.channel_id
-group by y.channel_name
-order by video_count  desc;
--- 23 * 15 * 345 = the number of videos (logical)
-
--- Video Distribution: How Popular the Videos are
 
 -- How Popular the Channels are
 select y.channel_name, sum(v.views) as total_latest_views
@@ -83,14 +78,12 @@ join youtube_channels as y on y.channel_id = v.channel_id
 order by views desc
 limit 10;
 
+
 -- Average Views per Channel (based on last scraping date)
 select distinct(y.channel_name), avg(v.views)::integer as average_views
-from (
-	select distinct on (original_video_id) *
-	from videos
-	order by original_video_id, scraped_at desc
-) as v
-join youtube_channels as y on y.channel_id = v.channel_id
+from videos as v
+join channels as y on y.channel_id = v.channel_id
+where v.scraped_at::date = v.published_at::date + INTERVAL '2 days'
 group by y.channel_name
 order by avg(v.views)::integer desc;
 
@@ -104,27 +97,24 @@ from videos
 where description is null or description = '';
 
 -- Number of Videos Publishes Over Time (for python)
-select y.channel_name, v.published_at as publish_date, count(*) as video_count
+select y.channel_name, v.published_at as publish_date, count(distinct(v.original_video_id)) as video_count
 from youtube_channels as y
 join videos as v on v.channel_id = y.channel_id
 group by y.channel_name, v.published_at
-order by v.published_at;
+order by video_count desc;
 
 -- Views Trend Over Time (when most view generating videos are being posted)
 
 select published_at as publish_date, sum(views) as total_views
 from videos
 group by publish_date
-order by publish_date;
+order by total_views desc;
 
 -- Average Rating per Channel (based on last scraping date)
-select distinct(y.channel_name), avg(v.rating)::integer as average_rating
-from (
-	select distinct on (original_video_id) *
-	from videos
-	order by original_video_id, scraped_at desc
-) as v
+select distinct(y.channel_name), avg(v.rating)::integer as average_views
+from videos as v
 join youtube_channels as y on y.channel_id = v.channel_id
+where v.scraped_at::date = v.published_at::date + INTERVAL '2 days'
 group by y.channel_name
 order by avg(v.rating)::integer desc;
 
@@ -139,14 +129,6 @@ select y.channel_name
 from youtube_channels as y
 left join videos as v on v.channel_id = y.channel_id
 where v.video_id is null;
-
-
-
--- select v.title, v.views, v.scraped_at, y.channel_name, v.original_video_id
--- from videos as v
--- join youtube_channels as y on y.channel_id = v.channel_id
--- group by video_id, y.channel_name, v.original_video_id
--- order by title
 
 
 

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:iPuyqmQ0YT8</id>
+  <yt:videoId>iPuyqmQ0YT8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Սա ռուսական նախագիծ է․ Լավրովը թուրքերի հետ ջախջախում է մեզ․ Լևոն Շիրինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iPuyqmQ0YT8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-22T14:27:18+00:00</published>
+  <updated>2023-09-22T15:05:00+00:00</updated>
+  <media:group>
+   <media:title>Սա ռուսական նախագիծ է․ Լավրովը թուրքերի հետ ջախջախում է մեզ․ Լևոն Շիրինյան</media:title>
+   <media:content url="https://www.youtube.com/v/iPuyqmQ0YT8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iPuyqmQ0YT8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="2308" average="5.00" min="1" max="5"/>
+    <media:statistics views="84226"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oj4DP-gUyGI</id>
+  <yt:videoId>oj4DP-gUyGI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Հայերը զոհաբերվում են հանուն պետության․ Պետականությունը հալածված է․ Ազատ Արշակյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oj4DP-gUyGI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-21T15:16:50+00:00</published>
+  <updated>2023-09-22T01:08:26+00:00</updated>
+  <media:group>
+   <media:title>Հայերը զոհաբերվում են հանուն պետության․ Պետականությունը հալածված է․ Ազատ Արշակյան</media:title>
+   <media:content url="https://www.youtube.com/v/oj4DP-gUyGI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oj4DP-gUyGI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="142" average="5.00" min="1" max="5"/>
+    <media:statistics views="6748"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xmUQ9YjqMFs</id>
+  <yt:videoId>xmUQ9YjqMFs</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Երևանը Աստծո գալստյան խորհրդանիշն է. Երևանի սիրտը բաբախում է․ Սամվել Բեկթաշյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xmUQ9YjqMFs"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-20T15:41:52+00:00</published>
+  <updated>2023-09-20T16:18:02+00:00</updated>
+  <media:group>
+   <media:title>Երևանը Աստծո գալստյան խորհրդանիշն է. Երևանի սիրտը բաբախում է․ Սամվել Բեկթաշյան</media:title>
+   <media:content url="https://www.youtube.com/v/xmUQ9YjqMFs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xmUQ9YjqMFs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="385" average="5.00" min="1" max="5"/>
+    <media:statistics views="20340"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-yxHwEA4mvQ</id>
+  <yt:videoId>-yxHwEA4mvQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Փաշինյանը ուզում է ներել թուրքերին, մոռանալ Արցախը և ցեղասպանությունը․ Անդրիաս Ղուկասյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-yxHwEA4mvQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-19T14:36:26+00:00</published>
+  <updated>2023-09-21T06:55:44+00:00</updated>
+  <media:group>
+   <media:title>Փաշինյանը ուզում է ներել թուրքերին, մոռանալ Արցախը և ցեղասպանությունը․ Անդրիաս Ղուկասյան</media:title>
+   <media:content url="https://www.youtube.com/v/-yxHwEA4mvQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-yxHwEA4mvQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="126" average="5.00" min="1" max="5"/>
+    <media:statistics views="4879"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5Wra0bwCLYk</id>
+  <yt:videoId>5Wra0bwCLYk</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մի ստրկացեք երկոտանի աղբերին․ Գայանե Գասպարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5Wra0bwCLYk"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-18T09:55:07+00:00</published>
+  <updated>2023-09-18T09:55:07+00:00</updated>
+  <media:group>
+   <media:title>Մի ստրկացեք երկոտանի աղբերին․ Գայանե Գասպարյան</media:title>
+   <media:content url="https://www.youtube.com/v/5Wra0bwCLYk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5Wra0bwCLYk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="620" average="5.00" min="1" max="5"/>
+    <media:statistics views="17511"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UUhe0sfblec</id>
+  <yt:videoId>UUhe0sfblec</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Կողոպտում են երկիրը Մոսկվայի հրամանով և ցնծում․ Թքեք ծախվածների վրա․  Լևոն Շիրինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UUhe0sfblec"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-15T15:02:24+00:00</published>
+  <updated>2023-09-18T07:19:54+00:00</updated>
+  <media:group>
+   <media:title>Կողոպտում են երկիրը Մոսկվայի հրամանով և ցնծում․ Թքեք ծախվածների վրա․  Լևոն Շիրինյան</media:title>
+   <media:content url="https://www.youtube.com/v/UUhe0sfblec?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UUhe0sfblec/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="1539" average="5.00" min="1" max="5"/>
+    <media:statistics views="55326"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HfVMGRa983M</id>
+  <yt:videoId>HfVMGRa983M</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ռուսաստանը միջուկային զենք կկիրառի Ուկրաինայի դեմ․ Ազատ Արշակյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HfVMGRa983M"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-14T05:00:06+00:00</published>
+  <updated>2023-09-15T19:43:44+00:00</updated>
+  <media:group>
+   <media:title>Ռուսաստանը միջուկային զենք կկիրառի Ուկրաինայի դեմ․ Ազատ Արշակյան</media:title>
+   <media:content url="https://www.youtube.com/v/HfVMGRa983M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HfVMGRa983M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="370" average="5.00" min="1" max="5"/>
+    <media:statistics views="16875"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mIXH37AYAiI</id>
+  <yt:videoId>mIXH37AYAiI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Զոհված հարազատներս մեզ ուժ են տալիս․ Գուրգեն Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mIXH37AYAiI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-13T13:48:50+00:00</published>
+  <updated>2023-09-16T14:18:53+00:00</updated>
+  <media:group>
+   <media:title>Զոհված հարազատներս մեզ ուժ են տալիս․ Գուրգեն Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/mIXH37AYAiI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mIXH37AYAiI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="89" average="5.00" min="1" max="5"/>
+    <media:statistics views="3644"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9T1RrZP7_44</id>
+  <yt:videoId>9T1RrZP7_44</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Որն է այն դատարանը , որը կարող է քննել վարչապետի սխալները․․․ Անդրիաս  Ղուկասյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9T1RrZP7_44"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-13T05:00:04+00:00</published>
+  <updated>2023-09-16T16:13:29+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Որն է այն դատարանը , որը կարող է քննել վարչապետի սխալները․․․ Անդրիաս  Ղուկասյան</media:title>
+   <media:content url="https://www.youtube.com/v/9T1RrZP7_44?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9T1RrZP7_44/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="366" average="5.00" min="1" max="5"/>
+    <media:statistics views="12093"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:U7otp-PuxEQ</id>
+  <yt:videoId>U7otp-PuxEQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv.Մեզ համար կինը մայր է, սրբություն, թուրքի համար վաճառքի ապրանք․․․ Սամվել Բեկթաշյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=U7otp-PuxEQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-12T05:00:12+00:00</published>
+  <updated>2023-09-12T18:03:16+00:00</updated>
+  <media:group>
+   <media:title>Bac tv.Մեզ համար կինը մայր է, սրբություն, թուրքի համար վաճառքի ապրանք․․․ Սամվել Բեկթաշյան</media:title>
+   <media:content url="https://www.youtube.com/v/U7otp-PuxEQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/U7otp-PuxEQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="291" average="5.00" min="1" max="5"/>
+    <media:statistics views="11001"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:B3XclUQhEjA</id>
+  <yt:videoId>B3XclUQhEjA</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv ․ Ընտրենք  արժանիներին․ Տիգրան Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=B3XclUQhEjA"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-11T14:16:58+00:00</published>
+  <updated>2023-09-12T15:19:32+00:00</updated>
+  <media:group>
+   <media:title>Bac tv ․ Ընտրենք  արժանիներին․ Տիգրան Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/B3XclUQhEjA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/B3XclUQhEjA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="49" average="5.00" min="1" max="5"/>
+    <media:statistics views="4474"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XABrCZYr0-I</id>
+  <yt:videoId>XABrCZYr0-I</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Քաղաքագետ չեմ և քաղաքականությամբ չեմ զբաղվում․ Ռաֆայել Սարգսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XABrCZYr0-I"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-11T05:00:16+00:00</published>
+  <updated>2023-09-13T01:37:24+00:00</updated>
+  <media:group>
+   <media:title>Քաղաքագետ չեմ և քաղաքականությամբ չեմ զբաղվում․ Ռաֆայել Սարգսյան</media:title>
+   <media:content url="https://www.youtube.com/v/XABrCZYr0-I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XABrCZYr0-I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="543" average="5.00" min="1" max="5"/>
+    <media:statistics views="27994"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1v9-_K63F-c</id>
+  <yt:videoId>1v9-_K63F-c</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մենք պարտավոր ենք մեր հինավուրց քաղաքը ավելի լավ վիճակում թողնել մեր սերունդներին.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1v9-_K63F-c"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-10T11:00:02+00:00</published>
+  <updated>2023-09-10T11:00:02+00:00</updated>
+  <media:group>
+   <media:title>Մենք պարտավոր ենք մեր հինավուրց քաղաքը ավելի լավ վիճակում թողնել մեր սերունդներին.</media:title>
+   <media:content url="https://www.youtube.com/v/1v9-_K63F-c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1v9-_K63F-c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="1441"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NiRiCcDwP4w</id>
+  <yt:videoId>NiRiCcDwP4w</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Չափի զգացողություն չունենք․․․ Միքայել Հայրապետյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NiRiCcDwP4w"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-10T05:00:17+00:00</published>
+  <updated>2023-09-12T17:28:08+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Չափի զգացողություն չունենք․․․ Միքայել Հայրապետյան</media:title>
+   <media:content url="https://www.youtube.com/v/NiRiCcDwP4w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NiRiCcDwP4w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="468" average="5.00" min="1" max="5"/>
+    <media:statistics views="16645"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UCRhCdEBUss</id>
+  <yt:videoId>UCRhCdEBUss</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մեր ամբողջ փորձն ու հմտությունները ցանկանում ենք ներդնել Երևանը զարգացնելու մեջ. Տիգրան Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UCRhCdEBUss"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-09-09T12:31:46+00:00</published>
+  <updated>2023-09-10T09:10:47+00:00</updated>
+  <media:group>
+   <media:title>Մեր ամբողջ փորձն ու հմտությունները ցանկանում ենք ներդնել Երևանը զարգացնելու մեջ. Տիգրան Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/UCRhCdEBUss?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UCRhCdEBUss/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="930"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

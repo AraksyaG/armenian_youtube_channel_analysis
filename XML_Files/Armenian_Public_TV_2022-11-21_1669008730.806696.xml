@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:UCSnr4wFDHDZZMeeHQvaHpjA</id>
+ <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:Xa6ZBTwgpXg</id>
+  <yt:videoId>Xa6ZBTwgpXg</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ԳործԱրար. Արնուշ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Xa6ZBTwgpXg"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-20T15:00:07+00:00</published>
+  <updated>2022-11-20T15:27:35+00:00</updated>
+  <media:group>
+   <media:title>ԳործԱրար. Արնուշ</media:title>
+   <media:content url="https://www.youtube.com/v/Xa6ZBTwgpXg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Xa6ZBTwgpXg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="80" average="5.00" min="1" max="5"/>
+    <media:statistics views="3450"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lgKUAcYrGak</id>
+  <yt:videoId>lgKUAcYrGak</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ձեզ ենք ներկայացնում «Մանկական Եվրատեսիլ 2022-ի» հաղորդավարներին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lgKUAcYrGak"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-20T12:37:48+00:00</published>
+  <updated>2022-11-20T12:42:46+00:00</updated>
+  <media:group>
+   <media:title>Ձեզ ենք ներկայացնում «Մանկական Եվրատեսիլ 2022-ի» հաղորդավարներին</media:title>
+   <media:content url="https://www.youtube.com/v/lgKUAcYrGak?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lgKUAcYrGak/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="118" average="5.00" min="1" max="5"/>
+    <media:statistics views="1808"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Joq0IPdVgHE</id>
+  <yt:videoId>Joq0IPdVgHE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Լեզուն հայրենիք է 20.11.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Joq0IPdVgHE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-20T10:00:09+00:00</published>
+  <updated>2022-11-20T10:00:09+00:00</updated>
+  <media:group>
+   <media:title>Լեզուն հայրենիք է 20.11.2022</media:title>
+   <media:content url="https://www.youtube.com/v/Joq0IPdVgHE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Joq0IPdVgHE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="141" average="5.00" min="1" max="5"/>
+    <media:statistics views="2980"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0aranbkj9aw</id>
+  <yt:videoId>0aranbkj9aw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Պատրաստենք միասին. Տապակած սենդվիչ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0aranbkj9aw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-20T10:00:01+00:00</published>
+  <updated>2022-11-20T10:00:01+00:00</updated>
+  <media:group>
+   <media:title>Պատրաստենք միասին. Տապակած սենդվիչ</media:title>
+   <media:content url="https://www.youtube.com/v/0aranbkj9aw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0aranbkj9aw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="932"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xfwbt3sdrkw</id>
+  <yt:videoId>xfwbt3sdrkw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ Նվիրված Երվանդ Երզնկյանի 75 ամյակին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xfwbt3sdrkw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-20T04:29:36+00:00</published>
+  <updated>2022-11-20T06:35:55+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ Նվիրված Երվանդ Երզնկյանի 75 ամյակին</media:title>
+   <media:content url="https://www.youtube.com/v/xfwbt3sdrkw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xfwbt3sdrkw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոց</media:description>
+   <media:community>
+    <media:starRating count="106" average="5.00" min="1" max="5"/>
+    <media:statistics views="6975"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mCK9-Joo_hQ</id>
+  <yt:videoId>mCK9-Joo_hQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ծովը՝ հայերեն 9</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mCK9-Joo_hQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-19T16:30:09+00:00</published>
+  <updated>2022-11-19T16:57:44+00:00</updated>
+  <media:group>
+   <media:title>Ծովը՝ հայերեն 9</media:title>
+   <media:content url="https://www.youtube.com/v/mCK9-Joo_hQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mCK9-Joo_hQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="165" average="5.00" min="1" max="5"/>
+    <media:statistics views="10828"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:deTWO4hB7Dc</id>
+  <yt:videoId>deTWO4hB7Dc</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Մանկական Եվրատեսիլի 20-րդ պտույտը Երևանում. օրագիր 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=deTWO4hB7Dc"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-19T16:15:09+00:00</published>
+  <updated>2022-11-20T07:47:25+00:00</updated>
+  <media:group>
+   <media:title>Մանկական Եվրատեսիլի 20-րդ պտույտը Երևանում. օրագիր 2</media:title>
+   <media:content url="https://www.youtube.com/v/deTWO4hB7Dc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/deTWO4hB7Dc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="813" average="5.00" min="1" max="5"/>
+    <media:statistics views="34913"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oB6ofUWPPb4</id>
+  <yt:videoId>oB6ofUWPPb4</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Արսեն Սաֆարյան - «Բայց դու չես գալիս» Cover Արամ MP3 և Kami Friends #ԱռաջինՍտուդիա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oB6ofUWPPb4"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T20:01:04+00:00</published>
+  <updated>2022-11-19T08:27:59+00:00</updated>
+  <media:group>
+   <media:title>Արսեն Սաֆարյան - «Բայց դու չես գալիս» Cover Արամ MP3 և Kami Friends #ԱռաջինՍտուդիա</media:title>
+   <media:content url="https://www.youtube.com/v/oB6ofUWPPb4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oB6ofUWPPb4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="139" average="5.00" min="1" max="5"/>
+    <media:statistics views="2286"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xVnVW67DFPM</id>
+  <yt:videoId>xVnVW67DFPM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առաջին ստուդիա. Արամ MP3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xVnVW67DFPM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T18:45:09+00:00</published>
+  <updated>2022-11-19T17:53:44+00:00</updated>
+  <media:group>
+   <media:title>Առաջին ստուդիա. Արամ MP3</media:title>
+   <media:content url="https://www.youtube.com/v/xVnVW67DFPM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xVnVW67DFPM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="500" average="5.00" min="1" max="5"/>
+    <media:statistics views="19780"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mT26lRzZ7k8</id>
+  <yt:videoId>mT26lRzZ7k8</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հանդիպում Առաջինում. Ֆորշ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mT26lRzZ7k8"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T16:15:07+00:00</published>
+  <updated>2022-11-19T09:19:35+00:00</updated>
+  <media:group>
+   <media:title>Հանդիպում Առաջինում. Ֆորշ</media:title>
+   <media:content url="https://www.youtube.com/v/mT26lRzZ7k8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mT26lRzZ7k8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ՀանդիպումԱռաջինում</media:description>
+   <media:community>
+    <media:starRating count="141" average="5.00" min="1" max="5"/>
+    <media:statistics views="11543"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:g-fpw38vWyA</id>
+  <yt:videoId>g-fpw38vWyA</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>The hosts of 20th Junior Eurovision Song Contest</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=g-fpw38vWyA"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T15:02:36+00:00</published>
+  <updated>2022-11-19T08:15:12+00:00</updated>
+  <media:group>
+   <media:title>The hosts of 20th Junior Eurovision Song Contest</media:title>
+   <media:content url="https://www.youtube.com/v/g-fpw38vWyA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/g-fpw38vWyA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#JESC2022 #SPINTHEMAGIC</media:description>
+   <media:community>
+    <media:starRating count="1065" average="5.00" min="1" max="5"/>
+    <media:statistics views="20024"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VEp0wnqCxuY</id>
+  <yt:videoId>VEp0wnqCxuY</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Անուշ Ասլիբեկյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VEp0wnqCxuY"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T12:05:44+00:00</published>
+  <updated>2022-11-19T09:12:43+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Անուշ Ասլիբեկյան</media:title>
+   <media:content url="https://www.youtube.com/v/VEp0wnqCxuY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VEp0wnqCxuY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="637"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JvAeDFyhqjI</id>
+  <yt:videoId>JvAeDFyhqjI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Կարապետ Թոմիկյան, Լիլ Արամի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JvAeDFyhqjI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T12:04:11+00:00</published>
+  <updated>2022-11-19T08:48:38+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Կարապետ Թոմիկյան, Լիլ Արամի</media:title>
+   <media:content url="https://www.youtube.com/v/JvAeDFyhqjI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JvAeDFyhqjI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="439"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Xo-5XxYFwhY</id>
+  <yt:videoId>Xo-5XxYFwhY</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Եվա Սուջյան, Նարինե Ղուկասյան, Արթուր Մկրտումյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Xo-5XxYFwhY"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T12:03:19+00:00</published>
+  <updated>2022-11-20T17:04:03+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Եվա Սուջյան, Նարինե Ղուկասյան, Արթուր Մկրտումյան</media:title>
+   <media:content url="https://www.youtube.com/v/Xo-5XxYFwhY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Xo-5XxYFwhY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="590"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Xf6NwTVEsko</id>
+  <yt:videoId>Xf6NwTVEsko</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 17.11.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Xf6NwTVEsko"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-11-18T07:25:31+00:00</published>
+  <updated>2022-11-19T08:11:13+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 17.11.2022</media:title>
+   <media:content url="https://www.youtube.com/v/Xf6NwTVEsko?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Xf6NwTVEsko/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="398"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

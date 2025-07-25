@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <id>yt:channel:D6gGqwiP_zdW-sOL8-BBnw</id>
+ <yt:channelId>D6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+ <title>Novosti-Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <author>
+  <name>Novosti-Armenia</name>
+  <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+ </author>
+ <published>2017-11-15T12:41:37+00:00</published>
+ <entry>
+  <id>yt:video:uvkXoAkALKQ</id>
+  <yt:videoId>uvkXoAkALKQ</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ինչպես է Պուտինը դիմավորում Փաշինյանին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uvkXoAkALKQ"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T20:04:10+00:00</published>
+  <updated>2023-12-26T05:03:23+00:00</updated>
+  <media:group>
+   <media:title>Ինչպես է Պուտինը դիմավորում Փաշինյանին</media:title>
+   <media:content url="https://www.youtube.com/v/uvkXoAkALKQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uvkXoAkALKQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ինչպես է Պուտինը դիմավորում Փաշինյանին #pashinyan #putin #lurer</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="172"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qpMLYBom0Fc</id>
+  <yt:videoId>qpMLYBom0Fc</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Քաղաքագետ Ալեն Ղևոնդյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qpMLYBom0Fc"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T09:45:11+00:00</published>
+  <updated>2023-12-25T09:46:24+00:00</updated>
+  <media:group>
+   <media:title>Քաղաքագետ Ալեն Ղևոնդյան</media:title>
+   <media:content url="https://www.youtube.com/v/qpMLYBom0Fc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qpMLYBom0Fc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="1171"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-SYAX_RzwBI</id>
+  <yt:videoId>-SYAX_RzwBI</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Քաղաքագետ Ալեն Ղևոնդյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-SYAX_RzwBI"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T09:40:10+00:00</published>
+  <updated>2023-12-25T09:41:34+00:00</updated>
+  <media:group>
+   <media:title>Քաղաքագետ Ալեն Ղևոնդյան</media:title>
+   <media:content url="https://www.youtube.com/v/-SYAX_RzwBI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-SYAX_RzwBI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="2511"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wW81R4ajkMw</id>
+  <yt:videoId>wW81R4ajkMw</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ալեն Ղևոնդյան քաղաքագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wW81R4ajkMw"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T09:37:29+00:00</published>
+  <updated>2023-12-25T09:38:46+00:00</updated>
+  <media:group>
+   <media:title>Ալեն Ղևոնդյան քաղաքագետ</media:title>
+   <media:content url="https://www.youtube.com/v/wW81R4ajkMw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wW81R4ajkMw/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="19" average="5.00" min="1" max="5"/>
+    <media:statistics views="2590"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LfBVAwlmIHU</id>
+  <yt:videoId>LfBVAwlmIHU</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ալեն Ղևոնդյան քաղաքագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LfBVAwlmIHU"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T09:34:33+00:00</published>
+  <updated>2023-12-25T09:35:48+00:00</updated>
+  <media:group>
+   <media:title>Ալեն Ղևոնդյան քաղաքագետ</media:title>
+   <media:content url="https://www.youtube.com/v/LfBVAwlmIHU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LfBVAwlmIHU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="1044"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nxO7iXpDaQQ</id>
+  <yt:videoId>nxO7iXpDaQQ</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ալեն Ղևոնդյան քաղաքագետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nxO7iXpDaQQ"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T09:29:50+00:00</published>
+  <updated>2023-12-25T20:08:38+00:00</updated>
+  <media:group>
+   <media:title>Ալեն Ղևոնդյան քաղաքագետ</media:title>
+   <media:content url="https://www.youtube.com/v/nxO7iXpDaQQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nxO7iXpDaQQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="2542"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gg245nsrqKs</id>
+  <yt:videoId>gg245nsrqKs</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Արտասովոր գողություն. դաշտից գողացել էին 158 ոչխարն ու տարել ուրիշ գյուղ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gg245nsrqKs"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T08:35:38+00:00</published>
+  <updated>2023-12-25T19:03:06+00:00</updated>
+  <media:group>
+   <media:title>Արտասովոր գողություն. դաշտից գողացել էին 158 ոչխարն ու տարել ուրիշ գյուղ</media:title>
+   <media:content url="https://www.youtube.com/v/gg245nsrqKs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gg245nsrqKs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Արտասովոր գողություն. դաշտից գողացել էին 158 ոչխարն ու տարել ուրիշ գյուղ #armenia #լուրեր</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="732"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:grVK1ug9aME</id>
+  <yt:videoId>grVK1ug9aME</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Սաստիկ բուք. Ջերմուկ-Սիսիան ճանապարհը փակ է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=grVK1ug9aME"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-25T05:51:13+00:00</published>
+  <updated>2023-12-25T19:11:01+00:00</updated>
+  <media:group>
+   <media:title>Սաստիկ բուք. Ջերմուկ-Սիսիան ճանապարհը փակ է</media:title>
+   <media:content url="https://www.youtube.com/v/grVK1ug9aME?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/grVK1ug9aME/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սաստիկ բուք. Ջերմուկ- Սիսիան ճանապարհը փակ է #news #armenianews #hayastan</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="1611"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2iezg7Nt1sQ</id>
+  <yt:videoId>2iezg7Nt1sQ</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Սրտի զարկը վերականգնված զինվորը բուժում է ստանում «Զինվորի տուն» կենտրոնում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2iezg7Nt1sQ"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-24T19:25:46+00:00</published>
+  <updated>2023-12-25T10:02:02+00:00</updated>
+  <media:group>
+   <media:title>Սրտի զարկը վերականգնված զինվորը բուժում է ստանում «Զինվորի տուն» կենտրոնում</media:title>
+   <media:content url="https://www.youtube.com/v/2iezg7Nt1sQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2iezg7Nt1sQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#newsarmenia #news  
+Սրտի զարկը վերականգնված զինվորը բուժում է ստանում «Զինվորի տուն» կենտրոնում</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="137"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ss2WF4Fsu-4</id>
+  <yt:videoId>ss2WF4Fsu-4</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Մարտունի-Գետափ ճանապարհին բուք է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ss2WF4Fsu-4"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-24T13:50:36+00:00</published>
+  <updated>2023-12-25T10:03:51+00:00</updated>
+  <media:group>
+   <media:title>Մարտունի-Գետափ ճանապարհին բուք է</media:title>
+   <media:content url="https://www.youtube.com/v/ss2WF4Fsu-4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ss2WF4Fsu-4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#news #լուրեր 
+Մարտունի-Գետափ ճանապարհին բուք է</media:description>
+   <media:community>
+    <media:starRating count="50" average="5.00" min="1" max="5"/>
+    <media:statistics views="7276"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:D5fhZH0YUEA</id>
+  <yt:videoId>D5fhZH0YUEA</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Սարսափելի դեպք. 4-ամյա հայ երեխա է սպանվել ծնողների աչքի առաջ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=D5fhZH0YUEA"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-23T16:20:56+00:00</published>
+  <updated>2023-12-25T10:06:14+00:00</updated>
+  <media:group>
+   <media:title>Սարսափելի դեպք. 4-ամյա հայ երեխա է սպանվել ծնողների աչքի առաջ</media:title>
+   <media:content url="https://www.youtube.com/v/D5fhZH0YUEA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/D5fhZH0YUEA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սարսափելի դեպք. 4-ամյա հայ երեխա է սպանվել ծնողների աչքի առաջ</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="510"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HbKd6sPe3Os</id>
+  <yt:videoId>HbKd6sPe3Os</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ո՞րն է Հայաստանի քաղաքական օրակարգը 2024 թվականի համար. քաղաքագետ Ալեն Ղևոնդյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HbKd6sPe3Os"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-22T17:30:11+00:00</published>
+  <updated>2023-12-23T17:39:43+00:00</updated>
+  <media:group>
+   <media:title>Ո՞րն է Հայաստանի քաղաքական օրակարգը 2024 թվականի համար. քաղաքագետ Ալեն Ղևոնդյան</media:title>
+   <media:content url="https://www.youtube.com/v/HbKd6sPe3Os?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HbKd6sPe3Os/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Հայասանում, ամենայն հավանականությամբ, եկող տարի ընտրություններ են լինելու: Նոր խորհրդարանում, կառավարությունում Արևմուտքը ունենալու է թե՛ իշխանություն, թե՛ ընդդիմություն. հետաքրքիր զուգահեռներ կարելի է անցկացնել նաև մինչ 2018թ-ը Հայաստանի հետ, որովհետև այն ժամանակ էլ իշխանությունը և՛ իշխանություն էր, և՛ ուներ իր սեփական ընդդիմությունը, հիմա Արևմուտքն է էդ գործիքակազմով առաջնորդվելու: Ասել,որ ռուսները ձեռքները ծալած նստելու են, չէ՛»,- «Հատուկ կարծիք» հաղորդմանը տված հարցազրույցում ասում է քաղաքագետ Ալեն Ղևոնդյանը: Ինչ վերաբերվում է գերիների վերադարձին. նրա խոսքով՝ Ալիևը գերիներին ինչ-որ բանի դիմաց է տվել, Հայաստանի վարչապետը իհարկե չի ասի՝ ի՞նչ է տալու, բայց դրա էմոցիոնալ քարոզչական էլէմէնտներից փորձում է առավելագույն քաղաքական դիվիդենտները ստանալ: 
+
+00:40 Արցախը պահելու հնարավորության մասին:
+04:22 Արցախի հանձնելու գնով՝ Հայաստանը պահելու քաղաքականության մասին:
+07:03 Հայ-ռուսական հարաբերությունների ճգնաժամի հեռանկարի մասին:
+08:48 Ռուսաստանից ստացված անվճար զենքի մասին:
+15:55 Ադրբեջանցիների Հայաստան գալու, վերաբնակեցման ծրագրի մասին:
+18:55 Ադրբեջանի՝ անկլավները ստանալու նպատակի մասին:
+22:30 գերիների վերադարձի գնի մասին:
+22:53 Հայաստանում սպասվող արտահերթ ընտրությունների մասին:
+25:22  2024թվականին Հայաստանի քաղաքական օրակարգի մասին:
+
+«Նովոստի–Արմենիա» միջազգային լրատվության գործակալություն: Քաղաքական, սոցիալական, տնտեսական, մշակութային և սպորտային նորություններ Հայաստանից և ամբողջ աշխարհից: 
+https://newsarmenia.am/am/
+
+Агентство международной информации &quot;Новости-Армения&quot; - политические, экономические, культурные и спортивные новости из Армении и всего мира. https://newsarmenia.am
+
+#newsarmenia #novosti_armenia</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="226"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SHaZHRi1Caw</id>
+  <yt:videoId>SHaZHRi1Caw</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Մարտաֆիլմ՝ Սևանում․ պարեկների 2 նավակին է մոտեցել 200 ձկնորսական նավակ,  բենզինով շշեր են նետել</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SHaZHRi1Caw"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-22T16:44:46+00:00</published>
+  <updated>2023-12-25T13:01:30+00:00</updated>
+  <media:group>
+   <media:title>Մարտաֆիլմ՝ Սևանում․ պարեկների 2 նավակին է մոտեցել 200 ձկնորսական նավակ,  բենզինով շշեր են նետել</media:title>
+   <media:content url="https://www.youtube.com/v/SHaZHRi1Caw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SHaZHRi1Caw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մարտաֆիլմ՝ Սևանում․ պարեկների 2 նավակին է մոտեցել 200 ձկնորսական նավակ,  բենզինով շշեր են նետել</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="2031"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fJ0-aaOv9yU</id>
+  <yt:videoId>fJ0-aaOv9yU</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ո՞նց ես. Միշուստինը հայերենով դիմում է երեխային #newsarmenia #news</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fJ0-aaOv9yU"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-22T12:45:06+00:00</published>
+  <updated>2023-12-23T08:18:59+00:00</updated>
+  <media:group>
+   <media:title>Ո՞նց ես. Միշուստինը հայերենով դիմում է երեխային #newsarmenia #news</media:title>
+   <media:content url="https://www.youtube.com/v/fJ0-aaOv9yU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fJ0-aaOv9yU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="26" average="5.00" min="1" max="5"/>
+    <media:statistics views="2804"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_0QR3VmoojQ</id>
+  <yt:videoId>_0QR3VmoojQ</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>14 զոհ. հրաձգություն համալսարանում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_0QR3VmoojQ"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-12-22T09:53:48+00:00</published>
+  <updated>2023-12-25T10:05:49+00:00</updated>
+  <media:group>
+   <media:title>14 զոհ. հրաձգություն համալսարանում</media:title>
+   <media:content url="https://www.youtube.com/v/_0QR3VmoojQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_0QR3VmoojQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#campus #shooting #czech #czechrepublic #news  
+14 զոհ. հրաձգություն համալսարանում
+14 victims. campus shooting</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="2081"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

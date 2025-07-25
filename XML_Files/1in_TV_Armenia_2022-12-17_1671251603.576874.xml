@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCcku2B0bzJi6H5gxspIuchw"/>
+ <id>yt:channel:UCcku2B0bzJi6H5gxspIuchw</id>
+ <yt:channelId>UCcku2B0bzJi6H5gxspIuchw</yt:channelId>
+ <title>1in TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCcku2B0bzJi6H5gxspIuchw"/>
+ <author>
+  <name>1in TV</name>
+  <uri>https://www.youtube.com/channel/UCcku2B0bzJi6H5gxspIuchw</uri>
+ </author>
+ <published>2014-01-01T15:53:01+00:00</published>
+</feed>

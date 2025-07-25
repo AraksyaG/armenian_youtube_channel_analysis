@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <id>yt:channel:aJCNkhSa84QcuOSoM2WfcA</id>
+ <yt:channelId>aJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+ <title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <author>
+  <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+  <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+ </author>
+ <published>2011-10-12T12:52:09+00:00</published>
+ <entry>
+  <id>yt:video:eKhLjWEx7mA</id>
+  <yt:videoId>eKhLjWEx7mA</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Կոչումը` վիրաբույժ.«Ռադիոառողջարան»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eKhLjWEx7mA"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-10T06:00:21+00:00</published>
+  <updated>2025-03-10T06:00:21+00:00</updated>
+  <media:group>
+   <media:title>Կոչումը` վիրաբույժ.«Ռադիոառողջարան»</media:title>
+   <media:content url="https://www.youtube.com/v/eKhLjWEx7mA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eKhLjWEx7mA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Աջափնյակ» Բժշկական Կենտրոնի հիմնադիր, տնօրեն, բժշկական գիտությունների թեկնածու, Ընդհանուր և լապարոսկոպիկ վիրաբույժ  Գրիգորի Մանուկյանի հետ զրուցել ենք բժշկության, ոլորտի բացթողումների, վերելքների անհրաժետ քայլերի  մասին և ոչ միայն:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="21"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_VdvOuGSxbg</id>
+  <yt:videoId>_VdvOuGSxbg</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Как мы дошли до этого?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_VdvOuGSxbg"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T14:30:17+00:00</published>
+  <updated>2025-03-09T06:09:04+00:00</updated>
+  <media:group>
+   <media:title>Как мы дошли до этого?</media:title>
+   <media:content url="https://www.youtube.com/v/_VdvOuGSxbg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_VdvOuGSxbg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="477"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SV181ngwpdM</id>
+  <yt:videoId>SV181ngwpdM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Америка больше не враг? Отдел пропаганды ''Кукушка''</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SV181ngwpdM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T14:00:38+00:00</published>
+  <updated>2025-03-09T13:40:55+00:00</updated>
+  <media:group>
+   <media:title>Америка больше не враг? Отдел пропаганды ''Кукушка''</media:title>
+   <media:content url="https://www.youtube.com/v/SV181ngwpdM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SV181ngwpdM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>-Предложение Трампа России. Что дальше?
+-Редкоземельные металлы и Китай.
+-Постидейный мир.
+-Что делать официальной пропаганде?</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="700"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kcKxNTEYZXo</id>
+  <yt:videoId>kcKxNTEYZXo</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kcKxNTEYZXo"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T09:00:59+00:00</published>
+  <updated>2025-03-09T18:05:26+00:00</updated>
+  <media:group>
+   <media:title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:title>
+   <media:content url="https://www.youtube.com/v/kcKxNTEYZXo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kcKxNTEYZXo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="522"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7vj3FznUX2Q</id>
+  <yt:videoId>7vj3FznUX2Q</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ուկրաինան դեռ խելամիտ որոշում կայացնելու ժամանակ ունի. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7vj3FznUX2Q"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-07T09:00:09+00:00</published>
+  <updated>2025-03-09T03:39:12+00:00</updated>
+  <media:group>
+   <media:title>Ուկրաինան դեռ խելամիտ որոշում կայացնելու ժամանակ ունի. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/7vj3FznUX2Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7vj3FznUX2Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1238"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:A809tx-smbM</id>
+  <yt:videoId>A809tx-smbM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=A809tx-smbM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-06T09:00:10+00:00</published>
+  <updated>2025-03-08T06:12:55+00:00</updated>
+  <media:group>
+   <media:title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/A809tx-smbM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/A809tx-smbM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>. Հայ գործարար 2025. ինչպե՞ս ստեղծվեց տոնի գաղափարը
+. Գործարար միջավայր, որտեղ ստեղծվում են կապեր
+. Հրատարակվող գրքեր. օգնության է հասնում արհեստական բանականությունը
+. Գործարարը կարդա՞, թե՞ ոչ. ի՞նչ է պահանջում դարը
+. Բինես և արհեստական բանականություն. ինչպե՞ս ճիշտ համագործակցել</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="150"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:50DMj3ZfRuM</id>
+  <yt:videoId>50DMj3ZfRuM</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=50DMj3ZfRuM"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-06T09:00:06+00:00</published>
+  <updated>2025-03-07T22:49:13+00:00</updated>
+  <media:group>
+   <media:title>Հայ Գործարար 2025. տոնը նոր հնարավորություններ ստեղծելու մասին. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/50DMj3ZfRuM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/50DMj3ZfRuM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="465"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:o0WQB3HiVw0</id>
+  <yt:videoId>o0WQB3HiVw0</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Հակահայկական ինքնություն. Ինչպես կերտել ադրրբեջանցի ազգը. #45 Արտյոմ Տոնոյան. Մաքուր Պատմություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=o0WQB3HiVw0"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-05T16:01:03+00:00</published>
+  <updated>2025-03-07T06:58:31+00:00</updated>
+  <media:group>
+   <media:title>Հակահայկական ինքնություն. Ինչպես կերտել ադրրբեջանցի ազգը. #45 Արտյոմ Տոնոյան. Մաքուր Պատմություն</media:title>
+   <media:content url="https://www.youtube.com/v/o0WQB3HiVw0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/o0WQB3HiVw0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ադրբեջանում հակահայկական քարոզչությունը վաղուց արդեն դուրս է եկել Արցախի խնդրի սահմաններից: Մեծ հաշվով արցախյան հարցը հենց ինքը ծագել է հակահայկական տրամադրություններից և քաղաքականությունից: 
+
+Բայց նման ատելության հետևողական ներդնումը անիմսատ չէ: Բաքվի ռեժիմն ունի նպատակ, որը գրեթե չի փոխվում վերջին հարյուրամյակի ընթացքում: Խառնաշփոթ էթնիկ, կրոնական, և մշակութային շերտերից ստանալ մեկ հստակ ձուլվածք, նոր ազգ՝ ադրբեջանցի: 
+
+Նման գործընթացները շատ ավելի է հեշտ է կազմակերպել, երբ կա ընդգծված հակակերպար: Ադրբեջանի դեպքում դա հայերն են: Սա հայտնի քաղաքական տեխնոլոգիա է, որը պատմության մեջ բազմիցս կիրառվել, հաճախ հրահրելով պատերազմներ: 
+
+Բայց ովքեր են իրենց ադրբեջանցի անվանող մարդիկ: Ինչպես Արեւելյան Այսրկովկասում սկսվեց կոնստրուկտվել մի ժողովուրդ, որն այս ճանապարհին պետք է յուրացներ Իրանի Հյուսիս-արեւմտյան շրջանների տեղանունը: Ինչ մշակութային, կրոնական շերտերի կրողներ են: Եվ ինչպես է մեր աչքերի առջև փոխվում նրանց ինքնությունն այսօր: Թեմայի շուրջ պատմական գիտությունների թեկնածու Սուրեն Մանուկյանը զրուցել է բանասիարական գիտությունների թեկնածու Արտյոմ Տոնոյանի հետ:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1241"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QRP3LD6bxOs</id>
+  <yt:videoId>QRP3LD6bxOs</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Հակահայկական ինքնություն. Ինչպես կերտել ադրրբեջանցի ազգը. #45 Արտյոմ Տոնոյան. Մաքուր Պատմություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QRP3LD6bxOs"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-05T16:00:32+00:00</published>
+  <updated>2025-03-07T13:16:51+00:00</updated>
+  <media:group>
+   <media:title>Հակահայկական ինքնություն. Ինչպես կերտել ադրրբեջանցի ազգը. #45 Արտյոմ Տոնոյան. Մաքուր Պատմություն</media:title>
+   <media:content url="https://www.youtube.com/v/QRP3LD6bxOs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QRP3LD6bxOs/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="536"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gswoiPUs8PA</id>
+  <yt:videoId>gswoiPUs8PA</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Աջակցություն արցախահայությանը. խնդիրները լուծումներից շատ են. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gswoiPUs8PA"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-05T09:00:56+00:00</published>
+  <updated>2025-03-07T03:00:28+00:00</updated>
+  <media:group>
+   <media:title>Աջակցություն արցախահայությանը. խնդիրները լուծումներից շատ են. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/gswoiPUs8PA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gswoiPUs8PA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>. Սերտիֆիկատների պարտավորությունները, որոնք անցնում են զոհվածների ընտանիքներին
+. Խնդիրներ, որոնք անլուծելի են թվում
+. Բանկերի դերը եռակողմ պայմանավորվածություններում
+. 40+10 ծրագիրը. ի՞նչ փուլում է այն
+. Բաքվում ընթացող դատավարությունները. ի՞նչ անել</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="681"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HjgAQuUmFMI</id>
+  <yt:videoId>HjgAQuUmFMI</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Աջակցություն արցախահայությանը. խնդիրները լուծումներից շատ են. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HjgAQuUmFMI"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-05T09:00:29+00:00</published>
+  <updated>2025-03-07T05:51:26+00:00</updated>
+  <media:group>
+   <media:title>Աջակցություն արցախահայությանը. խնդիրները լուծումներից շատ են. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/HjgAQuUmFMI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HjgAQuUmFMI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="536"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_XUDMnrUwX8</id>
+  <yt:videoId>_XUDMnrUwX8</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ուկրաինայի ծախսերը տալ ԵՄ-ին․Թրամփի նպատակը․Մոդուս Վիվենդի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_XUDMnrUwX8"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-04T16:00:37+00:00</published>
+  <updated>2025-03-06T13:36:13+00:00</updated>
+  <media:group>
+   <media:title>Ուկրաինայի ծախսերը տալ ԵՄ-ին․Թրամփի նպատակը․Մոդուս Վիվենդի</media:title>
+   <media:content url="https://www.youtube.com/v/_XUDMnrUwX8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_XUDMnrUwX8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2041"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RufB1FjlWV8</id>
+  <yt:videoId>RufB1FjlWV8</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ուկրաինայի ծախսերը տալ ԵՄ-ին․ Թրամփի նպատակը․Մոդուս Վիվենդի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RufB1FjlWV8"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-04T16:00:26+00:00</published>
+  <updated>2025-03-06T12:52:19+00:00</updated>
+  <media:group>
+   <media:title>Ուկրաինայի ծախսերը տալ ԵՄ-ին․ Թրամփի նպատակը․Մոդուս Վիվենդի</media:title>
+   <media:content url="https://www.youtube.com/v/RufB1FjlWV8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RufB1FjlWV8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուկրաինայի ծախսերը տալ ԵՄ-ին․ Թրամփի նպատակը․Մոդուս Վիվենդի
+
+Դոնալդ Թրամփ-Վոլոդիմիր Զելենսկի հանդիպում․Ու՞մ համար, ի՞նչ հետևանքներ կունենա այն։
+Ի՞նչ էր ուզում ցույց տալ Թրամփը Զելենսկիի հետ բանավիճելով։
+Իրականանալի՞ էին ՌԴ առաջարկած խաղաղության պայմանները։
+ԵՄ-ն թմբիրից արթնացավ․ի՞նչ սպասել։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5360"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HQQ0yurNOGs</id>
+  <yt:videoId>HQQ0yurNOGs</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ընդերքը և կամ կարևոր ենթակառուցվածքները թույլ երկրների սուվերենության տակ չեն․Դարբինյանի ժամը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HQQ0yurNOGs"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-04T16:00:17+00:00</published>
+  <updated>2025-03-06T06:54:13+00:00</updated>
+  <media:group>
+   <media:title>Ընդերքը և կամ կարևոր ենթակառուցվածքները թույլ երկրների սուվերենության տակ չեն․Դարբինյանի ժամը</media:title>
+   <media:content url="https://www.youtube.com/v/HQQ0yurNOGs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HQQ0yurNOGs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ընդերքը և կամ կարևոր ենթակառուցվածքները թույլ երկրների սուվերենության տակ չեն․Դարբինյանի ժամը
+․Ինչու «ընդերքը պատկանում է ժողովրդին» թեզը չենք կարողացել իրագործել։
+․Խոսքի ազատության վրա բռնանում է նույնիսկ ԱՄՆ-ն։
+․Որևէ պետության ինքնիշխանությունը նույնպես երաշխավորված չէ։
+․Քրիստոնեության պաշտպանություն․ ԱՄՆ նոր ուղղությունը։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1490"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8dxXePSAIMo</id>
+  <yt:videoId>8dxXePSAIMo</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ընդերքը և կամ կարևոր ենթակառուցվածքները թույլ երկրների սուվերենության տակ չեն․Դարբինյանի ժամը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8dxXePSAIMo"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ </name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2025-03-04T16:00:10+00:00</published>
+  <updated>2025-03-06T10:51:57+00:00</updated>
+  <media:group>
+   <media:title>Ընդերքը և կամ կարևոր ենթակառուցվածքները թույլ երկրների սուվերենության տակ չեն․Դարբինյանի ժամը</media:title>
+   <media:content url="https://www.youtube.com/v/8dxXePSAIMo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8dxXePSAIMo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="940"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

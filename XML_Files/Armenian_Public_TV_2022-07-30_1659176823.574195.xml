@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:UCSnr4wFDHDZZMeeHQvaHpjA</id>
+ <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:m_GZahAAnuI</id>
+  <yt:videoId>m_GZahAAnuI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>100 տուն Արցախում 36</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=m_GZahAAnuI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T18:30:11+00:00</published>
+  <updated>2022-07-29T18:55:22+00:00</updated>
+  <media:group>
+   <media:title>100 տուն Արցախում 36</media:title>
+   <media:content url="https://www.youtube.com/v/m_GZahAAnuI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/m_GZahAAnuI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #100տունԱրցախում</media:description>
+   <media:community>
+    <media:starRating count="80" average="5.00" min="1" max="5"/>
+    <media:statistics views="1704"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JrOiLFJc1hY</id>
+  <yt:videoId>JrOiLFJc1hY</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 8)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JrOiLFJc1hY"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T18:00:13+00:00</published>
+  <updated>2022-07-29T18:38:45+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 8)</media:title>
+   <media:content url="https://www.youtube.com/v/JrOiLFJc1hY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JrOiLFJc1hY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="1304"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_v8-YtXCXtI</id>
+  <yt:videoId>_v8-YtXCXtI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 7)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_v8-YtXCXtI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T17:30:11+00:00</published>
+  <updated>2022-07-29T18:04:35+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 7)</media:title>
+   <media:content url="https://www.youtube.com/v/_v8-YtXCXtI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_v8-YtXCXtI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="19" average="5.00" min="1" max="5"/>
+    <media:statistics views="1103"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XojA1GQQ1Ew</id>
+  <yt:videoId>XojA1GQQ1Ew</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 6)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XojA1GQQ1Ew"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T16:45:11+00:00</published>
+  <updated>2022-07-29T17:23:52+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 6)</media:title>
+   <media:content url="https://www.youtube.com/v/XojA1GQQ1Ew?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XojA1GQQ1Ew/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք  #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="1332"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:R-ndCpBF0vs</id>
+  <yt:videoId>R-ndCpBF0vs</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 5)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=R-ndCpBF0vs"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T16:00:13+00:00</published>
+  <updated>2022-07-29T16:37:32+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 5)</media:title>
+   <media:content url="https://www.youtube.com/v/R-ndCpBF0vs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/R-ndCpBF0vs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="47" average="5.00" min="1" max="5"/>
+    <media:statistics views="2423"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:c96cLOdc7NU</id>
+  <yt:videoId>c96cLOdc7NU</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Հրաչ Քեշիշյան, Արաքսյա Մուշեղյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=c96cLOdc7NU"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T10:48:29+00:00</published>
+  <updated>2022-07-29T10:48:29+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Հրաչ Քեշիշյան, Արաքսյա Մուշեղյան</media:title>
+   <media:content url="https://www.youtube.com/v/c96cLOdc7NU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/c96cLOdc7NU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="958"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:p5axMyRtGys</id>
+  <yt:videoId>p5axMyRtGys</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Դերհովա, Արփի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=p5axMyRtGys"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T10:46:28+00:00</published>
+  <updated>2022-07-29T11:06:49+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Դերհովա, Արփի</media:title>
+   <media:content url="https://www.youtube.com/v/p5axMyRtGys?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/p5axMyRtGys/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="793"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:g3w-XSjN0BY</id>
+  <yt:videoId>g3w-XSjN0BY</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Կարեն Մնացականյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=g3w-XSjN0BY"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-07-29T10:44:00+00:00</published>
+  <updated>2022-07-30T10:17:19+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Կարեն Մնացականյան</media:title>
+   <media:content url="https://www.youtube.com/v/g3w-XSjN0BY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/g3w-XSjN0BY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="204"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:J5wwuWHvmZ8</id>
+  <yt:videoId>J5wwuWHvmZ8</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 17)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=J5wwuWHvmZ8"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-01-05T19:56:49+00:00</published>
+  <updated>2022-07-29T10:37:23+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 17)</media:title>
+   <media:content url="https://www.youtube.com/v/J5wwuWHvmZ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/J5wwuWHvmZ8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xeI0_03Ig6M</id>
+  <yt:videoId>xeI0_03Ig6M</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 16)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xeI0_03Ig6M"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-01-05T19:56:34+00:00</published>
+  <updated>2022-07-29T10:37:06+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 16)</media:title>
+   <media:content url="https://www.youtube.com/v/xeI0_03Ig6M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xeI0_03Ig6M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tyNwSq5EXtQ</id>
+  <yt:videoId>tyNwSq5EXtQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 15)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tyNwSq5EXtQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-06-07T07:54:50+00:00</published>
+  <updated>2022-07-29T10:36:23+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 15)</media:title>
+   <media:content url="https://www.youtube.com/v/tyNwSq5EXtQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tyNwSq5EXtQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4-HCh-O4sXc</id>
+  <yt:videoId>4-HCh-O4sXc</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 14)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4-HCh-O4sXc"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-06-07T07:54:37+00:00</published>
+  <updated>2022-07-29T10:36:01+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 14)</media:title>
+   <media:content url="https://www.youtube.com/v/4-HCh-O4sXc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4-HCh-O4sXc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6ImOa5OEa3Q</id>
+  <yt:videoId>6ImOa5OEa3Q</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 13)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6ImOa5OEa3Q"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-06-07T07:54:17+00:00</published>
+  <updated>2022-07-29T10:35:44+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 13)</media:title>
+   <media:content url="https://www.youtube.com/v/6ImOa5OEa3Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6ImOa5OEa3Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OZuxU3K3Xcw</id>
+  <yt:videoId>OZuxU3K3Xcw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 12)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OZuxU3K3Xcw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-05-26T13:33:03+00:00</published>
+  <updated>2022-07-29T10:35:24+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 12)</media:title>
+   <media:content url="https://www.youtube.com/v/OZuxU3K3Xcw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OZuxU3K3Xcw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JkOTbp-ASk4</id>
+  <yt:videoId>JkOTbp-ASk4</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «Երեք ընկեր» (մաս 11)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JkOTbp-ASk4"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2022-05-26T13:32:58+00:00</published>
+  <updated>2022-07-29T10:04:58+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «Երեք ընկեր» (մաս 11)</media:title>
+   <media:content url="https://www.youtube.com/v/JkOTbp-ASk4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JkOTbp-ASk4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2022 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրեքԸնկեր</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

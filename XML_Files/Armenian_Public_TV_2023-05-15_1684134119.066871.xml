@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:8ne6xi6d94Q</id>
+  <yt:videoId>8ne6xi6d94Q</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առաջին ռեպորտաժ.  Հնդիկները Հայաստանում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8ne6xi6d94Q"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T19:30:01+00:00</published>
+  <updated>2023-05-15T06:16:29+00:00</updated>
+  <media:group>
+   <media:title>Առաջին ռեպորտաժ.  Հնդիկները Հայաստանում</media:title>
+   <media:content url="https://www.youtube.com/v/8ne6xi6d94Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8ne6xi6d94Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="460" average="5.00" min="1" max="5"/>
+    <media:statistics views="19973"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8NkURNQT96M</id>
+  <yt:videoId>8NkURNQT96M</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Կերպարից դուրս. Սուպեր Սաքո</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8NkURNQT96M"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:30:09+00:00</published>
+  <updated>2023-05-14T17:05:55+00:00</updated>
+  <media:group>
+   <media:title>Կերպարից դուրս. Սուպեր Սաքո</media:title>
+   <media:content url="https://www.youtube.com/v/8NkURNQT96M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8NkURNQT96M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԿերպարիցԴուրս</media:description>
+   <media:community>
+    <media:starRating count="310" average="5.00" min="1" max="5"/>
+    <media:statistics views="11760"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vpStbj9gFHE</id>
+  <yt:videoId>vpStbj9gFHE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Էլեն Ավետիսյան․ Մերիկ, մերիկ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vpStbj9gFHE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:03+00:00</published>
+  <updated>2023-05-14T16:15:09+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Էլեն Ավետիսյան․ Մերիկ, մերիկ</media:title>
+   <media:content url="https://www.youtube.com/v/vpStbj9gFHE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vpStbj9gFHE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="1126"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:t4tbA7LlNrw</id>
+  <yt:videoId>t4tbA7LlNrw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Վարդան Քարամյան․ Լանջեր մարջան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=t4tbA7LlNrw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:02+00:00</published>
+  <updated>2023-05-14T16:15:05+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Վարդան Քարամյան․ Լանջեր մարջան</media:title>
+   <media:content url="https://www.youtube.com/v/t4tbA7LlNrw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/t4tbA7LlNrw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="963"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gWhzvio-E2c</id>
+  <yt:videoId>gWhzvio-E2c</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Աստղիկ Ղազարյան․ Ծով աստղիկս</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gWhzvio-E2c"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:01+00:00</published>
+  <updated>2023-05-14T16:15:05+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Աստղիկ Ղազարյան․ Ծով աստղիկս</media:title>
+   <media:content url="https://www.youtube.com/v/gWhzvio-E2c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gWhzvio-E2c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="754"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_7RNEPfXAos</id>
+  <yt:videoId>_7RNEPfXAos</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Վահե Պողոսյան․ Ես մի ծառ եմ ծիրանի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_7RNEPfXAos"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:01+00:00</published>
+  <updated>2023-05-14T16:15:07+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Վահե Պողոսյան․ Ես մի ծառ եմ ծիրանի</media:title>
+   <media:content url="https://www.youtube.com/v/_7RNEPfXAos?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_7RNEPfXAos/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="551"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FjvrPnDWrhE</id>
+  <yt:videoId>FjvrPnDWrhE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Հենրիկ Գրիգորյան․ Աշխարհըս մէ փանջարա է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FjvrPnDWrhE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:00+00:00</published>
+  <updated>2023-05-14T16:15:05+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Հենրիկ Գրիգորյան․ Աշխարհըս մէ փանջարա է</media:title>
+   <media:content url="https://www.youtube.com/v/FjvrPnDWrhE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FjvrPnDWrhE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="523"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0Fq_RoG-0sI</id>
+  <yt:videoId>0Fq_RoG-0sI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Կարեն Մադոյան․ Ով սիրուն, սիրուն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0Fq_RoG-0sI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:00+00:00</published>
+  <updated>2023-05-14T16:15:03+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Կարեն Մադոյան․ Ով սիրուն, սիրուն</media:title>
+   <media:content url="https://www.youtube.com/v/0Fq_RoG-0sI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0Fq_RoG-0sI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="427"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5btaq-CRuws</id>
+  <yt:videoId>5btaq-CRuws</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Արման Առաքելյան․ Արցախ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5btaq-CRuws"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:00+00:00</published>
+  <updated>2023-05-14T16:15:05+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Արման Առաքելյան․ Արցախ</media:title>
+   <media:content url="https://www.youtube.com/v/5btaq-CRuws?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5btaq-CRuws/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="28" average="5.00" min="1" max="5"/>
+    <media:statistics views="941"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0FaCdprfP28</id>
+  <yt:videoId>0FaCdprfP28</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Արման Գրիգորյան․ Վերադարձիր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0FaCdprfP28"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:00+00:00</published>
+  <updated>2023-05-14T16:15:03+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Արման Գրիգորյան․ Վերադարձիր</media:title>
+   <media:content url="https://www.youtube.com/v/0FaCdprfP28?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0FaCdprfP28/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="460"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3q_cVGqT4YA</id>
+  <yt:videoId>3q_cVGqT4YA</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Արմեն Խոցանյան․ Գարնան ծաղիկ ես</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3q_cVGqT4YA"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:00+00:00</published>
+  <updated>2023-05-14T16:15:05+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Արմեն Խոցանյան․ Գարնան ծաղիկ ես</media:title>
+   <media:content url="https://www.youtube.com/v/3q_cVGqT4YA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3q_cVGqT4YA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="328"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1gZZXcStmtI</id>
+  <yt:videoId>1gZZXcStmtI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7 - Լիդա Գևորգյան․ Բարի լուսո աստղ էրևաց</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1gZZXcStmtI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T16:15:00+00:00</published>
+  <updated>2023-05-14T16:15:04+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7 - Լիդա Գևորգյան․ Բարի լուսո աստղ էրևաց</media:title>
+   <media:content url="https://www.youtube.com/v/1gZZXcStmtI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1gZZXcStmtI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="345"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:v-m7ygE-jBk</id>
+  <yt:videoId>v-m7ygE-jBk</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց․ նոր ձայներ 7</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=v-m7ygE-jBk"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-14T14:15:11+00:00</published>
+  <updated>2023-05-14T16:12:52+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց․ նոր ձայներ 7</media:title>
+   <media:content url="https://www.youtube.com/v/v-m7ygE-jBk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/v-m7ygE-jBk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԵրգԵրգոցՆորՁայներ</media:description>
+   <media:community>
+    <media:starRating count="326" average="5.00" min="1" max="5"/>
+    <media:statistics views="21033"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:h--xmrcjc6w</id>
+  <yt:videoId>h--xmrcjc6w</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Մենք Եվրատեսիլում․ Բրյունետ (հատուկ թողարկում)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=h--xmrcjc6w"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-13T18:30:11+00:00</published>
+  <updated>2023-05-14T05:28:32+00:00</updated>
+  <media:group>
+   <media:title>Մենք Եվրատեսիլում․ Բրյունետ (հատուկ թողարկում)</media:title>
+   <media:content url="https://www.youtube.com/v/h--xmrcjc6w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/h--xmrcjc6w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ՄենքԵվրատեսիլում #Բրյունետ</media:description>
+   <media:community>
+    <media:starRating count="1153" average="5.00" min="1" max="5"/>
+    <media:statistics views="60474"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:X5tRi6FDE88</id>
+  <yt:videoId>X5tRi6FDE88</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Պատրաստենք միասին. Բանջարեղենի խմորապատ օղակներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=X5tRi6FDE88"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-13T10:00:23+00:00</published>
+  <updated>2023-05-13T10:01:15+00:00</updated>
+  <media:group>
+   <media:title>Պատրաստենք միասին. Բանջարեղենի խմորապատ օղակներ</media:title>
+   <media:content url="https://www.youtube.com/v/X5tRi6FDE88?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/X5tRi6FDE88/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="20" average="5.00" min="1" max="5"/>
+    <media:statistics views="1427"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

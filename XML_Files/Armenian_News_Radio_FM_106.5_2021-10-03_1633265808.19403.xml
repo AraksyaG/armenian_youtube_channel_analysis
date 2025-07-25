@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <id>yt:channel:UCaJCNkhSa84QcuOSoM2WfcA</id>
+ <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+ <title>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA"/>
+ <author>
+  <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+  <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+ </author>
+ <published>2011-10-12T12:52:09+00:00</published>
+ <entry>
+  <id>yt:video:dkUcOgdRn-c</id>
+  <yt:videoId>dkUcOgdRn-c</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Դաս 18. Առարկայական ծրագրման (OOP) եւ ընդհանրացուած ծրագրման (GP) ամփոփում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dkUcOgdRn-c"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-10-02T12:38:56+00:00</published>
+  <updated>2021-10-03T07:14:55+00:00</updated>
+  <media:group>
+   <media:title>Դաս 18. Առարկայական ծրագրման (OOP) եւ ընդհանրացուած ծրագրման (GP) ամփոփում</media:title>
+   <media:content url="https://www.youtube.com/v/dkUcOgdRn-c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dkUcOgdRn-c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Այս դասին մի պահ հետհայեացք նետելով կատարուած գործնական աշխատանքին, կամփոփենք C++ առարկայական ծրագրաւորման (object oriented programming) եւ ընդհանրացուած ծրագրաւորման (generic programming) կերպաբանութիւններին, կը ներկայացուեն դրանց տեսական, գիտարուեստական ձեւակերպումները։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="175"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FE5SXSsYaRQ</id>
+  <yt:videoId>FE5SXSsYaRQ</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Առողջն ու գեղեցիկը մեկ հասցեում.«Ռադիոառողջարան»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FE5SXSsYaRQ"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-10-01T15:00:09+00:00</published>
+  <updated>2021-10-01T15:00:09+00:00</updated>
+  <media:group>
+   <media:title>Առողջն ու գեղեցիկը մեկ հասցեում.«Ռադիոառողջարան»</media:title>
+   <media:content url="https://www.youtube.com/v/FE5SXSsYaRQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FE5SXSsYaRQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարևորելով առողջ գեղեցկությունը  Lady Mary Beauty Lounge SPA-ն առաջարկում է այս ոլորտի բոլոր դասական ծառայություններն ու ոչ միայն: Մանրամասների մասին զրուցել ենք Lady Mary Beauty Lounge SPA- ի տնօրեն Մերի Խաչատրյանի հետ:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="122"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nqJkKAxKGcU</id>
+  <yt:videoId>nqJkKAxKGcU</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Մի՛ մերժեք հանդիպման առաջարկները, համակարգեք դրանք. «Գործարա® մտագրոհ»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nqJkKAxKGcU"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-10-01T11:37:40+00:00</published>
+  <updated>2021-10-02T06:40:42+00:00</updated>
+  <media:group>
+   <media:title>Մի՛ մերժեք հանդիպման առաջարկները, համակարգեք դրանք. «Գործարա® մտագրոհ»</media:title>
+   <media:content url="https://www.youtube.com/v/nqJkKAxKGcU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nqJkKAxKGcU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կարևորելով բիզնեսի զարգացումը, պիտի չմոռանալ բիզնես հանդիպումների։ կարևորության մասին: Գործարարների կյանքում չափազանց հագեցած գրաֆիկ համակարգելը բարդանում է, սակայն կան արդյունավետ մեխանիզմներ: Գևորգ Պողոսյանը նշում է, որ բազում հրավերների մեջ միշտ առաջանում են հարցեր. ո՞ր մեկին գնալ, ո՞ր մեկը թողնել այլ օրվա կամ մերժել: Բայց, միևնույն ժամանակ վստահ է՝ չպիտի մերժել որևէ հանդիպման առաջարկ, որովհետև յուրաքանչյուր հանդիպում կարող է անակնկալ զարգացում ունենալ։ Նարեկ Ալեքսանյանի խոսքով էլ, շատ ժամանակ դա դառնում է խնդիր, գլխացավանք։ Հատկապես այն գործարարի մոտ, որն ունի քիչ թե շատ հաջողության պատմություն և հանրային ճանաչելիություն: Հանդիպումից առաջ հաշվի առեք բովանդակությունը, նշում  է Ն. Ալեքսանյանը: Գործարարի կյանքում այդ հանդիպումները, ըստ Սամվել Գևորգյանի, ամենաէմոցիանալ հատվածներից են: հարցերը բազմապիսի են՝ ու՞մ առաջարակը ընդունել, ումը՞ մերժել։ Սեփական փորձով նա կարծում է՝ ճիշտը կարևորության  աստիճանի գնահատումն է: Չկա ժամանակի վատնում, չկա գործի կորուստ:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="221"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LRHV9L3Wj5s</id>
+  <yt:videoId>LRHV9L3Wj5s</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Պատերազմից 1 տարի անց. քանի՞ քննություն տապալեցինք. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LRHV9L3Wj5s"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-10-01T09:09:50+00:00</published>
+  <updated>2021-10-01T09:09:50+00:00</updated>
+  <media:group>
+   <media:title>Պատերազմից 1 տարի անց. քանի՞ քննություն տապալեցինք. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/LRHV9L3Wj5s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LRHV9L3Wj5s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երկու մեծագույն դավաճանություն ինքներս մեր հանդեպ։ Անկախության հռչակում և երևանցիներն ու ստեփանակերտցիները դավաճանեցին Շահումյանցիներին։ Պատերազմը ավարտվեց սխալ ժամանակ, սխալ տեղում։ «Բավարար» էր Շուշին, իսկ Շահումյանցկները մնացին անտուն։ Այժմ վերջին պարտված պատերազմից անցել է 1 տարի։ Սա հանձնած և անբավարար ստացած քննություն էր։ Միևնույն է մենք տոնում ենք անկախություն։ Ո՛չ, Ձևական անկախություն հորջորջվող այս օրը մեր ազգի մեծագույն դավաճանություններից է։ «Ինսթիգեյթ» ընկերության հիմնադիր Վահագն Պողոսյանի կարծիքով՝ մենք ասացինք, որ Արցախի երաշխավորն ենք և մի անկյունում կանգնեցինք։ Բոլոր այն կառույցները, որոնց վրա փորձ արվեց կառուցել պետություն, փլուզվեցին։ Կեղծիքով տապալվեց քննությունը։Այսօր, ըստ Վահագն Պողոսյանի, տեսնում ենք սցենարի շարունակությունը։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1231"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ngEXiyg6xig</id>
+  <yt:videoId>ngEXiyg6xig</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Ռեզերվ, ՄՈԲ-ի հետ աշխատանք. Ի՞նչ փոխվեց պատերազմից մեկ տարի անց. «Հետախույզի օրագիրը»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ngEXiyg6xig"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-10-01T08:48:41+00:00</published>
+  <updated>2021-10-01T08:48:41+00:00</updated>
+  <media:group>
+   <media:title>Ռեզերվ, ՄՈԲ-ի հետ աշխատանք. Ի՞նչ փոխվեց պատերազմից մեկ տարի անց. «Հետախույզի օրագիրը»</media:title>
+   <media:content url="https://www.youtube.com/v/ngEXiyg6xig?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ngEXiyg6xig/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Պատերազմից մեկ տարի անց, այսօր շատերը չնայելով թուրքի բարեհամբույր ճառերին, իրենց գյուղում հենակետեր և թաքստոցներ են սարքում: Սակայն այդպիսիք շատ քիչ են: Պատերազմը ցավոք միայն ծանր հետևանքներ տվեց մեզ, հետևությունների փոխարեն: Մարդիկ, ովքեր չեն ուզում աշխատել, պնդում են, որ դավաճանություն է տեղի ունեցել: Շատերն էլ խոսում են 5-րդ սերնդի պատերազմի մասին և գոռում, որ խրամատ փորելը չի փրկելու: 
+
+Պահեստազոր, մոբ ռեսուրսի հետ աշխատանք. Ի՞նչ փոխվեց պատերազմից մեկ տարի անց: Այս հարցերն են քննարկում ՀՆԽ հրամանատար Վովա Վարդանովը և «ՈՄԱ»-ի մարտիկ, լրագրող Արմեն Աթալյանը:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1569"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0-xx1mRKV1M</id>
+  <yt:videoId>0-xx1mRKV1M</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Համաճարակային տրամադրություններ. ինչպե՞ս քանդել անվստահության շղթան. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0-xx1mRKV1M"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-30T08:01:18+00:00</published>
+  <updated>2021-09-30T08:01:18+00:00</updated>
+  <media:group>
+   <media:title>Համաճարակային տրամադրություններ. ինչպե՞ս քանդել անվստահության շղթան. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/0-xx1mRKV1M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0-xx1mRKV1M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Գիտությունը առաջ տանող մարդիկ Հայաստաննում քիչ են: Ռուսլան Մարտիրոսյան, որը «Մերկ գիտություն» կայքի հիմնադիրն է, նշում է՝ տրամադրություն ձևավորելու համար մտածող մարդկանց կշիռը փոքր է: Հակառակը կողմը ավելի մեծ տոկոս է կազմում: Թերևս սա է պատճառը, որ կորոնավիրուսի դեմ պատվաստումների գործընթացը, գրեթե, տապալվել է: MHS տնօրեն Արամ Հովսեփյանի խոսքով մենք ունենք մշտական խնդիր՝գտութունը տարակուսում է, անգրագիտությունը վստահորեն առաջանում: Անվստահությունը քանդելու մեխանիզմներից մեկը նման մարդկանց ներկայությունն է: Մեծ ու փոքր խմբերում պիտի տրամաբանված պրոպագանդա իրականացվի:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="379"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zLztSGJtvoc</id>
+  <yt:videoId>zLztSGJtvoc</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Երևան-Անկարա. Մինչև ու՞ր կարող են հասցնել ազդակները.«Կիսալուսնի մայրամուտը»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zLztSGJtvoc"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-29T13:45:38+00:00</published>
+  <updated>2021-09-30T06:03:40+00:00</updated>
+  <media:group>
+   <media:title>Երևան-Անկարա. Մինչև ու՞ր կարող են հասցնել ազդակները.«Կիսալուսնի մայրամուտը»</media:title>
+   <media:content url="https://www.youtube.com/v/zLztSGJtvoc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zLztSGJtvoc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Երևան-Անկարա ազդակները գնալով լրջանում են: Եթե անգամ Էրդողանն է արդեն խոսում դրական ազդակներից, ուրեմն պետք է վախենալ այս գործընթացից: Կարծիքը, թե Թուրքիան այս ամենն անում է իր «փոքր եղբոր» համար, սխալ է. ընդհակառակը՝ նա դա անում է «մեծ եղբոր» համար….
+Թուրքիան այսօր լարախաղացի կարգավիճակում է, նա կարող է և ինչ-որ պահի ընկնել, սակայն ամեն ինչ հուշում է՝ արևելյան խաղերի սիրահարի մոտ այս անգամ էլ է հաջողվելու:
+
+Թուրքագետ Տիրան Լոքմագյոզյանը խոսել է թուրքական ազդակների վտանգների մասին:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1157"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aeiyMz0aJME</id>
+  <yt:videoId>aeiyMz0aJME</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Թշնամու խաղաղությունը. հայը կա՛մ գերեզմանում է, կա՛մ տարածաշրջանից դուրս. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aeiyMz0aJME"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-29T07:59:43+00:00</published>
+  <updated>2021-09-30T06:45:37+00:00</updated>
+  <media:group>
+   <media:title>Թշնամու խաղաղությունը. հայը կա՛մ գերեզմանում է, կա՛մ տարածաշրջանից դուրս. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/aeiyMz0aJME?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aeiyMz0aJME/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սխալ է ասել՝ 30 տարում 3 պատերազմ: 94-ից հետո այն չի ավարտվել.. եղել է մի կողմից դիվանագիտական, մյուս կողմից ռազմական գործողությունների ակտիվացումներ: Թերևս մեր մեծագույն բացն էր մտածել, որ խաղաղության մեջ ենք: Մարդկային զարգացման միջազգային կենտրոնի ղեկավար Թևան Պողոսյանը շեշտում է՝ նույնը այսօր է, անտրամաբանական խաղաղության զգացում կա: Ո՛չ, թշնամին դա թույլ չի տալու: Հայաստանի և հայ ազգի ոչնչացում. Պողոսյանի խոսքով սա է թշնամու պատկերացրած խաղաղությունը: Եկեք հասկանանք՝ մենք ի՞նչ ենք ուզում:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="948"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_bdmL-fbWRY</id>
+  <yt:videoId>_bdmL-fbWRY</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Եղբայրը կապ էր տալիս. Զրո՛ երեք, զրո՛ երեք. ո՞նց ես… ինչ-որ մեկը պատասխանում էր՝ լա՛վ եմ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_bdmL-fbWRY"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-28T15:52:54+00:00</published>
+  <updated>2021-09-29T07:02:51+00:00</updated>
+  <media:group>
+   <media:title>Եղբայրը կապ էր տալիս. Զրո՛ երեք, զրո՛ երեք. ո՞նց ես… ինչ-որ մեկը պատասխանում էր՝ լա՛վ եմ</media:title>
+   <media:content url="https://www.youtube.com/v/_bdmL-fbWRY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_bdmL-fbWRY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մեկ տարի առաջ հենց այս օրը՝ Սեպտեմբերի 28-ին, Գրիգոր Ղազարյանը, արցախյան պատերազմի ռազմադաշտից բռնեց հավերժի ճամփան: 19 տարեկան էր: Ձիասպորտ էր սիրում։ Սկաուտական շարժման, նաև «Կարին» պարի խմբի սան էր: Սեպտեմբերի 27-ի երեկոյան, Գրիգորի ավագ եղբայրը մեկնում է «Եղնիկներ»: Նա հանդիպում է  եղբորը և ընկերների հետ գնում այլ դիրքեր: Ժամանակ առ ժամանակ ավագ եղբայրը կապ է տալիս Գրիգորին: Զրո՛ երեք, զրո՛ երեք. ո՞նց ես…. Ինչ-որ մեկը պատասխանում է՝ լա՛վ եմ: Մինչև հոկտեմբերի 11-ը, ավագ եղբայրը չիմացավ, որ Գրիգորը զոհվել է:
+
+«Կարին» խմբի ղեկավար Գագիկ Գինոսյանի հյուրը ազատամարտիկ Գրիգոր Ղազարյանի հայրն է՝ Լևոն Ղազարյանը:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1928"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JloZGXLIHAg</id>
+  <yt:videoId>JloZGXLIHAg</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Արցախի հարց չկա՛, պնդում է Ալիևը, իսկ Բայրամովը հանդիպում է Մինսկի խմբի համանախագահներին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JloZGXLIHAg"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-28T13:03:38+00:00</published>
+  <updated>2021-09-29T07:00:19+00:00</updated>
+  <media:group>
+   <media:title>Արցախի հարց չկա՛, պնդում է Ալիևը, իսկ Բայրամովը հանդիպում է Մինսկի խմբի համանախագահներին</media:title>
+   <media:content url="https://www.youtube.com/v/JloZGXLIHAg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JloZGXLIHAg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Պատերազմից մեկ տարի է անցել: Այսօր մենք ունենք Թուրքիայի հետ դիվանագիտական հարաբերությունների պատրաստ իշխանություն և ԵԱՀԿ Մինսկի խումբ՝ մասնավորապես ԱՄՆ, որը թույլ չի տալու, որ Ռուսաստանն ու Թուրքիան իրեն Հարավային Կովկասից վտարեն: Չնայած Ալիևը շարունակում է հոխորտալ, թե այլևս չկա Արցախի հարց, բայց միևնույն ժամանակ Ադրբեջանի ԱԳՆ Բայրամովը հանդիպում է ԵԱՀԿ Մինսկի խմբի համանախագահների հետ: Դեսպանների ակտիվություն մեր երկրում, այցելություններ Սյունիք և Եռաբլուր, ԱՄՆ կոնգրեսի հայանպաստ նախագիծը…. Ալիևը լավ է հասկանում՝ եթե ԱՄՆ-ն ու Ֆրանսիան շարունակեն հետևողական լինել Արցախի հարցում, ապա նա ստիպված է զիջումների գնալ: Այս ամենի հետ մեկտեղ պետք է արձանագրել՝ կա նաև ռուս-թուրքական բախում:
+
+Դիվանագետ Արա Պապյանը վերլուծել է Արցախյան պատերազմից հետո աշխարհաքաղաքական դրվածքը:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="8920"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:J74knA3F5QQ</id>
+  <yt:videoId>J74knA3F5QQ</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Թուրքիան չի ստիպի &quot;յան&quot;-ը փոխել &quot;օղլի&quot;-ի. օրակարգի պահանջը այլ է. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=J74knA3F5QQ"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-28T07:58:49+00:00</published>
+  <updated>2021-09-28T07:58:49+00:00</updated>
+  <media:group>
+   <media:title>Թուրքիան չի ստիպի &quot;յան&quot;-ը փոխել &quot;օղլի&quot;-ի. օրակարգի պահանջը այլ է. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/J74knA3F5QQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/J74knA3F5QQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ընդդիմությունը ասում է՝ ԱԺ պատերից ներս մարտահրավերին դիմակայել չի լինի։ Թիվ մեկ մարտահրավերը նոյեմբերի 9-ն է իր բոլոր հետևանքներով։ Խորհրդարանական ընդիմության մոտ, ցավոք, չկա սա չեղարկելու ցանկություն։ Կա քննադատություն, այո՛, բայց այն այլ նպատակ ունի. մաքրել իշխանության գալու սեփական ճանապարհը։ Քաղաքական վերլուծաբան Արմեն Հովհաննիսյանի կարծիքով իշխանության հակառակ կողմը՝ընդդիմությւնը կախված ՌԴ-ից։ Դա թույլ չի տալ գործել հանուն պետական շահի։ Վերլուծաբանը նշում է՝ մեր քաղաքականությունը հիշեցնում է սպորտային միջոցառում. կանոններից մինչև համազգեստ նույնն է, տարբերվում է միայն խումբն ու անունը։</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1812"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VPT6yW_xrys</id>
+  <yt:videoId>VPT6yW_xrys</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Վերջին կայարանը՝ Անկախություն.Եռաբլուրի առաջին զոհերը. ՄԱՍ 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VPT6yW_xrys"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-27T14:53:08+00:00</published>
+  <updated>2021-09-28T06:59:56+00:00</updated>
+  <media:group>
+   <media:title>Վերջին կայարանը՝ Անկախություն.Եռաբլուրի առաջին զոհերը. ՄԱՍ 2</media:title>
+   <media:content url="https://www.youtube.com/v/VPT6yW_xrys?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VPT6yW_xrys/hqdefault.jpg" width="480" height="360"/>
+   <media:description>18 +
+Մայիսի 27․ 1990 թվական։ 
+Երևան։ «Սասունցի Դավիթ» երկաթուղային կայարան: 
+Առավոտյան ժամը 8:30: 
+Փոխհրաձգություն․․․ Հայկական ինքնապաշտպանական ուժերի և խորհրդային բանակի միջև: 
+Սպանվում է 6 ազատամարտիկ: 
+Ինչու՞, ինչի՞ համար և ի՞նչ հանգամանքներում: 
+Լրատվական Ռադիոյի հատուկ նախագծի ընթացքում այդ հարցերին է  պատասխանել կայարանում զոհված ազատամարտիկ  Արսեն Հարությունյանի եղբայրը՝ Հովսեփ Հարությունյանը:
+
+Հեղինակ՝ Գառնիկ Զաքարյան
+
+Հաղորդումը հասանելի է միայն lratvakan.am-ի բաժանորդներին:
+Բաժանորդագրվելու համար՝ https://lratvakan.am/subscribe/am/</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="409"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:G_nui-sgp5c</id>
+  <yt:videoId>G_nui-sgp5c</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Սուգը հավերժ է, եթե պայքար չկա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=G_nui-sgp5c"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-27T09:27:37+00:00</published>
+  <updated>2021-09-28T07:42:14+00:00</updated>
+  <media:group>
+   <media:title>Սուգը հավերժ է, եթե պայքար չկա</media:title>
+   <media:content url="https://www.youtube.com/v/G_nui-sgp5c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/G_nui-sgp5c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Track 9 from the album The Way.
+Music composed, orchestrated, and mixed by Zack Hemsey. 
+Audio mastered by Lou Hemsey @ Lou Hemsey Music and Film. 
+Artwork &amp; Design by Omead Afshari
+Website: https://www.zackhemsey.com/</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="370"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Fp8fFO849No</id>
+  <yt:videoId>Fp8fFO849No</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Չեք ուզում խաղաղություն, ասեք՝ ո՞նց ու ովքերո՞վ ենք կռվելու. «Թարմ ուղեղով»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Fp8fFO849No"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-27T08:07:29+00:00</published>
+  <updated>2021-09-27T08:07:30+00:00</updated>
+  <media:group>
+   <media:title>Չեք ուզում խաղաղություն, ասեք՝ ո՞նց ու ովքերո՞վ ենք կռվելու. «Թարմ ուղեղով»</media:title>
+   <media:content url="https://www.youtube.com/v/Fp8fFO849No?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Fp8fFO849No/hqdefault.jpg" width="480" height="360"/>
+   <media:description>30 տարվա մասին խոսելիս՝ առաջինը բացթողումներն ենք հիշում: Ինչպիսի պետություն կարող էինք ունենալ,որ այդպես էլ չունեցանք: Պետականաշինության գործը կիսատ էր նախկինում և կիսատ է այսօր: ԼՀԿ ղեկավար Էդմոն Մարուքյանը նշում ՝ վերջին պատերազմը հստակեցրեց՝ ՀՀ թե՛ ինքնիշխանությունը, թե՛ անկախությունն ու ժողովրդավարական համակարգը այսօր կասկածի տակ են: Սա 44 օրերի իրողություն չէր: Սա մեծ պատերազմ էր, որի ժամանակ համակարգերը իրենց բացերով երևացին մեզ: Մենք տեսանք մեր պետականության մերկությունը: Մարուքյանի համոզմամբ՝ անհնար է հետ դառնալ, ուղղել 30 տարվա սխալները: Իսկ հաջորդ 30 տարվա համար կարելի է պարզապես չանել այդ սխալները:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2656"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yXSlxjcTNt8</id>
+  <yt:videoId>yXSlxjcTNt8</yt:videoId>
+  <yt:channelId>UCaJCNkhSa84QcuOSoM2WfcA</yt:channelId>
+  <title>Բարի գալուստ յոգայի կախարդական աշխարհ.«Ռադիոառողջարան»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yXSlxjcTNt8"/>
+  <author>
+   <name>ԼՐԱՏՎԱԿԱՆ ՌԱԴԻՈ FM106.5</name>
+   <uri>https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA</uri>
+  </author>
+  <published>2021-09-24T15:00:37+00:00</published>
+  <updated>2021-09-25T06:55:21+00:00</updated>
+  <media:group>
+   <media:title>Բարի գալուստ յոգայի կախարդական աշխարհ.«Ռադիոառողջարան»</media:title>
+   <media:content url="https://www.youtube.com/v/yXSlxjcTNt8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yXSlxjcTNt8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հնդկաստանում ստեղծված ու ավելի քան 5000 տարվա պատմություն ունեցող յոգան ժամանակակից աշխարհում դարձել է ապրելակերպ։ Այն մարդկանց օգնում է դառնալ ավելի հավասարակշռված, կառավարել իրենց զգացմունքներն ու մտքերը, լինել ֆիզիկապես ավելի ճկուն և առողջ։ 
+Ապացուցված է, որ յոգայով զբաղվելը նպասում է մարդկանց հետ հարաբերությունների բարելավմանը: Ուսումնասիրությունները ցույց են տալիս, որ յոգայով զբաղվելը լավացնում է օրգանիզմի նյութափոխականությունը և նվազեցնում է շատակերությունը:
+Թեմայի շուրջ զրուցել ենք «Universe Yoga Studio»-ի հիմնադիր, ուսուցիչ Լիլիթ Շահբազյանի հետ, մանրամասներն էլ՝ տեսանյութում:</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="408"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

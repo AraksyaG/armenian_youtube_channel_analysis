@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCqi9r70a6DuOrXnOra4VLQQ"/>
+ <id>yt:channel:UCqi9r70a6DuOrXnOra4VLQQ</id>
+ <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+ <title>Լուրեր</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ"/>
+ <author>
+  <name>Լուրեր</name>
+  <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+ </author>
+ <published>2017-01-23T14:44:10+00:00</published>
+ <entry>
+  <id>yt:video:ZVUh9yhYBvM</id>
+  <yt:videoId>ZVUh9yhYBvM</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Թումանյանի գործերը՝ երգի թևերով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZVUh9yhYBvM"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T19:00:12+00:00</published>
+  <updated>2023-01-09T20:55:10+00:00</updated>
+  <media:group>
+   <media:title>Թումանյանի գործերը՝ երգի թևերով</media:title>
+   <media:content url="https://www.youtube.com/v/ZVUh9yhYBvM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZVUh9yhYBvM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="415"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7D-zXsOKvSw</id>
+  <yt:videoId>7D-zXsOKvSw</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Հարցազրույց Վահան Քերոբյանի և Վարդան Արամյանի հետ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7D-zXsOKvSw"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T18:55:22+00:00</published>
+  <updated>2023-01-09T22:40:23+00:00</updated>
+  <media:group>
+   <media:title>Հարցազրույց Վահան Քերոբյանի և Վարդան Արամյանի հետ</media:title>
+   <media:content url="https://www.youtube.com/v/7D-zXsOKvSw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7D-zXsOKvSw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. տնտեսական կանխատեսումներ | Պետրոս Ղազարյանի հարցազրույցը ՀՀ էկոնոմիկայի նախարար Վահան Քերոբյանի և հանրային ֆինանսների կառավարման միջազգային խորհրդատու, ՀՀ ֆինանսների նախկին նախարար Վարդան Արամյանի հետ
+
+📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="142" average="5.00" min="1" max="5"/>
+    <media:statistics views="9176"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OmOYKWLfmo0</id>
+  <yt:videoId>OmOYKWLfmo0</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Հունվարի 10-ի եղանակային կանխատեսումները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OmOYKWLfmo0"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T18:30:31+00:00</published>
+  <updated>2023-01-09T18:30:31+00:00</updated>
+  <media:group>
+   <media:title>Հունվարի 10-ի եղանակային կանխատեսումները</media:title>
+   <media:content url="https://www.youtube.com/v/OmOYKWLfmo0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OmOYKWLfmo0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="280" average="5.00" min="1" max="5"/>
+    <media:statistics views="12973"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Qzn0G4J1Tv8</id>
+  <yt:videoId>Qzn0G4J1Tv8</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Լուրեր. Գլխավոր թողարկում 21:00 | 09.01.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Qzn0G4J1Tv8"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T18:02:30+00:00</published>
+  <updated>2023-01-09T22:02:20+00:00</updated>
+  <media:group>
+   <media:title>Լուրեր. Գլխավոր թողարկում 21:00 | 09.01.2023</media:title>
+   <media:content url="https://www.youtube.com/v/Qzn0G4J1Tv8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Qzn0G4J1Tv8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="158" average="5.00" min="1" max="5"/>
+    <media:statistics views="24062"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MTZ64Tn_FvI</id>
+  <yt:videoId>MTZ64Tn_FvI</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Երևանում նախապատրաստվում են Փարաջանովի 100-ամյակին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MTZ64Tn_FvI"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T18:00:12+00:00</published>
+  <updated>2023-01-09T22:27:24+00:00</updated>
+  <media:group>
+   <media:title>Երևանում նախապատրաստվում են Փարաջանովի 100-ամյակին</media:title>
+   <media:content url="https://www.youtube.com/v/MTZ64Tn_FvI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MTZ64Tn_FvI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="883"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:P68r-vYCIss</id>
+  <yt:videoId>P68r-vYCIss</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Միջատաբանության ոլորտում մասնագետների պակաս կա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=P68r-vYCIss"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T18:00:08+00:00</published>
+  <updated>2023-01-09T18:00:08+00:00</updated>
+  <media:group>
+   <media:title>Միջատաբանության ոլորտում մասնագետների պակաս կա</media:title>
+   <media:content url="https://www.youtube.com/v/P68r-vYCIss?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/P68r-vYCIss/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="337"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Jsxul2TYDe8</id>
+  <yt:videoId>Jsxul2TYDe8</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Գիշերային ժամերին ջերմաստիճանը կնվազի 5-7 աստիճանով. տեղումների քանակը հունվարին նորմայից ցածր կլինի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Jsxul2TYDe8"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:54:17+00:00</published>
+  <updated>2023-01-09T20:23:32+00:00</updated>
+  <media:group>
+   <media:title>Գիշերային ժամերին ջերմաստիճանը կնվազի 5-7 աստիճանով. տեղումների քանակը հունվարին նորմայից ցածր կլինի</media:title>
+   <media:content url="https://www.youtube.com/v/Jsxul2TYDe8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Jsxul2TYDe8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="1879"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hO71L6s72hI</id>
+  <yt:videoId>hO71L6s72hI</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Սևան համայնքի 3 բնակավայրում գործարկվեցին այլընտրանքային նախադպրոցական կրթության ծառայություններ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hO71L6s72hI"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:47:21+00:00</published>
+  <updated>2023-01-09T17:47:21+00:00</updated>
+  <media:group>
+   <media:title>Սևան համայնքի 3 բնակավայրում գործարկվեցին այլընտրանքային նախադպրոցական կրթության ծառայություններ</media:title>
+   <media:content url="https://www.youtube.com/v/hO71L6s72hI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hO71L6s72hI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="501"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:96Fn1usVcZ8</id>
+  <yt:videoId>96Fn1usVcZ8</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Թուրքիայի և Ադրբեջանի խորհրդարանների ղեկավարները քննարկել են տարածաշրջանային իրավիճակը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=96Fn1usVcZ8"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:45:00+00:00</published>
+  <updated>2023-01-09T22:05:05+00:00</updated>
+  <media:group>
+   <media:title>Թուրքիայի և Ադրբեջանի խորհրդարանների ղեկավարները քննարկել են տարածաշրջանային իրավիճակը</media:title>
+   <media:content url="https://www.youtube.com/v/96Fn1usVcZ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/96Fn1usVcZ8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="1007"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:C4Ms9x0CZwk</id>
+  <yt:videoId>C4Ms9x0CZwk</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Ընտանեկան և սոցիալական նպաստը բարձրացել է 10 տոկոսով. պետբյուջեից հատկացվել է 32.9 միլիարդ դրամ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=C4Ms9x0CZwk"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:45:00+00:00</published>
+  <updated>2023-01-09T21:12:48+00:00</updated>
+  <media:group>
+   <media:title>Ընտանեկան և սոցիալական նպաստը բարձրացել է 10 տոկոսով. պետբյուջեից հատկացվել է 32.9 միլիարդ դրամ</media:title>
+   <media:content url="https://www.youtube.com/v/C4Ms9x0CZwk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/C4Ms9x0CZwk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="1920"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:46iQV4rpmzM</id>
+  <yt:videoId>46iQV4rpmzM</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Ռազմական դրության իրավական ռեժիմի մասին օրենքում նախատեսվում են լրացումներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=46iQV4rpmzM"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:38:54+00:00</published>
+  <updated>2023-01-10T03:45:57+00:00</updated>
+  <media:group>
+   <media:title>Ռազմական դրության իրավական ռեժիմի մասին օրենքում նախատեսվում են լրացումներ</media:title>
+   <media:content url="https://www.youtube.com/v/46iQV4rpmzM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/46iQV4rpmzM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="28" average="5.00" min="1" max="5"/>
+    <media:statistics views="2209"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gFv99J8Ebb0</id>
+  <yt:videoId>gFv99J8Ebb0</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Միջազգային կառույցներն ու մամուլը շարունակում են դատապարտել Լաչինի միջանցքի փակումը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gFv99J8Ebb0"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:32:41+00:00</published>
+  <updated>2023-01-09T18:06:14+00:00</updated>
+  <media:group>
+   <media:title>Միջազգային կառույցներն ու մամուլը շարունակում են դատապարտել Լաչինի միջանցքի փակումը</media:title>
+   <media:content url="https://www.youtube.com/v/gFv99J8Ebb0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gFv99J8Ebb0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="54" average="5.00" min="1" max="5"/>
+    <media:statistics views="5437"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3ioTuuOUQ0I</id>
+  <yt:videoId>3ioTuuOUQ0I</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>ՊԵԿ-ը կրճատել է երկակի նշանակության ապրանքների ցանկը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3ioTuuOUQ0I"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:30:00+00:00</published>
+  <updated>2023-01-09T17:30:01+00:00</updated>
+  <media:group>
+   <media:title>ՊԵԿ-ը կրճատել է երկակի նշանակության ապրանքների ցանկը</media:title>
+   <media:content url="https://www.youtube.com/v/3ioTuuOUQ0I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3ioTuuOUQ0I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="733"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:87nWSaFkXI4</id>
+  <yt:videoId>87nWSaFkXI4</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>Կարմիր խաչի հայաստանյան գրասենյակի նախաձեռնությամբ 2 սահմանամերձ բնակավայրում ապաստարան կկառուցվի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=87nWSaFkXI4"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:27:04+00:00</published>
+  <updated>2023-01-09T17:28:53+00:00</updated>
+  <media:group>
+   <media:title>Կարմիր խաչի հայաստանյան գրասենյակի նախաձեռնությամբ 2 սահմանամերձ բնակավայրում ապաստարան կկառուցվի</media:title>
+   <media:content url="https://www.youtube.com/v/87nWSaFkXI4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/87nWSaFkXI4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="608"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_h-MsK1xxJE</id>
+  <yt:videoId>_h-MsK1xxJE</yt:videoId>
+  <yt:channelId>UCqi9r70a6DuOrXnOra4VLQQ</yt:channelId>
+  <title>1000-ից ավելի շահառու օգտվել է էներգաարդյունավետ վերանորոգման պետական ծրագրից</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_h-MsK1xxJE"/>
+  <author>
+   <name>Լուրեր</name>
+   <uri>https://www.youtube.com/channel/UCqi9r70a6DuOrXnOra4VLQQ</uri>
+  </author>
+  <published>2023-01-09T17:15:03+00:00</published>
+  <updated>2023-01-09T21:37:22+00:00</updated>
+  <media:group>
+   <media:title>1000-ից ավելի շահառու օգտվել է էներգաարդյունավետ վերանորոգման պետական ծրագրից</media:title>
+   <media:content url="https://www.youtube.com/v/_h-MsK1xxJE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_h-MsK1xxJE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📢 Հետևեք մեզ նաև այլ հարթակներում՝
+
+✅ https://bit.ly/3nKhZN6
+✅ https://bit.ly/3tz3goN
+✅ https://bit.ly/3vis6d5
+✅ https://bit.ly/3v6c8Te
+✅ https://bit.ly/3tMtjsN
+
+Հանրային հեռուստաընկերություն 2022
+Հեռ․ 010 653751 
+Էլ․ հասցե։ lurer@1tv.am</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="773"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

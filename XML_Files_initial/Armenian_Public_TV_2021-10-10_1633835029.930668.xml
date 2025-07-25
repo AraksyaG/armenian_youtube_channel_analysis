@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:UCSnr4wFDHDZZMeeHQvaHpjA</id>
+ <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:IonjsZFgotc</id>
+  <yt:videoId>IonjsZFgotc</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Գաղափարից բիզնես 09.10.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IonjsZFgotc"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-09T18:45:11+00:00</published>
+  <updated>2021-10-09T19:29:07+00:00</updated>
+  <media:group>
+   <media:title>Գաղափարից բիզնես 09.10.2021</media:title>
+   <media:content url="https://www.youtube.com/v/IonjsZFgotc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IonjsZFgotc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԳաղափարիցԲիզնես</media:description>
+   <media:community>
+    <media:starRating count="34" average="4.29" min="1" max="5"/>
+    <media:statistics views="1404"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yESBlz2cQZ8</id>
+  <yt:videoId>yESBlz2cQZ8</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՎԵԼՕ Mp3. Գյումրի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yESBlz2cQZ8"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-09T16:30:10+00:00</published>
+  <updated>2021-10-09T22:32:15+00:00</updated>
+  <media:group>
+   <media:title>ՎԵԼՕ Mp3. Գյումրի</media:title>
+   <media:content url="https://www.youtube.com/v/yESBlz2cQZ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yESBlz2cQZ8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ՎԵԼՕMp3</media:description>
+   <media:community>
+    <media:starRating count="447" average="4.87" min="1" max="5"/>
+    <media:statistics views="10643"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ga7yXqwjWhw</id>
+  <yt:videoId>Ga7yXqwjWhw</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ճանապարհ դեպի թանգարան. Զանգակատուն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ga7yXqwjWhw"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-09T15:15:10+00:00</published>
+  <updated>2021-10-09T15:45:48+00:00</updated>
+  <media:group>
+   <media:title>Ճանապարհ դեպի թանգարան. Զանգակատուն</media:title>
+   <media:content url="https://www.youtube.com/v/Ga7yXqwjWhw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Ga7yXqwjWhw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Զանգակատուն</media:description>
+   <media:community>
+    <media:starRating count="157" average="4.87" min="1" max="5"/>
+    <media:statistics views="5310"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yxjKlu_4BW0</id>
+  <yt:videoId>yxjKlu_4BW0</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ճիշտ ժամանակին. Եկամտահարկի վերադարձի չեղարկում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yxjKlu_4BW0"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-09T11:37:40+00:00</published>
+  <updated>2021-10-09T12:26:42+00:00</updated>
+  <media:group>
+   <media:title>Ճիշտ ժամանակին. Եկամտահարկի վերադարձի չեղարկում</media:title>
+   <media:content url="https://www.youtube.com/v/yxjKlu_4BW0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yxjKlu_4BW0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ՃիշտԺամանակին</media:description>
+   <media:community>
+    <media:starRating count="27" average="4.56" min="1" max="5"/>
+    <media:statistics views="4405"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1cDzmFwcuyM</id>
+  <yt:videoId>1cDzmFwcuyM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 08.10.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1cDzmFwcuyM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-09T10:16:55+00:00</published>
+  <updated>2021-10-09T10:26:51+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 08.10.2021</media:title>
+   <media:content url="https://www.youtube.com/v/1cDzmFwcuyM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1cDzmFwcuyM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="885"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9bM6hb74Dw4</id>
+  <yt:videoId>9bM6hb74Dw4</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. Pour faire une jam</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9bM6hb74Dw4"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-09T09:00:08+00:00</published>
+  <updated>2021-10-09T19:15:07+00:00</updated>
+  <media:group>
+   <media:title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. Pour faire une jam</media:title>
+   <media:content url="https://www.youtube.com/v/9bM6hb74Dw4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9bM6hb74Dw4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Ջազնավուր</media:description>
+   <media:community>
+    <media:starRating count="82" average="4.76" min="1" max="5"/>
+    <media:statistics views="2184"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JGQORf8iwOI</id>
+  <yt:videoId>JGQORf8iwOI</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JGQORf8iwOI"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T20:00:06+00:00</published>
+  <updated>2021-10-09T10:35:26+00:00</updated>
+  <media:group>
+   <media:title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր</media:title>
+   <media:content url="https://www.youtube.com/v/JGQORf8iwOI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JGQORf8iwOI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Ջազնավուր</media:description>
+   <media:community>
+    <media:starRating count="49" average="4.84" min="1" max="5"/>
+    <media:statistics views="1614"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1_IE5DEiY74</id>
+  <yt:videoId>1_IE5DEiY74</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1_IE5DEiY74"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T20:00:00+00:00</published>
+  <updated>2021-10-09T06:34:31+00:00</updated>
+  <media:group>
+   <media:title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր</media:title>
+   <media:content url="https://www.youtube.com/v/1_IE5DEiY74?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1_IE5DEiY74/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Ջազնավուր</media:description>
+   <media:community>
+    <media:starRating count="109" average="4.74" min="1" max="5"/>
+    <media:statistics views="2656"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iH30llsC50M</id>
+  <yt:videoId>iH30llsC50M</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. La Boheme</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iH30llsC50M"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T19:30:09+00:00</published>
+  <updated>2021-10-09T19:22:51+00:00</updated>
+  <media:group>
+   <media:title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. La Boheme</media:title>
+   <media:content url="https://www.youtube.com/v/iH30llsC50M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iH30llsC50M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Ջազնավուր</media:description>
+   <media:community>
+    <media:starRating count="88" average="4.82" min="1" max="5"/>
+    <media:statistics views="1904"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-HTmqBGm7Vs</id>
+  <yt:videoId>-HTmqBGm7Vs</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. Feutre taupe</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-HTmqBGm7Vs"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T19:15:11+00:00</published>
+  <updated>2021-10-09T19:34:29+00:00</updated>
+  <media:group>
+   <media:title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. Feutre taupe</media:title>
+   <media:content url="https://www.youtube.com/v/-HTmqBGm7Vs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-HTmqBGm7Vs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Ջազնավուր</media:description>
+   <media:community>
+    <media:starRating count="33" average="4.88" min="1" max="5"/>
+    <media:statistics views="768"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZtE_yGpz6_o</id>
+  <yt:videoId>ZtE_yGpz6_o</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. Je T'attends</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZtE_yGpz6_o"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T19:15:09+00:00</published>
+  <updated>2021-10-09T19:10:30+00:00</updated>
+  <media:group>
+   <media:title>ՆՈՆ ՍՏՈՊ LIVE. Ջազնավուր. Je T'attends</media:title>
+   <media:content url="https://www.youtube.com/v/ZtE_yGpz6_o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZtE_yGpz6_o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #Ջազնավուր</media:description>
+   <media:community>
+    <media:starRating count="58" average="4.86" min="1" max="5"/>
+    <media:statistics views="1164"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TtzRthFf1II</id>
+  <yt:videoId>TtzRthFf1II</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>100 տուն Արցախում 12</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TtzRthFf1II"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T18:45:09+00:00</published>
+  <updated>2021-10-09T06:10:47+00:00</updated>
+  <media:group>
+   <media:title>100 տուն Արցախում 12</media:title>
+   <media:content url="https://www.youtube.com/v/TtzRthFf1II?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TtzRthFf1II/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #100տունԱրցախում</media:description>
+   <media:community>
+    <media:starRating count="140" average="4.97" min="1" max="5"/>
+    <media:statistics views="8427"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hCRo5pRnVpE</id>
+  <yt:videoId>hCRo5pRnVpE</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Խաղից դուրս Քալանթարյանի հետ 08.10.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hCRo5pRnVpE"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T15:30:11+00:00</published>
+  <updated>2021-10-09T06:08:59+00:00</updated>
+  <media:group>
+   <media:title>Խաղից դուրս Քալանթարյանի հետ 08.10.2021</media:title>
+   <media:content url="https://www.youtube.com/v/hCRo5pRnVpE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hCRo5pRnVpE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="170" average="4.86" min="1" max="5"/>
+    <media:statistics views="9015"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ILn_tJE5v84</id>
+  <yt:videoId>ILn_tJE5v84</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Արվեստագիտության լսարան 08.10.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ILn_tJE5v84"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T15:00:09+00:00</published>
+  <updated>2021-10-09T06:45:15+00:00</updated>
+  <media:group>
+   <media:title>Արվեստագիտության լսարան 08.10.2021</media:title>
+   <media:content url="https://www.youtube.com/v/ILn_tJE5v84?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ILn_tJE5v84/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="1204"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:850MZktO9xU</id>
+  <yt:videoId>850MZktO9xU</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>1000+1 հարց. Խորեն Լևոնյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=850MZktO9xU"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2021-10-08T13:54:02+00:00</published>
+  <updated>2021-10-09T06:17:03+00:00</updated>
+  <media:group>
+   <media:title>1000+1 հարց. Խորեն Լևոնյան</media:title>
+   <media:content url="https://www.youtube.com/v/850MZktO9xU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/850MZktO9xU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2021 http://www.1tv.am 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #1000</media:description>
+   <media:community>
+    <media:starRating count="40" average="5.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

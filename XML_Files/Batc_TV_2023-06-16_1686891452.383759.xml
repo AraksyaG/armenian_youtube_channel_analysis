@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:bKLns2juwS8</id>
+  <yt:videoId>bKLns2juwS8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Արցախի ժողովրդին հարցրե՞լ եք, իրենք արդյոք ուզում են ապրել ադրբեջանի կազմի մեջ. Տիգրան Արզաքանցյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bKLns2juwS8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-15T20:24:27+00:00</published>
+  <updated>2023-06-15T20:51:26+00:00</updated>
+  <media:group>
+   <media:title>Արցախի ժողովրդին հարցրե՞լ եք, իրենք արդյոք ուզում են ապրել ադրբեջանի կազմի մեջ. Տիգրան Արզաքանցյան</media:title>
+   <media:content url="https://www.youtube.com/v/bKLns2juwS8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bKLns2juwS8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YLcmR2jkGDM</id>
+  <yt:videoId>YLcmR2jkGDM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac tv. Շնորհակալ լինենք Իրանին, որ Սյունիքը դեռ Հայաստան է․ Ազատ Արշակյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YLcmR2jkGDM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-15T06:40:38+00:00</published>
+  <updated>2023-06-15T07:23:21+00:00</updated>
+  <media:group>
+   <media:title>Bac tv. Շնորհակալ լինենք Իրանին, որ Սյունիքը դեռ Հայաստան է․ Ազատ Արշակյան</media:title>
+   <media:content url="https://www.youtube.com/v/YLcmR2jkGDM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YLcmR2jkGDM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-WWPgFff9ZA</id>
+  <yt:videoId>-WWPgFff9ZA</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Bac TV․  Մտավորականի պարտավորությունն է փրկել Հոգևոր Հայաստանը․ Միքայել Հարությունյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-WWPgFff9ZA"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-15T05:00:00+00:00</published>
+  <updated>2023-06-15T05:00:00+00:00</updated>
+  <media:group>
+   <media:title>Bac TV․  Մտավորականի պարտավորությունն է փրկել Հոգևոր Հայաստանը․ Միքայել Հարությունյան</media:title>
+   <media:content url="https://www.youtube.com/v/-WWPgFff9ZA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-WWPgFff9ZA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="255" average="5.00" min="1" max="5"/>
+    <media:statistics views="6657"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xkmoTZZQvL0</id>
+  <yt:videoId>xkmoTZZQvL0</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xkmoTZZQvL0"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-15T00:09:20+00:00</published>
+  <updated>2023-06-15T06:58:47+00:00</updated>
+  <media:group>
+   <media:title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:title>
+   <media:content url="https://www.youtube.com/v/xkmoTZZQvL0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xkmoTZZQvL0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="289"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VbcC0xCshOY</id>
+  <yt:videoId>VbcC0xCshOY</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VbcC0xCshOY"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T22:26:44+00:00</published>
+  <updated>2023-06-15T07:07:34+00:00</updated>
+  <media:group>
+   <media:title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:title>
+   <media:content url="https://www.youtube.com/v/VbcC0xCshOY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VbcC0xCshOY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="332"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:t-g8GjQDVyI</id>
+  <yt:videoId>t-g8GjQDVyI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Սահմանին որոշակի լարվածության միտում է նկատվում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=t-g8GjQDVyI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T18:09:18+00:00</published>
+  <updated>2023-06-15T07:41:02+00:00</updated>
+  <media:group>
+   <media:title>Սահմանին որոշակի լարվածության միտում է նկատվում</media:title>
+   <media:content url="https://www.youtube.com/v/t-g8GjQDVyI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/t-g8GjQDVyI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="548"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CF7tc2tEfb8</id>
+  <yt:videoId>CF7tc2tEfb8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Շտապիր դեպի բարին ամառային ճամբարի մասին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CF7tc2tEfb8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T16:48:18+00:00</published>
+  <updated>2023-06-15T07:10:04+00:00</updated>
+  <media:group>
+   <media:title>Շտապիր դեպի բարին ամառային ճամբարի մասին</media:title>
+   <media:content url="https://www.youtube.com/v/CF7tc2tEfb8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CF7tc2tEfb8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մենք սկսում ենք պատմել ձեզ սահմանամերձ՝ Բարձրունի, Ազատան, Կողբ, Խաչիկ, Արտավան գյուղերի անապահով ընտանիքների ավելի քան 300 երեխայի երազանքի մասին:
+
+Հուլիսի 18-25-ը Հանքավանի «Զեփյուռ» ճամբարում կկազմակերպվի «Շտապիր դեպի բարին» ամառային ճամբարը, որը երեխաների համար կդառնա նոր կյանքի՝ նոր ուղեգիր։ 
+
+Երեխաները մեկ շաբաթով կկտրվեն առօրյա հոգսերից և մեզանից յուրաքանչյուրի շնորհիվ կունենան կրթական, ժամանցային ծրագրերով հագեցած՝ անմոռանալի օրեր։
+
+Դուք նույնպես կարող եք դառնալ բարեգործության մի մասնիկը և օգնել իրականացնել երեխաների երազանքը։ 
+
+Ձեզանից յուրաքանչյուրը կարող է փոխանցել ցանկացած չափի գումար և օգնել մեր հերոսներից յուրաքանչյուրին ձեռք բերել ուղեգիր դեպի ճամբար։ 
+
+Ճամբարի վերաբերյալ մանրամասն տեղեկություները տեսանյութում՝ 
+
+🔘Сбербанк: 4279 3806 5325 7982 
+🔘AMERIABANK: 4573 6800 1001 7844 
+🔘Idram: 362722811
+получатель Акопян Елена 
+
+🔘Юридический счет AMERIABANK: 
+AMD - 1570079654760100
+USD - 1570079654760101
+EUR - 1570079654760146
+RUB – 1570079654760158
+Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="158"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lFhGUMAoH4Q</id>
+  <yt:videoId>lFhGUMAoH4Q</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ինչո՞ւ է Հայաստանի ղեկավարությունը փորձում ինչ-որ ճշտումներ մտցնել</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lFhGUMAoH4Q"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T13:46:48+00:00</published>
+  <updated>2023-06-15T07:00:39+00:00</updated>
+  <media:group>
+   <media:title>Ինչո՞ւ է Հայաստանի ղեկավարությունը փորձում ինչ-որ ճշտումներ մտցնել</media:title>
+   <media:content url="https://www.youtube.com/v/lFhGUMAoH4Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lFhGUMAoH4Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="357"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aT2o1xHN2xM</id>
+  <yt:videoId>aT2o1xHN2xM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aT2o1xHN2xM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T12:04:28+00:00</published>
+  <updated>2023-06-15T07:16:50+00:00</updated>
+  <media:group>
+   <media:title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:title>
+   <media:content url="https://www.youtube.com/v/aT2o1xHN2xM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aT2o1xHN2xM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RVa70DHIc_Y</id>
+  <yt:videoId>RVa70DHIc_Y</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Դավիթ Տոնոյանը կմնա կալանքի տակ, ո՞վ է մեղավոր ․օրվա իրավական լրահոսը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RVa70DHIc_Y"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T12:01:57+00:00</published>
+  <updated>2023-06-15T07:09:21+00:00</updated>
+  <media:group>
+   <media:title>Դավիթ Տոնոյանը կմնա կալանքի տակ, ո՞վ է մեղավոր ․օրվա իրավական լրահոսը</media:title>
+   <media:content url="https://www.youtube.com/v/RVa70DHIc_Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RVa70DHIc_Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="290"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:y6fjEAHq7Rs</id>
+  <yt:videoId>y6fjEAHq7Rs</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ԱԱԾ-ում անհարմար են զգում խոսել հանցանք կատարած աշխատակցի մասին․ Մամուլն այսօր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=y6fjEAHq7Rs"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T09:47:42+00:00</published>
+  <updated>2023-06-15T07:48:18+00:00</updated>
+  <media:group>
+   <media:title>ԱԱԾ-ում անհարմար են զգում խոսել հանցանք կատարած աշխատակցի մասին․ Մամուլն այսօր</media:title>
+   <media:content url="https://www.youtube.com/v/y6fjEAHq7Rs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/y6fjEAHq7Rs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="1020"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8_y3OYJom-k</id>
+  <yt:videoId>8_y3OYJom-k</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8_y3OYJom-k"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T08:44:29+00:00</published>
+  <updated>2023-06-15T07:22:06+00:00</updated>
+  <media:group>
+   <media:title>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:title>
+   <media:content url="https://www.youtube.com/v/8_y3OYJom-k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8_y3OYJom-k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԱԺ հերթական նիստը. ՈՒՂԻՂ</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="579"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Q1tsSpmNoi8</id>
+  <yt:videoId>Q1tsSpmNoi8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Երազանք. Որպես նկարչուհի ուզում եմ ցույց տալ գեղեցկությունը այս աշխարհի․ Քրիստինե Թումանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Q1tsSpmNoi8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-14T05:00:11+00:00</published>
+  <updated>2023-06-14T16:08:41+00:00</updated>
+  <media:group>
+   <media:title>Երազանք. Որպես նկարչուհի ուզում եմ ցույց տալ գեղեցկությունը այս աշխարհի․ Քրիստինե Թումանյան</media:title>
+   <media:content url="https://www.youtube.com/v/Q1tsSpmNoi8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Q1tsSpmNoi8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="303"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yNdua7q7zK4</id>
+  <yt:videoId>yNdua7q7zK4</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Էրդողանը Ադրբեջանում է․ Նա Ալիևի հետ համատեղ հայտարարություն կանի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yNdua7q7zK4"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-13T16:00:10+00:00</published>
+  <updated>2023-06-14T06:33:11+00:00</updated>
+  <media:group>
+   <media:title>Էրդողանը Ադրբեջանում է․ Նա Ալիևի հետ համատեղ հայտարարություն կանի</media:title>
+   <media:content url="https://www.youtube.com/v/yNdua7q7zK4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yNdua7q7zK4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="431"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iCUOaIo-6cg</id>
+  <yt:videoId>iCUOaIo-6cg</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ոստիկանը ծխախոտը հանգցրել է ոստիկանություն տարված անձի քթին․փաստաբանը խոշտանգման է ենթարկվել</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iCUOaIo-6cg"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2023-06-13T15:00:06+00:00</published>
+  <updated>2023-06-14T05:47:56+00:00</updated>
+  <media:group>
+   <media:title>Ոստիկանը ծխախոտը հանգցրել է ոստիկանություն տարված անձի քթին․փաստաբանը խոշտանգման է ենթարկվել</media:title>
+   <media:content url="https://www.youtube.com/v/iCUOaIo-6cg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iCUOaIo-6cg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="449"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

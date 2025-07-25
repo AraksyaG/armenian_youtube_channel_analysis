@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:UCpDmKr8LFapW_-45tEW5tmg</id>
+ <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:MLYjC_u7Xf4</id>
+  <yt:videoId>MLYjC_u7Xf4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ապրիլի 11</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MLYjC_u7Xf4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-11T04:47:08+00:00</published>
+  <updated>2022-04-11T04:47:09+00:00</updated>
+  <media:group>
+   <media:title>Ապրիլի 11</media:title>
+   <media:content url="https://www.youtube.com/v/MLYjC_u7Xf4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MLYjC_u7Xf4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. ապրիլի 11-ի օրվա խորհուրդը մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="12"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zRO0WvJjzCk</id>
+  <yt:videoId>zRO0WvJjzCk</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Արտֆոկուս  10.04.22</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zRO0WvJjzCk"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T18:19:03+00:00</published>
+  <updated>2022-04-10T18:19:03+00:00</updated>
+  <media:group>
+   <media:title>Արտֆոկուս  10.04.22</media:title>
+   <media:content url="https://www.youtube.com/v/zRO0WvJjzCk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zRO0WvJjzCk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հյուրը Արմեն Սաֆարյանն է</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="47"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qkPX5vhKSyU</id>
+  <yt:videoId>qkPX5vhKSyU</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդ է, մանուկների օրհնության օր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qkPX5vhKSyU"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T18:13:24+00:00</published>
+  <updated>2022-04-10T21:55:30+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդ է, մանուկների օրհնության օր</media:title>
+   <media:content url="https://www.youtube.com/v/qkPX5vhKSyU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qkPX5vhKSyU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>10.04.2022</media:description>
+   <media:community>
+    <media:starRating count="39" average="5.00" min="1" max="5"/>
+    <media:statistics views="271"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:a09VeGzk7Jc</id>
+  <yt:videoId>a09VeGzk7Jc</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 10.04.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=a09VeGzk7Jc"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T18:13:09+00:00</published>
+  <updated>2022-04-10T18:15:44+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 10.04.2022</media:title>
+   <media:content url="https://www.youtube.com/v/a09VeGzk7Jc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/a09VeGzk7Jc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծաղկազարդի տոնը Մայր Աթոռ Ս․ Էջմիածնում, Երևանի Ս․ Գրիգոր Լուսավորիչ եկեղեցում, Նորագավիթի Ս․ Գևորգ եկեղեցում, Մոսկվայի հայկական եկեղեցում։ 
+Դռնբացեքի խորհրդավոր արարողությունը։</media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="322"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_Y9AuMmq9ak</id>
+  <yt:videoId>_Y9AuMmq9ak</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Դռնբացեքի խորհրդավոր արարողությունը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_Y9AuMmq9ak"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T16:57:47+00:00</published>
+  <updated>2022-04-10T17:17:24+00:00</updated>
+  <media:group>
+   <media:title>Դռնբացեքի խորհրդավոր արարողությունը</media:title>
+   <media:content url="https://www.youtube.com/v/_Y9AuMmq9ak?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_Y9AuMmq9ak/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ծաղկազարդի տոնական պատարագից հետո եկեղեցիները շարունակում են մարդաշատ մնալ, հավատացյալները երեկոյան ժամերգության ընթացքում մասնակցում են մեկ այլ խորհրդավոր արարողության, որ կոչվում է Դռնբացեք:
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #լուրեր  #լրահոս</media:description>
+   <media:community>
+    <media:starRating count="39" average="5.00" min="1" max="5"/>
+    <media:statistics views="596"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pKfF84Hy7mo</id>
+  <yt:videoId>pKfF84Hy7mo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդը Մոսկվայի հայկական եկեղեցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pKfF84Hy7mo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T16:33:58+00:00</published>
+  <updated>2022-04-10T23:58:38+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդը Մոսկվայի հայկական եկեղեցում</media:title>
+   <media:content url="https://www.youtube.com/v/pKfF84Hy7mo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pKfF84Hy7mo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Այսօր, երբ Հայ առաքելական եկեղեցին տոնախմբում է Տիրոջ հաղթական մուտքը Երուսաղեմ, Մոսկվայի հայոց Սբ․ Պայծառակերպութան եկեղեցում  հնչում է Կոմիտասի պատարագը։ 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #լուրեր  #լրահոս</media:description>
+   <media:community>
+    <media:starRating count="37" average="5.00" min="1" max="5"/>
+    <media:statistics views="560"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:r_IhqSFaEDo</id>
+  <yt:videoId>r_IhqSFaEDo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդը Նորագավիթի Ս․ Գևորգ եկեղեցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=r_IhqSFaEDo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T16:20:44+00:00</published>
+  <updated>2022-04-10T16:29:57+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդը Նորագավիթի Ս․ Գևորգ եկեղեցում</media:title>
+   <media:content url="https://www.youtube.com/v/r_IhqSFaEDo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/r_IhqSFaEDo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Տիկնանց միության նախաձեռնությամբ Ս․ Գևորգ եկեղեցու բակում տոնական համերգ տեղի ունեցավ, ծիսական տիկնիկներով ու ավանդական երգ ու պարով անակնկալ մատուցեցին տատիկները՝ երիտասարդներին չզիջող ոգևորությամբ: 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #լուրեր  #լրահոս</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="451"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3NI7UCz1QyM</id>
+  <yt:videoId>3NI7UCz1QyM</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդը Ս․ Գրիգոր Լուսավորիչ մայր եկեղեցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3NI7UCz1QyM"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T16:13:26+00:00</published>
+  <updated>2022-04-10T22:12:32+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդը Ս․ Գրիգոր Լուսավորիչ մայր եկեղեցում</media:title>
+   <media:content url="https://www.youtube.com/v/3NI7UCz1QyM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3NI7UCz1QyM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Վաղ առավոտից Երևանի Սուրբ Գրիգոր Լուսավորիչ մայր եկեղեցին, հարակից բակն ու փողոցը լի էր մանուկների բազմությամբ: 
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #լուրեր  #լրահոս</media:description>
+   <media:community>
+    <media:starRating count="36" average="5.00" min="1" max="5"/>
+    <media:statistics views="465"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xJBw3TR85Gw</id>
+  <yt:videoId>xJBw3TR85Gw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդը Մայր Աթոռ Ս․ Էջմիածնում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xJBw3TR85Gw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T16:06:26+00:00</published>
+  <updated>2022-04-10T21:49:34+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդը Մայր Աթոռ Ս․ Էջմիածնում</media:title>
+   <media:content url="https://www.youtube.com/v/xJBw3TR85Gw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xJBw3TR85Gw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մայր Աթոռ Ս. Էջմիածնում Ծաղկազարդի տոնն ավանդաբար սկսվում է անդաստանի արարողությամբ: Սուրբ Տրդատ բաց խորանից Ամենայն հայոց կաթողիկոսն օրհենց աշխարհի 4 կողմերը՝ հայցելով խաղաղություն ու բերրիություն:  
+#Եկեղեցական_կյանք  #Շողակաթ_TV  #Եկեղեցական_լուրեր  #լուրեր  #լրահոս</media:description>
+   <media:community>
+    <media:starRating count="63" average="5.00" min="1" max="5"/>
+    <media:statistics views="976"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:x6jQp89ZeH0</id>
+  <yt:videoId>x6jQp89ZeH0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>«ՅՈՒՆԻՄԱ» Հայաստանը երեսուն տարեկան է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=x6jQp89ZeH0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T16:00:12+00:00</published>
+  <updated>2022-04-10T16:30:45+00:00</updated>
+  <media:group>
+   <media:title>«ՅՈՒՆԻՄԱ» Հայաստանը երեսուն տարեկան է</media:title>
+   <media:content url="https://www.youtube.com/v/x6jQp89ZeH0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/x6jQp89ZeH0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ի՞նչ վիճակում են այսօր արցախյան թատրոնները, ինչպե՞ս են լուծվում շենքը, տիկնիկները, ռեկվիզիտը կորցրած թատրոնների խնդիրները: «ՅՈՒՆԻՄԱ» Հայաստանի, տիկնիկային թատրոնների զարգացման հեռանկարի և այլ թեմաների շուրջ «Արտֆոկուս»-ում խոսել է Տիկնիկային արվեստի գործիչների միջազգային միության «ՅՈՒՆԻՄԱ» հայկական կենտրոնի նախագահ Արմեն Սաֆարյանը։ Զրույցը վարում է Անահիտ Մարգարյանը:
+Հաջորդիվ՝ մշակութային լրահոս։
+#Արտֆոկուս  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="85"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lqUlDdOf7h4</id>
+  <yt:videoId>lqUlDdOf7h4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ապրիլի 10</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lqUlDdOf7h4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-10T05:00:15+00:00</published>
+  <updated>2022-04-10T05:00:16+00:00</updated>
+  <media:group>
+   <media:title>Ապրիլի 10</media:title>
+   <media:content url="https://www.youtube.com/v/lqUlDdOf7h4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lqUlDdOf7h4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. ապրիլի 10-ի օրվա խորհուրդը (10 † Կիր. ԱԿ. ԾԱՂԿԱԶԱՐԴ: Երգ. 1.1-2.3: Զաք. 9.9-15: Փիլիպ. 4.4-7: Մատթ. 20.29-21.17:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:
+#Օրվա_խորհուրդը  #Շողակաթ_TV  #մեծ_պահք</media:description>
+   <media:community>
+    <media:starRating count="446" average="5.00" min="1" max="5"/>
+    <media:statistics views="2586"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Dd3CV0RNn6A</id>
+  <yt:videoId>Dd3CV0RNn6A</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Անուշ ապուր, թահինով նախաճաշ, սիսեռով աղցան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Dd3CV0RNn6A"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-08T13:59:39+00:00</published>
+  <updated>2022-04-09T19:05:53+00:00</updated>
+  <media:group>
+   <media:title>Անուշ ապուր, թահինով նախաճաշ, սիսեռով աղցան</media:title>
+   <media:content url="https://www.youtube.com/v/Dd3CV0RNn6A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Dd3CV0RNn6A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ավանդական խոհանոցը Ավագ շաբաթվա յուրաքանչյուր օրվա համար առաջարկում է մեկ ճաշատեսակ: Պատարստում ենք Անուշ ապուր, թահինով նախաճաշ և Այնթապի խոհանոցից սիսեռով աղցան:
+#Պահոց_խոհանոց  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UMbC_9Tlx10</id>
+  <yt:videoId>UMbC_9Tlx10</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մեր մանկության գրքերը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UMbC_9Tlx10"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-09T18:00:12+00:00</published>
+  <updated>2022-04-09T18:23:14+00:00</updated>
+  <media:group>
+   <media:title>Մեր մանկության գրքերը</media:title>
+   <media:content url="https://www.youtube.com/v/UMbC_9Tlx10?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UMbC_9Tlx10/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ալեքսանդր Դյումա և Ժյուլ Վեռն, Հովհաննես Թումանյան ու Սենտ Էկզյուպերի, Վախթանգ Անանյան և Մարկ Տվեն: Այս և այլ հեղինակների գրքերը մենք կարդում էինք մեր մանկության տարիներին։ Այսօրվա մանուկ ու պատանի ընթերցողն, իհարկե, այլ նախապատվություններ ունի: Ինչպիսի՞ն են դարձրել մեզ մեր մանկության գրքերը և ի՞նչ կարող են տալ դրանք այսօրվա ընթերցողին:  «Զուգահեռ ընթերցումներ»-ում բանավիճում են գրականագետներ Հայկ Համբարձումյանն ու Արքմենիկ Նիկողոսյանը:
+#Զուգահեռ_ընթերցումներ  #Շողակաթ_TV  #բանավեճ  #զրույց</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="141"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:S0jIZ-guaTo</id>
+  <yt:videoId>S0jIZ-guaTo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդը Մեղրաձորում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=S0jIZ-guaTo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-09T17:30:10+00:00</published>
+  <updated>2022-04-09T17:40:19+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդը Մեղրաձորում</media:title>
+   <media:content url="https://www.youtube.com/v/S0jIZ-guaTo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/S0jIZ-guaTo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մեղրաձորցիներին միացել են նաև հարևան գյուղերից: Երեխաները Ծաղկազարդին մասնակցում են իրենց պատրաստած ծիսական տիկնիկներով:
+#Մեր_գյուղի_եկեղեցին  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="58" average="5.00" min="1" max="5"/>
+    <media:statistics views="1053"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pAorJnOHK5g</id>
+  <yt:videoId>pAorJnOHK5g</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ծաղկազարդի տոնին Քրիստոսին փառաբանող մարդիկ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pAorJnOHK5g"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-04-09T17:00:11+00:00</published>
+  <updated>2022-04-09T17:09:34+00:00</updated>
+  <media:group>
+   <media:title>Ծաղկազարդի տոնին Քրիստոսին փառաբանող մարդիկ</media:title>
+   <media:content url="https://www.youtube.com/v/pAorJnOHK5g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pAorJnOHK5g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ի՞նչ տեղի ունեցավ մարդկանց սրտում և հոգում, որոնք Ծաղկազարդի տոնին իբրև թագավոր դիմավորեցին Քրիստոսին, իսկ օրեր անց դատապարտեցին մահվան: Հեռուստադիտողի հարցին պատասխանում է Եսայի քահանա Արթենյանը:
+#Հարցեր_քահանային  #Շողակաթ_TV</media:description>
+   <media:community>
+    <media:starRating count="96" average="5.00" min="1" max="5"/>
+    <media:statistics views="1255"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

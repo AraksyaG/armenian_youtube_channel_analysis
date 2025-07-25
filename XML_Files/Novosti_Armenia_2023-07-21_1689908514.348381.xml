@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Novosti-Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw"/>
+ <author>
+  <name>Novosti-Armenia</name>
+  <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+ </author>
+ <published>2017-11-15T12:41:37+00:00</published>
+ <entry>
+  <id>yt:video:a70VVo02vxk</id>
+  <yt:videoId>a70VVo02vxk</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Բուհերին Երևանի կենտրոնում հող չենք տալու. Փաշինյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=a70VVo02vxk"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-20T21:21:03+00:00</published>
+  <updated>2023-07-20T21:56:44+00:00</updated>
+  <media:group>
+   <media:title>Բուհերին Երևանի կենտրոնում հող չենք տալու. Փաշինյան</media:title>
+   <media:content url="https://www.youtube.com/v/a70VVo02vxk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/a70VVo02vxk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="39"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RF0UBXg-puo</id>
+  <yt:videoId>RF0UBXg-puo</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Անկարան եռակողմ հայտարարության կողմ չէ. Զախարովան պատասխանեց Էրդողանին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RF0UBXg-puo"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-20T21:13:42+00:00</published>
+  <updated>2023-07-20T21:19:54+00:00</updated>
+  <media:group>
+   <media:title>Անկարան եռակողմ հայտարարության կողմ չէ. Զախարովան պատասխանեց Էրդողանին</media:title>
+   <media:content url="https://www.youtube.com/v/RF0UBXg-puo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RF0UBXg-puo/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4jg3RYUP-bo</id>
+  <yt:videoId>4jg3RYUP-bo</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>ՀՐԱՏԱՊ. խոշոր հրդեհ Բուզանդի փողոցում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4jg3RYUP-bo"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-20T18:54:08+00:00</published>
+  <updated>2023-07-20T19:13:13+00:00</updated>
+  <media:group>
+   <media:title>ՀՐԱՏԱՊ. խոշոր հրդեհ Բուզանդի փողոցում</media:title>
+   <media:content url="https://www.youtube.com/v/4jg3RYUP-bo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4jg3RYUP-bo/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="363"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nyrOIuPKNWI</id>
+  <yt:videoId>nyrOIuPKNWI</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Բրյուսելի եռակողմ հանդիպումը որևէ կոնկրետ արդյունք չտվեց. Փաշինյանն` Արցախի շրջափակման մասին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nyrOIuPKNWI"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-20T08:26:23+00:00</published>
+  <updated>2023-07-20T08:47:30+00:00</updated>
+  <media:group>
+   <media:title>Բրյուսելի եռակողմ հանդիպումը որևէ կոնկրետ արդյունք չտվեց. Փաշինյանն` Արցախի շրջափակման մասին</media:title>
+   <media:content url="https://www.youtube.com/v/nyrOIuPKNWI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nyrOIuPKNWI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="39"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XV6h5rOjhLY</id>
+  <yt:videoId>XV6h5rOjhLY</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Humanitarian situation in Nagorno-Karabakh is deteriorating hour by hour.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XV6h5rOjhLY"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-20T07:25:15+00:00</published>
+  <updated>2023-07-20T08:12:19+00:00</updated>
+  <media:group>
+   <media:title>Humanitarian situation in Nagorno-Karabakh is deteriorating hour by hour.</media:title>
+   <media:content url="https://www.youtube.com/v/XV6h5rOjhLY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XV6h5rOjhLY/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="29"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LODHoLJobpI</id>
+  <yt:videoId>LODHoLJobpI</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ի՞նչ է սպասվում Արցախին. քաղաքագետ Ալեքսանդր Մարկարով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LODHoLJobpI"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-19T17:30:09+00:00</published>
+  <updated>2023-07-20T23:44:41+00:00</updated>
+  <media:group>
+   <media:title>Ի՞նչ է սպասվում Արցախին. քաղաքագետ Ալեքսանդր Մարկարով</media:title>
+   <media:content url="https://www.youtube.com/v/LODHoLJobpI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LODHoLJobpI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Ադրբեջանը իրականացնում է սպիտակ գենոցիդ, լավ հասկանալով,որ չկա ռեալ ուժ որը իրենց կկանգնեցնի»,-«Հատուկ կարծիք» հաղորդման ժամանակ ասում է քաղաքագետ Ալեքսանդր Մարկարովը: Նրա խոսքով՝ Արցախը հանդես չգալով որպես միջազգային հարաբերությունների սուբեկտ՝ շատ բարդ իրավիճակում է միջազգային  հարաբերությունների սուբեկտների վրա ազդելու համար: Հավաքական Արևմուտքը օժանդակում է Բաքվի ու Ստեփանակերտի երկխոսությանը՝ կապված ինտեգրման և Արցախի ապագայի վերաբերյալ: Եվ շատ բարդ է տեսնել այլընտրանք, երբ բոլորը դրդում են երկխոսության Բաքվի հետ, այս երկոխոսության իմաստը կայանում է  նրանում, որ Ստեփանակերտը պետք է դառնա այն միավորը, որը ենթարկվելու է Բաքվին:
+
+00:33 Բրյուսելյան հանդիպման արդյունքների մասին:
+06:54 Ակնայով /Աղդամով/ Արցախ հումանիտար օգնություն Արցախ տրամադրելու մասին:
+08:50 Ո՞րն է արևմուտքի դիրքորոշումը Արցախի վերաբերյալ:
+11:09 ՌԴ-ը փորձում է պատասխանատվությունից խուսափե՞լ:
+15:50 ՌԴ Ադրբեջանի հետ ավելի կոշտ խոսելու հնարավորություն չունի՞:
+18:20 ՌԴ- կողմից  եռակողմ հանդիպման հրավերի մասին:
+20:30 ՌԴ –Բաքու լարված հարաբերությունների մասին:
+25:54 Արդյո՞ք ՌԴ-ը Աղդամով հումանիտար բեռներ կտեղափոխի Արցախ:
+27:02 Արցախի նախագահի նստացույցի և Արևմուտքից թելադրվող գործողությունների մասին:
+29:21 Ի՞նչ է լինելու Արցախր հետ:
+
+«Նովոստի–Արմենիա» միջազգային լրատվության գործակալություն: Քաղաքական, սոցիալական, տնտեսական, մշակութային և սպորտային նորություններ Հայաստանից և ամբողջ աշխարհից: 
+https://newsarmenia.am/am/
+
+Агентство международной информации &quot;Новости-Армения&quot; - политические, экономические, культурные и спортивные новости из Армении и всего мира. https://newsarmenia.am
+
+#newsarmenia #novosti_armenia</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="661"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aSY_kki0A2c</id>
+  <yt:videoId>aSY_kki0A2c</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ամուսնության հետաքրքիր ու անակնկալ առաջարկ` Կարատեի Հայաստանի գավաթի մրցաշարի ժամանակ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aSY_kki0A2c"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-19T10:41:02+00:00</published>
+  <updated>2023-07-20T05:42:06+00:00</updated>
+  <media:group>
+   <media:title>Ամուսնության հետաքրքիր ու անակնկալ առաջարկ` Կարատեի Հայաստանի գավաթի մրցաշարի ժամանակ</media:title>
+   <media:content url="https://www.youtube.com/v/aSY_kki0A2c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aSY_kki0A2c/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="437"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:D52RzYGYCE4</id>
+  <yt:videoId>D52RzYGYCE4</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Էլ չհելնենք տռասը փակենք մյուս անգամ․ խաղողագործները՝ Փաշինյանին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=D52RzYGYCE4"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-19T10:32:37+00:00</published>
+  <updated>2023-07-20T06:08:51+00:00</updated>
+  <media:group>
+   <media:title>Էլ չհելնենք տռասը փակենք մյուս անգամ․ խաղողագործները՝ Փաշինյանին</media:title>
+   <media:content url="https://www.youtube.com/v/D52RzYGYCE4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/D52RzYGYCE4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="607"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8a_pxdjDbp8</id>
+  <yt:videoId>8a_pxdjDbp8</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Ձեռով կթել չկա չէ՞, էս որձ ա՞, թե՞ էգ. Փաշինյանն այցելել է խելացի անասնագոմ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8a_pxdjDbp8"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-18T19:16:00+00:00</published>
+  <updated>2023-07-19T06:10:30+00:00</updated>
+  <media:group>
+   <media:title>Ձեռով կթել չկա չէ՞, էս որձ ա՞, թե՞ էգ. Փաշինյանն այցելել է խելացի անասնագոմ</media:title>
+   <media:content url="https://www.youtube.com/v/8a_pxdjDbp8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8a_pxdjDbp8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="763"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WOSGyYU03Eg</id>
+  <yt:videoId>WOSGyYU03Eg</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Նեխած դին հայտնաբերվել է 8 օր անց. երիտասարդը վրաերթի է ենթարկել տղամարդուն ու թաքցրել դին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WOSGyYU03Eg"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-18T07:44:00+00:00</published>
+  <updated>2023-07-19T06:24:23+00:00</updated>
+  <media:group>
+   <media:title>Նեխած դին հայտնաբերվել է 8 օր անց. երիտասարդը վրաերթի է ենթարկել տղամարդուն ու թաքցրել դին</media:title>
+   <media:content url="https://www.youtube.com/v/WOSGyYU03Eg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WOSGyYU03Eg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="302"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bRQLsA_vDPI</id>
+  <yt:videoId>bRQLsA_vDPI</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Էն էրեխեքի պաղպաղակի հարցը լուծեք, ամֆիթատրոնը' հետո. Փաշինյանը' Վեդիում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bRQLsA_vDPI"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-17T20:48:50+00:00</published>
+  <updated>2023-07-18T06:20:54+00:00</updated>
+  <media:group>
+   <media:title>Էն էրեխեքի պաղպաղակի հարցը լուծեք, ամֆիթատրոնը' հետո. Փաշինյանը' Վեդիում</media:title>
+   <media:content url="https://www.youtube.com/v/bRQLsA_vDPI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bRQLsA_vDPI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="218"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-V4JctGzHRE</id>
+  <yt:videoId>-V4JctGzHRE</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Վիճակն օրհասական է. Արցախի նախագահը դուրս եկավ իր նստավայրից, մտավ վրան՝ միանալով նստացույցին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-V4JctGzHRE"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-17T19:12:47+00:00</published>
+  <updated>2023-07-18T06:35:03+00:00</updated>
+  <media:group>
+   <media:title>Վիճակն օրհասական է. Արցախի նախագահը դուրս եկավ իր նստավայրից, մտավ վրան՝ միանալով նստացույցին</media:title>
+   <media:content url="https://www.youtube.com/v/-V4JctGzHRE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-V4JctGzHRE/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="394"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yDLGRM6Fhr4</id>
+  <yt:videoId>yDLGRM6Fhr4</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Հանրապետության Հրապարակում նշում են Վարդավառը' ոստիկանության ջրցան մեքենաների մասնակցությամբ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yDLGRM6Fhr4"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-17T10:54:33+00:00</published>
+  <updated>2023-07-18T05:48:08+00:00</updated>
+  <media:group>
+   <media:title>Հանրապետության Հրապարակում նշում են Վարդավառը' ոստիկանության ջրցան մեքենաների մասնակցությամբ</media:title>
+   <media:content url="https://www.youtube.com/v/yDLGRM6Fhr4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yDLGRM6Fhr4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="131"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jgS1K7NIswg</id>
+  <yt:videoId>jgS1K7NIswg</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Էս տեխնիկայով հեռու չենք գնալու. Երևանում աղբահանության հետ կապված խնդիրներ կան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jgS1K7NIswg"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-17T09:35:44+00:00</published>
+  <updated>2023-07-18T05:59:38+00:00</updated>
+  <media:group>
+   <media:title>Էս տեխնիկայով հեռու չենք գնալու. Երևանում աղբահանության հետ կապված խնդիրներ կան</media:title>
+   <media:content url="https://www.youtube.com/v/jgS1K7NIswg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jgS1K7NIswg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="913"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1ZkALw_PoZ0</id>
+  <yt:videoId>1ZkALw_PoZ0</yt:videoId>
+  <yt:channelId>UCD6gGqwiP_zdW-sOL8-BBnw</yt:channelId>
+  <title>Վարդավառը երևանյան բակերից մեկում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1ZkALw_PoZ0"/>
+  <author>
+   <name>Novosti-Armenia</name>
+   <uri>https://www.youtube.com/channel/UCD6gGqwiP_zdW-sOL8-BBnw</uri>
+  </author>
+  <published>2023-07-17T07:48:38+00:00</published>
+  <updated>2023-07-18T06:26:26+00:00</updated>
+  <media:group>
+   <media:title>Վարդավառը երևանյան բակերից մեկում</media:title>
+   <media:content url="https://www.youtube.com/v/1ZkALw_PoZ0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1ZkALw_PoZ0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="51"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

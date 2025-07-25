@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Armenian Public TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA"/>
+ <author>
+  <name>Armenian Public TV</name>
+  <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+ </author>
+ <published>2013-12-18T14:38:13+00:00</published>
+ <entry>
+  <id>yt:video:XK17U0Uv_lY</id>
+  <yt:videoId>XK17U0Uv_lY</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Արման Աստաբացյան, Մարիսա Մերսադե, Միգել Դի Ջենովա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XK17U0Uv_lY"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T21:03:32+00:00</published>
+  <updated>2023-05-11T21:10:46+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Արման Աստաբացյան, Մարիսա Մերսադե, Միգել Դի Ջենովա</media:title>
+   <media:content url="https://www.youtube.com/v/XK17U0Uv_lY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XK17U0Uv_lY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="421"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CkOoNLz66Sk</id>
+  <yt:videoId>CkOoNLz66Sk</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «4 երազանք» 2 (մաս 29)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CkOoNLz66Sk"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T16:30:11+00:00</published>
+  <updated>2023-05-11T16:55:35+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «4 երազանք» 2 (մաս 29)</media:title>
+   <media:content url="https://www.youtube.com/v/CkOoNLz66Sk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CkOoNLz66Sk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #4երազանք</media:description>
+   <media:community>
+    <media:starRating count="467" average="5.00" min="1" max="5"/>
+    <media:statistics views="18801"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pSuS83f8vHM</id>
+  <yt:videoId>pSuS83f8vHM</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Արմեն Մարտիրոսյան, Սամվել Սահակյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pSuS83f8vHM"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T14:46:28+00:00</published>
+  <updated>2023-05-11T15:17:01+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Արմեն Մարտիրոսյան, Սամվել Սահակյան</media:title>
+   <media:content url="https://www.youtube.com/v/pSuS83f8vHM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pSuS83f8vHM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="310"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Qtt8HAvkPTQ</id>
+  <yt:videoId>Qtt8HAvkPTQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Առավոտ լուսո․ Վահրամ Հովեյան, Ավետիք Խոստեղյան, Հռիփսիմե Դայան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Qtt8HAvkPTQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T14:44:51+00:00</published>
+  <updated>2023-05-11T15:04:37+00:00</updated>
+  <media:group>
+   <media:title>Առավոտ լուսո․ Վահրամ Հովեյան, Ավետիք Խոստեղյան, Հռիփսիմե Դայան</media:title>
+   <media:content url="https://www.youtube.com/v/Qtt8HAvkPTQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Qtt8HAvkPTQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ԱռավոտԼուսո</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="254"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kWPHw_RVbzo</id>
+  <yt:videoId>kWPHw_RVbzo</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Կնոջ օրագիր. Սիսիան Սեփանյան. Միջանձնային հարաբերությունների ազդեցությունը սեռական կյանքի վրա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kWPHw_RVbzo"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T14:30:14+00:00</published>
+  <updated>2023-05-11T14:30:14+00:00</updated>
+  <media:group>
+   <media:title>Կնոջ օրագիր. Սիսիան Սեփանյան. Միջանձնային հարաբերությունների ազդեցությունը սեռական կյանքի վրա</media:title>
+   <media:content url="https://www.youtube.com/v/kWPHw_RVbzo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kWPHw_RVbzo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="74" average="5.00" min="1" max="5"/>
+    <media:statistics views="8593"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uiHx7Y8ujS8</id>
+  <yt:videoId>uiHx7Y8ujS8</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Պատրաստենք միասին. Տավարի ուղեղով կարկանդակներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uiHx7Y8ujS8"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T13:45:02+00:00</published>
+  <updated>2023-05-11T14:01:21+00:00</updated>
+  <media:group>
+   <media:title>Պատրաստենք միասին. Տավարի ուղեղով կարկանդակներ</media:title>
+   <media:content url="https://www.youtube.com/v/uiHx7Y8ujS8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uiHx7Y8ujS8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="385"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ml_-WDH8OZU</id>
+  <yt:videoId>Ml_-WDH8OZU</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>5 րոպե ԱՐՎԵՍՏ. Գոռ Մարգարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ml_-WDH8OZU"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T13:00:12+00:00</published>
+  <updated>2023-05-11T13:00:12+00:00</updated>
+  <media:group>
+   <media:title>5 րոպե ԱՐՎԵՍՏ. Գոռ Մարգարյան</media:title>
+   <media:content url="https://www.youtube.com/v/Ml_-WDH8OZU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Ml_-WDH8OZU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #5րոպեԱՐՎԵՍՏ</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="197"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HPWR33H2pBs</id>
+  <yt:videoId>HPWR33H2pBs</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Եվրատեսիլ 2023. Եզրափակիչ (անոնս)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HPWR33H2pBs"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T10:50:48+00:00</published>
+  <updated>2023-05-11T11:18:05+00:00</updated>
+  <media:group>
+   <media:title>Եվրատեսիլ 2023. Եզրափակիչ (անոնս)</media:title>
+   <media:content url="https://www.youtube.com/v/HPWR33H2pBs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HPWR33H2pBs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="93" average="5.00" min="1" max="5"/>
+    <media:statistics views="6555"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RSwWb8efc1E</id>
+  <yt:videoId>RSwWb8efc1E</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Երգ երգոց. Նոր ձայներ (անոնս)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RSwWb8efc1E"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T10:49:33+00:00</published>
+  <updated>2023-05-11T11:23:47+00:00</updated>
+  <media:group>
+   <media:title>Երգ երգոց. Նոր ձայներ (անոնս)</media:title>
+   <media:content url="https://www.youtube.com/v/RSwWb8efc1E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RSwWb8efc1E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="2029"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GOZvsp9qRiA</id>
+  <yt:videoId>GOZvsp9qRiA</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Կինոմարդիկ (անոնս)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GOZvsp9qRiA"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T08:08:11+00:00</published>
+  <updated>2023-05-11T08:13:53+00:00</updated>
+  <media:group>
+   <media:title>Կինոմարդիկ (անոնս)</media:title>
+   <media:content url="https://www.youtube.com/v/GOZvsp9qRiA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GOZvsp9qRiA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="169"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7ncjp0f50UQ</id>
+  <yt:videoId>7ncjp0f50UQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Ինդեքս 10.05.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7ncjp0f50UQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T08:05:16+00:00</published>
+  <updated>2023-05-11T08:08:03+00:00</updated>
+  <media:group>
+   <media:title>Ինդեքս 10.05.2023</media:title>
+   <media:content url="https://www.youtube.com/v/7ncjp0f50UQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7ncjp0f50UQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="450"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oXzQNnwuosQ</id>
+  <yt:videoId>oXzQNnwuosQ</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Եվրատեսիլ 2023 (անոնս)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oXzQNnwuosQ"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-11T07:47:30+00:00</published>
+  <updated>2023-05-11T07:47:32+00:00</updated>
+  <media:group>
+   <media:title>Եվրատեսիլ 2023 (անոնս)</media:title>
+   <media:content url="https://www.youtube.com/v/oXzQNnwuosQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oXzQNnwuosQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="309" average="5.00" min="1" max="5"/>
+    <media:statistics views="17485"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lpTYg26D2hA</id>
+  <yt:videoId>lpTYg26D2hA</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հատուկ գործ. Բռնադատվածներ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lpTYg26D2hA"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-10T18:45:11+00:00</published>
+  <updated>2023-05-11T06:44:49+00:00</updated>
+  <media:group>
+   <media:title>Հատուկ գործ. Բռնադատվածներ</media:title>
+   <media:content url="https://www.youtube.com/v/lpTYg26D2hA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lpTYg26D2hA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #ՀատուկԳործ</media:description>
+   <media:community>
+    <media:starRating count="43" average="5.00" min="1" max="5"/>
+    <media:statistics views="1783"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vPcODJbTN6I</id>
+  <yt:videoId>vPcODJbTN6I</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Հ/Ս «4 երազանք» 2 (մաս 28)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vPcODJbTN6I"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-10T16:30:10+00:00</published>
+  <updated>2023-05-10T16:54:40+00:00</updated>
+  <media:group>
+   <media:title>Հ/Ս «4 երազանք» 2 (մաս 28)</media:title>
+   <media:content url="https://www.youtube.com/v/vPcODJbTN6I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vPcODJbTN6I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք #4երազանք</media:description>
+   <media:community>
+    <media:starRating count="631" average="5.00" min="1" max="5"/>
+    <media:statistics views="32641"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:x0iQYKX_G-s</id>
+  <yt:videoId>x0iQYKX_G-s</yt:videoId>
+  <yt:channelId>UCSnr4wFDHDZZMeeHQvaHpjA</yt:channelId>
+  <title>Նվիրյալները. Ահարոն Մովսիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=x0iQYKX_G-s"/>
+  <author>
+   <name>Armenian Public TV</name>
+   <uri>https://www.youtube.com/channel/UCSnr4wFDHDZZMeeHQvaHpjA</uri>
+  </author>
+  <published>2023-05-10T15:00:41+00:00</published>
+  <updated>2023-05-10T15:00:42+00:00</updated>
+  <media:group>
+   <media:title>Նվիրյալները. Ահարոն Մովսիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/x0iQYKX_G-s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/x0iQYKX_G-s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Public TV Company of Armenia 2023 
+Facebook: https://www.facebook.com/ArmPublicTV
+Instagram: https://www.instagram.com/ArmPublicTV 
+
+#ԱռաջինԱլիք</media:description>
+   <media:community>
+    <media:starRating count="38" average="5.00" min="1" max="5"/>
+    <media:statistics views="1995"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

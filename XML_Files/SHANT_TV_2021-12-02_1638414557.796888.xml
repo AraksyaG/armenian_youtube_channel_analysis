@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCBoGmjONeZ6PL5IbK6qZv0Q"/>
+ <id>yt:channel:UCBoGmjONeZ6PL5IbK6qZv0Q</id>
+ <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+ <title>SHANT TV Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q"/>
+ <author>
+  <name>SHANT TV Armenia</name>
+  <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+ </author>
+ <published>2010-09-09T18:26:10+00:00</published>
+ <entry>
+  <id>yt:video:tisUjfKxXUU</id>
+  <yt:videoId>tisUjfKxXUU</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Սերիա 105</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tisUjfKxXUU"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-12-01T14:28:29+00:00</published>
+  <updated>2021-12-01T14:32:45+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Սերիա 105</media:title>
+   <media:content url="https://www.youtube.com/v/tisUjfKxXUU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tisUjfKxXUU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="53" average="4.62" min="1" max="5"/>
+    <media:statistics views="5460"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mp3ohqOF8yo</id>
+  <yt:videoId>mp3ohqOF8yo</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում - «Իրական աշխարհ, իրական մարդիկ» ՀԿ-ի նախագահ - Ժենյա Մայիլյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mp3ohqOF8yo"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-12-01T14:26:33+00:00</published>
+  <updated>2021-12-01T14:26:39+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում - «Իրական աշխարհ, իրական մարդիկ» ՀԿ-ի նախագահ - Ժենյա Մայիլյան</media:title>
+   <media:content url="https://www.youtube.com/v/mp3ohqOF8yo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mp3ohqOF8yo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="300"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aZRJJqKRfVo</id>
+  <yt:videoId>aZRJJqKRfVo</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում - Նժդեհ Հովհաննիսյան, Վարդան Հարությունյան, Մհեր Մաթևոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aZRJJqKRfVo"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-30T19:25:20+00:00</published>
+  <updated>2021-12-01T07:21:54+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում - Նժդեհ Հովհաննիսյան, Վարդան Հարությունյան, Մհեր Մաթևոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/aZRJJqKRfVo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aZRJJqKRfVo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="16" average="4.50" min="1" max="5"/>
+    <media:statistics views="984"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zw8e9R_uiNs</id>
+  <yt:videoId>zw8e9R_uiNs</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-ՀԱՊՀ  ANEL կենտրոնի համակարգող - Ամալյա Մխիթարյան, փորձագետ - Լիլիթ Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zw8e9R_uiNs"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-30T19:22:00+00:00</published>
+  <updated>2021-12-01T09:14:38+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-ՀԱՊՀ  ANEL կենտրոնի համակարգող - Ամալյա Մխիթարյան, փորձագետ - Լիլիթ Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/zw8e9R_uiNs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zw8e9R_uiNs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="1011"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0pFtlIyCq7Q</id>
+  <yt:videoId>0pFtlIyCq7Q</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Սերիա 103</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0pFtlIyCq7Q"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-30T17:48:30+00:00</published>
+  <updated>2021-12-01T14:47:41+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Սերիա 103</media:title>
+   <media:content url="https://www.youtube.com/v/0pFtlIyCq7Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0pFtlIyCq7Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="49" average="4.76" min="1" max="5"/>
+    <media:statistics views="4168"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:al39UT1-jZ8</id>
+  <yt:videoId>al39UT1-jZ8</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Սերիա 104</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=al39UT1-jZ8"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-30T17:46:11+00:00</published>
+  <updated>2021-12-01T08:23:03+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Սերիա 104</media:title>
+   <media:content url="https://www.youtube.com/v/al39UT1-jZ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/al39UT1-jZ8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="79" average="4.90" min="1" max="5"/>
+    <media:statistics views="9076"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fBOfITp7tbg</id>
+  <yt:videoId>fBOfITp7tbg</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-Ռոբին ռոբոտը/ROBIN robot</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fBOfITp7tbg"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-30T17:42:15+00:00</published>
+  <updated>2021-12-01T09:15:55+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-Ռոբին ռոբոտը/ROBIN robot</media:title>
+   <media:content url="https://www.youtube.com/v/fBOfITp7tbg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fBOfITp7tbg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="7" average="4.43" min="1" max="5"/>
+    <media:statistics views="528"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:w8Wy4bgwhd8</id>
+  <yt:videoId>w8Wy4bgwhd8</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-Հանդուրժողականություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=w8Wy4bgwhd8"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-30T17:41:17+00:00</published>
+  <updated>2021-12-01T07:10:39+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-Հանդուրժողականություն</media:title>
+   <media:content url="https://www.youtube.com/v/w8Wy4bgwhd8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/w8Wy4bgwhd8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="808"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8lB-wouV1cE</id>
+  <yt:videoId>8lB-wouV1cE</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>TAXI BATTLE 3 - Episode 02 - Ziroyan VS Gevorg Martirosyan</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8lB-wouV1cE"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T18:44:24+00:00</published>
+  <updated>2021-11-30T07:03:19+00:00</updated>
+  <media:group>
+   <media:title>TAXI BATTLE 3 - Episode 02 - Ziroyan VS Gevorg Martirosyan</media:title>
+   <media:content url="https://www.youtube.com/v/8lB-wouV1cE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8lB-wouV1cE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="301" average="4.79" min="1" max="5"/>
+    <media:statistics views="19442"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gVM7l0zxJV0</id>
+  <yt:videoId>gVM7l0zxJV0</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-ԻՄՄԱ - Օստեոպորոզ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gVM7l0zxJV0"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T18:38:26+00:00</published>
+  <updated>2021-11-30T06:45:34+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-ԻՄՄԱ - Օստեոպորոզ</media:title>
+   <media:content url="https://www.youtube.com/v/gVM7l0zxJV0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gVM7l0zxJV0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="4" average="2.00" min="1" max="5"/>
+    <media:statistics views="426"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BKIHsDMCrKM</id>
+  <yt:videoId>BKIHsDMCrKM</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-ԻՄՄԱ - Ստենոկարդիա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BKIHsDMCrKM"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T18:36:48+00:00</published>
+  <updated>2021-11-30T06:35:21+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-ԻՄՄԱ - Ստենոկարդիա</media:title>
+   <media:content url="https://www.youtube.com/v/BKIHsDMCrKM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BKIHsDMCrKM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="3" average="3.67" min="1" max="5"/>
+    <media:statistics views="336"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8H2jV-GhoZc</id>
+  <yt:videoId>8H2jV-GhoZc</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-ԻՄՄԱ - Նեյրոմիոգրաֆիա</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8H2jV-GhoZc"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T18:35:57+00:00</published>
+  <updated>2021-11-30T07:17:00+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-ԻՄՄԱ - Նեյրոմիոգրաֆիա</media:title>
+   <media:content url="https://www.youtube.com/v/8H2jV-GhoZc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8H2jV-GhoZc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="449"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3rA1wNklbss</id>
+  <yt:videoId>3rA1wNklbss</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-ԻՄՄԱ - Այտուցված ոտքեր</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3rA1wNklbss"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T18:35:05+00:00</published>
+  <updated>2021-11-30T06:52:45+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-ԻՄՄԱ - Այտուցված ոտքեր</media:title>
+   <media:content url="https://www.youtube.com/v/3rA1wNklbss?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3rA1wNklbss/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="852"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7hOanNrAwFg</id>
+  <yt:videoId>7hOanNrAwFg</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-ՀՀ ժողովրդական արտիստ, քանոնահարուհի - Հասմիկ Լեյլոյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7hOanNrAwFg"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T11:34:38+00:00</published>
+  <updated>2021-11-30T07:20:19+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-ՀՀ ժողովրդական արտիստ, քանոնահարուհի - Հասմիկ Լեյլոյան</media:title>
+   <media:content url="https://www.youtube.com/v/7hOanNrAwFg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7hOanNrAwFg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="7" average="3.29" min="1" max="5"/>
+    <media:statistics views="896"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hsjGhsWlV6c</id>
+  <yt:videoId>hsjGhsWlV6c</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-«Ազգային երգիչ» նախագծի հաղթող - Հարություն Մկրտչյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hsjGhsWlV6c"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-29T11:27:25+00:00</published>
+  <updated>2021-11-30T06:09:51+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-«Ազգային երգիչ» նախագծի հաղթող - Հարություն Մկրտչյան</media:title>
+   <media:content url="https://www.youtube.com/v/hsjGhsWlV6c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hsjGhsWlV6c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="87" average="4.91" min="1" max="5"/>
+    <media:statistics views="4279"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

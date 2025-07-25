@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:UCpDmKr8LFapW_-45tEW5tmg</id>
+ <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:dci7AY5gFyQ</id>
+  <yt:videoId>dci7AY5gFyQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Նոյեմբերի 10</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dci7AY5gFyQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-10T05:00:30+00:00</published>
+  <updated>2022-11-10T05:00:30+00:00</updated>
+  <media:group>
+   <media:title>Նոյեմբերի 10</media:title>
+   <media:content url="https://www.youtube.com/v/dci7AY5gFyQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dci7AY5gFyQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. նոյեմբերի 10-ի օրվա խորհուրդը (10 Եշ. ԴԿ. Սրբոցն Գուրիասայ, Սամունասայ, Աբիբայ սարկաւագին, Ռոմանոսի միայնակեցւոյն, Մանկանն Խոստովանողին եւ Հիւսիքոսի զինաւորին: Առ. 28.10-18: Բարուք. 3.31-4.4: Բ Տիմ. 1.6-12: Մատթ. 19.27-29:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="127" average="5.00" min="1" max="5"/>
+    <media:statistics views="391"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mL6rwJT31Bo</id>
+  <yt:videoId>mL6rwJT31Bo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Կրթության և գիտության նոր ռազմավարություն. մաս 90-րդ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mL6rwJT31Bo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-09T18:00:09+00:00</published>
+  <updated>2022-11-09T18:32:03+00:00</updated>
+  <media:group>
+   <media:title>Կրթության և գիտության նոր ռազմավարություն. մաս 90-րդ</media:title>
+   <media:content url="https://www.youtube.com/v/mL6rwJT31Bo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mL6rwJT31Bo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Գիտության և կրթության նոր ռազմավարության խնդիրը քննարկում ենք «Մաթեմիկ» կրթական ՀԿ հիմնադիր Տիգրան Առուշանյանի հետ:</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="123"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-1vgDZBSh9k</id>
+  <yt:videoId>-1vgDZBSh9k</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Նոյեմբերի 9</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-1vgDZBSh9k"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-09T05:00:00+00:00</published>
+  <updated>2022-11-09T05:00:01+00:00</updated>
+  <media:group>
+   <media:title>Նոյեմբերի 9</media:title>
+   <media:content url="https://www.youtube.com/v/-1vgDZBSh9k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-1vgDZBSh9k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. նոյեմբերի 9-ի օրվա խորհուրդը մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="436" average="5.00" min="1" max="5"/>
+    <media:statistics views="2650"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Kwrq4RVzPGo</id>
+  <yt:videoId>Kwrq4RVzPGo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Նոյեմբերի 8</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Kwrq4RVzPGo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-08T18:34:38+00:00</published>
+  <updated>2022-11-08T18:36:36+00:00</updated>
+  <media:group>
+   <media:title>Նոյեմբերի 8</media:title>
+   <media:content url="https://www.youtube.com/v/Kwrq4RVzPGo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Kwrq4RVzPGo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. նոյեմբերի 8-ի օրվա խորհուրդը (8 Գշ. ԳԿ. Սրբոցն Դեմետրեայ վկային եւ Բասիլիսկոսի քահանային: Առ. 15.33-16.7: Ովսէ. 14.9-10: Տիտ. 3.3-8: Մարկ. 13.9-13:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="313" average="5.00" min="1" max="5"/>
+    <media:statistics views="1792"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pGyOGrWszAE</id>
+  <yt:videoId>pGyOGrWszAE</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Արթուր Խաչենց, «45 օր պատերազմ»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pGyOGrWszAE"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-08T18:30:10+00:00</published>
+  <updated>2022-11-08T18:46:45+00:00</updated>
+  <media:group>
+   <media:title>Արթուր Խաչենց, «45 օր պատերազմ»</media:title>
+   <media:content url="https://www.youtube.com/v/pGyOGrWszAE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pGyOGrWszAE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Արթուր Խաչենցի «45 օր պատերազմ» ֆիլմի համար գրած երգն ու երաժշտությունը նվիրված է Արցախյան պատերազմում զոհված տղաների հիշատակին:</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="277"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Qa8Ig-_cOZU</id>
+  <yt:videoId>Qa8Ig-_cOZU</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Կաթիլային ոռոգման վարպետը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Qa8Ig-_cOZU"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-08T17:30:10+00:00</published>
+  <updated>2022-11-08T19:51:11+00:00</updated>
+  <media:group>
+   <media:title>Կաթիլային ոռոգման վարպետը</media:title>
+   <media:content url="https://www.youtube.com/v/Qa8Ig-_cOZU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Qa8Ig-_cOZU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Գյուղատնտես Ալբերտ Պետրոսյանը կաթիլային եղանակով 20 հա հողը ջրելու համար 10 անգամ ավելի քիչ ջուր է օգտագործում,  քան ավանդական եղանակով ջրելու դեպքում: Տարածքը 3-4 օրում ջրվելու փոխարեն ջրվում է  3-4 ժամում: Ալբերտ Պետրոսյանը մեզ հետ կիսում է իր հմտություն ու գիտելիքը:</media:description>
+   <media:community>
+    <media:starRating count="643" average="5.00" min="1" max="5"/>
+    <media:statistics views="38867"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ofD5ApW032A</id>
+  <yt:videoId>ofD5ApW032A</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Խոսք համակեցության մասին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ofD5ApW032A"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-08T17:12:08+00:00</published>
+  <updated>2022-11-08T17:12:08+00:00</updated>
+  <media:group>
+   <media:title>Խոսք համակեցության մասին</media:title>
+   <media:content url="https://www.youtube.com/v/ofD5ApW032A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ofD5ApW032A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հիսուս իր աշակերտներին ասում է. «Ինչպես որ Հայրն ինձ սիրեց, այնպես էլ ես ձեզ սիրեցի, մնացեք իմ սիրո մեջ»: Ինչպե՞ս մնալ Հիսուսի սիրո մեջ, ինչպե՞ս է այդ սերն օգնում մեզ համակեցության մեջ: Մեկնաբանում է Տ. Ռուբեն վարդապետ Զարգարյանը:</media:description>
+   <media:community>
+    <media:starRating count="57" average="5.00" min="1" max="5"/>
+    <media:statistics views="760"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DRD_4U5_LDk</id>
+  <yt:videoId>DRD_4U5_LDk</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Նորայր Ավագյանը 44-օրյա պատերազմից հետո</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DRD_4U5_LDk"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T17:30:06+00:00</published>
+  <updated>2022-11-07T17:43:53+00:00</updated>
+  <media:group>
+   <media:title>Նորայր Ավագյանը 44-օրյա պատերազմից հետո</media:title>
+   <media:content url="https://www.youtube.com/v/DRD_4U5_LDk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DRD_4U5_LDk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Նորայր Ավագյանը 44-օրյա պատերազմի օրերին կամավորագրվել ու մեկնել է  ճակատ։ Շուշիի պաշտպանության մարտերում ողնաշարի վիրավորում է ստացել: Այժմ անվասայլակով է: Երազում է սեփական տան ու արհեստանոցի մասին:</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="252"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hEjbfHE0HYk</id>
+  <yt:videoId>hEjbfHE0HYk</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 07.11.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hEjbfHE0HYk"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T17:03:12+00:00</published>
+  <updated>2022-11-10T01:46:55+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 07.11.2022</media:title>
+   <media:content url="https://www.youtube.com/v/hEjbfHE0HYk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hEjbfHE0HYk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հայրապետական մաղթանք Ն.Ս.Օ.Տ.Տ Գարեգին Երկրորդ հայրապետի գահակալության 23-րդ տարեդարձի առիթով:  
+Հովվապետական այց Վայոց Ձորի Ջերմուկ քաղաք: 
+ՌԴ նախագահը Պատվո շքանշանով է պարգևատրել Գարեգին Բ Ամենայն հայոց կաթողիկոսին: 
+Ախալքալաքի Կորխ գյուղում տեղի է ունեցել վերականգնված Սուրբ Ստեփանոս եկեղեցու վերաօծման հանդիսավոր արարողությունը: 
+Արցախի նախագահ Արայիկ Հարությունյանը Գերմանիայի հայոց թեմի առաջնորդ Սերովբե եպիսկոպոս Իսախանյանին պարգեւատրել է Արցախի Հանրապետութեան «Վաչագան Բարեպաշտ» մեդալով։ 
+Ամենայն հայոց կաթողիկոսն ընդունել է իտալացի բժիշկ Անտոնի Կառլա Տեստանին:</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="542"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:P1Lr8Z5Bivo</id>
+  <yt:videoId>P1Lr8Z5Bivo</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամփոփ լրահոս 07.11.22</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=P1Lr8Z5Bivo"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T15:59:04+00:00</published>
+  <updated>2022-11-09T18:31:32+00:00</updated>
+  <media:group>
+   <media:title>Ամփոփ լրահոս 07.11.22</media:title>
+   <media:content url="https://www.youtube.com/v/P1Lr8Z5Bivo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/P1Lr8Z5Bivo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ՌԴ նախագահը Պատվո շքանշանով է պարգևատրել Գարեգին Բ Ամենայն հայոց կաթողիկոսին: Այդ մասին հայտարարվել է նոյեմբերի 4-ին, Հայոց հայրապետի գահակալության 23-րդ տարեդարձի օրը: Նախագահական հրամանագրով Նորին սրբությունը պարգևատրվել է Հայաստանի և Ռուսաստանի միջև մշակութային և հումանիտար կապերի զարգացման գործում մեծ ներդրումի համար: 
+Ախալքալաքի Կորխ գյուղում տեղի է ունեցել վերականգնված Սուրբ Ստեփանոս եկեղեցու վերաօծման հանդիսավոր արարողությունը: 
+Արցախի նախագահ Արայիկ Հարությունյանը Գերմանիայի հայոց թեմի առաջնորդ Սերովբե եպիսկոպոս Իսախանյանին պարգեւատրել է Արցախի Հանրապետութեան «Վաչագան Բարեպաշտ» մեդալով։</media:description>
+   <media:community>
+    <media:starRating count="55" average="5.00" min="1" max="5"/>
+    <media:statistics views="1931"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vaCqr2GmaR4</id>
+  <yt:videoId>vaCqr2GmaR4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամենայն հայոց կաթողիկոսն ընդունեց իտալացի բժիշկ Անտոնի Կառլա Տեստանին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vaCqr2GmaR4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T15:54:16+00:00</published>
+  <updated>2022-11-09T07:50:21+00:00</updated>
+  <media:group>
+   <media:title>Ամենայն հայոց կաթողիկոսն ընդունեց իտալացի բժիշկ Անտոնի Կառլա Տեստանին</media:title>
+   <media:content url="https://www.youtube.com/v/vaCqr2GmaR4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vaCqr2GmaR4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Նոյեմբերի 6-ին Գարեգին Երկրորդ Ամենայն հայոց կաթողիկոսն իր նստավայրում հյուրընկալեց Իտալիայում Ագոստինո Գեմելի համալսարանական հիվանդանոցի գինեկոլոգիական ուռուցքաբանության ուլտրաձայնային կենտրոնի գիտական տնօրեն Անտոնի Կառլա Տեստանին: Պրոֆեսոր Տեստանը Հայաստանում է ոլորտին վերաբերող դասախոսությունների և փորձի փոխանակման ընդարձակ ծրագրով:</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="234"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pCBUqYXmb1U</id>
+  <yt:videoId>pCBUqYXmb1U</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հայրապետական մաղթանք Ն.Ս.Օ.Տ.Տ Գարեգին Երկրորդ հայրապետի գահակալության տարեդարձի առիթով</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pCBUqYXmb1U"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T15:48:12+00:00</published>
+  <updated>2022-11-09T19:15:48+00:00</updated>
+  <media:group>
+   <media:title>Հայրապետական մաղթանք Ն.Ս.Օ.Տ.Տ Գարեգին Երկրորդ հայրապետի գահակալության տարեդարձի առիթով</media:title>
+   <media:content url="https://www.youtube.com/v/pCBUqYXmb1U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pCBUqYXmb1U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Նոյեմբերի 6-ին Մայր Աթոռի միաբանները, Ամենայն հայոց հայրապետի նախագահությամբ, Սուրբ Գայանե վանքում մասնակցեցին պատարագի սրբազան արարողությանը: Պատարագի ավարտին Գարեգին Բ Ամենայն հայոց կաթողիկոսի օծման և գահակալության 23-րդ տարեդարձի առիթով կատարվեց Հայրապետական մաղթանք:</media:description>
+   <media:community>
+    <media:starRating count="29" average="5.00" min="1" max="5"/>
+    <media:statistics views="1331"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_33v84kuzDw</id>
+  <yt:videoId>_33v84kuzDw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամենայն հայոց կաթողիկոսն այցելեց Ջերմուկ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_33v84kuzDw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T15:42:52+00:00</published>
+  <updated>2022-11-07T19:05:48+00:00</updated>
+  <media:group>
+   <media:title>Ամենայն հայոց կաթողիկոսն այցելեց Ջերմուկ</media:title>
+   <media:content url="https://www.youtube.com/v/_33v84kuzDw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_33v84kuzDw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>«Մենք եկել ենք այստեղ ասելու, որ այն ամենը, ինչ ունենք՝ մեր երկիրն է, մեր հայրենիքը: Պիտի զինվենք քաջությամբ ու տոկունությամբ». նոյեմբերի 5-ին Գարեգին Բ Ամենայն հաոյց կաթողիկոսը հովվապետական այցով Վայոց Ձորի Ջերմուկ քաղաքում էր:</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="531"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MZuKlgVI6qc</id>
+  <yt:videoId>MZuKlgVI6qc</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ջուր անապատում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MZuKlgVI6qc"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-11-07T11:56:49+00:00</published>
+  <updated>2022-11-07T11:56:49+00:00</updated>
+  <media:group>
+   <media:title>Ջուր անապատում</media:title>
+   <media:content url="https://www.youtube.com/v/MZuKlgVI6qc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MZuKlgVI6qc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԱԴՐԻԱՆԱ - Էս ինչու՞ են գոռգոռում, Մովսեսից ի՞նչ են ուզում
+ԳՈՌ - Ծարավ են, ջուր են ուզում
+ԱԴՐԻԱՆԱ - Բայց անապատում որտեղի՞ց ջուր: 
+ԳՈՌ - Մովսեսը գիտի, որ Աստված մի բան կանի:
+ԱԴՐԻԱՆԱ - Բայց իսկականից կանի՞:</media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="345"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NA42oml2d_I</id>
+  <yt:videoId>NA42oml2d_I</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ինչպե՞ս ուժ գտնել պայքարելու</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NA42oml2d_I"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-28T14:33:22+00:00</published>
+  <updated>2022-11-07T06:29:48+00:00</updated>
+  <media:group>
+   <media:title>Ինչպե՞ս ուժ գտնել պայքարելու</media:title>
+   <media:content url="https://www.youtube.com/v/NA42oml2d_I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NA42oml2d_I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Տեսնելով ինչ է կատարվում մեր շուրջը և աշխարհում, հուսահատվում եմ: Ինչպե՞ս ուժ գտնեմ պայքարելու: Հեռուստադիտողի հարցին պատասխանում է Եսայի քահանա Արթենյանը:</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

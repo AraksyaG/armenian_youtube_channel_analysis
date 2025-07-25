@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCBoGmjONeZ6PL5IbK6qZv0Q"/>
+ <id>yt:channel:UCBoGmjONeZ6PL5IbK6qZv0Q</id>
+ <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+ <title>SHANT TV Armenia</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q"/>
+ <author>
+  <name>SHANT TV Armenia</name>
+  <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+ </author>
+ <published>2010-09-09T18:26:10+00:00</published>
+ <entry>
+  <id>yt:video:Qa6wGJF3Gus</id>
+  <yt:videoId>Qa6wGJF3Gus</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-«Երիտասարդական ակումբների դաշնություն» - Ատոմ Մխիթարյան, Վերգինե Թադևոսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Qa6wGJF3Gus"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-10T18:53:36+00:00</published>
+  <updated>2021-11-11T07:12:45+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-«Երիտասարդական ակումբների դաշնություն» - Ատոմ Մխիթարյան, Վերգինե Թադևոսյան</media:title>
+   <media:content url="https://www.youtube.com/v/Qa6wGJF3Gus?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Qa6wGJF3Gus/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="11" average="4.27" min="1" max="5"/>
+    <media:statistics views="1936"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OsIDty0vx6I</id>
+  <yt:videoId>OsIDty0vx6I</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Սերիա 91</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OsIDty0vx6I"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-10T18:51:21+00:00</published>
+  <updated>2021-11-10T19:12:53+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Սերիա 91</media:title>
+   <media:content url="https://www.youtube.com/v/OsIDty0vx6I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OsIDty0vx6I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="79" average="4.65" min="1" max="5"/>
+    <media:statistics views="6791"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LnizLUebOCA</id>
+  <yt:videoId>LnizLUebOCA</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-«ԻՄՄԱ» Բ/Կ-ի Էնդոկրինոլոգ - Աստղիկ Կարապետյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LnizLUebOCA"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-10T09:37:03+00:00</published>
+  <updated>2021-11-10T10:04:28+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-«ԻՄՄԱ» Բ/Կ-ի Էնդոկրինոլոգ - Աստղիկ Կարապետյան</media:title>
+   <media:content url="https://www.youtube.com/v/LnizLUebOCA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LnizLUebOCA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="838"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MizonBA-Vw0</id>
+  <yt:videoId>MizonBA-Vw0</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Սերիա 90</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MizonBA-Vw0"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-10T09:36:43+00:00</published>
+  <updated>2021-11-11T06:41:04+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Սերիա 90</media:title>
+   <media:content url="https://www.youtube.com/v/MizonBA-Vw0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MizonBA-Vw0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="58" average="4.66" min="1" max="5"/>
+    <media:statistics views="7203"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nFv_mEFIYn8</id>
+  <yt:videoId>nFv_mEFIYn8</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-«Հերոսների վերականգնողական քաղաքը» նախագծի հեղինակ - Սուրեն Արեենց</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nFv_mEFIYn8"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-10T09:24:02+00:00</published>
+  <updated>2021-11-10T09:44:44+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-«Հերոսների վերականգնողական քաղաքը» նախագծի հեղինակ - Սուրեն Արեենց</media:title>
+   <media:content url="https://www.youtube.com/v/nFv_mEFIYn8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nFv_mEFIYn8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="772"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QLGbLYzm4hA</id>
+  <yt:videoId>QLGbLYzm4hA</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Փոքրիկ աստղեր - Օրագիր 09</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QLGbLYzm4hA"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-09T17:27:05+00:00</published>
+  <updated>2021-11-10T07:01:45+00:00</updated>
+  <media:group>
+   <media:title>Փոքրիկ աստղեր - Օրագիր 09</media:title>
+   <media:content url="https://www.youtube.com/v/QLGbLYzm4hA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QLGbLYzm4hA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="16" average="4.75" min="1" max="5"/>
+    <media:statistics views="1252"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:i7J3Mh-KY7w</id>
+  <yt:videoId>i7J3Mh-KY7w</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բուժ Ինֆո/Buj Info 484-09.11.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=i7J3Mh-KY7w"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-09T15:32:30+00:00</published>
+  <updated>2021-11-10T12:36:29+00:00</updated>
+  <media:group>
+   <media:title>Բուժ Ինֆո/Buj Info 484-09.11.2021</media:title>
+   <media:content url="https://www.youtube.com/v/i7J3Mh-KY7w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/i7J3Mh-KY7w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="17" average="4.06" min="1" max="5"/>
+    <media:statistics views="1151"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Rp0WBpe04C4</id>
+  <yt:videoId>Rp0WBpe04C4</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բուժ Ինֆո/Buj Info 484-08.11.2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Rp0WBpe04C4"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-09T08:44:32+00:00</published>
+  <updated>2021-11-10T12:00:16+00:00</updated>
+  <media:group>
+   <media:title>Բուժ Ինֆո/Buj Info 484-08.11.2021</media:title>
+   <media:content url="https://www.youtube.com/v/Rp0WBpe04C4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Rp0WBpe04C4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="9" average="4.11" min="1" max="5"/>
+    <media:statistics views="854"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:f_qZgFpLdk0</id>
+  <yt:videoId>f_qZgFpLdk0</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-Թավջութակահար-Սևակ Ավանեսյան, «Տաղարան» համույթի մասնաճյուղի ղեկավար-Նարեկ Ստեփանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=f_qZgFpLdk0"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-08T20:19:14+00:00</published>
+  <updated>2021-11-09T09:57:27+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-Թավջութակահար-Սևակ Ավանեսյան, «Տաղարան» համույթի մասնաճյուղի ղեկավար-Նարեկ Ստեփանյան</media:title>
+   <media:content url="https://www.youtube.com/v/f_qZgFpLdk0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/f_qZgFpLdk0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="842"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kg3ueqTQ03c</id>
+  <yt:videoId>kg3ueqTQ03c</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Սերիա 89</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kg3ueqTQ03c"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-08T20:17:13+00:00</published>
+  <updated>2021-11-09T14:47:19+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Սերիա 89</media:title>
+   <media:content url="https://www.youtube.com/v/kg3ueqTQ03c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kg3ueqTQ03c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="76" average="4.68" min="1" max="5"/>
+    <media:statistics views="9181"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vtohQ_qYaCk</id>
+  <yt:videoId>vtohQ_qYaCk</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Եփող թափողները 05 - 07.11.22021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vtohQ_qYaCk"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-07T21:37:49+00:00</published>
+  <updated>2021-11-08T08:18:18+00:00</updated>
+  <media:group>
+   <media:title>Եփող թափողները 05 - 07.11.22021</media:title>
+   <media:content url="https://www.youtube.com/v/vtohQ_qYaCk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vtohQ_qYaCk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="21" average="4.62" min="1" max="5"/>
+    <media:statistics views="2226"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Hst8eRPsF4I</id>
+  <yt:videoId>Hst8eRPsF4I</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Բեկորներ/Bekorner - Դիտեք երկուշաբթիից ուրբաթ 89-93-րդ սերիաները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Hst8eRPsF4I"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-07T21:15:59+00:00</published>
+  <updated>2021-11-08T08:03:00+00:00</updated>
+  <media:group>
+   <media:title>Բեկորներ/Bekorner - Դիտեք երկուշաբթիից ուրբաթ 89-93-րդ սերիաները</media:title>
+   <media:content url="https://www.youtube.com/v/Hst8eRPsF4I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Hst8eRPsF4I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="164" average="4.85" min="1" max="5"/>
+    <media:statistics views="19805"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WyKiqSBV-yI</id>
+  <yt:videoId>WyKiqSBV-yI</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Women's Club - Episode 101</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WyKiqSBV-yI"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-06T20:43:48+00:00</published>
+  <updated>2021-11-07T08:03:51+00:00</updated>
+  <media:group>
+   <media:title>Women's Club - Episode 101</media:title>
+   <media:content url="https://www.youtube.com/v/WyKiqSBV-yI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WyKiqSBV-yI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="261" average="4.66" min="1" max="5"/>
+    <media:statistics views="35431"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iI_3gBzGXfg</id>
+  <yt:videoId>iI_3gBzGXfg</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Եփող թափողները 04 - 06.11.22021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iI_3gBzGXfg"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-06T20:42:43+00:00</published>
+  <updated>2021-11-07T07:59:47+00:00</updated>
+  <media:group>
+   <media:title>Եփող թափողները 04 - 06.11.22021</media:title>
+   <media:content url="https://www.youtube.com/v/iI_3gBzGXfg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iI_3gBzGXfg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="19" average="4.79" min="1" max="5"/>
+    <media:statistics views="1810"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FhqSrzRcak8</id>
+  <yt:videoId>FhqSrzRcak8</yt:videoId>
+  <yt:channelId>UCBoGmjONeZ6PL5IbK6qZv0Q</yt:channelId>
+  <title>Առավոտը Շանթում-«Բուկինիստ» գրախանութների ցանցի հիմնադիր-տնօրեն - Խաչիկ Վարդանյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FhqSrzRcak8"/>
+  <author>
+   <name>SHANT TV Armenia</name>
+   <uri>https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q</uri>
+  </author>
+  <published>2021-11-05T20:50:18+00:00</published>
+  <updated>2021-11-06T08:02:56+00:00</updated>
+  <media:group>
+   <media:title>Առավոտը Շանթում-«Բուկինիստ» գրախանութների ցանցի հիմնադիր-տնօրեն - Խաչիկ Վարդանյան</media:title>
+   <media:content url="https://www.youtube.com/v/FhqSrzRcak8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FhqSrzRcak8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ներբեռնել Shant Digital TVհավելվածը՝
+🍏 iOS՝ https://apple.co/398zQUX
+👉 Android՝ https://bit.ly/30hf29D
+
+Բաժանորդագրվել http://bit.ly/3119srd</media:description>
+   <media:community>
+    <media:starRating count="16" average="4.25" min="1" max="5"/>
+    <media:statistics views="1431"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:UCpDmKr8LFapW_-45tEW5tmg</id>
+ <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:q90Vifhe_U4</id>
+  <yt:videoId>q90Vifhe_U4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ինչո՞ւ ֆենթզի</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=q90Vifhe_U4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-23T18:30:12+00:00</published>
+  <updated>2022-07-23T18:30:12+00:00</updated>
+  <media:group>
+   <media:title>Ինչո՞ւ ֆենթզի</media:title>
+   <media:content url="https://www.youtube.com/v/q90Vifhe_U4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/q90Vifhe_U4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ինչո՞վ են ֆենթզի վեպերն ու ֆիլմերը գրավում մարդկանց, ընդ որում ոչ միայն երեխաներին ու պատանիներին, ինչո՞ւ նույն հաջողությունները չունեն հարակից ժանրերը՝ հեքիաթները, առասպելները, էպոսը, պատմավեպը և այլն։ «Զուգահեռ ընթերցումներ»-ում բանավիճում են գրականագետներ Հայկ Համբարձումյանն ու Արքմենիկ Նիկողոսյանը:</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9ZdqcnlPrk4</id>
+  <yt:videoId>9ZdqcnlPrk4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Պայծառակերպության խորհուրդը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9ZdqcnlPrk4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-23T17:30:12+00:00</published>
+  <updated>2022-07-23T17:41:08+00:00</updated>
+  <media:group>
+   <media:title>Պայծառակերպության խորհուրդը</media:title>
+   <media:content url="https://www.youtube.com/v/9ZdqcnlPrk4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9ZdqcnlPrk4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Թաբոր լեռան վրա առաքյալները տեսան Քրիստոսի աստվածային փառքը, բայց հետո տկարացան հավատքի մեջ, մինչև տեսան Հարությունը: Արդյո՞ք Պայծառակերպությունը բավարար չէր հավատալու համար մեսսիային: Հեռուստադիտողի հարցին պատասխանում է Եսայի քահանա Արթենյանը:</media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="87"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KaOgnEzQujg</id>
+  <yt:videoId>KaOgnEzQujg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հուլիսի 23</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KaOgnEzQujg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-23T05:00:07+00:00</published>
+  <updated>2022-07-23T05:23:18+00:00</updated>
+  <media:group>
+   <media:title>Հուլիսի 23</media:title>
+   <media:content url="https://www.youtube.com/v/KaOgnEzQujg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KaOgnEzQujg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. հուլիսի 23-ի օրվա խորհուրդը (23 Շբ. ԱԿ. Յիշատակ Տապանակին հնոյ եւ տօն նորոյս Սրբոյ Եկեղեցւոյ: Ելք. 25.10-14: Յեսու 3.14-4.18: Ա Թագ. 6.18-7.2: Բ Թագ. 6.12-19: Եբր. 9.1-10: Մատթ. 5.17-20:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="383" average="5.00" min="1" max="5"/>
+    <media:statistics views="1964"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uGPOAazVUTg</id>
+  <yt:videoId>uGPOAazVUTg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 22.07.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uGPOAazVUTg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T18:00:31+00:00</published>
+  <updated>2022-07-22T19:40:46+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 22.07.2022</media:title>
+   <media:content url="https://www.youtube.com/v/uGPOAazVUTg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uGPOAazVUTg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Օծվեց Շիրակի կայազորի Սուրբ Թադեոս եկեղեցին:
+Տ. Առաքել արքեպիսկոպոս Քարամյանի եպիսկոպոսական ձեռնադրության 25-ամյակը:
+ԱՄՆ նախագահ Ջո Բայդենը հանդիպել է Երուսաղեմի հայոց պատրիարքի հետ:
+Իսպանիայի Մալագա քաղաքում շուտով իր դռները կբացի հայկական եկեղեցի: 
+«Դիակոնիկ գիտելիքները` որպես ընտանեկան բռնության կանխարգելման բանալի». հանդիպում Գեղարքունյաց թեմի առաջնորդարանում: 
+Տավուշում մեկնարկել է «Վանքից վանք» ծրագիրը: 
+Հուլիսի 24-ին Վարդավառ է:</media:description>
+   <media:community>
+    <media:starRating count="33" average="5.00" min="1" max="5"/>
+    <media:statistics views="505"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:e94_4EIUGvc</id>
+  <yt:videoId>e94_4EIUGvc</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Պատասխանում է  Տ. Այգիկ քահանա Հովհաննիսյանը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=e94_4EIUGvc"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T15:58:02+00:00</published>
+  <updated>2022-07-22T16:59:25+00:00</updated>
+  <media:group>
+   <media:title>Պատասխանում է  Տ. Այգիկ քահանա Հովհաննիսյանը</media:title>
+   <media:content url="https://www.youtube.com/v/e94_4EIUGvc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/e94_4EIUGvc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ինչու՞ են համբուրում հոգևորականի ձեռքը: Ի՞նչ խորհուրդ ունի մկրտվողին նոր անուն տալը: Ինչու՞ Աստված փորձեց Հոբին: Կենդանիների հետ եկեղեցի մտնելն ինչու՞ է անթույլատրելի: Հեռուստադիտողների և օգտատերերի հարցերին պատասխանել է Տ. Այգիկ քահանա Հովհաննիսյանը: Շարունակեք գրել ձեր հարցերը «Հարց ու պատասխան» ֆեյսբուքյան էջին:</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1f-geewl5h8</id>
+  <yt:videoId>1f-geewl5h8</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Տ. Առաքել արքեպիսկոպոս Քարամյանի եպիսկոպոսական ձեռնադրության 25-ամյակն է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1f-geewl5h8"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T14:41:07+00:00</published>
+  <updated>2022-07-22T18:57:39+00:00</updated>
+  <media:group>
+   <media:title>Տ. Առաքել արքեպիսկոպոս Քարամյանի եպիսկոպոսական ձեռնադրության 25-ամյակն է</media:title>
+   <media:content url="https://www.youtube.com/v/1f-geewl5h8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1f-geewl5h8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>25 տարի առաջ, հունիսի 15-ին Կոտայքի  թեմի ներկայիս առաջնորդ  Տ. Առաքել արքեպիսկոպոս Քարամյանը կուսակրոն քահանայության ուխտի 8-րդ տարում, Գարեգին Ա Ամենայն հայոց կաթողիկոսի ձեռամբ, ձեռնադրվել է  եպիսկոպոս, 2014 թ.-ին  արժանացել է արքության պատվի:</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="361"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-L0Phrvwm7A</id>
+  <yt:videoId>-L0Phrvwm7A</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամփոփ լրահոս 22.07.2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-L0Phrvwm7A"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T14:39:09+00:00</published>
+  <updated>2022-07-22T20:13:46+00:00</updated>
+  <media:group>
+   <media:title>Ամփոփ լրահոս 22.07.2022</media:title>
+   <media:content url="https://www.youtube.com/v/-L0Phrvwm7A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-L0Phrvwm7A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>ԱՄՆ նախագահ Ջո Բայդենը հանդիպել է Երուսաղեմի հայոց պատրիարքի հետ:
+Իսպանիայի Մալագա քաղաքում շուտով իր դռները կբացի հայկական եկեղեցի: 
+«Դիակոնիկ գիտելիքները` որպես ընտանեկան բռնության կանխարգելման բանալի». հանդիպում Գեղարքունյաց թեմի առաջնորդարանում: 
+Տավուշում մեկնարկել է «Վանքից վանք» ծրագիրը:</media:description>
+   <media:community>
+    <media:starRating count="19" average="5.00" min="1" max="5"/>
+    <media:statistics views="569"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iIfuOFi9uFg</id>
+  <yt:videoId>iIfuOFi9uFg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Պետությունը շահագրգռվա՞ծ է պահպանելու ստեղծագործական միությունները</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iIfuOFi9uFg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T12:56:54+00:00</published>
+  <updated>2022-07-23T06:30:35+00:00</updated>
+  <media:group>
+   <media:title>Պետությունը շահագրգռվա՞ծ է պահպանելու ստեղծագործական միությունները</media:title>
+   <media:content url="https://www.youtube.com/v/iIfuOFi9uFg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iIfuOFi9uFg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Կոմպոզիտորների միության և պետության փոխհարաբերությունների ի՞նչ մոդել է գործում ԽՍՀՄ փլուզումից հետո: Կոմպոզիտորները գրու՞մ են երաժշտություն պետական պատվերով: «Արտֆոկուս»-ում հյուրընկալվել է ՀՀ կոմպոզիտորների միության նախագահ, ՀՀ վաստակավոր գործիչ, պրոֆեսոր Արամ Սաթյանը: Զրույցը վարել է Անահիտ Մարգարյանը:  
+Հաջորդիվ՝ մշակութային լրահոս։</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0V_RgaFHktY</id>
+  <yt:videoId>0V_RgaFHktY</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Օծվեց Շիրակի կայազորի Սուրբ Թադեոս եկեղեցին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0V_RgaFHktY"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T13:52:16+00:00</published>
+  <updated>2022-07-23T07:11:08+00:00</updated>
+  <media:group>
+   <media:title>Օծվեց Շիրակի կայազորի Սուրբ Թադեոս եկեղեցին</media:title>
+   <media:content url="https://www.youtube.com/v/0V_RgaFHktY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0V_RgaFHktY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հուլիսի 17-ին Արցախի թեմի առաջնորդ Տ. Վրթանես եպիսկոպոս Աբրահամյանը Շիրակի Կայազորի տարածքում օծեց Սբ. Թադեոս եկեղեցին: Նորաօծ եկեղեցում կատարվեց մկրտության առաջին արարողությունը:</media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="268"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nHpAdj77X1g</id>
+  <yt:videoId>nHpAdj77X1g</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հուլիսի 22</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nHpAdj77X1g"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-22T05:00:17+00:00</published>
+  <updated>2022-07-22T05:00:17+00:00</updated>
+  <media:group>
+   <media:title>Հուլիսի 22</media:title>
+   <media:content url="https://www.youtube.com/v/nHpAdj77X1g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nHpAdj77X1g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. հուլիսի 22-ի օրվա խորհուրդը (22 Ուր. ԱՁ. Ե օր Վարդավառի պահոց: Հռոմ. 16.17-27: Մատթ. 15.39-16.12:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="399" average="5.00" min="1" max="5"/>
+    <media:statistics views="2417"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aSEfsiuR760</id>
+  <yt:videoId>aSEfsiuR760</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Անվտանգություն և ինքնություն</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aSEfsiuR760"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-21T18:00:13+00:00</published>
+  <updated>2022-07-21T23:11:00+00:00</updated>
+  <media:group>
+   <media:title>Անվտանգություն և ինքնություն</media:title>
+   <media:content url="https://www.youtube.com/v/aSEfsiuR760?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aSEfsiuR760/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ինչի՞ հետևանք էր 2020թ. –ի մեր պարտությունը: Ինչու՞ ենք այսօր ավելի բարդ իրավիճակում, քան 2020թ. նոյեմբերի 9-ից անմիջապես հետո: Հյուրընկալել ենք Պաշտպանության նախարարի նախկին խորհրդական, արևելագետ Արտակ Բշտիկյանին: Զրույցը վարում է Աննա Սարգսյանը:</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="253"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BPI3ehqcxY4</id>
+  <yt:videoId>BPI3ehqcxY4</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հուլիսի 24-ին Վարդավառ է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BPI3ehqcxY4"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-21T14:17:09+00:00</published>
+  <updated>2022-07-21T17:33:26+00:00</updated>
+  <media:group>
+   <media:title>Հուլիսի 24-ին Վարդավառ է</media:title>
+   <media:content url="https://www.youtube.com/v/BPI3ehqcxY4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BPI3ehqcxY4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հիսուս Քրիստոսի Պայծառակերպության տոնը Հայ առաքելական եկեղեցու հինգ տաղավար տոներից է: Պայծառակերպության տոնը կոչվում է նաև Վարդավառ: Տոնը շարժական է, այս տարի նշվում է հուլիսի 24-ին:</media:description>
+   <media:community>
+    <media:starRating count="77" average="5.00" min="1" max="5"/>
+    <media:statistics views="1118"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ibs5vFFihwQ</id>
+  <yt:videoId>ibs5vFFihwQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հուլիսի 21</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ibs5vFFihwQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-21T05:00:30+00:00</published>
+  <updated>2022-07-21T07:15:35+00:00</updated>
+  <media:group>
+   <media:title>Հուլիսի 21</media:title>
+   <media:content url="https://www.youtube.com/v/ibs5vFFihwQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ibs5vFFihwQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2022թ. հուլիսի 21-ի օրվա խորհուրդը (21 Եշ. ԴԿ. Դ օր Վարդավառի պահոց: Հռոմ. 15.30-16.16: Մատթ. 15.29-38:) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="429" average="5.00" min="1" max="5"/>
+    <media:statistics views="2731"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:t8LB4bwMQmY</id>
+  <yt:videoId>t8LB4bwMQmY</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Կրթության և գիտության նոր ռազմավարություն. մաս 77-րդ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=t8LB4bwMQmY"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-20T18:00:15+00:00</published>
+  <updated>2022-07-21T17:00:28+00:00</updated>
+  <media:group>
+   <media:title>Կրթության և գիտության նոր ռազմավարություն. մաս 77-րդ</media:title>
+   <media:content url="https://www.youtube.com/v/t8LB4bwMQmY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/t8LB4bwMQmY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Գիտության և կրթության նոր ռազմավարությունը քննարկում ենք Լեզվի պետական կոմիտեի նախագահ Դավիթ Գյուրջինյանի հետ:</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="461"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:u2psoJTJkG0</id>
+  <yt:videoId>u2psoJTJkG0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Բրինգի՝ կիսիր ճանապարհը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=u2psoJTJkG0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2022-07-20T18:00:10+00:00</published>
+  <updated>2022-07-21T07:54:31+00:00</updated>
+  <media:group>
+   <media:title>Բրինգի՝ կիսիր ճանապարհը</media:title>
+   <media:content url="https://www.youtube.com/v/u2psoJTJkG0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/u2psoJTJkG0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Նույնընթաց մեքենան (попутная машина)` 21-րդ դարում. Մարատ Հակոբջանյանը Ստեփանակերտում իր ընկերների հետ ստեղծել է «Բրինգի» ստարտափը: Եթե վարորդ եք կամ ուղևոր, հավելվածի օգնությամբ կարող եք գտնել ճանապարհակից, կիսել ճանապարհածախսը, ձեռք բերել նոր ընկերներ և ձեզ հարմար օրն ու հարմար ժամին ճանապարհվել ցանկալի ուղղությամբ:
+
+Breengy-Share the Road
+
+Simultaneous car (попутная машина) in the 21st century. Marat Hakobjanyan created the &quot;Breengy&quot; startup with his friends in Stepanakert. If you are a driver or a passenger, with the help of the application you can find a travel partner, share travel expenses, make new friends and travel to the desired destination at a convenient day and time.</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="113"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

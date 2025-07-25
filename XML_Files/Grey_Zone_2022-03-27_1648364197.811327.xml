@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCG9fK8CsL8u4NbBtcofd8lQ"/>
+ <id>yt:channel:UCG9fK8CsL8u4NbBtcofd8lQ</id>
+ <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+ <title>GREY ZONE</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ"/>
+ <author>
+  <name>GREY ZONE</name>
+  <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+ </author>
+ <published>2019-11-20T12:52:11+00:00</published>
+ <entry>
+  <id>yt:video:TYUxkIN3Ig0</id>
+  <yt:videoId>TYUxkIN3Ig0</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Батарея grey zone 💥</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TYUxkIN3Ig0"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-03-25T15:44:16+00:00</published>
+  <updated>2022-03-26T06:18:19+00:00</updated>
+  <media:group>
+   <media:title>Батарея grey zone 💥</media:title>
+   <media:content url="https://www.youtube.com/v/TYUxkIN3Ig0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TYUxkIN3Ig0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="2404" average="5.00" min="1" max="5"/>
+    <media:statistics views="35018"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-fdUNMnn0KY</id>
+  <yt:videoId>-fdUNMnn0KY</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>БПЛА на фронте</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-fdUNMnn0KY"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-03-11T09:57:27+00:00</published>
+  <updated>2022-03-12T07:52:45+00:00</updated>
+  <media:group>
+   <media:title>БПЛА на фронте</media:title>
+   <media:content url="https://www.youtube.com/v/-fdUNMnn0KY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-fdUNMnn0KY/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1762" average="5.00" min="1" max="5"/>
+    <media:statistics views="36038"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fN38f8mWkeU</id>
+  <yt:videoId>fN38f8mWkeU</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>«Группа Вагнера» в боях за освобождение сирийского Дейр-эз-Зора</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fN38f8mWkeU"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-02-14T17:26:05+00:00</published>
+  <updated>2022-02-20T00:33:47+00:00</updated>
+  <media:group>
+   <media:title>«Группа Вагнера» в боях за освобождение сирийского Дейр-эз-Зора</media:title>
+   <media:content url="https://www.youtube.com/v/fN38f8mWkeU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fN38f8mWkeU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="3035" average="5.00" min="1" max="5"/>
+    <media:statistics views="72477"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ICe-twEdnOk</id>
+  <yt:videoId>ICe-twEdnOk</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>ПАЦИФИСТЫ В ПОГОНАХ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ICe-twEdnOk"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-02-08T13:46:20+00:00</published>
+  <updated>2022-02-15T02:38:05+00:00</updated>
+  <media:group>
+   <media:title>ПАЦИФИСТЫ В ПОГОНАХ</media:title>
+   <media:content url="https://www.youtube.com/v/ICe-twEdnOk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ICe-twEdnOk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала: https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин: https://rsotm.ru/
+Владлен Татарский:
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="3717" average="5.00" min="1" max="5"/>
+    <media:statistics views="57145"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QQhu5SHBZsk</id>
+  <yt:videoId>QQhu5SHBZsk</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Work and Travel | МО России</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QQhu5SHBZsk"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-27T17:16:33+00:00</published>
+  <updated>2022-01-31T09:24:57+00:00</updated>
+  <media:group>
+   <media:title>Work and Travel | МО России</media:title>
+   <media:content url="https://www.youtube.com/v/QQhu5SHBZsk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QQhu5SHBZsk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала: https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин: https://rsotm.ru/
+Владлен Татарский:
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="1710" average="5.00" min="1" max="5"/>
+    <media:statistics views="35435"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xOyzReZQlsY</id>
+  <yt:videoId>xOyzReZQlsY</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Экс-боец Азова | Донбасс, Иловайск, Украина</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xOyzReZQlsY"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-26T16:09:53+00:00</published>
+  <updated>2022-01-31T09:23:37+00:00</updated>
+  <media:group>
+   <media:title>Экс-боец Азова | Донбасс, Иловайск, Украина</media:title>
+   <media:content url="https://www.youtube.com/v/xOyzReZQlsY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xOyzReZQlsY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Видео  о Иловайске Широкино: 
+https://www.youtube.com/watch?v=J1CEAHl1CO4
+https://www.youtube.com/watch?v=1_AipvODoC0&amp;t=1s
+
+Донаты на развитие канала: https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин: https://rsotm.ru/
+Владлен Татарский:
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="4130" average="5.00" min="1" max="5"/>
+    <media:statistics views="84781"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4Jv6oyO75zE</id>
+  <yt:videoId>4Jv6oyO75zE</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Работа на передке .</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4Jv6oyO75zE"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-25T14:56:07+00:00</published>
+  <updated>2022-02-01T11:10:35+00:00</updated>
+  <media:group>
+   <media:title>Работа на передке .</media:title>
+   <media:content url="https://www.youtube.com/v/4Jv6oyO75zE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4Jv6oyO75zE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="1972" average="5.00" min="1" max="5"/>
+    <media:statistics views="55229"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8qrSfC0QQ34</id>
+  <yt:videoId>8qrSfC0QQ34</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Ответ уважаемому Юрию Подоляке</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8qrSfC0QQ34"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-24T18:50:31+00:00</published>
+  <updated>2022-01-26T17:03:04+00:00</updated>
+  <media:group>
+   <media:title>Ответ уважаемому Юрию Подоляке</media:title>
+   <media:content url="https://www.youtube.com/v/8qrSfC0QQ34?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8qrSfC0QQ34/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Видео Юрия Подоляки : https://www.youtube.com/watch?v=O3rFL_YoHko
+
+
+
+Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="2947" average="5.00" min="1" max="5"/>
+    <media:statistics views="53987"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:j3kakautDrs</id>
+  <yt:videoId>j3kakautDrs</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Работают Садыки !</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=j3kakautDrs"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-24T17:43:09+00:00</published>
+  <updated>2022-02-28T01:41:37+00:00</updated>
+  <media:group>
+   <media:title>Работают Садыки !</media:title>
+   <media:content url="https://www.youtube.com/v/j3kakautDrs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/j3kakautDrs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="2025" average="5.00" min="1" max="5"/>
+    <media:statistics views="40575"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nkmyd1Sp7Kc</id>
+  <yt:videoId>nkmyd1Sp7Kc</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Привет Ослик !</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nkmyd1Sp7Kc"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-24T17:19:42+00:00</published>
+  <updated>2022-03-02T14:37:30+00:00</updated>
+  <media:group>
+   <media:title>Привет Ослик !</media:title>
+   <media:content url="https://www.youtube.com/v/nkmyd1Sp7Kc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nkmyd1Sp7Kc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="2078" average="5.00" min="1" max="5"/>
+    <media:statistics views="33204"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oU82WQlf4mg</id>
+  <yt:videoId>oU82WQlf4mg</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Наша версия возможного конфликта</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oU82WQlf4mg"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-22T13:14:53+00:00</published>
+  <updated>2022-01-25T17:57:17+00:00</updated>
+  <media:group>
+   <media:title>Наша версия возможного конфликта</media:title>
+   <media:content url="https://www.youtube.com/v/oU82WQlf4mg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oU82WQlf4mg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="5108" average="5.00" min="1" max="5"/>
+    <media:statistics views="102313"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7iaIF-1AXBk</id>
+  <yt:videoId>7iaIF-1AXBk</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>ТРУ СТОРИ ИНДУСА | ДОНБАСС  2014</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7iaIF-1AXBk"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-19T15:30:00+00:00</published>
+  <updated>2022-01-19T15:32:24+00:00</updated>
+  <media:group>
+   <media:title>ТРУ СТОРИ ИНДУСА | ДОНБАСС  2014</media:title>
+   <media:content url="https://www.youtube.com/v/7iaIF-1AXBk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7iaIF-1AXBk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Первое видео с Индусом:  https://www.youtube.com/watch?v=1_AipvODoC0&amp;t=1s
+
+Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE: https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм: https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="3304" average="5.00" min="1" max="5"/>
+    <media:statistics views="50162"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HEg2D3U8hcw</id>
+  <yt:videoId>HEg2D3U8hcw</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Проверь свою удачу | Test your luck</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HEg2D3U8hcw"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-17T17:28:16+00:00</published>
+  <updated>2022-01-18T19:04:38+00:00</updated>
+  <media:group>
+   <media:title>Проверь свою удачу | Test your luck</media:title>
+   <media:content url="https://www.youtube.com/v/HEg2D3U8hcw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HEg2D3U8hcw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Боец Вагнера остался жив.
+
+The Wagner fighter remained alive.
+
+Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE : https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм : https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="1695" average="5.00" min="1" max="5"/>
+    <media:statistics views="36785"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wlPA0GbJchg</id>
+  <yt:videoId>wlPA0GbJchg</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>PSY-OPS | Викинг</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wlPA0GbJchg"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-11T14:12:55+00:00</published>
+  <updated>2022-01-11T14:26:14+00:00</updated>
+  <media:group>
+   <media:title>PSY-OPS | Викинг</media:title>
+   <media:content url="https://www.youtube.com/v/wlPA0GbJchg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wlPA0GbJchg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Донаты на развитие канала : https://www.donationalerts.com/r/rsotm
+КАНАЛ RSOTM LIFE : https://www.youtube.com/channel/UCiKl0CvFpuMLpNuFeymbqUA
+Новый инстаграм : https://www.instagram.com/adminrsotm/
+Магазин атрибутики RSOTM: 
+https://www.instagram.com/rsotm_original_shop/
+Магазин : https://rsotm.ru/
+Владлен Татарский :
+https://vk.com/id309198157
+https://t.me/vladlentatarsky
+https://www.instagram.com/tatarskyvladlen/</media:description>
+   <media:community>
+    <media:starRating count="2543" average="5.00" min="1" max="5"/>
+    <media:statistics views="42345"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZUQrseHvja8</id>
+  <yt:videoId>ZUQrseHvja8</yt:videoId>
+  <yt:channelId>UCG9fK8CsL8u4NbBtcofd8lQ</yt:channelId>
+  <title>Группа Вагнера | Обнаружение схрона ИГИЛ со взрывчаткой</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZUQrseHvja8"/>
+  <author>
+   <name>GREY ZONE</name>
+   <uri>https://www.youtube.com/channel/UCG9fK8CsL8u4NbBtcofd8lQ</uri>
+  </author>
+  <published>2022-01-06T18:44:23+00:00</published>
+  <updated>2022-01-18T12:14:44+00:00</updated>
+  <media:group>
+   <media:title>Группа Вагнера | Обнаружение схрона ИГИЛ со взрывчаткой</media:title>
+   <media:content url="https://www.youtube.com/v/ZUQrseHvja8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZUQrseHvja8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>В марте 2017 года, после освобождения бойцами Вагнера сирийской Пальмиры во второй раз, началась прочёсываться окружающая местность с целью уничтожения бежавших ИГИЛовцев, которые могли укрываться неподалёку. В результате результативного боя для нашей стороны, был и обнаружен данный схрон.</media:description>
+   <media:community>
+    <media:starRating count="3393" average="5.00" min="1" max="5"/>
+    <media:statistics views="45387"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpDmKr8LFapW_-45tEW5tmg"/>
+ <id>yt:channel:UCpDmKr8LFapW_-45tEW5tmg</id>
+ <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+ <title>ShoghakatTVcompany</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg"/>
+ <author>
+  <name>ShoghakatTVcompany</name>
+  <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+ </author>
+ <published>2012-10-20T17:42:05+00:00</published>
+ <entry>
+  <id>yt:video:TJX1Nz1U_nw</id>
+  <yt:videoId>TJX1Nz1U_nw</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 13.03.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TJX1Nz1U_nw"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-13T15:13:42+00:00</published>
+  <updated>2023-03-13T15:47:08+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 13.03.2023</media:title>
+   <media:content url="https://www.youtube.com/v/TJX1Nz1U_nw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TJX1Nz1U_nw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Տնտեսի կիրակի. Մեծ Պահքի չորրորդ կիրակին: 
+Սուրբ Ներսես Շնորհալի հայրապետի վախճանման 850-ամյակին նվիրված հայրապետական կոնդակն ընթերցվել է Դամասկոսի Սուրբ Սարգիս եկեղեցում: 
+Իրաքում նորոգվել է Սուրբ Աստվածածին պատմական եկեղեցին: 
+Երևանում ավարտվել է «Ապագա հայկականը» նախաձեռնության եռօրյա համաժողովը:
+Հայ գործարարները՝ «Ռուբեն Սևակ» թանգարանում:  
+Մարտի 15-ին Միջինք է:</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="322"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rgnNXbAZFc0</id>
+  <yt:videoId>rgnNXbAZFc0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամփոփ լրահոս 13.03.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rgnNXbAZFc0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-13T15:06:33+00:00</published>
+  <updated>2023-03-13T15:06:33+00:00</updated>
+  <media:group>
+   <media:title>Ամփոփ լրահոս 13.03.2023</media:title>
+   <media:content url="https://www.youtube.com/v/rgnNXbAZFc0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rgnNXbAZFc0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սուրբ Ներսես Շնորհալի հայրապետի վախճանման 850-ամյակին նվիրված հայրապետական կոնդակն ընթերցվել է Դամասկոսի Սուրբ Սարգիս եկեղեցում: 
+Իրաքում նորոգվել է Սուրբ Աստվածածին պատմական եկեղեցին: 
+Երևանում ավարտվել է «Ապագա հայկականը» նախաձեռնության եռօրյա համաժողովը:</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="75"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Wpx3_KmzwhM</id>
+  <yt:videoId>Wpx3_KmzwhM</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Հայ գործարարները՝ «Ռուբեն Սևակ» թանգարանում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Wpx3_KmzwhM"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-13T15:03:41+00:00</published>
+  <updated>2023-03-13T15:03:41+00:00</updated>
+  <media:group>
+   <media:title>Հայ գործարարները՝ «Ռուբեն Սևակ» թանգարանում</media:title>
+   <media:content url="https://www.youtube.com/v/Wpx3_KmzwhM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Wpx3_KmzwhM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Այս շաբաթ Մայր Աթոռ Ս. Էջմիածնի «Ռուբեն Սևակ» թանգարանում Ներսես Շնորհալու մահվան 850-րդ տարելիցին նվիրված միջոցառմանը հրավիրված էին «Մանթաշյան», «Ռոտարի», «Մադամ» և «Հայաստանում Քոուչինգի ֆեդերացիան» ներկայացնող հայ գործարարներ:</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="97"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4xKS_VIc10Q</id>
+  <yt:videoId>4xKS_VIc10Q</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մարտի 15-ին Միջինք է</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4xKS_VIc10Q"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-13T14:54:34+00:00</published>
+  <updated>2023-03-13T14:54:34+00:00</updated>
+  <media:group>
+   <media:title>Մարտի 15-ին Միջինք է</media:title>
+   <media:content url="https://www.youtube.com/v/4xKS_VIc10Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4xKS_VIc10Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Եկեղեցական օրացույցում առանձնահատուկ տեղ ունի Մեծ Պահքի 24-րդ օրը, որը   կիսում է պահեցողության շրջանը և կոչվում է Միջինք: Հարկ է հիշել, որ Միջինքը չի ընդհատում պահքը:</media:description>
+   <media:community>
+    <media:starRating count="60" average="5.00" min="1" max="5"/>
+    <media:statistics views="798"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-Rvcfhv3vRQ</id>
+  <yt:videoId>-Rvcfhv3vRQ</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Տնտեսի կիրակի. Մեծ Պահքի չորրորդ կիրակին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-Rvcfhv3vRQ"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-13T14:50:29+00:00</published>
+  <updated>2023-03-13T14:55:37+00:00</updated>
+  <media:group>
+   <media:title>Տնտեսի կիրակի. Մեծ Պահքի չորրորդ կիրակին</media:title>
+   <media:content url="https://www.youtube.com/v/-Rvcfhv3vRQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-Rvcfhv3vRQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սուրբ Գայանե վանքում օրվա առակը մեկնում էր Տ. Ռուբեն վարդապետ Զարգարյանը:  Իր քարոզում հայր սուրբը հիշեցրեց հավատացյալներին, որ մենք էլ Աստծո տնտեսներն ենք:</media:description>
+   <media:community>
+    <media:starRating count="34" average="5.00" min="1" max="5"/>
+    <media:statistics views="521"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Gujd6j0hQr8</id>
+  <yt:videoId>Gujd6j0hQr8</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մարտի 13</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Gujd6j0hQr8"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-13T05:00:05+00:00</published>
+  <updated>2023-03-13T05:00:05+00:00</updated>
+  <media:group>
+   <media:title>Մարտի 13</media:title>
+   <media:content url="https://www.youtube.com/v/Gujd6j0hQr8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Gujd6j0hQr8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. մարտի 13-ի օրվա խորհուրդը (13 Բշ. ԳԿ. ԻԲ օր Մեծի Պահոց: Եր. 32.19-44: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:</media:description>
+   <media:community>
+    <media:starRating count="512" average="5.00" min="1" max="5"/>
+    <media:statistics views="3283"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5HSp-px-nAk</id>
+  <yt:videoId>5HSp-px-nAk</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մարտի 12</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5HSp-px-nAk"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-12T05:00:02+00:00</published>
+  <updated>2023-03-13T03:37:40+00:00</updated>
+  <media:group>
+   <media:title>Մարտի 12</media:title>
+   <media:content url="https://www.youtube.com/v/5HSp-px-nAk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5HSp-px-nAk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. մարտի 12-ի օրվա խորհուրդը (12 † Կիր. ԳՁ. Դ կիր. Քառասնորդական Պահոց (Տնտեսին): Ես. 56.1-57.21: Եփս. 4.17- 5.14: Ղկ. 16.1-31: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:
+
+March 12
+
+Sacrament of March 12, 2023 (12 Fourth Sunday of Great Lent. Sunday of the Steward- Isa. 56.1-57.21 Heph. 4.17-5.14 Luke 16.1-31). Rev. Fr. Arnak Harutyunyan speaks on the sacrament of the day.</media:description>
+   <media:community>
+    <media:starRating count="537" average="5.00" min="1" max="5"/>
+    <media:statistics views="3648"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:X-UpDS8irm0</id>
+  <yt:videoId>X-UpDS8irm0</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Գրականությունը մարզերում</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=X-UpDS8irm0"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-11T18:00:11+00:00</published>
+  <updated>2023-03-13T03:33:10+00:00</updated>
+  <media:group>
+   <media:title>Գրականությունը մարզերում</media:title>
+   <media:content url="https://www.youtube.com/v/X-UpDS8irm0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/X-UpDS8irm0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Գրականությունը սահմաններ չի ճանաչում, հատկապես մեր՝ համացանցային ժամանակներում։ Այնուամենայնիվ, Հայաստանում դեռ տարբերակում են Երևանում ստեղծվող և մարզերում ստեղծվող գրականությունը: Մարզերում ապրող շատ գրողներ ստեղծագործական հետագա զարգացման համար կարևոր են համարում Երևան տեղափոխվելը: Ովքե՞ր են մարզերում ապրող և ստեղծագործող գրողները, ինչո՞վ է առանձնանում նրանց գրականությունը։ «Զուգահեռ ընթերցումներ»-ում քննարկում են գրականագետներ Հայկ Համբարձումյանը և Արքմենիկ Նիկողոսյանը:
+
+Literature in regions
+
+Literature knows no boundaries, especially in our Internet age. However, in Armenia, a distinction is still made between the literature created in Yerevan and the literature created in the regions. Many writers living in regions consider it important to move to Yerevan for further creative development.  Who are the writers living and creating in the regions, what distinguishes their literature? Literary critics Hayk Hambardzumyan and Arkmenik Nikoghosyan discuss in &quot;Parallel Readings&quot;.</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="205"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:sanAWxInP8M</id>
+  <yt:videoId>sanAWxInP8M</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Մարտի 11</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sanAWxInP8M"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-11T05:00:18+00:00</published>
+  <updated>2023-03-11T15:40:21+00:00</updated>
+  <media:group>
+   <media:title>Մարտի 11</media:title>
+   <media:content url="https://www.youtube.com/v/sanAWxInP8M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sanAWxInP8M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>2023թ. մարտի 11-ի օրվա խորհուրդը (11 Շբ. ԲԿ. Ի օր Մեծի Պահոց: Սրբոցն Յովհաննու Երուսաղէմայ հայրապետին, հայրապետին մերոյ Յովհաննու Օձնեցւոյն, վարդապետացն մերոց՝ Յովհաննու Որոտնեցւոյն եւ Գրիգորի Տաթեւացւոյն: Առ. 20.6-22: Բրք. 4.21-24: Բ Կր. 4.1-11: Յհ. 9.39-10.10: ) մեկնում է Տ. Առնակ քահանա Հարությունյանը:
+
+March 11
+
+Sacrament of March 11, 2023 (11 Twentieth day of Great Lent. Saints John the Patriarch of Jerusalem, John of Otzun the Patriarch of Armenia, John of Vorotan and Gregory of Tatev- Prov. 20.6-22 Bar. 4.21-24 2Cor. 4.1-11 Jn. 9.39-10.10). Rev. Fr. Arnak Harutyunyan speaks on the sacrament of the day.</media:description>
+   <media:community>
+    <media:starRating count="524" average="5.00" min="1" max="5"/>
+    <media:statistics views="3521"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SwxJuVQ1O4s</id>
+  <yt:videoId>SwxJuVQ1O4s</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ապաշխարություն. մեկնում է Տ․ Միքայել արքեպիսկոպոս Աջապահյանը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SwxJuVQ1O4s"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-10T17:58:56+00:00</published>
+  <updated>2023-03-11T15:35:32+00:00</updated>
+  <media:group>
+   <media:title>Ապաշխարություն. մեկնում է Տ․ Միքայել արքեպիսկոպոս Աջապահյանը</media:title>
+   <media:content url="https://www.youtube.com/v/SwxJuVQ1O4s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SwxJuVQ1O4s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ի՞նչ է ապաշխարությունը, ինչու՞ է կարևորվում հատկապես Մեծ պահքի ընթացքում, անհրաժեշտությու՞ն է արդյոք պահքը, կա՞  փրկություն առանց ապաշխարության, ո՞ր մեղքերի համար կարելի է ապաշխարել, ինչպե՞ս է տեղի ունենում հատուցումը։ Ապաշխարության խորհրդի մասին խոսում է Միքայել արքեպիսկոպոս Աջապահյանը:
+
+Repentance. His Eminence Archbishop Mikael Adjapahyan states 
+
+What is repentance, why is it important especially during the Great Lent, is fasting necessary, is there salvation without repentance, what sins can be repented of, how does the recompense take place?  Archbishop Mikael Adjapahyan speaks about the sacrament of Repentance.</media:description>
+   <media:community>
+    <media:starRating count="330" average="5.00" min="1" max="5"/>
+    <media:statistics views="4129"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XBF_dYcLgQI</id>
+  <yt:videoId>XBF_dYcLgQI</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Եկեղեցական կյանք 10.03.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XBF_dYcLgQI"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-10T17:49:56+00:00</published>
+  <updated>2023-03-12T04:33:51+00:00</updated>
+  <media:group>
+   <media:title>Եկեղեցական կյանք 10.03.2023</media:title>
+   <media:content url="https://www.youtube.com/v/XBF_dYcLgQI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XBF_dYcLgQI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ամենայն հայոց կաթողիկոսը օրհնության խոսք է հղել «Ապագա հայկականը» համաժողովի մասնակիցներին։ 
+Ս․ Էջմիածնի մայր տաճարի վերաօծման, մյուռոնօրհնության և մյուս արարողությունները կսկսվեն սեպտեմբերից։ 
+Մեծ Պահքի առիթով մարտի ԱՄՆ Արևելյան թեմում տեղի է ունեցել տարածաշրջանի հոգևորականների հավաք` նախագահությամբ թեմակալ առաջնորդ Մեսրոպ վարդապետ Պարսամյանի:
+ԱՄՆ Արևմտյան թեմում գործող հայ եկեղեցու երիտասարդական միավորման կենտրոնական խորհրդի անդամները Արիզոնայի Սուրբ Աբգար եկեղեցում հանդիպել են տեղական կառույցի անդամների հետ: 
+Երուսաղեմի հայոց պատրիարքարանում տեղի է ունեցել միաբանական ընդհանուր ժողովի 10-րդ նիստը:
+Բեյրութի էջմիածնասեր կանանց միավորումը օգնություն են բաշխել Հաճն թաղամասում գտնվող սուրբ Գևորգ եկեղեցու կարիքավոր ծխականներին: 
+Մարտի 12-ին Մեծ պահքի Տնտեսի կիրակին է։
+
+Ecclesiastical life 10.03.2023 
+
+The Catholicos of All Armenians conveyed blessing remarks to the participants of the &quot;Future Armenian&quot; convention
+The re-consecration of the Mother Cathedral, Holy Muron blessing and other ceremonies will begin in September
+On the occasion of Great Lent, a gathering of the clergy of the region took place in the Eastern Diocese of the USA, chaired by His Eminence Archbishop Mesrop Parsamyan.
+The members of the Central Council of the Youth Union of the Armenian Church operating in the Western Diocese of the USA met with the members of the local structure in the St. Abgar Church in Arizona.
+The 10th session of the Congregational General Assembly was held in the Armenian Patriarchate of Jerusalem.
+The women's association of Etchmiadzin of Beirut, distributed aid to needy parishioners of Saint Gevorg Church in Hachn district.
+Sunday od Steward on March 12.</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="208"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zv2rqPfCySY</id>
+  <yt:videoId>zv2rqPfCySY</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամփոփ լրահոս 10.03.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zv2rqPfCySY"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-10T17:43:15+00:00</published>
+  <updated>2023-03-11T15:23:16+00:00</updated>
+  <media:group>
+   <media:title>Ամփոփ լրահոս 10.03.2023</media:title>
+   <media:content url="https://www.youtube.com/v/zv2rqPfCySY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zv2rqPfCySY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մեծ Պահքի առիթով մարտի ԱՄՆ Արևելյան թեմում տեղի է ունեցել տարածաշրջանի հոգևորականների հավաք` նախագահությամբ թեմակալ առաջնորդ Մեսրոպ վարդապետ Պարսամյանի:
+ԱՄՆ Արևմտյան թեմում գործող հայ եկեղեցու երիտասարդական միավորման կենտրոնական խորհրդի անդամները Արիզոնայի Սուրբ Աբգար եկեղեցում հանդիպել են տեղական կառույցի անդամների հետ: 
+Երուսաղեմի հայոց պատրիարքարանում տեղի է ունեցել միաբանական ընդհանուր ժողովի 10-րդ նիստը:
+Բեյրութի էջմիածնասեր կանանց միավորումը օգնություն են բաշխել Հաճն թաղամասում գտնվող սուրբ Գևորգ եկեղեցու կարիքավոր ծխականներին:
+
+Summary News 10.03.2023 
+
+On the occasion of Great Lent, a gathering of the clergy of the region took place in the Eastern Diocese of the USA, chaired by His Eminence Archbishop Mesrop Parsamyan.
+The members of the Central Council of the Youth Union of the Armenian Church operating in the Western Diocese of the USA met with the members of the local structure in the St. Abgar Church in Arizona.
+The 10th session of the Congregational General Assembly was held in the Armenian Patriarchate of Jerusalem.
+The women's association of Etchmiadzin of Beirut, distributed aid to needy parishioners of Saint Gevorg Church in Hachn district.</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="387"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gP7o__r_XFU</id>
+  <yt:videoId>gP7o__r_XFU</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ամենայն հայոց կաթողիկոսը օրհնության խոսք է հղել «Ապագա հայկականը» համաժողովի մասնակիցներին</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gP7o__r_XFU"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-10T17:35:00+00:00</published>
+  <updated>2023-03-13T02:31:02+00:00</updated>
+  <media:group>
+   <media:title>Ամենայն հայոց կաթողիկոսը օրհնության խոսք է հղել «Ապագա հայկականը» համաժողովի մասնակիցներին</media:title>
+   <media:content url="https://www.youtube.com/v/gP7o__r_XFU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gP7o__r_XFU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Համաժողովի առաջին օրվա քննարկումները նվիրված էին «Ապագա հայկականը» նախաձեռնության 15 նպատակներից երրորդին` պատմական պատասխանատվությանը: Այդ հանձնախումբը ղեկավարում է Արևմտյան Եվրոպայի հայրապետական պատվիրակ, Սուրբ Աթոռում Հայ առաքելական եկեղեցու ներկայացուցիչ Խաժակ արքեպիսկոպոս Պարսամյանը։
+
+The Catholicos of All Armenians conveyed blessing remarks to the participants of the &quot;Future Armenian&quot; convention
+
+The discussions on the first day of the conference were dedicated to the third of the 15 goals of the &quot;Future Armenian&quot; initiative - historical responsibility. That committee is headed by His Eminence Archbishop Khajak Parsamyan, patriarchal delegate of Western Europe, representative of the Armenian Apostolic Church in the Holy See.</media:description>
+   <media:community>
+    <media:starRating count="17" average="5.00" min="1" max="5"/>
+    <media:statistics views="291"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vxu_7j0wQ90</id>
+  <yt:videoId>vxu_7j0wQ90</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>Ս․ Էջմիածնի մայր տաճարի վերաօծման, մյուռոնօրհնության և մյուս արարողությունները կսկսվեն սեպտեմբերից</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vxu_7j0wQ90"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-10T17:29:07+00:00</published>
+  <updated>2023-03-11T15:12:05+00:00</updated>
+  <media:group>
+   <media:title>Ս․ Էջմիածնի մայր տաճարի վերաօծման, մյուռոնօրհնության և մյուս արարողությունները կսկսվեն սեպտեմբերից</media:title>
+   <media:content url="https://www.youtube.com/v/vxu_7j0wQ90?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vxu_7j0wQ90/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Սեպտեմբերի 30-ից հոկտեմբերի 3-ն ընկած ժամանակահատվածում կվերաօծվի Ս․ Էջմիածնի մայր տաճարը, կկատարվի մյուռոնօրհնության արարողություն։ Հոկտեմբերի 8-ին կկատարվի եպիսկոպոսական ձեռնադրություն:
+
+The re-consecration of the Mother Cathedral, Holy Muron blessing and other ceremonies will begin in September
+
+Between September 30 and October 3, the Holy Etchmiadzin cathedral will be re-consecrated, and the Holy Muron blessing ceremony will be held.  Episcopal ordination will be held on October 8.</media:description>
+   <media:community>
+    <media:starRating count="20" average="5.00" min="1" max="5"/>
+    <media:statistics views="376"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KiHje933uqg</id>
+  <yt:videoId>KiHje933uqg</yt:videoId>
+  <yt:channelId>UCpDmKr8LFapW_-45tEW5tmg</yt:channelId>
+  <title>«Ապագա հայկականը» նախաձեռնության մամուլի ասուլիսը</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KiHje933uqg"/>
+  <author>
+   <name>ShoghakatTVcompany</name>
+   <uri>https://www.youtube.com/channel/UCpDmKr8LFapW_-45tEW5tmg</uri>
+  </author>
+  <published>2023-03-10T07:42:01+00:00</published>
+  <updated>2023-03-12T04:00:31+00:00</updated>
+  <media:group>
+   <media:title>«Ապագա հայկականը» նախաձեռնության մամուլի ասուլիսը</media:title>
+   <media:content url="https://www.youtube.com/v/KiHje933uqg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KiHje933uqg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Մարտի 9-ին կայացավ «Ապագա հայկականը» նախաձեռնության մամուլի ասուլիսը` եռօրյա համաժողովին ընդառաջ: Նախաձեռնության համահիմնադիրները և փորձագիտական խմբերի ղեկավարները խոսեցին առաջին համահայկական քաղաքացիական Համաժողովին նախապատրաստվելու ընթացքի և անելիքների մասին:
+
+The press conference of the &quot;Future Armenian&quot; initiative
+
+On March 9, the press conference of the &quot;Future Armenian&quot; initiative was held ahead of the three-day forum. The co-founders of the initiative and the leaders of the expert groups talked about the process of preparing for the first Pan-Armenian Civil Conference.</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="210"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
