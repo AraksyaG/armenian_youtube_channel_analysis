@@ -97,7 +97,7 @@ def upsert_channel(cursor, channel_data):
             INSERT INTO youtube_channels 
             (original_channel_id, channel_name, url, last_scraped)
             VALUES (%s, %s, %s, %s)
-             
+            ON CONFLICT (url) DO UPDATE SET
                 channel_name = EXCLUDED.channel_name,
                 original_channel_id = EXCLUDED.original_channel_id,
                 last_scraped = EXCLUDED.last_scraped

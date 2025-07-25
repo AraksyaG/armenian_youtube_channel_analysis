@@ -1,4 +1,3 @@
-
 import os
 from xml.etree import ElementTree
 from datetime import datetime
@@ -29,8 +28,23 @@ def parse_xml_file(file_path):
             'atom': 'http://www.w3.org/2005/Atom'
         }
 
-        channel_url = root.find('{http://www.w3.org/2005/Atom}link[@rel="alternate"]').attrib['href']
-        original_channel_id = root.find('yt:channelId', ns).text
+        # # Get original_channel_id
+        # original_channel_id_element = root.find('yt:channelId', ns)
+        # if original_channel_id_element is None or not original_channel_id_element.text.strip():
+        #     print(f"Missing original_channel_id in file {filename}")
+        #     return None
+        # original_channel_id = original_channel_id_element.text.strip()
+
+        # Properly extract channel URL from <link rel="alternate">
+        channel_url = None
+        for link in root.findall('atom:link', ns):
+            if link.attrib.get('rel') == 'alternate':
+                channel_url = link.attrib.get('href')
+                break
+
+        if not channel_url:
+            print(f"Missing channel URL in file {filename}")
+            return None
 
         videos = []
         for entry in root.findall('atom:entry', ns):
@@ -45,12 +59,19 @@ def parse_xml_file(file_path):
             rating_tag = media_group.find('media:community/media:starRating', ns) if media_group is not None else None
             rating = int(rating_tag.attrib.get('count', 0)) if rating_tag is not None else 0
 
+            video_id = entry.find('yt:videoId', ns)
+            video_url_element = entry.find('atom:link', ns)
+            published_element = entry.find('atom:published', ns)
+
+            if video_id is None or video_url_element is None or published_element is None:
+                continue
+
             video_data = {
-                'original_video_id': entry.find('yt:videoId', ns).text,
+                'original_video_id': video_id.text,
                 'title': title,
                 'description': description,
-                'published': entry.find('atom:published', ns).text,
-                'url': entry.find('atom:link[@rel="alternate"]', ns).attrib['href'],
+                'published': published_element.text,
+                'url': video_url_element.attrib.get('href'),
                 'views': views,
                 'rating': rating
             }
@@ -58,12 +79,13 @@ def parse_xml_file(file_path):
 
         return {
             'channel_name': channel_name,
-            'original_channel_id': original_channel_id,
+            'original_channel_id': channel_url[32:],
             'channel_url': channel_url,
             'file_date': file_date,
-            'scrape_date': file_date,  # ✅ Corrected here
+            'scrape_date': file_date,
             'videos': videos
         }
+
     except Exception as e:
         print(f"Error parsing {file_path}: {str(e)}")
         return None
@@ -75,9 +97,9 @@ def upsert_channel(cursor, channel_data):
             INSERT INTO youtube_channels 
             (original_channel_id, channel_name, url, last_scraped)
             VALUES (%s, %s, %s, %s)
-            ON CONFLICT (original_channel_id) DO UPDATE SET
+            ON CONFLICT (url) DO UPDATE SET
                 channel_name = EXCLUDED.channel_name,
-                url = EXCLUDED.url,
+                original_channel_id = EXCLUDED.original_channel_id,
                 last_scraped = EXCLUDED.last_scraped
             RETURNING channel_id
         """, (
