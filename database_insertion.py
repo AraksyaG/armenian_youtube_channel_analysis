@@ -153,7 +153,7 @@ def main():
             host="localhost",
             database="youtube_database",
             user="postgres",
-            password="2005",
+            password="your_password", # add your password here
             port=5432
         )
 
