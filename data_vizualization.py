@@ -1,6 +1,8 @@
 import psycopg2
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Connect to your PostgreSQL database
 conn = psycopg2.connect(
@@ -42,6 +44,7 @@ day2_views = videos[(videos['days_after_pub'] >= 2) & (videos['days_after_pub'] 
 day2_views = day2_views.drop_duplicates(subset=['original_video_id'])
 
 avg_views_per_channel = day2_views.groupby('channel_name')['views'].mean()
+avg_views_per_channel = avg_views_per_channel.sort_values(ascending=False)
 
 plt.bar(x=avg_views_per_channel.index, height=avg_views_per_channel.values)
 plt.title('Average views per channel')
@@ -55,6 +58,7 @@ plt.tight_layout()
 day10_views = videos[videos['days_after_pub'] <= 10]
 day10_views = day10_views.drop_duplicates(subset=['original_video_id'])
 ratings_per_channel = day10_views.groupby('channel_name')['rating'].mean()
+ratings_per_channel = ratings_per_channel.sort_values(ascending=False)
 
 plt.bar(ratings_per_channel.index, ratings_per_channel.values)
 plt.title('Average ratings per channel')
@@ -88,7 +92,7 @@ videos['week'] = videos['published_at'].dt.to_period('W').apply(lambda r: r.star
 videos_unique = videos.drop_duplicates(subset=['original_video_id'])
 weekly_counts = videos_unique.groupby(['channel_name', 'week']).size().reset_index(name='counts')
 avg_weekly_uploads = weekly_counts.groupby('channel_name')['counts'].mean()
-
+avg_weekly_uploads = avg_weekly_uploads.sort_values(ascending=False)
 
 plt.bar(avg_weekly_uploads.index, avg_weekly_uploads.values)
 plt.title('Average weekly uploads per channel')
@@ -114,19 +118,45 @@ plt.tight_layout()
 # plt.show()
 
 # View Growth Curve Example (Per Channel)
-videos = videos[videos['days_after_pub'] >= 0]
-avg_views_by_day = videos.groupby(['channel_name', 'days_after_pub'])['views'].mean().reset_index()
-channels = avg_views_by_day['channel_name'].unique()
-for channel in channels:
-    channel_data = avg_views_by_day[avg_views_by_day['channel_name'] == channel]
-    plt.figure(figsize=(8, 4))
-    plt.plot(channel_data['days_after_pub'], channel_data['views'], marker='o')
-    plt.title(f"View Growth Over Time: {channel}")
-    plt.xlabel("Days After Publication")
-    plt.ylabel("Average Views")
-    plt.grid(True)
+
+# Defining growth phases (time buckets)
+bins = [0, 1, 3, 7, 14, 30, 90, 365]
+labels = ['Day 1', 'Days 2-3', 'Week 1', 'Week 2', 'Month 1', 'Month 3', 'Long-term']
+videos['growth_phase'] = pd.cut(videos['days_after_pub'], bins=bins, labels=labels)
+
+# Calculating weighted averages
+video_scrape_counts = videos['original_video_id'].value_counts().reset_index(name='scrape_count')
+videos = videos.merge(video_scrape_counts, on='original_video_id')
+
+# Grouping by channel and growth phase
+avg_views = videos.groupby(['channel_name', 'growth_phase']).apply(
+    lambda x: np.average(x['views'], weights=1 / x['scrape_count'])
+).reset_index(name='weighted_avg_views')
+
+for channel in avg_views['channel_name'].unique():
+    channel_data = avg_views[avg_views['channel_name'] == channel]
+    plt.figure(figsize=(10, 5))
+    plt.plot(
+        channel_data['growth_phase'],
+        channel_data['weighted_avg_views'],
+        marker='o',
+        linestyle='-',
+        linewidth=2,
+        markersize=8,
+        label=channel
+    )
+    plt.title(f"View Growth Curve: {channel}", fontsize=14)
+    plt.xlabel("Time Since Publication", fontsize=12)
+    plt.ylabel("Weighted Average Views", fontsize=12)
+    plt.xticks(rotation=45)
+    plt.grid(True, alpha=0.3)
     plt.tight_layout()
-    # plt.show()
+    plt.savefig(f"{channel}_growth_curve.png", bbox_inches='tight', dpi=300)
+    plt.show()
 
 conn.close()
+
+
+
+
 

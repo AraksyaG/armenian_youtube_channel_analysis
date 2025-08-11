@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <id>yt:channel:f2o81mWr-bZsLbq2-kOYTQ</id>
+ <yt:channelId>f2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+ <title>Բաց TV</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ"/>
+ <author>
+  <name>Բաց TV</name>
+  <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+ </author>
+ <published>2019-01-17T20:49:25+00:00</published>
+ <entry>
+  <id>yt:video:WPbllSzgWLs</id>
+  <yt:videoId>WPbllSzgWLs</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մարդիկ, փորձեք լսել դիմացինի չասված խոսքերը. Արևիկ Օրբելյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WPbllSzgWLs"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-08-03T17:00:38+00:00</published>
+  <updated>2025-08-03T17:00:38+00:00</updated>
+  <media:group>
+   <media:title>Մարդիկ, փորձեք լսել դիմացինի չասված խոսքերը. Արևիկ Օրբելյան</media:title>
+   <media:content url="https://www.youtube.com/v/WPbllSzgWLs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WPbllSzgWLs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="29"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ysgrXGx_rxM</id>
+  <yt:videoId>ysgrXGx_rxM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Եթե մարդը նիկոլականա, ինքը վա՞տ մարդա․․․ Լուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ysgrXGx_rxM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-08-01T18:14:16+00:00</published>
+  <updated>2025-08-03T14:41:11+00:00</updated>
+  <media:group>
+   <media:title>Եթե մարդը նիկոլականա, ինքը վա՞տ մարդա․․․ Լուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/ysgrXGx_rxM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ysgrXGx_rxM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="331" average="5.00" min="1" max="5"/>
+    <media:statistics views="11473"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mY2JSmyCq2M</id>
+  <yt:videoId>mY2JSmyCq2M</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Եթե մարդը նիկոլականա, ինքը վա՞տ մարդա․․․ Լուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mY2JSmyCq2M"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-08-01T18:07:28+00:00</published>
+  <updated>2025-08-02T07:47:50+00:00</updated>
+  <media:group>
+   <media:title>Եթե մարդը նիկոլականա, ինքը վա՞տ մարդա․․․ Լուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/mY2JSmyCq2M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mY2JSmyCq2M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SmsTRYlW_Bo</id>
+  <yt:videoId>SmsTRYlW_Bo</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Ես վարչապետի քարտեզը վաղուց գիտեմ․ Լուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SmsTRYlW_Bo"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-30T10:02:06+00:00</published>
+  <updated>2025-08-02T01:51:08+00:00</updated>
+  <media:group>
+   <media:title>Ես վարչապետի քարտեզը վաղուց գիտեմ․ Լուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/SmsTRYlW_Bo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SmsTRYlW_Bo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="1665" average="5.00" min="1" max="5"/>
+    <media:statistics views="68450"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:N72wHyCox7g</id>
+  <yt:videoId>N72wHyCox7g</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մի ամաչեք իրարից սեքսից խոսելուց․ Դա շատ կարևոր է․ Լուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=N72wHyCox7g"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-29T04:07:06+00:00</published>
+  <updated>2025-07-30T03:22:09+00:00</updated>
+  <media:group>
+   <media:title>Մի ամաչեք իրարից սեքսից խոսելուց․ Դա շատ կարևոր է․ Լուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/N72wHyCox7g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/N72wHyCox7g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="92" average="5.00" min="1" max="5"/>
+    <media:statistics views="3457"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2uw3eW4nKz8</id>
+  <yt:videoId>2uw3eW4nKz8</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մոգության լեզուն թվերի աշխարհում․ Հեռբերտ Քյոսայան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2uw3eW4nKz8"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-26T12:33:14+00:00</published>
+  <updated>2025-07-28T19:01:24+00:00</updated>
+  <media:group>
+   <media:title>Մոգության լեզուն թվերի աշխարհում․ Հեռբերտ Քյոսայան</media:title>
+   <media:content url="https://www.youtube.com/v/2uw3eW4nKz8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2uw3eW4nKz8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="43" average="5.00" min="1" max="5"/>
+    <media:statistics views="1352"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZHnfNTfLaTA</id>
+  <yt:videoId>ZHnfNTfLaTA</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մի ամաչեք իրարից սեքսից խոսելուց․ Դա շատ կարևոր է․ Լուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZHnfNTfLaTA"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-24T01:23:25+00:00</published>
+  <updated>2025-07-25T12:31:19+00:00</updated>
+  <media:group>
+   <media:title>Մի ամաչեք իրարից սեքսից խոսելուց․ Դա շատ կարևոր է․ Լուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/ZHnfNTfLaTA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZHnfNTfLaTA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="204" average="5.00" min="1" max="5"/>
+    <media:statistics views="7084"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IIPSOBgQ0XQ</id>
+  <yt:videoId>IIPSOBgQ0XQ</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Կցանկանայի, որ տուրիստական ոլորտում անգրագետ մասնագետներ չլինեին. Արման Նազարյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IIPSOBgQ0XQ"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-22T14:00:24+00:00</published>
+  <updated>2025-07-24T16:39:12+00:00</updated>
+  <media:group>
+   <media:title>Կցանկանայի, որ տուրիստական ոլորտում անգրագետ մասնագետներ չլինեին. Արման Նազարյան</media:title>
+   <media:content url="https://www.youtube.com/v/IIPSOBgQ0XQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IIPSOBgQ0XQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="722"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6uIqi_S7XQ4</id>
+  <yt:videoId>6uIqi_S7XQ4</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Յուրաքանչյուր կին արարիչ է․ Լուսինե Հովհաննիսյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6uIqi_S7XQ4"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-21T06:00:12+00:00</published>
+  <updated>2025-07-23T17:48:31+00:00</updated>
+  <media:group>
+   <media:title>Յուրաքանչյուր կին արարիչ է․ Լուսինե Հովհաննիսյան</media:title>
+   <media:content url="https://www.youtube.com/v/6uIqi_S7XQ4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6uIqi_S7XQ4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="497"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZAvuDa_6FxM</id>
+  <yt:videoId>ZAvuDa_6FxM</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Այս ամենը ոչ այլ ինչ է, քան շղարշ, որի հետևում կատարվում է ամենակարևորը․ Արամ Նավասարդյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZAvuDa_6FxM"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-17T08:00:41+00:00</published>
+  <updated>2025-07-21T00:44:42+00:00</updated>
+  <media:group>
+   <media:title>Այս ամենը ոչ այլ ինչ է, քան շղարշ, որի հետևում կատարվում է ամենակարևորը․ Արամ Նավասարդյան</media:title>
+   <media:content url="https://www.youtube.com/v/ZAvuDa_6FxM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZAvuDa_6FxM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="392"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4Mc3fQDzfyI</id>
+  <yt:videoId>4Mc3fQDzfyI</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Հայաստանի էսթետիկ գեղարվեստական մարմնամարզության ֆեդերացիան նվաճում է աշխարհը․ Նատալյա Օքսիմեց</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4Mc3fQDzfyI"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-16T21:02:47+00:00</published>
+  <updated>2025-07-18T12:09:28+00:00</updated>
+  <media:group>
+   <media:title>Հայաստանի էսթետիկ գեղարվեստական մարմնամարզության ֆեդերացիան նվաճում է աշխարհը․ Նատալյա Օքսիմեց</media:title>
+   <media:content url="https://www.youtube.com/v/4Mc3fQDzfyI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4Mc3fQDzfyI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="309"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bloQ58BX-44</id>
+  <yt:videoId>bloQ58BX-44</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Եթե ձեզանից հեռանում են հետևից մի ընկեք․ Լյուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bloQ58BX-44"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-16T20:37:12+00:00</published>
+  <updated>2025-07-19T00:47:19+00:00</updated>
+  <media:group>
+   <media:title>Եթե ձեզանից հեռանում են հետևից մի ընկեք․ Լյուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/bloQ58BX-44?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bloQ58BX-44/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="346" average="5.00" min="1" max="5"/>
+    <media:statistics views="10910"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BL-wLi1Odoc</id>
+  <yt:videoId>BL-wLi1Odoc</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Նիկոլ Փաշինյանի ասուլիսը․ ուղիղ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BL-wLi1Odoc"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-16T14:40:35+00:00</published>
+  <updated>2025-07-18T14:03:44+00:00</updated>
+  <media:group>
+   <media:title>Նիկոլ Փաշինյանի ասուլիսը․ ուղիղ</media:title>
+   <media:content url="https://www.youtube.com/v/BL-wLi1Odoc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BL-wLi1Odoc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ուղիղ եթեր</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="415"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rVp-vHKQi8s</id>
+  <yt:videoId>rVp-vHKQi8s</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Մի ամաչեք իրարից սեքսից խոսելուց․ Դա շատ կարևոր է․ Լուսյա Հակոբյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rVp-vHKQi8s"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-16T13:01:39+00:00</published>
+  <updated>2025-07-19T05:03:37+00:00</updated>
+  <media:group>
+   <media:title>Մի ամաչեք իրարից սեքսից խոսելուց․ Դա շատ կարևոր է․ Լուսյա Հակոբյան</media:title>
+   <media:content url="https://www.youtube.com/v/rVp-vHKQi8s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rVp-vHKQi8s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="459" average="5.00" min="1" max="5"/>
+    <media:statistics views="18607"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-MH4dpldLEA</id>
+  <yt:videoId>-MH4dpldLEA</yt:videoId>
+  <yt:channelId>UCf2o81mWr-bZsLbq2-kOYTQ</yt:channelId>
+  <title>Լուսանկարչությունը այլ կարգի պատասխանատվություն է․ Սոնա Էսկիջյան</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-MH4dpldLEA"/>
+  <author>
+   <name>Բաց TV</name>
+   <uri>https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ</uri>
+  </author>
+  <published>2025-07-16T08:57:16+00:00</published>
+  <updated>2025-07-18T15:20:42+00:00</updated>
+  <media:group>
+   <media:title>Լուսանկարչությունը այլ կարգի պատասխանատվություն է․ Սոնա Էսկիջյան</media:title>
+   <media:content url="https://www.youtube.com/v/-MH4dpldLEA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-MH4dpldLEA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Հետևեք մեզ նաև.
+https://www.bactv.am/
+https://www.facebook.com/BACTVARMENYA/
+https://www.tiktok.com/@bactv.am
+https://www.t.me/bactv2019</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="139"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

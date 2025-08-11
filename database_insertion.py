@@ -22,6 +22,10 @@ def parse_xml_file(file_path):
         channel_name = channel_name_raw.replace('_', ' ')
         file_date = datetime.strptime(file_date_str, "%Y-%m-%d").date()
 
+        if channel_name.strip().lower() == "Grey Zone":
+            print(f"Skipping channel: {channel_name}")
+            return None
+
         ns = {
             'yt': 'http://www.youtube.com/xml/schemas/2015',
             'media': 'http://search.yahoo.com/mrss/',
@@ -93,6 +97,11 @@ def parse_xml_file(file_path):
 
 def upsert_channel(cursor, channel_data):
     try:
+
+        if channel_data['channel_name'].strip().lower() == "grey zone":
+            print(f"Skipping channel: Grey Zone (in upsert)")
+            return None
+
         cursor.execute("""
             INSERT INTO youtube_channels 
             (original_channel_id, channel_name, url, last_scraped)
@@ -153,7 +162,7 @@ def main():
             host="localhost",
             database="youtube_database",
             user="postgres",
-            password="your_password", # add your password here
+            password="2005", # add your password here
             port=5432
         )
 

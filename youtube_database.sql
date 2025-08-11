@@ -8,7 +8,7 @@ CREATE TABLE youtube_channels (
     channel_id SERIAL PRIMARY KEY,
     original_channel_id TEXT unique,
     channel_name TEXT,
-    url TEXT,
+    url TEXT unique,
     last_scraped DATE
 );
 
@@ -28,13 +28,10 @@ CREATE TABLE videos (
 
 
 Select * from videos;
-select * from youtube_channels;
-
-create materialized view channels as
 select * from youtube_channels
-where last_scraped > '2025-04-04';
+where channel_name = 'Grey Zone';
 
-select * from channels;
+
 
 -- Channels with max/min views
 select y.channel_name, min(v.views), max(v.views)
