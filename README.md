@@ -49,6 +49,5 @@ Here’s the updated **Dependencies** section for your `README.md` with the full
 
 ## Conclusion
 
-This project provides valuable insights into how Armenian news content performs on YouTube, highlighting successful strategies and areas for improvement. The repository includes all necessary scripts and documentation to replicate or extend the analysis.
-
 For questions or further details, refer to the full report in `Armenian News YouTube Channel Activity Analysis.pdf`.
+
