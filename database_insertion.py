@@ -162,11 +162,11 @@ def main():
             host="localhost",
             database="youtube_database",
             user="postgres",
-            password="2005", # add your password here
+            password="****", # your password here
             port=5432
         )
 
-        xml_folder = Path("C:/Users/User/Desktop/youtube_channel_analysis/XML_Files")
+        xml_folder = Path("C:/Users/User/Desktop/youtube_channel_analysis/XML_Files") # your path here
         stats = {
             'total_files': 0,
             'channels_processed': 0,

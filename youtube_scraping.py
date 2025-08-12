@@ -52,7 +52,7 @@ for i,j in Armenian_YouTube_Channels.items():
     file_name = i+"_"+str(date[0:10])+"_"+str(timestamp)+".xml"
     URL_Link = j
     response = requests.get(URL_Link, headers=headers)
-    open("C:/Users/User/Desktop/youtube_channel_analysis/XML_Files/" + file_name, 'wb').write(response.content)
+    open("C:/Users/User/Desktop/youtube_channel_analysis/XML_Files/" + file_name, 'wb').write(response.content) #your path here
 
     print("Feed file download complete: ", file_name)
 

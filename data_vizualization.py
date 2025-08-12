@@ -9,7 +9,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="youtube_database",
     user="postgres",
-    password="2005",
+    password="****", # your password
     port=5432
 )
 
